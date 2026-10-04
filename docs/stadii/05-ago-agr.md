@@ -32,80 +32,221 @@
 
 === "🇷🇸 Сербия"
 
-    **Термины** (по-русски — на языке страны)
+    **Термины**
 
-    - (отдельной стадии нет) — *nema posebne faze*
+    | Язык страны (srpski) | Русский |
+    |---|---|
+    | (отдельной стадии нет) | *nema posebne faze* |
 
     **Аналог**
 
-    - В прочитанных Законе и Правилнике (ред. до 80/2026 и 96/2023) отдельной стадии согласования облика нет: требования к форме и габариту задают планы и локационные условия, а проверка проекта — техническая контроль (чл. 80 Правилника) ⏳. Местные процедуры (например, в Белграде) не читались.
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    </div>
+    <div class="ru" markdown>
+
+    В прочитанных Законе и Правилнике (ред. до 80/2026 и 96/2023) отдельной стадии согласования облика нет: требования к форме и габариту задают планы и локационные условия, а проверка проекта — техническая контроль (чл. 80 Правилника) ⏳. Местные процедуры (например, в Белграде) не читались.
+
+    </div>
+    </div>
+
 
     **Источники**
 
-    - [Правилник 96/2023](https://www.paragraf.rs/propisi/pravilnik-o-sadrzini-nacinu-i-postupku-izrade-i-nacinu-vrsenja-kontrole-tehnicke-dokumentacije-prema-klasi-i-nameni-objekata.html)
-    - [Закон о планировании и строительстве](https://www.paragraf.rs/propisi/zakon_o_planiranju_i_izgradnji.html)
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    </div>
+    <div class="ru" markdown>
+
+    [Правилник 96/2023](https://www.paragraf.rs/propisi/pravilnik-o-sadrzini-nacinu-i-postupku-izrade-i-nacinu-vrsenja-kontrole-tehnicke-dokumentacije-prema-klasi-i-nameni-objekata.html)
+
+    </div>
+    </div>
+
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    </div>
+    <div class="ru" markdown>
+
+    [Закон о планировании и строительстве](https://www.paragraf.rs/propisi/zakon_o_planiranju_i_izgradnji.html)
+
+    </div>
+    </div>
+
 
 === "🇪🇺 ЕС (EN 16310)"
 
-    **Термины** (по-русски — на языке страны)
+    **Термины**
 
-    - planning permission — разрешение на планирование
-    - local plan — местный план
-    - *územní řízení* (чешск.) — процедура разрешения на размещение здания
-    - land zone permit — разрешение на землепользование
+    | Язык страны (English) | Русский |
+    |---|---|
+    | planning permission | разрешение на планирование |
+    | local plan | местный план |
+    | *územní řízení* (чешск.) | процедура разрешения на размещение здания |
+    | land zone permit | разрешение на землепользование |
 
     **Аналог**
 
-    - Нет единой стадии. Отчёт ACE отмечает: в большинстве стран Европы местные планы достаточно чётко определяют допустимый габарит и функцию; в Великобритании и Ирландии допустимое определяет только разрешение на планирование (planning permission), и оно выдаётся уже после начала проектирования.
+    <div class="pair" markdown>
+    <div class="orig" markdown>
 
-      > *English · ACE, 2013:* In most of Europe, area codes or local plans give a fairly precise definition of what may be permitted, though in the United Kingdom and Ireland, only the planning permission (rather than a local spatial law) defines what may be permitted, well after the commencement of the design process.
+    *English · ACE, 2013:* In most of Europe, area codes or local plans give a fairly precise definition of what may be permitted, though in the United Kingdom and Ireland, only the planning permission (rather than a local spatial law) defines what may be permitted, well after the commencement of the design process.
+
+    </div>
+    <div class="ru" markdown>
+
+    Нет единой стадии. Отчёт ACE отмечает: в большинстве стран Европы местные планы достаточно чётко определяют допустимый габарит и функцию; в Великобритании и Ирландии допустимое определяет только разрешение на планирование (planning permission), и оно выдаётся уже после начала проектирования.
+
+    </div>
+    </div>
 
 
     **Пример Чехии**
 
-    - **Land Zone Permit Design** — документация для решения о размещении здания (*územní řízení*): определяет пространственное положение здания и его связи со средой, транспортное и инженерное подключение; на ее основе орган выдаёт разрешение на землепользование (land zone permit), иногда совместно с разрешением на строительство.
+    <div class="pair" markdown>
+    <div class="orig" markdown>
 
-      > *English · CKA, 2017:* Land Zone Permit design (the documents for issuance of a decree to locate a building) also defines the concept of the building’s transport connection and infrastructure, and characterises property rights of future development.
+    *English · CKA, 2017:* Land Zone Permit design (the documents for issuance of a decree to locate a building) also defines the concept of the building’s transport connection and infrastructure, and characterises property rights of future development.
+
+    </div>
+    <div class="ru" markdown>
+
+    **Land Zone Permit Design** — документация для решения о размещении здания (*územní řízení*): определяет пространственное положение здания и его связи со средой, транспортное и инженерное подключение; на ее основе орган выдаёт разрешение на землепользование (land zone permit), иногда совместно с разрешением на строительство.
+
+    </div>
+    </div>
 
 
     **Источники**
 
-    - [отчёт ACE 2013](https://oar.archi/wp-content/uploads/2021/03/the_design_and_construction_phases_of_a_construction_project_pdf_1478002177.pdf) (п. 2.13–2.16)
-    - [CKA, Standards of Architects’ Scope of Services (2017)](https://en.cka.cz/++api++/resources/standards-of-architects-scope-of-services.pdf/@@download/file)
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    </div>
+    <div class="ru" markdown>
+
+    [отчёт ACE 2013](https://oar.archi/wp-content/uploads/2021/03/the_design_and_construction_phases_of_a_construction_project_pdf_1478002177.pdf) (п. 2.13–2.16)
+
+    </div>
+    </div>
+
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    </div>
+    <div class="ru" markdown>
+
+    [CKA, Standards of Architects’ Scope of Services (2017)](https://en.cka.cz/++api++/resources/standards-of-architects-scope-of-services.pdf/@@download/file)
+
+    </div>
+    </div>
+
 
 === "🇬🇧 Англия (RIBA 2020)"
 
-    **Термины** (по-русски — на языке страны)
+    **Термины**
 
-    - planning permission — разрешение на планирование
-    - local planning authority (LPA) — местный орган планирования
-    - fire statement — пожарная записка (для заявок по HRB)
-    - higher-risk building (HRB) — здание повышенного риска
-    - Gateway 1 — «ворота» 1 (планирование)
+    | Язык страны (English) | Русский |
+    |---|---|
+    | planning permission | разрешение на планирование |
+    | local planning authority (LPA) | местный орган планирования |
+    | fire statement | пожарная записка (для заявок по HRB) |
+    | higher-risk building (HRB) | здание повышенного риска |
+    | Gateway 1 | «ворота» 1 (планирование) |
 
     **Аналог**
 
-    - Planning permission (разрешение на планирование) — оценка допустимости и облика; заявка подаётся в конце Stage 3, при досрочной подаче нужны «промежуточные ворота» и осознанные риски. ⏳ Нормативная часть (Town and Country Planning Act) не читалась.
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    </div>
+    <div class="ru" markdown>
+
+    Planning permission (разрешение на планирование) — оценка допустимости и облика; заявка подаётся в конце Stage 3, при досрочной подаче нужны «промежуточные ворота» и осознанные риски. ⏳ Нормативная часть (Town and Country Planning Act) не читалась.
+
+    </div>
+    </div>
+
 
     **Planning permission (разрешение на планирование)**
 
-    - решение принимает местный орган планирования (LPA); обычный срок — 8 недель, для крупной застройки — 13 недель с даты получения заявления;
+    <div class="pair" markdown>
+    <div class="orig" markdown>
 
-      > *English · Order 2015, art. 34:* 8 weeks beginning with the day immediately following that on which the application is received
+    *English · Order 2015, art. 34:* 8 weeks beginning with the day immediately following that on which the application is received
 
-    - заявка подаётся, как правило, в конце стадии 3; досрочная подача возможна, но несёт риски (RIBA);
+    </div>
+    <div class="ru" markdown>
 
-      > *English · RIBA Plan of Work 2020:* At the end of Stage 3, once the client has signed off a Stage Report that captures all the design development work undertaken during the stage, a Planning Application can be submitted.
+    решение принимает местный орган планирования (LPA); обычный срок — 8 недель, для крупной застройки — 13 недель с даты получения заявления;
 
-    - для высотных жилых зданий повышенного риска (HRB) — **Gateway 1**: с заявкой на планирование подаётся fire statement; Health and Safety Executive — обязательный консультант (с 1 августа 2021 г.).
+    </div>
+    </div>
 
-      > *English · BSR, The three gateways:* On 1 August 2021, HSE became a statutory consultee for planning applications for high-rise residential buildings, a service known as Planning Gateway One (PGO).
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    *English · RIBA Plan of Work 2020:* At the end of Stage 3, once the client has signed off a Stage Report that captures all the design development work undertaken during the stage, a Planning Application can be submitted.
+
+    </div>
+    <div class="ru" markdown>
+
+    заявка подаётся, как правило, в конце стадии 3; досрочная подача возможна, но несёт риски (RIBA);
+
+    </div>
+    </div>
+
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    *English · BSR, The three gateways:* On 1 August 2021, HSE became a statutory consultee for planning applications for high-rise residential buildings, a service known as Planning Gateway One (PGO).
+
+    </div>
+    <div class="ru" markdown>
+
+    для высотных жилых зданий повышенного риска (HRB) — **Gateway 1**: с заявкой на планирование подаётся fire statement; Health and Safety Executive — обязательный консультант (с 1 августа 2021 г.).
+
+    </div>
+    </div>
 
 
     **Источники**
 
-    - [RIBA Plan of Work 2020](https://www.riba.org/media/syneeeto/2020ribaplanofworkoverviewpdf.pdf), Stage 3
-    - [Town and Country Planning (Development Management Procedure) (England) Order 2015, art. 34](https://www.legislation.gov.uk/uksi/2015/595/article/34)
-    - [BSR: The three gateways (официальная брошюра)](https://buildingsafety.campaign.gov.uk/wp-content/uploads/sites/157/2023/09/23_039-Building-Control-Authority-Booklet-3.pdf)
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    </div>
+    <div class="ru" markdown>
+
+    [RIBA Plan of Work 2020](https://www.riba.org/media/syneeeto/2020ribaplanofworkoverviewpdf.pdf), Stage 3
+
+    </div>
+    </div>
+
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    </div>
+    <div class="ru" markdown>
+
+    [Town and Country Planning (Development Management Procedure) (England) Order 2015, art. 34](https://www.legislation.gov.uk/uksi/2015/595/article/34)
+
+    </div>
+    </div>
+
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    </div>
+    <div class="ru" markdown>
+
+    [BSR: The three gateways (официальная брошюра)](https://buildingsafety.campaign.gov.uk/wp-content/uploads/sites/157/2023/09/23_039-Building-Control-Authority-Booklet-3.pdf)
+
+    </div>
+    </div>
+
 
 [← Эскиз / предварительный проект](04-eskiz.md) · [Проект для разрешения →](06-proekt-razresheniya.md)
