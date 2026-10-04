@@ -12,7 +12,8 @@
 ## Разделы
 
 - [Стадии проектирования и строительства](sravnenie/stadii.md) — сквозная матрица стадий.
-- [Проектирование](sravnenie/proektirovanie.md), [Архитектура](sravnenie/arhitektura.md), [Пожарная безопасность](sravnenie/pozharnaya.md).
+- [Проектирование](sravnenie/proektirovanie.md), [Архитектура](sravnenie/arhitektura.md).
+- [Пожарная безопасность](pozharnaya/index.md) — аналоги СП 1 и СП 4.
 - [Глоссарий](glossary.md) — сербские и английские термины с переводом на русский.
 - [Источники](istochniki.md).
 
