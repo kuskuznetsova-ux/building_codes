@@ -30,6 +30,15 @@
 
 === "🇷🇸 Сербия"
 
+    **Термины** (по-русски — на языке страны)
+
+    - разрешение на строительство — *građevinska dozvola*
+    - заявление — *zahtev*
+    - инвестор — *investitor*
+    - вступившее в силу решение — *pravnosnažno rešenje*
+    - уведомление о начале работ — *prijava radova*
+    - План управления отходами — *Plan upravljanja otpadom od građenja i rušenja*
+
     **Что это**
 
     - **Разрешение на строительство** (*građevinska dozvola*) выдаётся инвестору, который с заявлением подаёт PGD и выписку из проекта; решение о согласии на План управления отходами от строительства и сноса; доказательство права на земельный участок или объект; доказательства оплаты сборов и иные доказательства, предусмотренные правилами объединённой процедуры; заявление инвестора и ответственного проектанта о соответствии мерам защиты окружающей среды (чл. 135 Закона).
@@ -44,11 +53,24 @@
     - к строительству приступают на основании вступившего в силу решения и *prijava radova* (при конечном решении — на риск инвестора) (чл. 138а);
     - разрешение утрачивает силу, если в течение 3 лет со вступления в силу не подана prijava radova, и если в течение 5 лет не выдано разрешение на использование (с исключениями) (чл. 140).
 
+    !!! quote "Оригинал (srpski) · Закон, чл. 8д, п. 2"
+
+        po zahtevu za izdavanje građevinske dozvole, dozvolu izdaje najkasnije u roku od pet radnih dana od dana podnošenja zahteva za izdavanje građevinske dozvole
+
+    !!! quote "Оригинал (srpski) · Закон, чл. 138а"
+
+        Građenju se može pristupiti na osnovu pravnosnažnog rešenja o građevinskoj dozvoli i prijavi radova iz člana 148. ovog zakona.
+
     **Источники**
 
     - [Закон, чл. 8д, 135–140](https://www.paragraf.rs/propisi/zakon_o_planiranju_i_izgradnji.html)
 
 === "🇪🇺 ЕС (EN 16310)"
+
+    **Термины** (по-русски — на языке страны)
+
+    - statutory approval — официальное разрешение на строительство
+    - third party recourse — обжалование третьими лицами
 
     **Что это**
 
@@ -61,6 +83,13 @@
     - [отчёт ACE 2013](https://oar.archi/wp-content/uploads/2021/03/the_design_and_construction_phases_of_a_construction_project_pdf_1478002177.pdf) (F14)
 
 === "🇬🇧 Англия (RIBA 2020)"
+
+    **Термины** (по-русски — на языке страны)
+
+    - planning permission — разрешение на планирование
+    - Building Regulations approval — одобрение по строительным регламентам
+    - pre-commencement Planning Conditions — условия планирования, выполняемые до начала работ
+    - Building Contract — строительный контракт
 
     **Что это**
 

@@ -31,6 +31,14 @@
 
 === "🇷🇸 Сербия"
 
+    **Термины** (по-русски — на языке страны)
+
+    - технический осмотр (приёмка) — *tehnički pregled*
+    - комиссия по техническому осмотру — *komisija za tehnički pregled*
+    - разрешение на использование — *upotrebna dozvola*
+    - пробная эксплуатация — *probni rad*
+    - геодезический элаборат построенного объекта — *elaborat geodetskih radova za izvedeni objekat*
+
     **Что это**
 
     - **Технический осмотр** (*tehnički pregled*) определяет пригодность объекта к использованию: проверка соответствия работ разрешению и технической документации, техническим нормам и стандартам (чл. 154 Закона). Проводится по окончании строительства объекта или части, образующей техническую и технологическую единицу; возможен и параллельно с работами.
@@ -41,12 +49,26 @@
     - **Upotrebna dozvola** выдаётся органом, выдавшим разрешение на строительство, в течение 5 рабочих дней со дня подачи заявления (чл. 158, 8д Закона); на основании вступившего в силу разрешения и prijava radova, возможно на риск инвестора и по конечному решению.
     - К заявлению прилагаются: отчёт комиссии о пригодности; PIO либо PZI с заявлением надзора, подрядчика и инвестора об отсутствии отступлений; спецификация особых частей; решение о номере дома; геодезический элаборат построенного объекта и подземных инсталляций; сертификат энергетических свойств, если нужен; документ о движении строительных отходов; иные доказательства.
 
+    !!! quote "Оригинал (srpski) · Закон, чл. 154"
+
+        Podobnost objekta za upotrebu utvrđuje se tehničkim pregledom.
+
+    !!! quote "Оригинал (srpski) · Закон, чл. 158"
+
+        Organ koji je izdao građevinsku dozvolu izdaje rešenjem upotrebnu dozvolu, u roku od pet radnih dana od dana podnošenja zahteva za izdavanje upotrebne dozvole.
+
     **Источники**
 
     - [Закон, чл. 8д, 154–158](https://www.paragraf.rs/propisi/zakon_o_planiranju_i_izgradnji.html)
     - [Правилник 96/2023, чл. 19](https://www.paragraf.rs/propisi/pravilnik-o-sadrzini-nacinu-i-postupku-izrade-i-nacinu-vrsenja-kontrole-tehnicke-dokumentacije-prema-klasi-i-nameni-objekata.html)
 
 === "🇪🇺 ЕС (EN 16310)"
+
+    **Термины** (по-русски — на языке страны)
+
+    - Commissioning (4.3) — пусконаладка
+    - Regulatory approval (4.5) — разрешительное одобрение по завершении
+    - final inspection — итоговая проверка
 
     **Что это**
 
@@ -62,6 +84,13 @@
 
 === "🇬🇧 Англия (RIBA 2020)"
 
+    **Термины** (по-русски — на языке страны)
+
+    - Practical Completion — практическое завершение (сертификат)
+    - completion certificate — сертификат завершения
+    - Gateway 3 — «ворота» 3 (завершение и заселение)
+    - Building Safety Levy — сбор на безопасность зданий
+
     **Что это**
 
     - Stage 5 завершается выдачей сертификата **Practical Completion**, который позволяет передать здание. Для high-risk зданий — Gateway 3 (сертификат о завершении).
@@ -76,6 +105,14 @@
 
     - одобрение BSR обязательно до регистрации здания и заселения; BSR консультируется с пожарно-спасательной службой;
     - заявку подписывают клиент, principal designer и principal contractor, подтверждая, что здание в построенном виде соответствует всем требованиям; после Gateway 3 здание регистрируется в BSR.
+
+    !!! quote "Оригинал (English) · Building Regulations 2010, reg. 17"
+
+        shall be evidence (but not conclusive evidence)
+
+    !!! quote "Оригинал (English) · BSR, The three gateways"
+
+        Only once Gateway Three has been passed can the new building be registered with BSR.
 
     **Источники**
 

@@ -30,6 +30,16 @@
 
 === "🇷🇸 Сербия"
 
+    **Термины** (по-русски — на языке страны)
+
+    - локационные условия — *lokacijski uslovi*
+    - информация о локации — *informacija o lokaciji*
+    - объединённая процедура — *objedinjena procedura*
+    - держатель публичных полномочий — *imalac javnih ovlašćenja*
+    - кадастровый участок — *katastarska parcela*
+    - строительный участок — *građevinska parcela*
+    - геотехнический элаборат — *geotehnički elaborat*
+
     **Что это**
 
     - **Локационные условия** (*lokacijski uslovi*) содержат все урбанистические, технические и иные условия и данные для разработки IDP, PGD и PZI; выдаются на кадастровый участок, отвечающий условиям строительного участка (чл. 53а Закона). Идейное решение (IDR) — основа для их выдачи (чл. 15 Правилника).
@@ -44,12 +54,29 @@
 
     - геодезические и сейсмологические основы, геотехнический элаборат и иные основы — по виду и классу объекта (чл. 22 Правилника).
 
+    !!! quote "Оригинал (srpski) · Закон, чл. 53а"
+
+        Lokacijski uslovi sadrže sve urbanističke, tehničke i druge uslove i podatke potrebne za izradu idejnog projekta, projekta za građevinsku dozvolu i projekta za izvođenje, u skladu sa ovim zakonom i izdaju se za katastarsku parcelu koja ispunjava uslove za građevinsku parcelu.
+
+    !!! quote "Оригинал (srpski) · Закон, чл. 56"
+
+        Nadležni organ je dužan da u roku od pet radnih dana od dana pribavljanja svih potrebnih uslova i drugih podataka od imaoca javnih ovlašćenja izda lokacijske uslove.
+
     **Источники**
 
     - [Закон, чл. 8–8đ, 53, 53а, 55, 56](https://www.paragraf.rs/propisi/zakon_o_planiranju_i_izgradnji.html)
     - [Правилник 96/2023, чл. 15, 22](https://www.paragraf.rs/propisi/pravilnik-o-sadrzini-nacinu-i-postupku-izrade-i-nacinu-vrsenja-kontrole-tehnicke-dokumentacije-prema-klasi-i-nameni-objekata.html)
 
 === "🇪🇺 ЕС (EN 16310)"
+
+    **Термины** (по-русски — на языке страны)
+
+    - Initiation — инициирование (определение требований и контекста)
+    - brief — задание
+    - budget — бюджет
+    - delivery date — срок поставки (ввода)
+    - land surveyor — землеустроитель
+    - *géomètre* (фр.) — землеустроитель
 
     **Что это**
 
@@ -68,6 +95,17 @@
     - [CKA, Standards of Architects’ Scope of Services (2017)](https://en.cka.cz/++api++/resources/standards-of-architects-scope-of-services.pdf/@@download/file)
 
 === "🇬🇧 Англия (RIBA 2020)"
+
+    **Термины** (по-русски — на языке страны)
+
+    - Preparation and Briefing — подготовка и формирование задания
+    - Project Brief — задание на проект
+    - Project Outcomes — результаты проекта
+    - Feasibility Studies — технико-экономические проработки
+    - Project Execution Plan — план исполнения проекта
+    - Responsibility Matrix — матрица ответственности
+    - Information Requirements — требования к информации
+    - Site Information — информация об участке
 
     **Что это**
 
@@ -89,6 +127,10 @@
     **Кто**
 
     - команда заказчика; проектная команда выбирается к началу стадии 2.
+
+    !!! quote "Оригинал (English) · RIBA Plan of Work 2020, Stage 1"
+
+        Outcome: Project Brief approved by the client, and confirmed that it can be accommodated on the site.
 
     **Источники**
 

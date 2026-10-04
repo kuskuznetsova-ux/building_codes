@@ -49,6 +49,21 @@
 
 === "🇷🇸 Сербия"
 
+    **Термины** (по-русски — на языке страны)
+
+    - проект для разрешения на строительство — *projekat za građevinsku dozvolu (PGD)*
+    - выписка из проекта — *izvod iz projekta*
+    - категории объектов — *kategorije objekata (A, B, V, G)*
+    - elaborat защиты от пожара — *elaborat zaštite od požara*
+    - elaborat энергоэффективности — *elaborat energetske efikasnosti*
+    - геотехнический элаборат — *elaborat o geotehničkim uslovima izgradnje*
+    - основные требования к объекту — *osnovni zahtevi za objekat*
+    - проект архитектуры — *projekat arhitekture*
+    - проект конструкции — *projekat konstrukcije*
+    - проекты инсталляций — *projekti instalacija*
+    - проект сноса — *projekat rušenja objekta*
+    - проект подготовительных работ — *projekat pripremnih radova*
+
     **Что это**
 
     - **Проект для разрешения на строительство (PGD)** — совокупность согласованных проектов: положение и мощность объекта, функциональность по технологическим и иным требованиям, объёмное оформление, выбор конструктивной системы, размеры главных элементов, выбор строительных изделий и требуемые характеристики, инсталляции и оборудование; обеспечивает выполнение локационных условий и основных требований (чл. 17 Правилника; чл. 118а Закона). Содержит заявления главного проектанта, ответственного проектанта и исполнителя технической проверки (чл. 118а Закона).
@@ -85,12 +100,27 @@
 
     - документация изготавливается в электронной форме и подписывается квалифицированной электронной подписью; на сербском языке (чл. 20 Правилника).
 
+    !!! quote "Оригинал (srpski) · Правилник 96/2023, чл. 17"
+
+        Projekat za građevinsku dozvolu je skup međusobno usaglašenih projekata kojim se definišu položaj i kapacitet objekta na lokaciji, funkcionalnost sa stanovišta tehnoloških i drugih zahteva, prostorno oblikovanje, izbor konstrukcijskog sistema, dimenzionisanje glavnih elemenata konstrukcije, izbor građevinskih proizvoda i potrebne performanse u vezi sa njihovim bitnim karakteristikama, instalacija i izbor opreme, čime se obezbeđuje ispunjenost lokacijskih uslova i osnovnih zahteva za objekat i dr.
+
+    !!! quote "Оригинал (srpski) · Правилник 96/2023, чл. 52"
+
+        za objekte kategorije "A": projekat arhitekture sa izjavom odgovornog projektanta da objekat ispunjava osnovni zahtev: mehanička otpornost i stabilnost; za objekte kategorije "B": projekat arhitekture i projekat konstrukcije objekta, kao i tehnički opisi svih instalacija.
+
     **Источники**
 
     - [Правилник 96/2023, чл. 17, 20, 26, 31, 33, 51–60](https://www.paragraf.rs/propisi/pravilnik-o-sadrzini-nacinu-i-postupku-izrade-i-nacinu-vrsenja-kontrole-tehnicke-dokumentacije-prema-klasi-i-nameni-objekata.html)
     - [Закон, чл. 118а, 137](https://www.paragraf.rs/propisi/zakon_o_planiranju_i_izgradnji.html)
 
 === "🇪🇺 ЕС (EN 16310)"
+
+    **Термины** (по-русски — на языке страны)
+
+    - building permit — разрешение на строительство
+    - *permis de construire* (фр.) — разрешение на строительство
+    - Building Permit Developed Design (Чехия) — проект для разрешения на строительство
+    - written analysis — письменный анализ
 
     **Что это**
 
@@ -106,12 +136,27 @@
 
     - этап **Building Permit Developed Design**: достаточное определение здания для проверки органом соответствия разрешению на землепользование, общим техническим требованиям и публичному интересу; обязательные заключения органов (*DOSS*); части A–E по Постановлению № 499/2006 Sb.
 
+    !!! quote "Оригинал (English) · ACE, 2013, F10 (Франция)"
+
+        At the completion of the “Preliminary Design Stage”, an application is made to the local municipality, where the site is located, for «planning permission» or «permis de construire» for the project.
+
     **Источники**
 
     - [отчёт ACE 2013](https://oar.archi/wp-content/uploads/2021/03/the_design_and_construction_phases_of_a_construction_project_pdf_1478002177.pdf) (F3, F10–F12)
     - [CKA, Standards of Architects’ Scope of Services (2017)](https://en.cka.cz/++api++/resources/standards-of-architects-scope-of-services.pdf/@@download/file)
 
 === "🇬🇧 Англия (RIBA 2020)"
+
+    **Термины** (по-русски — на языке страны)
+
+    - Spatial Coordination — пространственная координация
+    - Spatially Coordinated — пространственно согласовано
+    - Design Studies — проектные исследования
+    - Engineering Analysis — инженерный анализ
+    - Cost Exercises — расчёты стоимости
+    - Planning Application — заявка на планирование
+    - Change Control Procedure — процедура контроля изменений
+    - Employer’s Requirements — требования заказчика (при подряде «под ключ»)
 
     **Что это**
 
@@ -132,6 +177,10 @@
     **Градостроительный и пожарный контур**
 
     - для HRB к заявке на планирование прилагается fire statement; HSE даёт заключение по пожарной безопасности в части землепользования (Gateway 1).
+
+    !!! quote "Оригинал (English) · RIBA Plan of Work 2020, Stage 3"
+
+        Outcome: Architectural and engineering information Spatially Coordinated.
 
     **Источники**
 

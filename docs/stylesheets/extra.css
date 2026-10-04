@@ -21,3 +21,9 @@
 .matrix table:not([class]) th:nth-child(1) { width: 2rem; }
 .matrix table:not([class]) th:nth-child(2) { width: 6.2rem; }
 .matrix table:not([class]) th:nth-child(3) { width: 15%; }
+
+/* цитаты из нормативов на языке оригинала — серым */
+.md-typeset .admonition.quote, .md-typeset details.quote { border-color: #9e9e9e; background: rgba(158,158,158,.08); }
+.md-typeset .quote > .admonition-title, .md-typeset .quote > summary { background: rgba(158,158,158,.16); }
+.md-typeset .quote > .admonition-title::before, .md-typeset .quote > summary::before { background-color: #757575; }
+.md-typeset .admonition.quote > p:not(.admonition-title) { color: var(--md-default-fg-color--light); font-size: .74rem; }

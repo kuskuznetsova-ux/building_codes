@@ -25,6 +25,15 @@
 
 === "🇷🇸 Сербия"
 
+    **Термины** (по-русски — на языке страны)
+
+    - техническая проверка — *tehnička kontrola*
+    - исполнитель технической проверки — *vršilac tehničke kontrole*
+    - отчёт о технической проверке — *izveštaj o tehničkoj kontroli*
+    - «Проект принимается» — *„Projekat se prihvata“*
+    - ревизия — *revizija (stručna kontrola)*
+    - проверка формальных условий — *provera ispunjenosti formalnih uslova*
+
     **Что это**
 
     - **Техническая проверка** (*tehnička kontrola*) — проверка проекта для разрешения на строительство (чл. 129 Закона; чл. 79 Правилника); проверке также подлежат проект сноса и проект подготовительных работ с элементами конструкций, а также IDP для реконструкции линейных объектов.
@@ -51,6 +60,14 @@
 
     - орган выдачи разрешения в объединённой процедуре проверяет только формальные условия и не оценивает техническую документацию (чл. 8đ Закона); оценку содержания делает исполнитель технической проверки — лицензированная организация, выбранная инвестором.
 
+    !!! quote "Оригинал (srpski) · Правилник 96/2023, чл. 79"
+
+        Tehničkoj kontroli projekta za građevinsku dozvolu podležu projekti, odnosno delovi projekta za građevinsku dozvolu, projekat rušenja objekta i projekat pripremnih radova, ako se u njemu izvode elementi konstrukcija.
+
+    !!! quote "Оригинал (srpski) · Закон, чл. 8đ"
+
+        Tokom sprovođenja objedinjene procedure, nadležni organ isključivo vrši proveru ispunjenosti formalnih uslova za izgradnju i ne upušta se u ocenu tehničke dokumentacije, niti ispituje verodostojnost dokumenata koje pribavlja u toj proceduri.
+
     **Источники**
 
     - [Правилник 96/2023, чл. 79–86](https://www.paragraf.rs/propisi/pravilnik-o-sadrzini-nacinu-i-postupku-izrade-i-nacinu-vrsenja-kontrole-tehnicke-dokumentacije-prema-klasi-i-nameni-objekata.html)
@@ -58,10 +75,20 @@
 
 === "🇪🇺 ЕС (EN 16310)"
 
+    **Термины** (по-русски — на языке страны)
+
+    - statutory approval — разрешение, выдаваемое местными органами после проверки соответствия
+    - technical controller — технический контролёр
+    - health and safety coordinator — координатор по охране труда
+
     **Что это**
 
     - В EN 16310 *Statutory approval* — официальное разрешение на строительство от местных органов после проверки соответствия проекта требованиям. Отдельной «экспертизы» в EN нет; набор проверок определяется национальным правом.
     - Пример Франции: документы подстадий 2.3–2.4 проверяет технический контролёр (*technical controller*) на соответствие нормам, а координатор по охране труда — на безопасность при строительстве и эксплуатации; их отчёты могут приводить к изменениям проекта.
+
+    !!! quote "Оригинал (English) · EN 16310 (по описанию iTeh)"
+
+        Statutory Approval: “official license to build, to be issued by the local authorities, after determining compliancy of the design with applicable regulatory requirements.”
 
     **Источники**
 
@@ -69,6 +96,18 @@
     - [отчёт ACE 2013](https://oar.archi/wp-content/uploads/2021/03/the_design_and_construction_phases_of_a_construction_project_pdf_1478002177.pdf) (F18)
 
 === "🇬🇧 Англия (RIBA 2020)"
+
+    **Термины** (по-русски — на языке страны)
+
+    - Building Control — строительный контроль
+    - Building Notice — уведомление о строительных работах
+    - Full Plans — заявка с полными планами
+    - Building Regulations — строительные регламенты
+    - Building Safety Regulator (BSR) — регулятор безопасности зданий
+    - Gateway 2 — «ворота» 2 (одобрение до начала работ)
+    - construction control plan — план контроля строительства
+    - building regulations compliance statement — заявление о соответствии регламентам
+    - change control plan — план контроля изменений
 
     **Что это**
 
@@ -85,6 +124,10 @@
     - одобрение BSR обязательно **до начала строительства**; начало работ без одобрения — правонарушение;
     - заявка включает: описание работ; сведения о здании, клиенте, principal contractor и principal designer; ситуационный план и границы; fire and emergency file; construction control plan; building regulations compliance statement; change control plan; при необходимости — стратегию частичного завершения;
     - к заявке назначается многопрофильная группа с зарегистрированным building inspector.
+
+    !!! quote "Оригинал (English) · BSR, The three gateways"
+
+        Developers cannot proceed with construction until BSR has approved the application.
 
     **Источники**
 
