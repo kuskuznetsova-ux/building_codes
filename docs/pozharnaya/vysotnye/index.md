@@ -1,0 +1,50 @@
+---
+hide:
+  - toc
+---
+
+# Высотные здания: пороги и основные требования
+
+!!! warning "Статус: черновик"
+    В России высотным считается здание **выше 75 м**. Таблица сравнивает порог в других странах; ниже — матрица основных требований. Каждая ячейка ведёт на страницу темы: **слева** оригинал (чёрным), **справа** русский перевод (серым). **⏳** — не сверено.
+
+## Пороги высоты
+
+<div class="matrix fire" markdown>
+
+| Страна | Порог «высотного» | Что измеряется | Другие пороги | Источник |
+|---|---|---|---|---|
+| 🇷🇺 Россия | **>75 м** (жильё Ф1.3); СП 477 — для иных классов **>50 м** | Высота по СП 1.13130 | 28 м — граница упрощений для одного выхода (СП 1, п. 6.1.1); 100 и 150 м — ступени огнестойкости (СП 477, табл. 6.1) | [СП 267, п. 3.5](https://meganorm.ru/mega_doc/norm/metodika/0/sp_267_1325800_2016_svod_pravil_zdaniya_i_kompleksy_vysotnye.html); [СП 477, п. 1.1](https://meganorm.ru/mega_doc/norm/pravila/0/sp_477_1325800_2020_svod_pravil_zdaniya_i_kompleksy_vysotnye.html) |
+| 🇷🇸 Сербия | **≥30 м** | Пол верхнего этажа над отметкой, доступной пожарным автолестницам | 40 м — две лестницы; 40–75 м — одна пожарная; 75 м — пожарный лифт; 100 м — тамбур-шлюзы между секторами | [Правилник 80/2015, чл. 2, 33, 62](http://antiplam.rs/wp-content/uploads/2025/12/Pravilnik-o-tehnickim-normativima-za-zastitu-od-pozara-stambenih-i-poslovnih-objekata-i-objekata-javne-namene.pdf) |
+| 🇪🇺 ЕС | **Единого порога нет** | — | Пример: Германия — **>22 м** (Hochhaus, МВО § 2(4)); Франция, Бельгия и др. ⏳ не сверены | [МВО](https://bvpi.de/bvpi/downloads/MBO.pdf?m=1749800306) |
+| 🇬🇧 Англия | **≥18 м или ≥7 этажей** (и ≥2 жилых помещений) — higher-risk building | От земли до верха пола верхнего этажа (рег. 5); этажи считаются по рег. 6 | AD B: 11 м (спринклеры), 18 м (две лестницы, пожарные шахты, фасад A2), 30 м (огнестойкость 120 мин) | [BSA 2022, s. 65](https://www.legislation.gov.uk/ukpga/2022/30/section/65); [SI 2023/275](https://www.legislation.gov.uk/uksi/2023/275/contents/made); [AD B](https://www.gov.uk/government/publications/fire-safety-approved-document-b) |
+
+</div>
+
+## Основные требования
+
+<div class="matrix fire" markdown>
+
+| Аспект | 🇷🇺 Россия | 🇷🇸 Сербия | 🇪🇺 ЕС | 🇬🇧 Англия |
+|---|---|---|---|---|
+| [**Порог «высотного здания» и способ измерения высоты**](porog.md) | [>75 м (жильё Ф1.3); для зданий иного назначения СП 477 действует от >50 м (СП 267, п. 3.5; СП 477, п. 1.1)](porog.md#ru)<br><small>[СП 267, п. 3.5](https://meganorm.ru/mega_doc/norm/metodika/0/sp_267_1325800_2016_svod_pravil_zdaniya_i_kompleksy_vysotnye.html); [СП 477, п. 1.1](https://meganorm.ru/mega_doc/norm/pravila/0/sp_477_1325800_2020_svod_pravil_zdaniya_i_kompleksy_vysotnye.html)</small> | [≥30 м: пол верхнего этажа ≥30 м над отметкой, доступной для пожарных автолестниц (80/2015, чл. 2); отдельные требования при 40, 75 и 100 м](porog.md#rs)<br><small>[Правилник 80/2015, чл. 2](http://antiplam.rs/wp-content/uploads/2025/12/Pravilnik-o-tehnickim-normativima-za-zastitu-od-pozara-stambenih-i-poslovnih-objekata-i-objekata-javne-namene.pdf)</small> | [Единого порога в ЕС нет. Пример — Германия: Hochhaus — более 22 м (МВО § 2(4) Nr. 1); Франция, Бельгия и др. ⏳ не сверено](porog.md#eu)<br><small>[МВО § 2(3)–(4)](https://bvpi.de/bvpi/downloads/MBO.pdf?m=1749800306)</small> | [Higher-risk building: ≥18 м или ≥7 этажей и ≥2 жилых помещений (BSA 2022, s. 65); в AD B пороги 11, 18, 30 м](porog.md#uk)<br><small>[BSA 2022, s. 65](https://www.legislation.gov.uk/ukpga/2022/30/section/65); [SI 2023/275, рег. 5–6](https://www.legislation.gov.uk/uksi/2023/275/contents/made)</small> |
+| [**Эвакуационные лестницы и выходы**](lestnitsy.md) | [≥2 незадымляемые клетки Н2/Н3, одна — Н2 с тамбур-шлюзом с подпором; ширина марша 1,2 м (жильё) (СП 477, пп. 8.4, 8.6)](lestnitsy.md#ru)<br><small>[СП 477, пп. 8.4, 8.6](https://meganorm.ru/mega_doc/norm/pravila/0/sp_477_1325800_2020_svod_pravil_zdaniya_i_kompleksy_vysotnye.html)</small> | [Одна безопасная лестница; >40 м — две; 40–75 м — одна из них пожарная; подпор 50 Па или тамбур ≥5 м² (чл. 33, 36, 36а)](lestnitsy.md#rs)<br><small>[Правилник 80/2015, чл. 33–36а](http://antiplam.rs/wp-content/uploads/2025/12/Pravilnik-o-tehnickim-normativima-za-zastitu-od-pozara-stambenih-i-poslovnih-objekata-i-objekata-javne-namene.pdf)</small> | [⏳ не сверено (у Германии требования к Hochhäuser — в Muster-Hochhaus-Richtlinie, в портал не вошла)](lestnitsy.md#eu) | [Более одной общей лестницы при верхнем этаже ≥18 м; ширина ≥1100 мм (пп. 3.30, 3.63)](lestnitsy.md#uk)<br><small>[AD B Vol 1, пп. 3.30, 3.63](https://www.gov.uk/government/publications/fire-safety-approved-document-b)</small> |
+| [**Длина путей эвакуации в высотных зданиях**](puti.md) | [15 м (жильё в тупике, >75 м), 18 м (тупик), 20 м / 25 м в иных случаях (СП 477, п. 8.10); коридоры делятся на отсеки ≤30 м (жильё) (п. 8.8)](puti.md#ru)<br><small>[СП 477, пп. 8.8, 8.10](https://meganorm.ru/mega_doc/norm/pravila/0/sp_477_1325800_2020_svod_pravil_zdaniya_i_kompleksy_vysotnye.html)</small> | [Через коридор с двумя направлениями эвакуации: ≤30 м (до 75 м) / ≤20 м (>75 м); тупик ≤15 м / ≤10 м (чл. 35)](puti.md#rs)<br><small>[Правилник 80/2015, чл. 35](http://antiplam.rs/wp-content/uploads/2025/12/Pravilnik-o-tehnickim-normativima-za-zastitu-od-pozara-stambenih-i-poslovnih-objekata-i-objekata-javne-namene.pdf)</small> | [⏳ не сверено](puti.md#eu) | [Общие зоны блока квартир: 7,5 м в одном направлении, 30 м в нескольких (табл. 3.1) — без отдельных значений для высоких зданий](puti.md#uk)<br><small>[AD B Vol 1, п. 3.27, табл. 3.1](https://www.gov.uk/government/publications/fire-safety-approved-document-b)</small> |
+| [**Пожарные лифты и доступ пожарных**](lifty.md) | [≥2 лифта для пожарных (в каждой зоне) (СП 477, п. 7.6.1); площадка 5×5 м для спасательной кабины пожарного вертолёта на кровле (п. 9.2)](lifty.md#ru)<br><small>[СП 477, пп. 7.6.1, 9.2](https://meganorm.ru/mega_doc/norm/pravila/0/sp_477_1325800_2020_svod_pravil_zdaniya_i_kompleksy_vysotnye.html)</small> | [>75 м — один из лифтов пожарный (SRPS EN 81-72), в своей шахте и тамбуре EI 90, подпор 50 Па (чл. 62); площадка для автолестниц (чл. 6–8)](lifty.md#rs)<br><small>[Правилник 80/2015, чл. 6–8, 62](http://antiplam.rs/wp-content/uploads/2025/12/Pravilnik-o-tehnickim-normativima-za-zastitu-od-pozara-stambenih-i-poslovnih-objekata-i-objekata-javne-namene.pdf)</small> | [⏳ не сверено](lifty.md#eu) | [Здание с этажом >18 м над доступом пожарных: пожарные шахты с лифтом; ≥2 шахты при этаже ≥900 м² на ≥18 м; REI 120 (пп. 15.2, 15.5, 15.9)](lifty.md#uk)<br><small>[AD B Vol 1, разд. 15](https://www.gov.uk/government/publications/fire-safety-approved-document-b)</small> |
+| [**Огнестойкость и пожарные отсеки**](ognestojkost.md) | [R 150 (до 100 м), R 180 (100–150 м), R 240 (>150 м); перекрытия REI 120; площадь надземного этажа в отсеке ≤2000 м² (жильё) (СП 477, пп. 5.2, 6.1)](ognestojkost.md#ru)<br><small>[СП 477, пп. 5.2, 5.3, табл. 6.1](https://meganorm.ru/mega_doc/norm/pravila/0/sp_477_1325800_2020_svod_pravil_zdaniya_i_kompleksy_vysotnye.html)</small> | [Несущие конструкции 2 ч (RE-M 120); стены секторов REI/EI 90; площадь сектора 1500 → 500 м² с ростом высоты (чл. 9, 13)](ognestojkost.md#rs)<br><small>[Правилник 80/2015, чл. 9, 13](http://antiplam.rs/wp-content/uploads/2025/12/Pravilnik-o-tehnickim-normativima-za-zastitu-od-pozara-stambenih-i-poslovnih-objekata-i-objekata-javne-namene.pdf)</small> | [⏳ не сверено](ognestojkost.md#eu) | [Блок квартир: 90 мин до 30 м, 120 мин выше 30 м (только со спринклерами); выше 18 м без спринклеров не допускается (табл. B2); пожарные шахты REI 120](ognestojkost.md#uk)<br><small>[AD B Vol 1, прил. B, табл. B2](https://www.gov.uk/government/publications/fire-safety-approved-document-b)</small> |
+| [**Фасады и наружные стены**](fasady.md) | [Фасадная система К0, облицовка/утепление негорючие, не «слабогорючие» (СП 477, п. 6.4); наружные ненесущие стены E 60](fasady.md#ru)<br><small>[СП 477, п. 6.4](https://meganorm.ru/mega_doc/norm/pravila/0/sp_477_1325800_2020_svod_pravil_zdaniya_i_kompleksy_vysotnye.html)</small> | [Система A2-s1,d0, утеплитель A1; вертикальный элемент между этажами EI 90, ≥1 м (чл. 17, 22)](fasady.md#rs)<br><small>[Правилник 80/2015, чл. 17, 22](http://antiplam.rs/wp-content/uploads/2025/12/Pravilnik-o-tehnickim-normativima-za-zastitu-od-pozara-stambenih-i-poslovnih-objekata-i-objekata-javne-namene.pdf)</small> | [Пример — Германия: ненесущие наружные стены негорючие или огнезадерживающие (МВО § 28); особенности Hochhäuser ⏳ не сверены](fasady.md#eu)<br><small>[МВО § 28](https://bvpi.de/bvpi/downloads/MBO.pdf?m=1749800306)</small> | [Этаж ≥18 м (жильё, учреждения): все материалы наружной стены A2-s1,d0 или A1 (рег. 7(2); п. 10.14)](fasady.md#uk)<br><small>[AD B Vol 1, п. 10.14](https://www.gov.uk/government/publications/fire-safety-approved-document-b)</small> |
+
+</div>
+
+## Как читать
+
+- Пороги **несопоставимы напрямую**: Россия — высота по СП 1.13130; Сербия — отметка пола верхнего этажа над площадкой пожарных; Англия — до верха пола верхнего этажа и ещё подсчёт этажей; Германия — среднее по рельефу до пола верхнего этажа с жилой комнатой.
+- В Англии «высотные» понятия двух уровней: **higher-risk building** по Building Safety Act (18 м / 7 этажей) — это про процедуру (gateways), а технические пороги пожарной безопасности — в Approved Document B (11, 18, 30 м).
+- Для ЕС в портал пока вошёл только пример Германии. Требования Muster-Hochhaus-Richtlinie, Франции и др. — в списке ниже.
+
+## Что осталось сверить
+
+- [ ] Германия: Muster-Hochhaus-Richtlinie и земельные законы; Франция (IGH, 50 м / 28 м), Бельгия, Нидерланды, Италия, Испания.
+- [ ] Россия: СП 1.13130 (определение высоты), СП 477 — спринклеры, системы дымоудаления, СОУЭ; СТУ для зданий выше 150 м.
+- [ ] Сербия: Правилник 80/2015 — официальная ссылка и действующая редакция (текст читался в копии PDF), спринклеры, дымоудаление.
+- [ ] Англия: Approved Document B Vol 2 (прочие здания), Building Regulations 2010 рег. 7, требования gateways для higher-risk buildings.
