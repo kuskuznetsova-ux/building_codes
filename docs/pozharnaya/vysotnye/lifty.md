@@ -3,7 +3,7 @@
 [← К матрице](index.md) · Пожарные лифты/шахты, подъезд техники, вертолётная площадка.
 
 !!! warning "Статус: черновик"
-    Цитаты взяты программно из текстов документов; перевод — рабочий, неофициальный. **⏳** — не сверено; для ЕС в этой версии есть только пример Германии (МВО — типовой кодекс земель).
+    Цитаты взяты программно из текстов документов; перевод — рабочий, неофициальный. **⏳** — не сверено; для ЕС есть только пример Германии (МВО и Muster-Hochhaus-Richtlinie — типовые акты земель).
 
 === "🇷🇺 Россия"
 
@@ -71,7 +71,48 @@
 
 === "🇪🇺 ЕС"
 
-    ⏳ Не сверено.
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    *de · MHHR, п. 6.1.1.1:* Hochhäuser müssen Feuerwehraufzüge mit Haltestellen in jedem Geschoss haben.
+
+    </div>
+    <div class="ru" markdown>
+
+    Высотные дома должны иметь пожарные лифты с остановкой на каждом этаже.
+
+    </div>
+    </div>
+
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    *de · MHHR, п. 6.1.1.2–6.1.1.3:* Feuerwehraufzüge müssen eigene Fahrschächte haben, in die Feuer und Rauch nicht eindringen können. Jede Stelle eines Geschosses muss von einem Feuerwehraufzug in höchstens 50 m  Entfernung erreichbar sein. Die Entfernung wird in der Lauflinie gemessen.
+
+    </div>
+    <div class="ru" markdown>
+
+    Пожарные лифты — в собственных шахтах, куда не проникают огонь и дым. Любая точка этажа должна быть достижима от пожарного лифта не более чем за 50 м (по линии движения).
+
+    </div>
+    </div>
+
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    *de · MHHR, п. 6.1.3.1:* Vor jeder Fahrschachttür muss ein Vorraum angeordnet sein, in den Feuer und Rauch nicht eindringen können. Der Vorraum muss in unmittelbarer Nähe zu einem notwendigen Treppenraum angeordnet sein.
+
+    </div>
+    <div class="ru" markdown>
+
+    Перед каждой дверью шахты — тамбур, куда не проникают огонь и дым, в непосредственной близости от необходимой лестничной клетки.
+
+    </div>
+    </div>
+
+    **Источники**
+
+    - [МХР, п. 6.1](https://bau.bremen.de/sixcms/media.php/13/MHHR.pdf)
 
 === "🇬🇧 Англия"
 

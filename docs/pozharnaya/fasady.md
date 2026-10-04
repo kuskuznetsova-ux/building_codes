@@ -148,4 +148,4 @@
 
     - [AD B Vol 1, пп. 10.5, 10.14](https://www.gov.uk/government/publications/fire-safety-approved-document-b)
 
-[← Расстояния между зданиями и до границы участка](razryvy.md)
+[← Расстояния между зданиями и до границы участка](razryvy.md) · [Отделка путей эвакуации →](otdelka.md)
