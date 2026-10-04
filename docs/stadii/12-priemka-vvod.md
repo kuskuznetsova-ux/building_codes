@@ -42,20 +42,24 @@
     **Что это**
 
     - **Технический осмотр** (*tehnički pregled*) определяет пригодность объекта к использованию: проверка соответствия работ разрешению и технической документации, техническим нормам и стандартам (чл. 154 Закона). Проводится по окончании строительства объекта или части, образующей техническую и технологическую единицу; возможен и параллельно с работами.
+
+      > *srpski · Закон, чл. 154:* Podobnost objekta za upotrebu utvrđuje se tehničkim pregledom. Tehnički pregled objekta vrši se po završetku izgradnje objekta, odnosno
+
     - Комиссию формирует инвестор; при особых мерах пожарной защиты в комиссию входит инженер по защите от пожара с лицензией (чл. 155). При необходимости комиссия допускает пробную эксплуатацию (чл. 157).
+
+      > *srpski · Закон, чл. 155:* Tehnički pregled objekata vrši komisija, koju formira investitor,
+
 
     **Разрешение на использование**
 
     - **Upotrebna dozvola** выдаётся органом, выдавшим разрешение на строительство, в течение 5 рабочих дней со дня подачи заявления (чл. 158, 8д Закона); на основании вступившего в силу разрешения и prijava radova, возможно на риск инвестора и по конечному решению.
+
+      > *srpski · Закон, чл. 158:* dozvole može se koristiti po prethodno pribavljenoj upotrebnoj dozvoli.
+
     - К заявлению прилагаются: отчёт комиссии о пригодности; PIO либо PZI с заявлением надзора, подрядчика и инвестора об отсутствии отступлений; спецификация особых частей; решение о номере дома; геодезический элаборат построенного объекта и подземных инсталляций; сертификат энергетических свойств, если нужен; документ о движении строительных отходов; иные доказательства.
 
-    !!! quote "Оригинал (srpski) · Закон, чл. 154"
+      > *srpski · Закон, чл. 158:* Uz zahtev za izdavanje upotrebne dozvole prilaže se izveštaj komisije za
 
-        Podobnost objekta za upotrebu utvrđuje se tehničkim pregledom.
-
-    !!! quote "Оригинал (srpski) · Закон, чл. 158"
-
-        Organ koji je izdao građevinsku dozvolu izdaje rešenjem upotrebnu dozvolu, u roku od pet radnih dana od dana podnošenja zahteva za izdavanje upotrebne dozvole.
 
     **Источники**
 
@@ -78,6 +82,9 @@
 
     - строительные органы проводят итоговую проверку и выдают официальное заключение о готовности; в крупных проектах участвуют пожарная и спасательная службы; проверка проводится до заселения для общественных, коммерческих зданий и крупных жилых блоков.
 
+      > *English · ACE, 2013:* Building authorities would then conduct a final inspection and give an official statement that the building is ready.
+
+
     **Источники**
 
     - [отчёт ACE 2013](https://oar.archi/wp-content/uploads/2021/03/the_design_and_construction_phases_of_a_construction_project_pdf_1478002177.pdf) (S43)
@@ -95,24 +102,28 @@
 
     - Stage 5 завершается выдачей сертификата **Practical Completion**, который позволяет передать здание. Для high-risk зданий — Gateway 3 (сертификат о завершении).
 
+      > *English · RIBA Plan of Work 2020:* Stage 5 concludes with the issue of a Practical Completion certificate, which allows a building to be handed over.
+
+
     **Completion certificate (reg. 17)**
 
     - орган выдаёт сертификат завершения в течение 8 недель после уведомления о завершении, если удовлетворён соблюдением требований;
     - сертификат — доказательство соответствия, но не окончательное (evidence, but not conclusive evidence);
+
+      > *English · Building Regulations 2010, reg. 17:* shall be evidence (but not conclusive evidence)
+
     - в Англии сертификат не выдаётся, пока не получено подтверждение по сбору Building Safety Levy.
 
     **HRB: Gateway 3**
 
     - одобрение BSR обязательно до регистрации здания и заселения; BSR консультируется с пожарно-спасательной службой;
+
+      > *English · BSR, The three gateways:* Only once Gateway Three has been passed can the new building be registered with BSR.
+
     - заявку подписывают клиент, principal designer и principal contractor, подтверждая, что здание в построенном виде соответствует всем требованиям; после Gateway 3 здание регистрируется в BSR.
 
-    !!! quote "Оригинал (English) · Building Regulations 2010, reg. 17"
+      > *English · BSR, The three gateways:* The completion certificate application involves the submitted information forming the application - signed by the client, principal designer, and principal contractor - confirming that to the best of their knowledge, the HRB, as built, complies with all applicable requirements of the building regulations.
 
-        shall be evidence (but not conclusive evidence)
-
-    !!! quote "Оригинал (English) · BSR, The three gateways"
-
-        Only once Gateway Three has been passed can the new building be registered with BSR.
 
     **Источники**
 

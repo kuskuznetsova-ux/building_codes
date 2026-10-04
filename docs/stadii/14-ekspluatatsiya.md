@@ -26,15 +26,17 @@
     **Что это**
 
     - Владелец объекта, на который выдано разрешение на использование, обеспечивает инвестиционное и текущее обслуживание объекта, а также регулярные, чрезвычайные и специализированные осмотры в соответствии со специальными нормами (чл. 159 Закона).
+
+      > *srpski · Закон, чл. 159:* Vlasnik objekta za koji je izdata upotrebna dozvola obezbeđuje izvođenje radova na investicionom i tekućem održavanju objekta kao i redovne, vanredne i specijalističke preglede objekta, u skladu sa posebnim propisima.
+
     - PIO используется для эксплуатации и обслуживания (чл. 19 Правилника).
+
+      > *srpski · Правилник 96/2023, чл. 19:* Projekat izvedenog objekta se izrađuje za potrebe pribavljanja upotrebne dozvole, korišćenja i održavanja objekta.
+
 
     **Не сверено**
 
     - конкретные специальные нормы по осмотрам не читались ⏳.
-
-    !!! quote "Оригинал (srpski) · Закон, чл. 159"
-
-        Vlasnik objekta za koji je izdata upotrebna dozvola obezbeđuje izvođenje radova na investicionom i tekućem održavanju objekta kao i redovne, vanredne i specijalističke preglede objekta, u skladu sa posebnim propisima.
 
     **Источники**
 
@@ -73,15 +75,23 @@
 
     - **Stage 7 Use.** Результат: здание используется, эксплуатируется и обслуживается эффективно.
 
+      > *English · RIBA Plan of Work 2020:* Outcome: Building used, operated and maintained efficiently.
+
+
     **Состав**
 
     - оценка после заселения (Post Occupancy Evaluation);
+
+      > *English · RIBA Plan of Work 2020:* Post Occupancy Evaluation services are commissioned to determine how the building is performing in use to help fine tune the building and inform future projects.
+
     - стратегии управления объектом (Facilities Management, Asset Management); обновление Asset Information и Building Manual;
+
+      > *English · RIBA Plan of Work 2020:* Some client teams will continue to be closely involved during the life of a building, implementing Facilities Management or Asset Management strategies over the course of the building’s lifetime.
+
     - по окончании жизненного цикла — снова Stage 0: реконструкция, перепрофилирование или демонтаж.
 
-    !!! quote "Оригинал (English) · RIBA Plan of Work 2020, Stage 7"
+      > *English · RIBA Plan of Work 2020:* At the end of a building’s life, Stage 0 commences again.
 
-        Outcome: Building used, operated and maintained efficiently.
 
     **Источники**
 
