@@ -8,3 +8,10 @@
 .mermaid { font-size: 1.05rem; }
 .mermaid svg { width: 100% !important; max-width: 100% !important; height: auto; }
 .mermaid .nodeLabel, .mermaid .label { font-size: 1.05rem !important; }
+
+/* матрица стадий: мельче шрифт, узкая колонка № */
+.matrix table:not([class]) { font-size: .62rem; }
+.matrix table:not([class]) th, .matrix table:not([class]) td { padding: .45em .55em; }
+.matrix table:not([class]) th:first-child, .matrix table:not([class]) td:first-child { width: 1.6rem; text-align: center; padding-left: .2em; padding-right: .2em; }
+.matrix table:not([class]) th:nth-child(2), .matrix table:not([class]) td:nth-child(2) { width: 6.5rem; }
+.matrix small { font-size: .85em; opacity: .85; }

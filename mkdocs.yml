@@ -22,6 +22,8 @@ extra_css:
 markdown_extensions:
   - tables
   - admonition
+  - md_in_html
+  - attr_list
   - pymdownx.details
   - pymdownx.tabbed:
       alternate_style: true
