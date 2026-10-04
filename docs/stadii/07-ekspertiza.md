@@ -73,11 +73,24 @@
     **Что это**
 
     - Проверка Building Regulations выполняется органом Building Control; на стадии 3 проводится внутренняя проверка проекта, на стадии 4 подаётся заявка Building Regulations Application.
-    - Для высотных жилых зданий с повышенным риском (high-risk buildings: 18 м и выше или 7 этажей и более, не менее двух жилых единиц) действуют «ворота» Building Safety Regulator: Gateway 1 — планирование, Gateway 2 — одобрение Building Control до начала работ (срок рассмотрения 12 недель), Gateway 3 — сертификат о завершении ⏳ по обзорам, официальный источник не сверен.
+    - Для высотных жилых зданий с повышенным риском (high-risk buildings: 18 м и выше или 7 этажей и более, не менее двух жилых единиц) действуют «ворота» Building Safety Regulator: Gateway 1 — планирование, Gateway 2 — одобрение Building Control до начала работ (срок рассмотрения по обзорам — 12 недель, официальный источник не сверен), Gateway 3 — сертификат о завершении.
+
+    **Building Regulations: способы подачи (reg. 12)**
+
+    - **Building Notice** — уведомление;
+    - **Full Plans** — заявка с полными планами; обязательна для зданий, подпадающих под Regulatory Reform (Fire Safety) Order 2005, для зданий, выходящих на частную улицу, и при требованиях H4.
+
+    **HRB: Gateway 2 (BSR — Building Safety Regulator)**
+
+    - одобрение BSR обязательно **до начала строительства**; начало работ без одобрения — правонарушение;
+    - заявка включает: описание работ; сведения о здании, клиенте, principal contractor и principal designer; ситуационный план и границы; fire and emergency file; construction control plan; building regulations compliance statement; change control plan; при необходимости — стратегию частичного завершения;
+    - к заявке назначается многопрофильная группа с зарегистрированным building inspector.
 
     **Источники**
 
     - [RIBA Plan of Work 2020](https://www.riba.org/media/syneeeto/2020ribaplanofworkoverviewpdf.pdf) (Stage 3–4)
-    - [обзор BSA](https://www.thebesa.com/building-safety-act/gateways)
+    - [Building Regulations 2010, reg. 12](https://www.legislation.gov.uk/uksi/2010/2214/regulation/12)
+    - [gov.uk: Building regulations approval](https://www.gov.uk/building-regulations-approval)
+    - [BSR: The three gateways (официальная брошюра)](https://buildingsafety.campaign.gov.uk/wp-content/uploads/sites/157/2023/09/23_039-Building-Control-Authority-Booklet-3.pdf)
 
 [← Проект для разрешения](06-proekt-razresheniya.md) · [Разрешение на строительство →](08-razreshenie.md)

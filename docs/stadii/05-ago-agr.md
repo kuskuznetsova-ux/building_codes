@@ -47,9 +47,14 @@
 
     - Нет единой стадии. Отчёт ACE отмечает: в большинстве стран Европы местные планы достаточно чётко определяют допустимый габарит и функцию; в Великобритании и Ирландии допустимое определяет только разрешение на планирование (planning permission), и оно выдаётся уже после начала проектирования.
 
+    **Пример Чехии**
+
+    - **Land Zone Permit Design** — документация для решения о размещении здания (*územní řízení*): определяет пространственное положение здания и его связи со средой, транспортное и инженерное подключение; на ее основе орган выдаёт разрешение на землепользование (land zone permit), иногда совместно с разрешением на строительство.
+
     **Источники**
 
     - [отчёт ACE 2013](https://oar.archi/wp-content/uploads/2021/03/the_design_and_construction_phases_of_a_construction_project_pdf_1478002177.pdf) (п. 2.13–2.16)
+    - [CKA, Standards of Architects’ Scope of Services (2017)](https://en.cka.cz/++api++/resources/standards-of-architects-scope-of-services.pdf/@@download/file)
 
 === "🇬🇧 Англия (RIBA 2020)"
 
@@ -57,8 +62,16 @@
 
     - Planning permission (разрешение на планирование) — оценка допустимости и облика; заявка подаётся в конце Stage 3, при досрочной подаче нужны «промежуточные ворота» и осознанные риски. ⏳ Нормативная часть (Town and Country Planning Act) не читалась.
 
+    **Planning permission (разрешение на планирование)**
+
+    - решение принимает местный орган планирования (LPA); обычный срок — 8 недель, для крупной застройки — 13 недель с даты получения заявления;
+    - заявка подаётся, как правило, в конце стадии 3; досрочная подача возможна, но несёт риски (RIBA);
+    - для высотных жилых зданий повышенного риска (HRB) — **Gateway 1**: с заявкой на планирование подаётся fire statement; Health and Safety Executive — обязательный консультант (с 1 августа 2021 г.).
+
     **Источники**
 
     - [RIBA Plan of Work 2020](https://www.riba.org/media/syneeeto/2020ribaplanofworkoverviewpdf.pdf), Stage 3
+    - [Town and Country Planning (Development Management Procedure) (England) Order 2015, art. 34](https://www.legislation.gov.uk/uksi/2015/595/article/34)
+    - [BSR: The three gateways (официальная брошюра)](https://buildingsafety.campaign.gov.uk/wp-content/uploads/sites/157/2023/09/23_039-Building-Control-Authority-Booklet-3.pdf)
 
 [← Эскиз / предварительный проект](04-eskiz.md) · [Проект для разрешения →](06-proekt-razresheniya.md)

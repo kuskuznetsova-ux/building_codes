@@ -66,8 +66,15 @@
 
     - Два отдельных процесса: **planning permission** (подаётся в конце Stage 3) и **Building Regulations approval** (заявка подаётся в Stage 4, до начала работ на площадке). Также нужно закрыть предстроительные условия планирования (pre-commencement Planning Conditions).
 
+    **Building Regulations: порядок и сроки**
+
+    - уведомление о начале работ — не менее чем за 2 дня до начала, уведомление о фактическом начале — не позднее 5 дней после начала, уведомление о завершении — в течение 5 дней (reg. 16);
+    - для HRB одобрение BSR (Gateway 2) должно быть получено до начала работ.
+
     **Источники**
 
     - [RIBA Plan of Work 2020](https://www.riba.org/media/syneeeto/2020ribaplanofworkoverviewpdf.pdf), Stage 3–4
+    - [reg. 16](https://www.legislation.gov.uk/uksi/2010/2214/regulation/16)
+    - [BSR: The three gateways (официальная брошюра)](https://buildingsafety.campaign.gov.uk/wp-content/uploads/sites/157/2023/09/23_039-Building-Control-Authority-Booklet-3.pdf)
 
 [← Проверка / экспертиза проекта](07-ekspertiza.md) · [Рабочая документация →](09-rabochaya.md)

@@ -102,9 +102,14 @@
     - письменный анализ проекта: пожарная безопасность, доступность для маломобильных групп, вписывание в городскую или сельскую среду;
     - при необходимости — разрешение на снос и др.
 
+    **Пример Чехии**
+
+    - этап **Building Permit Developed Design**: достаточное определение здания для проверки органом соответствия разрешению на землепользование, общим техническим требованиям и публичному интересу; обязательные заключения органов (*DOSS*); части A–E по Постановлению № 499/2006 Sb.
+
     **Источники**
 
     - [отчёт ACE 2013](https://oar.archi/wp-content/uploads/2021/03/the_design_and_construction_phases_of_a_construction_project_pdf_1478002177.pdf) (F3, F10–F12)
+    - [CKA, Standards of Architects’ Scope of Services (2017)](https://en.cka.cz/++api++/resources/standards-of-architects-scope-of-services.pdf/@@download/file)
 
 === "🇬🇧 Англия (RIBA 2020)"
 
@@ -124,8 +129,13 @@
     - концепция остаётся в основном неизменной; изменения — только через процедуру контроля изменений (Change Control Procedure).
     - На некоторых проектах Employer’s Requirements выпускаются в конце стадии 3 и требуют более подробной графики или спецификаций.
 
+    **Градостроительный и пожарный контур**
+
+    - для HRB к заявке на планирование прилагается fire statement; HSE даёт заключение по пожарной безопасности в части землепользования (Gateway 1).
+
     **Источники**
 
     - [RIBA Plan of Work 2020](https://www.riba.org/media/syneeeto/2020ribaplanofworkoverviewpdf.pdf), Stage 3
+    - [BSR: The three gateways (официальная брошюра)](https://buildingsafety.campaign.gov.uk/wp-content/uploads/sites/157/2023/09/23_039-Building-Control-Authority-Booklet-3.pdf)
 
 [← Согласование архитектурного облика](05-ago-agr.md) · [Проверка / экспертиза проекта →](07-ekspertiza.md)

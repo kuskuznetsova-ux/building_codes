@@ -55,8 +55,13 @@
 
     - В Stage 5 готовятся документы к передаче: Building Manual, **Verified Construction Information** (подтверждённая информация о построенном) и при необходимости Asset Information.
 
+    **HRB: «золотая нить» (Golden Thread)**
+
+    - информация о построенном объекте собирается в течение всего проекта и представляется с заявкой Gateway 3; для одобрения должны быть достаточные доказательства, что построенное соответствует одобренным планам и требованиям строительных норм.
+
     **Источники**
 
     - [RIBA Plan of Work 2020](https://www.riba.org/media/syneeeto/2020ribaplanofworkoverviewpdf.pdf), Stage 5
+    - [BSR: The three gateways (официальная брошюра)](https://buildingsafety.campaign.gov.uk/wp-content/uploads/sites/157/2023/09/23_039-Building-Control-Authority-Booklet-3.pdf)
 
 [← Строительство](10-stroitelstvo.md) · [Приёмка и разрешение на ввод →](12-priemka-vvod.md)

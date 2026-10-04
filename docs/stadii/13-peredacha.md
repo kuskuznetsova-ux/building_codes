@@ -32,10 +32,15 @@
 
     - Подстадия **4.4 Hand over** — передача владения объектом заказчику по завершении, с замечаниями или без (по EN 16310).
 
+    **Пример Чехии**
+
+    - при завершении архитектор участвует в пусконаладке, передаче и приёмке здания, помогает заказчику с замечаниями и рекламациями (Architect’s Supervision).
+
     **Источники**
 
     - [EN 16310 (iTeh)](https://standards.iteh.ai/catalog/standards/cen/7250e686-1a17-446c-bc6a-754708162070/en-16310-2013)
     - [отчёт ACE 2013](https://oar.archi/wp-content/uploads/2021/03/the_design_and_construction_phases_of_a_construction_project_pdf_1478002177.pdf)
+    - [CKA, Standards of Architects’ Scope of Services (2017)](https://en.cka.cz/++api++/resources/standards-of-architects-scope-of-services.pdf/@@download/file)
 
 === "🇬🇧 Англия (RIBA 2020)"
 

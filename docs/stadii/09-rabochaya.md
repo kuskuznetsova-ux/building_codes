@@ -63,9 +63,14 @@
     - оценка стоимости по видам работ и график строительства;
     - чертежи и расчёты по отдельным видам работ (*études d’exécution*) — дополнительная услуга, обычно выполняются подрядчиками.
 
+    **Пример Чехии**
+
+    - этап **Detailed Design** на основе проектной документации для разрешения: подробно определяет требования к качеству (материалы, изготовление), позволяет составить перечень работ и ведомость объёмов (BOQ); база для производственных и монтажных чертежей генподрядчика; этап **List of Works and Deliverables** — перечень работ и поставок для тендера.
+
     **Источники**
 
     - [отчёт ACE 2013](https://oar.archi/wp-content/uploads/2021/03/the_design_and_construction_phases_of_a_construction_project_pdf_1478002177.pdf) (F15–F20)
+    - [CKA, Standards of Architects’ Scope of Services (2017)](https://en.cka.cz/++api++/resources/standards-of-architects-scope-of-services.pdf/@@download/file)
 
 === "🇬🇧 Англия (RIBA 2020)"
 

@@ -64,11 +64,23 @@
 
     **Что это**
 
-    - Stage 5 завершается выдачей сертификата **Practical Completion**, который позволяет передать здание. Для high-risk зданий — Gateway 3 (сертификат о завершении) ⏳ по обзорам.
+    - Stage 5 завершается выдачей сертификата **Practical Completion**, который позволяет передать здание. Для high-risk зданий — Gateway 3 (сертификат о завершении).
+
+    **Completion certificate (reg. 17)**
+
+    - орган выдаёт сертификат завершения в течение 8 недель после уведомления о завершении, если удовлетворён соблюдением требований;
+    - сертификат — доказательство соответствия, но не окончательное (evidence, but not conclusive evidence);
+    - в Англии сертификат не выдаётся, пока не получено подтверждение по сбору Building Safety Levy.
+
+    **HRB: Gateway 3**
+
+    - одобрение BSR обязательно до регистрации здания и заселения; BSR консультируется с пожарно-спасательной службой;
+    - заявку подписывают клиент, principal designer и principal contractor, подтверждая, что здание в построенном виде соответствует всем требованиям; после Gateway 3 здание регистрируется в BSR.
 
     **Источники**
 
     - [RIBA Plan of Work 2020](https://www.riba.org/media/syneeeto/2020ribaplanofworkoverviewpdf.pdf), Stage 5
-    - [обзор BSA](https://www.thebesa.com/building-safety-act/gateways)
+    - [reg. 17](https://www.legislation.gov.uk/uksi/2010/2214/regulation/17)
+    - [BSR: The three gateways (официальная брошюра)](https://buildingsafety.campaign.gov.uk/wp-content/uploads/sites/157/2023/09/23_039-Building-Control-Authority-Booklet-3.pdf)
 
 [← Исполнительная документация](11-ispolnitelnaya.md) · [Передача заказчику →](13-peredacha.md)

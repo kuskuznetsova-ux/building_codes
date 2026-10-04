@@ -37,6 +37,10 @@
 
     - Стадии **5 Usage** (использование) и **6 End of life** (конец жизненного цикла) по перечню стадий в отчёте ACE.
 
+    **Сверка названий**
+
+    - в описании стандарта на iTeh стадия 5 названа **Handover & Operation**, в отчёте ACE — **5 Usage** и **6 End of life**; названия нужно сверить с текстом EN 16310 ⏳.
+
     **Источники**
 
     - [отчёт ACE 2013](https://oar.archi/wp-content/uploads/2021/03/the_design_and_construction_phases_of_a_construction_project_pdf_1478002177.pdf) (п. 1.08)
