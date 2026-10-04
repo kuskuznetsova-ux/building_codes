@@ -40,7 +40,10 @@ nav:
       - Стадии проектирования и строительства: sravnenie/stadii.md
       - Проектирование: sravnenie/proektirovanie.md
       - Архитектура: sravnenie/arhitektura.md
-      - Пожарная безопасность: sravnenie/pozharnaya.md
+  - Пожарная безопасность:
+      - Обзор и аналоги СП: pozharnaya/index.md
+      - Эвакуация (СП 1): pozharnaya/sp1-evakuaciya.md
+      - Распространение пожара (СП 4): pozharnaya/sp4-ogranichenie-rasprostraneniya.md
   - Нормативы по странам:
       - normy/index.md
   - Глоссарий: glossary.md
