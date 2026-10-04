@@ -3,7 +3,7 @@
 [← К матрице](index.md) · Пределы огнестойкости конструкций и предельные площади отсеков.
 
 !!! warning "Статус: черновик"
-    Цитаты взяты программно из текстов документов; перевод — рабочий, неофициальный. **⏳** — не сверено; для ЕС в этой версии есть только пример Германии (МВО — типовой кодекс земель).
+    Цитаты взяты программно из текстов документов; перевод — рабочий, неофициальный. **⏳** — не сверено; для ЕС есть только пример Германии (МВО и Muster-Hochhaus-Richtlinie — типовые акты земель).
 
 === "🇷🇺 Россия"
 
@@ -104,7 +104,22 @@
 
 === "🇪🇺 ЕС"
 
-    ⏳ Не сверено.
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    *de · MHHR, п. 3.1.1–3.1.2:* 3.1.1 Tragende und aussteifende Bauteile müssen feuerbeständig sein und aus nichtbrennbaren Baustoffen bestehen. 3.1.2 Die Feuerwiderstandsfähigkeit tragender und aussteifender Bauteile von Gebäuden mit mehr als 60 m Höhe muss 120 Minuten betragen.
+
+    </div>
+    <div class="ru" markdown>
+
+    Несущие и раскрепляющие элементы должны быть огнестойкими (feuerbeständig) и из негорючих материалов. Для зданий высотой более 60 м огнестойкость несущих и раскрепляющих элементов — 120 минут.
+
+    </div>
+    </div>
+
+    **Источники**
+
+    - [МХР, п. 3.1](https://bau.bremen.de/sixcms/media.php/13/MHHR.pdf)
 
 === "🇬🇧 Англия"
 

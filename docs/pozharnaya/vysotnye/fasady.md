@@ -3,7 +3,7 @@
 [← К матрице](index.md) · Горючесть фасадных систем и меры против распространения огня по фасаду.
 
 !!! warning "Статус: черновик"
-    Цитаты взяты программно из текстов документов; перевод — рабочий, неофициальный. **⏳** — не сверено; для ЕС в этой версии есть только пример Германии (МВО — типовой кодекс земель).
+    Цитаты взяты программно из текстов документов; перевод — рабочий, неофициальный. **⏳** — не сверено; для ЕС есть только пример Германии (МВО и Muster-Hochhaus-Richtlinie — типовые акты земель).
 
 === "🇷🇺 Россия"
 
@@ -75,19 +75,19 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *de · MBO § 28 Abs. 2:* Nichttragende Außenwände und nichttragende Teile tragender Außenwände müssen aus nichtbrennbaren Baustoffen bestehen; sie sind aus brennbaren Baustoffen zulässig, wenn sie als raumabschließende Bauteile feuerhemmend sind.
+    *de · MHHR, п. 3.4:* Nichttragende Außenwände und nichttragende Teile tragender Außenwände müssen in allen ihren Teilen aus nichtbrennbaren Baustoffen bestehen. Dies gilt nicht für 1. Fensterprofile, 2. Dämmstoffe in nichtbrennbaren geschlossenen Profilen, 3. Dichtstoffe zur Abdichtung der Fugen zwischen Verglasungen und Traggerippen, 4. Kleinteile ohne tragende Funktion, die nicht zur Brandausbreitung beitragen.
 
     </div>
     <div class="ru" markdown>
 
-    Ненесущие наружные стены — из негорючих материалов; из горючих допускаются, если как ограждающие элементы они огнезадерживающие. ⏳ Особые требования к Hochhäuser в МВО (напр., § 28 Abs. 3 и подзаконные акты) в портал не вошли.
+    Ненесущие наружные стены и ненесущие части несущих стен — во всех частях из негорючих материалов. Исключения: профили окон, утеплитель в негорючих закрытых профилях, герметики швов остекления, мелкие неконструктивные детали, не способствующие распространению огня. (Далее в п. 3.4: то же относится к облицовке наружных стен, облицовке балконов и ограждениям.)
 
     </div>
     </div>
 
     **Источники**
 
-    - [МВО § 28](https://bvpi.de/bvpi/downloads/MBO.pdf?m=1749800306)
+    - [МХР, п. 3.4](https://bau.bremen.de/sixcms/media.php/13/MHHR.pdf)
 
 === "🇬🇧 Англия"
 
@@ -108,4 +108,4 @@
 
     - [AD B Vol 1, п. 10.14](https://www.gov.uk/government/publications/fire-safety-approved-document-b)
 
-[← Огнестойкость и пожарные отсеки](ognestojkost.md)
+[← Огнестойкость и пожарные отсеки](ognestojkost.md) · [Автоматическое пожаротушение и водопровод →](sprinklery.md)
