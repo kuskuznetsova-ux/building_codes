@@ -1,9 +1,9 @@
-# 10. Детские дошкольные учреждения
+# 10. Детские дошкольные учреждения и школы
 
-[← К матрице](index.md) · Пути эвакуации, этажность и двери в зданиях для детей.
+[← К матрице](index.md) · Пути эвакуации, этажность и двери в зданиях для детей. Для ЕС и Англии — ближайшие аналоги: детские сады и школы.
 
 !!! warning "Статус: черновик"
-    Первый срез — многоквартирные жилые дома (плюс автостоянки). Цитаты взяты программно из текстов документов; перевод — рабочий, неофициальный. **⏳** — не сверено. Тексты ФЗ-123 взяты с неофициального зеркала, английский текст CPR — с legislation.gov.uk (сохранённая копия акта).
+    Первый срез — многоквартирные жилые дома (плюс автостоянки). Цитаты взяты программно из текстов документов; перевод — рабочий, неофициальный. **⏳** — не сверено. Тексты ФЗ-123 и СП 486 сверены по двум независимым копиям; английский текст CPR — с legislation.gov.uk (сохранённая копия акта).
 
 === "🇷🇺 Россия"
 
@@ -77,10 +77,69 @@
 
 === "🇪🇺 ЕС"
 
-    ⏳ Не сверено.
+    Единых норм ЕС нет. Пример — Германия (типовые акты земель). Детские сады и школы относятся к «особым зданиям» (Sonderbauten); для детских садов отдельной федеральной типовой нормы не найдено ⏳, ниже — Muster-Schulbau-Richtlinie (МШулбауР, редакция апреля 2009 в версии земли Гессен) как ближайший аналог для детских учреждений.
+
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    *de · MBO § 2 Abs. 4 Nr. 12–13:* Tageseinrichtungen für Kinder, Menschen mit Behinderung und alte Menschen, ausgenommen Tageseinrichtungen1 einschließlich Tagespflege für nicht mehr als zehn Kinder, 13. Schulen, Hochschulen und ähnliche Einrichtungen,
+
+    </div>
+    <div class="ru" markdown>
+
+    К особым зданиям отнесены детские дневные учреждения, учреждения для людей с инвалидностью и пожилых (кроме дневных групп не более чем на десять детей), а также школы, вузы и подобные учреждения.
+
+    </div>
+    </div>
+
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    *en · MSchulbauR, п. 3.1 и 3.3:* Für jeden Unterrichtsraum müssen in demselben Geschoss mindestens zwei voneinander unabhängige Rettungswege zu Ausgängen ins Freie oder zu notwendigen Treppenräumen i vorhanden sein . Anstelle eines dieser Rettungswege darf ein Rettungsweg über Außentreppen ohne Treppenräume, Rettungsbalkone, Terrassen und begehbare Dächer auf das Grundstück führen, wenn dieser Rettungsweg im Brandfall nicht gefährdet ist; dieser Rettungsweg gilt als Ausgang ins Freie. Notwendige Flure mit nur einer Fluchtrichtung (Stichflure) dürfen nicht länger als 10 m sein.
+
+    </div>
+    <div class="ru" markdown>
+
+    Для каждого учебного помещения на том же этаже — минимум два независимых пути эвакуации наружу или в необходимые лестничные клетки; вместо одного из них допускается путь по наружной лестнице без клетки, спасательному балкону, террасе или эксплуатируемой кровле, если он не угрожаем при пожаре. Необходимые коридоры с одним направлением эвакуации (тупики) — не длиннее 10 м.
+
+    </div>
+    </div>
+
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    *en · MSchulbauR, п. 3.4:* Die nutzbare Breite der Ausgänge von Unterrichtsräumen und sonstigen Aufenthaltsräumen sowie der notwendigen Flure und notwendigen Treppen muss mindestens 1,20 m je 200 darauf angewiesener Benutzer betragen. Staffelungen sind nur in Schritten von 0,60 m zulässig. Es muss jedoch mindestens folgende nutzbare Breite vorhanden sein bei a) Ausgängen von Unterrichtsräumen und sonstigen Aufenthaltsräumen 0,90 m b) notwendigen Fluren 1,50 m c) notwendigen Treppen 1,20 m.
+
+    </div>
+    <div class="ru" markdown>
+
+    Полезная ширина выходов из учебных помещений, необходимых коридоров и лестниц — не менее 1,20 м на каждые 200 пользователей (ступени по 0,60 м), но не менее: выходы из помещений 0,90 м; необходимые коридоры 1,50 м; необходимые лестницы 1,20 м.
+
+    </div>
+    </div>
+
+    **Источники**
+
+    - [МВО § 2(4)](https://bvpi.de/bvpi/downloads/MBO.pdf?m=1749800306)
+    - [МШулбауР](https://wirtschaft.hessen.de/sites/wirtschaft.hessen.de/files/2022-01/Muster-Schulbau-Richtlinie%20(MSchulbauR).pdf)
 
 === "🇬🇧 Англия"
 
-    ⏳ Не сверено: требуются AD B Vol 2, разделы о школах и учреждениях (Purpose group 5).
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    *en · Approved Document B Vol 2, п. 0.14:* The design of fire safety in schools is covered by Building Bulletin 100, which should be used. Building Bulletin 100 contains fire safety provisions that are outside the scope of the Building Regulations.
+
+    </div>
+    <div class="ru" markdown>
+
+    Противопожарная безопасность школ регулируется Building Bulletin 100, который следует использовать; он содержит положения, выходящие за рамки Building Regulations. ⏳ Текст BB 100 не читался; «школа» в AD B — место обучения детей 2–19 лет, включая nursery schools (детские сады), начальные и средние школы.
+
+    </div>
+    </div>
+
+    **Источники**
+
+    - [AD B Vol 2, п. 0.14](https://www.gov.uk/government/publications/fire-safety-approved-document-b)
 
 [← Автоматическое пожаротушение (спринклеры) в жилых домах](sprinklery.md) · [Автостоянки и гаражи →](avtostoyanki.md)
