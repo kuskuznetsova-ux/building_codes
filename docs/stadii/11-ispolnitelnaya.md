@@ -29,25 +29,40 @@
 
     - **Проект построенного объекта (PIO)** — совокупность проектов с показом всех деталей построенного объекта, нужных для определения пригодности к использованию; разрабатывается для получения разрешения на использование, эксплуатации и обслуживания; нужен для всех объектов с разрешением на строительство (чл. 19 Правилника, чл. 124 Закона). Это PZI с изменениями, возникшими при строительстве.
 
+      > *srpski · Правилник 96/2023, чл. 19:* Projekat izvedenog objekta predstavlja skup međusobno usaglašenih projekata sa prikazom svih detalja izgrađenog objekta neophodnih za utvrđivanje njegove podobnosti za upotrebu. Projekat izvedenog objekta se može izrađivati za delove objekta koji prema mišljenju komisije za tehnički pregled, ili u skladu sa tehničkom dokumentacijom, predstavljaju tehničko-tehnološku celinu i mogu se kao takvi samostalno koristiti, a za koje se utvrđuje podobnost za upotrebu, u skladu sa pravilnikom kojim se uređuje tehnički pregled objekata i za koje se izdaje posebna …
+      >
+      > *srpski · Закон, чл. 124:* Projekat izvedenog objekta je projekat za izvođenje sa izmenama nastalim u toku građenja objekta.
+
+
     **Состав (чл. 71–78)**
 
     - если отступлений от PZI не было — к главной книге IO прилагается PZI с констатацией соответствия; инвестор, надзор и подрядчик подтверждают на PZI, что построенное равно запроектированному (чл. 71; чл. 124 Закона);
+
+      > *srpski · Правилник 96/2023, чл. 71:* U slučaju da prilikom građenja objekta, odnosno izvođenja radova, nije došlo do odstupanja od projekta za izvođenje, uz glavnu svesku IO dostavlja se PZI i u glavnoj svesci izvedenog objekta se konstatuje da je projekat izrađen u skladu sa lokacijskim uslovima, građevinskom dozvolom, projektom za građevinsku dozvolu, Zakonom i propisima i pravilima struke. …
+
     - если отступления есть, но не противоречат локационным условиям и разрешению и не требуют изменения разрешения (чл. 142 ст. 2 Закона) — PIO для изменившихся частей, подробное описание изменений и перечень листов (чл. 71–72);
+
+      > *srpski · Правилник 96/2023, чл. 72:* U slučaju da je prilikom građenja objekta, odnosno izvođenja radova, došlo do odstupanja od projekta za izvođenje, koja nisu u suprotnosti sa lokacijskim uslovima i građevinskom dozvolom, odnosno ne predstavljaju izmene u smislu člana 142. stav 2. Zakona koje iziskuju izmenu građevinske dozvole, izrađuju se projekti izvedenog objekta, sa izmenama ili dopunama do kojih je došlo tokom gradnje.
+
     - общая, текстовая и числовая документация — по тем же правилам, с описанием изменений (чл. 73–75); графика по чл. 31 (чл. 76);
+
+      > *srpski · Правилник 96/2023, чл. 73:* Opštu dokumentaciju projekta izvedenog objekta pored opšte dokumentacije koju čini sadržaj iz člana 28. ovog pravilnika, kao i iz Priloga 9. ovog pravilnika, čini i rešenje o imenovanju odgovornog projektanta predmetnog dela projekta, iz Priloga 8. ovog pravilnika, kao i izjava odgovornog projektanta predmetnog dela projekta, iz Priloga 4. ovog pravilnika, kojom se potvrđuje da izmene u projektu nisu u suprotnosti sa lokacijskim uslovima i građevinskom dozvolom, odnosno da ne predstavljaju izmene u smislu člana 142. stav 2. …
+
     - с PIO прилагаются Программа контроля качества и проект наблюдения (чл. 77);
+
+      > *srpski · Правилник 96/2023, чл. 77:* Uz projekat izvedenog objekta obavezno se dostavljaju elaborati iz člana 68. i 69. ovog pravilnika.
+
     - для категории «A» без PZI вместо PIO допускается геодезическая съёмка построенного объекта (чл. 78).
+
+      > *srpski · Правилник 96/2023, чл. 78:* Za objekte kategorije "A", za koje izrada projekta za izvođenje nije obavezna, umesto projekta izvedenog objekta može se priložiti i geodetski snimak izvedenog objekta na parceli, na overenoj katastarsko-topografskoj podlozi.
+
 
     **Контроль**
 
     - PIO технической проверке не подлежит, кроме случаев легализации объекта (чл. 124 Закона).
 
-    !!! quote "Оригинал (srpski) · Правилник 96/2023, чл. 19"
+      > *srpski · Закон, чл. 124:* Projekat izvedenog objekta ne podleže tehničkoj kontroli, osim kada se izrađuje za potrebe ozakonjenja objekata.
 
-        Projekat izvedenog objekta predstavlja skup međusobno usaglašenih projekata sa prikazom svih detalja izgrađenog objekta neophodnih za utvrđivanje njegove podobnosti za upotrebu.
-
-    !!! quote "Оригинал (srpski) · Закон, чл. 124"
-
-        Projekat izvedenog objekta je projekat za izvođenje sa izmenama nastalim u toku građenja objekta.
 
     **Источники**
 
@@ -81,9 +96,15 @@
 
     - В Stage 5 готовятся документы к передаче: Building Manual, **Verified Construction Information** (подтверждённая информация о построенном) и при необходимости Asset Information.
 
+      > *English · RIBA Plan of Work 2020:* Preparations for handover will include compilation of the Building Manual and the completion of Verified Construction Information, and maybe the delivery of Asset Information.
+
+
     **HRB: «золотая нить» (Golden Thread)**
 
     - информация о построенном объекте собирается в течение всего проекта и представляется с заявкой Gateway 3; для одобрения должны быть достаточные доказательства, что построенное соответствует одобренным планам и требованиям строительных норм.
+
+      > *English · BSR, The three gateways:* For the completion certificate to be approved, there must be sufficient evidence to support that what was built reflects the approved plans, and the requirements of the building regulations have been met.
+
 
     **Источники**
 

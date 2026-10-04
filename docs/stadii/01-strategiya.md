@@ -41,30 +41,46 @@
     **Что это**
 
     - **Предварительные работы** (чл. 112 Закона): исследования, анализы и проекты; данные по инженерно-геологическим, геотехническим, геодезическим, гидрологическим, метеорологическим, урбанистическим, техническим, технологическим, экономическим, энергетическим, сейсмическим, водохозяйственным и транспортным условиям; условия защиты от пожара и среды.
+
+      > *srpski · Закон, чл. 112:* Prethodni radovi, u zavisnosti od klase i karakteristika objekta, obuhvataju: istraživanja i izradu analiza i projekata i drugih stručnih materijala; pribavljanje podataka kojima se analiziraju i razrađuju inženjerskogeološki, geotehnički, geodetski, hidrološki, meteorološki, urbanistički, tehnički, tehnološki, ekonomski, energetski, seizmički, vodoprivredni i saobraćajni uslovi; uslove zaštite od požara i zaštite životne sredine, kao i druge uslove od uticaja na gradnju i korišćenje određenog objekta.
+
     - **Предварительная студия оправданности** (*prethodna studija opravdanosti*) — оценка пространственной, экологической, социальной, финансовой, рыночной и экономической обоснованности инвестиции для вариантных решений, определённых генеральным проектом; содержит GNP (чл. 113 Закона).
+
+      > *srpski · Закон, чл. 113:* Prethodnom studijom opravdanosti utvrđuje se naročito prostorna, ekološka, društvena, finansijska, tržišna i ekonomska opravdanost investicije za varijantna rešenja definisana generalnim projektom, na osnovu kojih se donosi planski dokument, kao i odluka o opravdanosti ulaganja u prethodne radove za idejni projekat i izradu studije opravdanosti.
+
     - **Студия оправданности** (*studija opravdanosti*) — то же для выбранного решения, разработанного идейным проектом; для проектов с участием публичных средств (чл. 114 Закона).
+
+      > *srpski · Закон, чл. 114:* Studijom opravdanosti određuje se naročito prostorna, ekološka, društvena,
+
 
     **Генеральный проект (GNP)**
 
     - цель: оценить ресурсные и пространственные возможности и ограничения, принять генеральную концепцию, макролокацию и пространственную диспозицию, определить основные функциональные, технологические и технические характеристики, этапность, условия эксплуатации, отношение к среде, основу экономического анализа (чл. 14 Правилника);
+
+      > *srpski · Правилник 96/2023, чл. 14:* Generalni projekat ima za cilj sagledavanje resursnih i prostornih mogućnosti i ograničenja izgradnje objekata, sa zadatkom da se kroz postupke vrednovanja usvoji generalna koncepcija, makrolokacija i prostorna dispozicija objekta, utvrde osnovne funkcionalne, tehnološke i tehničke karakteristike objekta, etapnost gradnje, uslovi eksploatacije, odnos prema prostoru i životnoj sredini, kao i osnove za ekonomsku analizu.
+
     - содержит макролокацию, общую диспозицию, технико-технологическую концепцию, обеспечение инфраструктурой, возможные варианты пространственных и технических решений, природные условия, оценку влияния на среду и др. (чл. 117 Закона, чл. 34 Правилника);
+
+      > *srpski · Закон, чл. 117:* Generalni projekat sadrži naročito podatke o: makrolokaciji objekta; opštoj dispoziciji objekta; tehničko-tehnološkoj koncepciji objekta; načinu obezbeđenja infrastrukture; mogućim varijantama prostornih i tehničkih rešenja sa stanovišta uklapanja u prostor; prirodnim uslovima; proceni uticaja na životnu sredinu; inženjerskogeološkim-geotehničkim karakteristikama terena sa aspekta utvrđivanja generalne koncepcije i opravdanosti izgradnje objekta; istražnim radovima za izradu idejnog projekta; zaštiti prirodnih i nepokretnih kulturnih dobara; …
+
     - при нескольких вариантах выбирается оптимальный по природным, техническим, технологическим, экономическим, функциональным и экологическим условиям.
+
+      > *srpski · Правилник 96/2023, чл. 14:* U slučaju da je u toku izrade generalnog projekta analizirano više varijantnih rešenja, vrši se izbor optimalne varijante na osnovu prirodnih, tehničkih, tehnoloških, ekonomskih, funkcionalnih, ekoloških i drugih uslova.
+
 
     **Документы и контроль**
 
     - GNP подлежит ревизии (профессиональной проверке) комиссией, если объект относится к чл. 133 Закона (чл. 131 Закона).
 
+      > *srpski · Закон, чл. 131:* Generalni projekat i idejni projekat, prethodna studija opravdanosti i studija opravdanosti za objekte iz člana 133. ovog zakona podležu reviziji (stručnoj kontroli) komisije koju obrazuje ministar nadležan za poslove građevinarstva (u daljem tekstu: reviziona komisija).
+
+
     **Детализация**
 
     - графика GNP для линейных объектов — масштаб 1:25000–1:10000 или другой удобный (чл. 34 Правилника).
 
-    !!! quote "Оригинал (srpski) · Правилник 96/2023, чл. 14"
+      > *srpski · Правилник 96/2023, чл. 34:* Grafička dokumentacija generalnog projekta za linijske infrastrukturne objekte sadrži grafičke priloge, u razmeri 1:25000-1:10000, odnosno u drugoj prigodnoj razmeri koja omogućava pregledan prikaz, u zavisnosti od klase i namene objekta.
 
-        Generalni projekat ima za cilj sagledavanje resursnih i prostornih mogućnosti i ograničenja izgradnje objekata, sa zadatkom da se kroz postupke vrednovanja usvoji generalna koncepcija, makrolokacija i prostorna dispozicija objekta, utvrde osnovne funkcionalne, tehnološke i tehničke karakteristike objekta, etapnost gradnje, uslovi eksploatacije, odnos prema prostoru i životnoj sredini, kao i osnove za ekonomsku analizu.
-
-    !!! quote "Оригинал (srpski) · Закон, чл. 113"
-
-        Prethodnom studijom opravdanosti utvrđuje se naročito prostorna, ekološka, društvena, finansijska, tržišna i ekonomska opravdanost investicije za varijantna rešenja definisana generalnim projektom, na osnovu kojih se donosi planski dokument, kao i odluka o opravdanosti ulaganja u prethodne radove za idejni projekat i izradu studije opravdanosti.
 
     **Источники**
 
@@ -84,13 +100,12 @@
 
     - Стадия **0 Initiative** — возникает потребность в объекте (по описанию EN 16310). В отчёте ACE отмечено, что совет архитектора в этой стадии часто интересен клиенту или девелоперу (п. 2.01), а в чешской справке технико-экономическое обоснование «не входит в официальные стандарты» и заказывается крупными девелоперами или на проблемных участках.
 
+      > *English · ACE, 2013:* The Glossary (CEN/TC 395) divides the building project into six stages (each of which also includes sub stages).
+
+
     **Состав и документы**
 
     - ⏳ не сверено: состав подстадий Annex A (Table A.1) не прочитан.
-
-    !!! quote "Оригинал (English) · ACE, 2013, п. 1.08"
-
-        The Glossary (CEN/TC 395) divides the building project into six stages (each of which also includes sub stages).
 
     **Источники**
 
@@ -114,25 +129,45 @@
 
     - **Stage 0 Strategic Definition.** Результат: подтверждено, что лучший способ удовлетворить Client Requirements; здание — необязательно единственное решение.
 
+      > *English · RIBA Plan of Work 2020:* Outcome: The best means of achieving the Client Requirements confirmed.
+
+
     **Состав работ**
 
     - сформулировать Client Requirements и Business Case;
+
+      > *English · RIBA Plan of Work 2020:* It focuses on making the right strategic decisions and capturing them in a Business Case.
+
     - оценить варианты, Project Risks и Project Budget;
+
+      > *English · RIBA Plan of Work 2020:* The Project Risks consider any circumstances which would affect the delivery of the Client Requirements for each option, taking into account that, beyond this stage, substantive costs could be incurred.
+
     - при необходимости — обследования участка и градостроительная оценка;
+
+      > *English · RIBA Plan of Work 2020:* The stage involves considering the pros and cons, Project Risks and Project Budget for a range of options and, where necessary, carrying out Site Surveys and corresponding planning appraisals …
+
     - изучить обратную связь по прошлым проектам;
+
+      > *English · RIBA Plan of Work 2020:* Increasingly, Stage 0 is about gleaning Feedback from previous similar projects and gathering insight from Project Stakeholders, making sure that lessons are learned.
+
     - определить высокоуровневые пространственные требования (Spatial Requirements) — они влияют на оценочную стоимость.
+
+      > *English · RIBA Plan of Work 2020:* The high-level Spatial Requirements relevant to any option may need to be determined as these can significantly influence the estimated construction cost, rents or other costs.
+
 
     **Документы**
 
     - Business Case и ратифицированный вариант; Project Strategies по темам (стоимость, пожарная безопасность и др.).
 
+      > *English · RIBA Plan of Work 2020:* Project Strategies are a crucial component of any project.
+
+
     **Кто**
 
     - только команда заказчика и его консультанты; проектная команда обычно не нанимается до стадии 2.
 
-    !!! quote "Оригинал (English) · RIBA Plan of Work 2020, Stage 0"
+      > *English · RIBA Plan of Work 2020:* Only the client team is involved at this stage.
 
-        Outcome: The best means of achieving the Client Requirements confirmed.
 
     **Источники**
 

@@ -37,24 +37,31 @@
     **Начало работ**
 
     - инвестор подаёт **prijava radova** органу, выдавшему разрешение, до начала работ; с ней: доказательство уплаты взносов на обустройство земли, сбор, полис страхования ответственности перед третьими лицами и др.; подтверждение — немедленно, а при обеспечительных средствах — в течение 5 рабочих дней (чл. 148, 8д Закона);
+
+      > *srpski · Закон, чл. 148:* Investitor podnosi prijavu radova organu koji je izdao građevinsku dozvolu pre početka izvođenja radova.
+
     - до начала инвестор обеспечивает разбивку участка и линий и табличку на стройплощадке (объект, инвестор, проектант, номер разрешения, подрядчик, сроки) (чл. 149).
+
+      > *srpski · Закон, чл. 149:* Pre početka građenja investitor obezbeđuje: obeležavanje građevinske parcele, regulacionih, nivelacionih i građevinskih linija, u skladu sa propisima kojima je uređeno izvođenje geodetskih radova; obeležavanje gradilišta odgovarajućom tablom, koja sadrži: podatke o objektu koji se gradi, investitoru, odgovornom projektantu, broj građevinske dozvole, izvođaču radova, početku građenja i roku završetka izgradnje.
+
 
     **Участники**
 
     - подрядчик (*izvođač radova*) — лицензированный, перед началом подписывает PZI и назначает ответственного производителя работ на площадке (чл. 150–152);
+
+      > *srpski · Закон, чл. 152:* Izvođač radova je dužan da:
+
     - **стручный надзор** — обеспечивает инвестор: контроль соответствия разрешению и документации, качества работ, нормативов, испытаний и количеств, документов на изделия; сотрудничество с проектантом (чл. 153).
+
+      > *srpski · Закон, чл. 153:* Investitor obezbeđuje stručni nadzor u toku građenja objekta, odnosno izvođenja radova za koje je izdata građevinska dozvola. Stručni nadzor obuhvata: kontrolu da li se građenje vrši prema građevinskoj
+
 
     **Этапные уведомления**
 
     - *prijava završetka izgradnje temelja* и *prijava završetka izgradnje objekta u konstruktivnom smislu* принимаются немедленно при наличии документации (чл. 8д, п. 3а–3б).
 
-    !!! quote "Оригинал (srpski) · Закон, чл. 148"
+      > *srpski · Закон, чл. 8d:* 3a) po prijavi završetka izgradnje temelja, potvrđuje njen prijem
 
-        Investitor podnosi prijavu radova organu koji je izdao građevinsku dozvolu pre početka izvođenja radova.
-
-    !!! quote "Оригинал (srpski) · Закон, чл. 153"
-
-        Investitor obezbeđuje stručni nadzor u toku građenja objekta, odnosno izvođenja radova za koje je izdata građevinska dozvola.
 
     **Источники**
 
@@ -78,11 +85,20 @@
     **Состав (пример Франции)**
 
     - тендерная документация: чертежи и спецификации, условия контракта, график, план охраны труда, критерии оценки; анализ предложений и рекомендация по выбору подрядчика;
+
+      > *English · ACE, 2013:* The architect will assemble the tender documentation including plans and specifications, produced in sub stages 2.3/2.4 and updated if necessary.
+
     - после заключения контракта — приказ о начале работ (*ordre de service*) с ценой и сроками; уведомление муниципальных органов о начале работ; обычно 30 дней на подготовку подрядчика.
+
+      > *English · ACE, 2013:* In due course, the contract is agreed and orders can be placed.
+
 
     **Пример Чехии**
 
     - этап **Architect’s Supervision**: проверка соблюдения проекта подрядчиком, согласование отступлений, участие в проверках органов и в приёмке; архитектор вправе просматривать журнал работ.
+
+      > *English · CKA, 2017:* In this performance stage, the compiler of project documents checks the contractor’s abidance to the current project documents and possible approval of deviations and alterations.
+
 
     **Источники**
 
@@ -104,19 +120,27 @@
 
     - **Stage 5 Manufacturing and Construction.** Результат: изготовление, строительство и пусконаладка (Commissioning) завершены.
 
+      > *English · RIBA Plan of Work 2020:* Outcome: Manufacturing, construction and Commissioning completed.
+
+
     **Состав работ**
 
     - изготовление и строительство Building Systems по графику из Building Contract;
+
+      > *English · RIBA Plan of Work 2020:* Stage 5 comprises the manufacturing and construction of the Building Systems in accordance with the Construction Programme agreed in the Building Contract.
+
     - ответы на запросы с площадки (Site Queries), отчёты о качестве, инспекции и контроль хода работ, список дефектов перед Practical Completion;
+
+      > *English · RIBA Plan of Work 2020:* It should be clear from the outset who is responsible for responding to Site Queries, for regularly reporting on Construction Quality, for inspecting the works and monitoring progress, and for producing the Defects List prior to Practical Completion being certified.
+
     - проектных работ на стадии 5 нет, кроме ответов на Site Queries.
+
+      > *English · RIBA Plan of Work 2020:* With the exception of resolving Site Queries, there is no design activity at Stage 5.
+
 
     **Уведомления (reg. 16)**
 
     - до начала работ — уведомление и ожидание не менее 2 дней; не позднее 5 дней после начала — уведомление о фактическом начале; в течение 5 дней после завершения — уведомление о завершении с заявлением клиента о соответствии и заявлениями подрядчиков и проектировщиков о выполнении обязанностей; для зданий под Fire Safety Order — уведомление не менее чем за 5 дней до частичного заселения.
-
-    !!! quote "Оригинал (English) · RIBA Plan of Work 2020, Stage 5"
-
-        Outcome: Manufacturing, construction and Commissioning completed.
 
     **Источники**
 

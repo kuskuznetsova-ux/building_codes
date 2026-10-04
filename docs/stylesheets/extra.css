@@ -27,3 +27,7 @@
 .md-typeset .quote > .admonition-title, .md-typeset .quote > summary { background: rgba(158,158,158,.16); }
 .md-typeset .quote > .admonition-title::before, .md-typeset .quote > summary::before { background-color: #757575; }
 .md-typeset .admonition.quote > p:not(.admonition-title) { color: var(--md-default-fg-color--light); font-size: .74rem; }
+
+/* оригинал нормы после каждого абзаца — серый мелкий */
+.md-typeset li > blockquote { color: var(--md-default-fg-color--light); font-size: .72rem; border-left: 3px solid #b0b0b0; margin: .25em 0 .7em; padding: .1em .8em; background: rgba(158,158,158,.07); }
+.md-typeset li > blockquote em { color: var(--md-default-fg-color--lighter); font-style: normal; font-weight: 600; }

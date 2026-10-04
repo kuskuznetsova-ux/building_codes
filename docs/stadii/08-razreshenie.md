@@ -43,23 +43,30 @@
 
     - **Разрешение на строительство** (*građevinska dozvola*) выдаётся инвестору, который с заявлением подаёт PGD и выписку из проекта; решение о согласии на План управления отходами от строительства и сноса; доказательство права на земельный участок или объект; доказательства оплаты сборов и иные доказательства, предусмотренные правилами объединённой процедуры; заявление инвестора и ответственного проектанта о соответствии мерам защиты окружающей среды (чл. 135 Закона).
 
+      > *srpski · Закон, чл. 135:* Građevinska dozvola se izdaje investitoru koji uz zahtev za izdavanje građevinske
+
+
     **Сроки**
 
     - 5 рабочих дней со дня подачи заявления (чл. 8д Закона).
 
+      > *srpski · Закон, чл. 8d:* 2) po zahtevu za izdavanje građevinske dozvole, dozvolu izdaje najkasnije u roku od pet radnih dana od dana podnošenja zahteva za izdavanje građevinske dozvole;
+
+
     **Действие**
 
     - разрешение выдаётся на весь объект или на часть, представляющую техническую и функциональную единицу (чл. 137); подготовительные работы могут выполняться по этому разрешению, а для объектов по чл. 133 и объектов более 800 м² БРГП — и по особому;
+
+      > *srpski · Закон, чл. 137:* Građevinska dozvola izdaje se za ceo objekat, odnosno za deo objekta, ako taj deo predstavlja tehničku i funkcionalnu celinu, odnosno za više katastarskih parcela ili delova katastarskih parcela za izgradnju linijskih infrastrukturnih objekata.
+
     - к строительству приступают на основании вступившего в силу решения и *prijava radova* (при конечном решении — на риск инвестора) (чл. 138а);
+
+      > *srpski · Закон, чл. 138a:* Građenju se može pristupiti na osnovu pravnosnažnog rešenja o građevinskoj dozvoli i prijavi radova iz člana 148. ovog zakona. Investitor može pristupiti građenju i na osnovu konačnog rešenja o građevinskoj dozvoli i prijavi radova iz člana 148. ovog zakona, na sopstveni rizik i odgovornost.
+
     - разрешение утрачивает силу, если в течение 3 лет со вступления в силу не подана prijava radova, и если в течение 5 лет не выдано разрешение на использование (с исключениями) (чл. 140).
 
-    !!! quote "Оригинал (srpski) · Закон, чл. 8д, п. 2"
+      > *srpski · Закон, чл. 140:* Građevinska dozvola prestaje da važi ako se ne izvrši prijava radova
 
-        po zahtevu za izdavanje građevinske dozvole, dozvolu izdaje najkasnije u roku od pet radnih dana od dana podnošenja zahteva za izdavanje građevinske dozvole
-
-    !!! quote "Оригинал (srpski) · Закон, чл. 138а"
-
-        Građenju se može pristupiti na osnovu pravnosnažnog rešenja o građevinskoj dozvoli i prijavi radova iz člana 148. ovog zakona.
 
     **Источники**
 
@@ -75,7 +82,13 @@
     **Что это**
 
     - *Statutory approval* по EN 16310 — официальное разрешение на строительство, выдаётся местными органами после проверки соответствия проекта требованиям.
+
+      > *English · EN 16310 (по описанию iTeh):* Statutory Approval: “official license to build, to be issued by the local authorities, after determining compliancy of the design with applicable regulatory requirements.”
+
     - Пример Франции: разрешение обычно выдаётся в течение примерно трёх месяцев, после чего ещё два месяца для обжалования третьими лицами; поэтому развитый проект (Developed Design) часто начинают после выдачи разрешения.
+
+      > *English · ACE, 2013:* Unless the scheme is located in a conservation area, the building permit or “planning permission” will normally take three months to obtain.
+
 
     **Источники**
 
@@ -95,10 +108,19 @@
 
     - Два отдельных процесса: **planning permission** (подаётся в конце Stage 3) и **Building Regulations approval** (заявка подаётся в Stage 4, до начала работ на площадке). Также нужно закрыть предстроительные условия планирования (pre-commencement Planning Conditions).
 
+      > *English · RIBA Plan of Work 2020:* A Building Regulations Application should be made during Stage 4, before work commences on site.
+
+
     **Building Regulations: порядок и сроки**
 
     - уведомление о начале работ — не менее чем за 2 дня до начала, уведомление о фактическом начале — не позднее 5 дней после начала, уведомление о завершении — в течение 5 дней (reg. 16);
+
+      > *English · Building Regulations 2010, reg. 16:* Not more than five days after the day on which work is to be regarded as commenced
+
     - для HRB одобрение BSR (Gateway 2) должно быть получено до начала работ.
+
+      > *English · BSR, The three gateways:* Developers cannot proceed with construction until BSR has approved the application.
+
 
     **Источники**
 

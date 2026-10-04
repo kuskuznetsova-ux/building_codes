@@ -58,13 +58,15 @@
 
     - Нет единой стадии. Отчёт ACE отмечает: в большинстве стран Европы местные планы достаточно чётко определяют допустимый габарит и функцию; в Великобритании и Ирландии допустимое определяет только разрешение на планирование (planning permission), и оно выдаётся уже после начала проектирования.
 
+      > *English · ACE, 2013:* In most of Europe, area codes or local plans give a fairly precise definition of what may be permitted, though in the United Kingdom and Ireland, only the planning permission (rather than a local spatial law) defines what may be permitted, well after the commencement of the design process.
+
+
     **Пример Чехии**
 
     - **Land Zone Permit Design** — документация для решения о размещении здания (*územní řízení*): определяет пространственное положение здания и его связи со средой, транспортное и инженерное подключение; на ее основе орган выдаёт разрешение на землепользование (land zone permit), иногда совместно с разрешением на строительство.
 
-    !!! quote "Оригинал (English) · CKA, 2017 (Чехия)"
+      > *English · CKA, 2017:* Land Zone Permit design (the documents for issuance of a decree to locate a building) also defines the concept of the building’s transport connection and infrastructure, and characterises property rights of future development.
 
-        Land Zone Permit Design is based on approved Concept Design and provides sufficient information on a specific location of the building in the given area, its compliance with Concept Design, and provides information on the assurance of public interests in the area.
 
     **Источники**
 
@@ -88,12 +90,17 @@
     **Planning permission (разрешение на планирование)**
 
     - решение принимает местный орган планирования (LPA); обычный срок — 8 недель, для крупной застройки — 13 недель с даты получения заявления;
+
+      > *English · Order 2015, art. 34:* 8 weeks beginning with the day immediately following that on which the application is received
+
     - заявка подаётся, как правило, в конце стадии 3; досрочная подача возможна, но несёт риски (RIBA);
+
+      > *English · RIBA Plan of Work 2020:* At the end of Stage 3, once the client has signed off a Stage Report that captures all the design development work undertaken during the stage, a Planning Application can be submitted.
+
     - для высотных жилых зданий повышенного риска (HRB) — **Gateway 1**: с заявкой на планирование подаётся fire statement; Health and Safety Executive — обязательный консультант (с 1 августа 2021 г.).
 
-    !!! quote "Оригинал (English) · Order 2015, art. 34"
+      > *English · BSR, The three gateways:* On 1 August 2021, HSE became a statutory consultee for planning applications for high-rise residential buildings, a service known as Planning Gateway One (PGO).
 
-        8 weeks beginning with the day immediately following that on which the application is received
 
     **Источники**
 

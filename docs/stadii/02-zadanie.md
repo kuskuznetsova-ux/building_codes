@@ -43,24 +43,31 @@
     **Что это**
 
     - **Локационные условия** (*lokacijski uslovi*) содержат все урбанистические, технические и иные условия и данные для разработки IDP, PGD и PZI; выдаются на кадастровый участок, отвечающий условиям строительного участка (чл. 53а Закона). Идейное решение (IDR) — основа для их выдачи (чл. 15 Правилника).
+
+      > *srpski · Закон, чл. 53a:* Lokacijski uslovi sadrže sve urbanističke, tehničke i druge uslove
+
     - **Информация о локации** (*informacija o lokaciji*) — сведения о возможностях и ограничениях строительства по плану; выдаётся в течение 8 дней (чл. 53 Закона).
+
+      > *srpski · Закон, чл. 53:* Informacija o lokaciji sadrži podatke o mogućnostima i ograničenjima gradnje na katastarskoj parceli, odnosno na više katastarskih parcela, na osnovu planskog dokumenta.
+
 
     **Порядок и сроки**
 
     - орган обязан выдать локационные условия в течение 5 рабочих дней после получения всех условий и данных от держателей публичных полномочий (чл. 56, 8д Закона);
+
+      > *srpski · Закон, чл. 56:* Nadležni organ je dužan da u roku od pet radnih dana od dana pribavljanja svih potrebnih uslova i drugih podataka od imaoca javnih ovlašćenja izda lokacijske uslove.
+
     - всю процедуру от локационных условий до разрешения на использование ведёт единая «объединённая процедура» в электронной форме (чл. 8, 8а Закона); орган проверяет только формальные условия и не оценивает техническую документацию (чл. 8đ).
+
+      > *srpski · Закон, чл. 8đ:* Tokom sprovođenja objedinjene procedure, nadležni organ isključivo vrši
+
 
     **Исходные данные для проекта**
 
     - геодезические и сейсмологические основы, геотехнический элаборат и иные основы — по виду и классу объекта (чл. 22 Правилника).
 
-    !!! quote "Оригинал (srpski) · Закон, чл. 53а"
+      > *srpski · Правилник 96/2023, чл. 22:* Tehnička dokumentacija se izrađuje na osnovu geotehničkog elaborata, geodetskih, seizmoloških i ostalih podloga, odnosno elaborata, u zavisnosti od vrste i klase objekta, posebnosti lokacije na kojoj se planira građenje objekta i od vrste tehničke dokumentacije u skladu sa ovim pravilnikom.
 
-        Lokacijski uslovi sadrže sve urbanističke, tehničke i druge uslove i podatke potrebne za izradu idejnog projekta, projekta za građevinsku dozvolu i projekta za izvođenje, u skladu sa ovim zakonom i izdaju se za katastarsku parcelu koja ispunjava uslove za građevinsku parcelu.
-
-    !!! quote "Оригинал (srpski) · Закон, чл. 56"
-
-        Nadležni organ je dužan da u roku od pet radnih dana od dana pribavljanja svih potrebnih uslova i drugih podataka od imaoca javnih ovlašćenja izda lokacijske uslove.
 
     **Источники**
 
@@ -83,10 +90,19 @@
     - Стадия **1 Initiation** — определяется контекст и требования; включает технико-экономические обоснования и определение проекта (по описанию EN 16310).
     - Пример Франции: проектирование начинается с обзора задания: бюджет, срок поставки, целевые стандарты (например, по энергоэффективности), определение нужных специалистов; съёмки участка выполняет *géomètre* (землеустроитель).
 
+      > *English · ACE, 2013:* The design phase will start with a review of the design brief, including a statement by the client of the budget available, the desired delivery date for the building and target standards to be applied, for instance for energy efficiency.
+
+
     **Пример Чехии (профессиональный стандарт)**
 
     - этап **Project Initiation**: уточнение замысла заказчика, программа и задание на проектирование (инвестиционный план), анализ участка, оценка экономических и экологических параметров, перечень необходимых изысканий и исследований, ожидаемый состав проектных работ;
+
+      > *English · CKA, 2017:* The result of the Project Initiation should be a detailed program including specified building requirements.
+
     - по желанию заказчика — маркетинговый план, технико-экономическое обоснование, финансово-экономический анализ.
+
+      > *English · CKA, 2017 (Чехия):* additional services: Provide marketing plan; Provide feasibility study; Provide financial and economic analysis (of the building and its further operation)
+
 
     **Источники**
 
@@ -111,26 +127,49 @@
 
     - **Stage 1 Preparation and Briefing.** Результат: Project Brief утверждён заказчиком и подтверждено, что он размещается на участке.
 
+      > *English · RIBA Plan of Work 2020:* Outcome: Project Brief approved by the client, and confirmed that it can be accommodated on the site.
+
+
     **Состав работ**
 
     - подготовить Project Brief: результаты проекта (Project Outcomes), цели по устойчивости, ожидания по качеству, пространственные требования (Spatial Requirements);
+
+      > *English · RIBA Plan of Work 2020:* The Project Brief will contain guidance on the Project Outcomes, Sustainability Outcomes and Quality Aspirations.
+
     - технико-экономические проработки (Feasibility Studies);
+
+      > *English · RIBA Plan of Work 2020:* Feasibility Studies might be required in order to tease out the full range of briefing considerations and to demonstrate that the Spatial Requirements can be accommodated on the site.
+
     - согласовать бюджет проекта и сопоставить с площадями;
+
+      > *English · RIBA Plan of Work 2020:* Spatial Requirements do need to be tested against the Project Budget.
+
     - собрать информацию об участке и съёмки (Site Surveys);
+
+      > *English · RIBA Plan of Work 2020:* A comprehensive set of Site Information needs to be sourced, including Site Surveys, ready for Stage 2 to commence.
+
     - подготовить программу проекта и план исполнения (Project Execution Plan);
+
+      > *English · RIBA Plan of Work 2020:* A Project Execution Plan should be prepared, and a Digital Execution Plan will allow the design team to set out how they will produce the information.
+
     - определить Information Requirements и матрицу ответственности (Responsibility Matrix).
+
+      > *English · RIBA Plan of Work 2020:* A Responsibility Matrix also needs to be prepared so that it is clear what tasks will underpin the production of information and who will undertake them.
+
 
     **Важно**
 
     - Feasibility Studies — часть формирования задания, а не проектирования; дизайн начинается на стадии 2.
 
+      > *English · RIBA Plan of Work 2020:* Feasibility Studies are not part of the design process.
+
+
     **Кто**
 
     - команда заказчика; проектная команда выбирается к началу стадии 2.
 
-    !!! quote "Оригинал (English) · RIBA Plan of Work 2020, Stage 1"
+      > *English · RIBA Plan of Work 2020:* Stage 1 involves only the client team.
 
-        Outcome: Project Brief approved by the client, and confirmed that it can be accommodated on the site.
 
     **Источники**
 

@@ -37,36 +37,61 @@
     **Что это**
 
     - **Техническая проверка** (*tehnička kontrola*) — проверка проекта для разрешения на строительство (чл. 129 Закона; чл. 79 Правилника); проверке также подлежат проект сноса и проект подготовительных работ с элементами конструкций, а также IDP для реконструкции линейных объектов.
+
+      > *srpski · Правилник 96/2023, чл. 79:* Tehničkoj kontroli projekta za građevinsku dozvolu podležu projekti, odnosno delovi projekta za građevinsku dozvolu, projekat rušenja objekta i projekat pripremnih radova, ako se u njemu izvode elementi konstrukcija.
+
     - Elaborati и studije проверке не подлежат; проверяется, применены ли предусмотренные ими меры. Технические описания инсталляций объектов категории B не проверяются отдельно (чл. 79).
+
+      > *srpski · Правилник 96/2023, чл. 79:* Elaborati i studije kojima se predviđaju načini za ispunjenje određenih osnovnih zahteva za objekat ne podležu tehničkoj kontroli.
+
 
     **Что проверяется (чл. 80)**
 
     - соответствие локационным условиям и условиям держателей публичных полномочий;
+
+      > *srpski · Правилник 96/2023, чл. 80:* 1) da li je projekat izrađen u skladu sa lokacijskim uslovima, odnosno uslovima imalaca javnih ovlašćenja;
+
     - соответствие законам, техническим нормам, стандартам;
+
+      > *srpski · Правилник 96/2023, чл. 80:* 2) da li je projekat usklađen sa zakonima i drugim propisima i da li je izrađen u svemu prema tehničkim propisima, standardima i normativima koji se odnose na projektovanje i građenje te vrste i klase objekta;
+
     - полнота частей и взаимная согласованность;
+
+      > *srpski · Правилник 96/2023, чл. 80:* 3) da li projekat ima sve neophodne delove utvrđene odredbama ovog pravilnika i da su svi delovi tehničke dokumentacije međusobno usklađeni;
+
     - правильность применения результатов предварительных и изыскательских работ;
+
+      > *srpski · Правилник 96/2023, чл. 80:* 4) da li su u projektu ispravno primenjeni rezultati svih prethodnih i istražnih radova izvršenih za potrebe izrade projekta za građevinsku dozvolu, kao i da li su u projektu sadržane sve opšte i posebne tehničke, tehnološke i druge podloge i podaci;
+
     - обеспечение основных требований к объекту, в том числе применение мер из elaborati и studije.
+
+      > *srpski · Правилник 96/2023, чл. 80:* 5) da li je projektom obezbeđena ispunjenost osnovnih zahteva za predmetni objekat, odnosno da li su u projektima primenjeni načini za ispunjenje odgovarajućih osnovnih zahteva za objekat, a koji su predviđeni odgovarajućim elaboratima i studijama.
+
 
     **Документы**
 
     - отчёт о технической проверке (чл. 82), окончательный отчёт после устранения замечаний (чл. 83), заявление исполнителя проверки с резюме отчёта (приложение 5) в выписке из проекта (чл. 84); на каждой части проекта — «Проект принимается» (чл. 85).
+
+      > *srpski · Правилник 96/2023, чл. 83:* Po otklanjanju svih primedaba vršilaca tehničke kontrole, zastupnik pravnog lica koje je vršilo tehničku kontrolu, odnosno preduzetnik, sačinjava konačan izveštaj o izvršenoj kontroli u kojem se konstatuje da na projekat nema primedaba, odnosno da su u svim delovima projekta otklonjeni uočeni nedostaci i dostavlja ga investitoru.
+
     - Проект, выполненный по нормам другой страны, проверяется на переводе на сербский язык (чл. 86).
+
+      > *srpski · Правилник 96/2023, чл. 86:* Tehnička kontrola projekta izrađenog po propisima drugih zemalja, vrši se na primerku projekta koji je preveden na srpski jezik (stručni prevod).
+
 
     **Ревизия**
 
     - GNP и IDP, предварительная и полная studija opravdanosti для объектов по чл. 133 Закона проходят ревизию комиссии министра (чл. 131 Закона); техническая проверка PGD таких объектов включает проверку выполнения мер из отчёта комиссии (чл. 81 Правилника).
 
+      > *srpski · Закон, чл. 131:* Generalni projekat i idejni projekat, prethodna studija opravdanosti i studija opravdanosti za objekte iz člana 133. ovog zakona podležu reviziji (stručnoj kontroli) komisije koju obrazuje ministar nadležan za poslove građevinarstva (u daljem tekstu: reviziona komisija).
+
+
     **Отличие от России**
 
     - орган выдачи разрешения в объединённой процедуре проверяет только формальные условия и не оценивает техническую документацию (чл. 8đ Закона); оценку содержания делает исполнитель технической проверки — лицензированная организация, выбранная инвестором.
 
-    !!! quote "Оригинал (srpski) · Правилник 96/2023, чл. 79"
+      > *srpski · Закон, чл. 8đ:* Tokom sprovođenja objedinjene procedure, nadležni organ isključivo vrši
 
-        Tehničkoj kontroli projekta za građevinsku dozvolu podležu projekti, odnosno delovi projekta za građevinsku dozvolu, projekat rušenja objekta i projekat pripremnih radova, ako se u njemu izvode elementi konstrukcija.
-
-    !!! quote "Оригинал (srpski) · Закон, чл. 8đ"
-
-        Tokom sprovođenja objedinjene procedure, nadležni organ isključivo vrši proveru ispunjenosti formalnih uslova za izgradnju i ne upušta se u ocenu tehničke dokumentacije, niti ispituje verodostojnost dokumenata koje pribavlja u toj proceduri.
 
     **Источники**
 
@@ -84,11 +109,13 @@
     **Что это**
 
     - В EN 16310 *Statutory approval* — официальное разрешение на строительство от местных органов после проверки соответствия проекта требованиям. Отдельной «экспертизы» в EN нет; набор проверок определяется национальным правом.
+
+      > *English · EN 16310 (по описанию iTeh):* Statutory Approval: “official license to build, to be issued by the local authorities, after determining compliancy of the design with applicable regulatory requirements.”
+
     - Пример Франции: документы подстадий 2.3–2.4 проверяет технический контролёр (*technical controller*) на соответствие нормам, а координатор по охране труда — на безопасность при строительстве и эксплуатации; их отчёты могут приводить к изменениям проекта.
 
-    !!! quote "Оригинал (English) · EN 16310 (по описанию iTeh)"
+      > *English · ACE, 2013:* Documents produced at this stage are reviewed by the technical controller for compliance with regulations, norms and codes of practice (DTU, Documents Techniques Unifiés).
 
-        Statutory Approval: “official license to build, to be issued by the local authorities, after determining compliancy of the design with applicable regulatory requirements.”
 
     **Источники**
 
@@ -117,17 +144,28 @@
     **Building Regulations: способы подачи (reg. 12)**
 
     - **Building Notice** — уведомление;
+
+      > *English · Building Regulations 2010, reg. 12:* Building Notice
+
     - **Full Plans** — заявка с полными планами; обязательна для зданий, подпадающих под Regulatory Reform (Fire Safety) Order 2005, для зданий, выходящих на частную улицу, и при требованиях H4.
+
+      > *English · Building Regulations 2010, reg. 12:* Application for Building Control Approval with Full Plans
+
 
     **HRB: Gateway 2 (BSR — Building Safety Regulator)**
 
     - одобрение BSR обязательно **до начала строительства**; начало работ без одобрения — правонарушение;
+
+      > *English · BSR, The three gateways:* Developers cannot proceed with construction until BSR has approved the application.
+
     - заявка включает: описание работ; сведения о здании, клиенте, principal contractor и principal designer; ситуационный план и границы; fire and emergency file; construction control plan; building regulations compliance statement; change control plan; при необходимости — стратегию частичного завершения;
+
+      > *English · BSR, The three gateways:* In your application you will need to: provide a comprehensive outline of the work that will be carried out; information about the building itself and the people involved in the building, such as the client, principal contractor and principal designer; set out standard building information, such as the site location plan and boundaries, and a fire and emergency file; provide a construction control plan (setting out how building work will be managed to maintain building regulations compliance), and a building regulations compliance statement (including reasons for the approach adopted); provide a change control plan to show how any proposed changes will be considered; and where relevant, a partial completion strategy
+
     - к заявке назначается многопрофильная группа с зарегистрированным building inspector.
 
-    !!! quote "Оригинал (English) · BSR, The three gateways"
+      > *English · BSR, The three gateways:* A multi-disciplinary team (MDT) will be assigned to each submission, and this will include a Registered Building Inspector, and any other specialists required to assess a submission.
 
-        Developers cannot proceed with construction until BSR has approved the application.
 
     **Источники**
 

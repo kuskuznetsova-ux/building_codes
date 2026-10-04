@@ -41,13 +41,15 @@
 
     - Подстадия **4.4 Hand over** — передача владения объектом заказчику по завершении, с замечаниями или без (по EN 16310).
 
+      > *English · EN 16310 (по описанию iTeh):* Handover: “step at which possession of the construction works is surrendered to the client upon completion with or without reservation.”
+
+
     **Пример Чехии**
 
     - при завершении архитектор участвует в пусконаладке, передаче и приёмке здания, помогает заказчику с замечаниями и рекламациями (Architect’s Supervision).
 
-    !!! quote "Оригинал (English) · EN 16310 (по описанию iTeh)"
+      > *English · CKA, 2017:* They assist the client during the takeover, snagging and possible reclamation procedures.
 
-        Handover: “step at which possession of the construction works is surrendered to the client upon completion with or without reservation.”
 
     **Источники**
 
@@ -69,15 +71,23 @@
 
     - **Stage 6 Handover.** Результат: здание передано, начата послепередаточная поддержка (Aftercare), Building Contract закрыт.
 
+      > *English · RIBA Plan of Work 2020:* Outcome: Building handed over, Aftercare initiated and Building Contract concluded.
+
+
     **Состав работ**
 
     - устранение остаточных дефектов; Final Certificate обычно через 12 месяцев после Practical Completion;
+
+      > *English · RIBA Plan of Work 2020:* Usually twelve months after Practical Completion, the Final Certificate will be issued, which concludes the contractual involvement of the design and construction teams.
+
     - обучение пользователей; сеанс Project Performance для обмена опытом;
+
+      > *English · RIBA Plan of Work 2020:* A Project Performance session needs be facilitated, so that the project team can share their experiences for the benefit of future projects.
+
     - лёгкая оценка после заселения (Post Occupancy Evaluation).
 
-    !!! quote "Оригинал (English) · RIBA Plan of Work 2020, Stage 6"
+      > *English · RIBA Plan of Work 2020:* Post Occupancy Evaluation, conducted once any seasonal Commissioning has been completed, so they can understand how the building is performing and whether the building and its systems are being used as planned.
 
-        Outcome: Building handed over, Aftercare initiated and Building Contract concluded.
 
     **Источники**
 
