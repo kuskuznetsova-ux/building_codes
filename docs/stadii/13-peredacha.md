@@ -17,6 +17,10 @@
 
 === "🇷🇸 Сербия"
 
+    **Термины** (по-русски — на языке страны)
+
+    - (отдельной стадии нет) — *nema posebne faze*
+
     **Что это**
 
     - В Законе и Правилнике отдельной стадии передачи объекта заказчику нет; она оформляется договором. Разрешение на использование (upotrebna dozvola) — юридический рубеж между строительством и эксплуатацией ⏳.
@@ -28,6 +32,11 @@
 
 === "🇪🇺 ЕС (EN 16310)"
 
+    **Термины** (по-русски — на языке страны)
+
+    - Hand over (4.4) — передача объекта
+    - handover — передача владения
+
     **Что это**
 
     - Подстадия **4.4 Hand over** — передача владения объектом заказчику по завершении, с замечаниями или без (по EN 16310).
@@ -36,6 +45,10 @@
 
     - при завершении архитектор участвует в пусконаладке, передаче и приёмке здания, помогает заказчику с замечаниями и рекламациями (Architect’s Supervision).
 
+    !!! quote "Оригинал (English) · EN 16310 (по описанию iTeh)"
+
+        Handover: “step at which possession of the construction works is surrendered to the client upon completion with or without reservation.”
+
     **Источники**
 
     - [EN 16310 (iTeh)](https://standards.iteh.ai/catalog/standards/cen/7250e686-1a17-446c-bc6a-754708162070/en-16310-2013)
@@ -43,6 +56,14 @@
     - [CKA, Standards of Architects’ Scope of Services (2017)](https://en.cka.cz/++api++/resources/standards-of-architects-scope-of-services.pdf/@@download/file)
 
 === "🇬🇧 Англия (RIBA 2020)"
+
+    **Термины** (по-русски — на языке страны)
+
+    - Handover — передача
+    - Aftercare — послепередаточная поддержка
+    - Final Certificate — окончательный сертификат
+    - Project Performance — обзор результатов проекта
+    - Post Occupancy Evaluation — оценка после заселения
 
     **Что это**
 
@@ -53,6 +74,10 @@
     - устранение остаточных дефектов; Final Certificate обычно через 12 месяцев после Practical Completion;
     - обучение пользователей; сеанс Project Performance для обмена опытом;
     - лёгкая оценка после заселения (Post Occupancy Evaluation).
+
+    !!! quote "Оригинал (English) · RIBA Plan of Work 2020, Stage 6"
+
+        Outcome: Building handed over, Aftercare initiated and Building Contract concluded.
 
     **Источники**
 

@@ -18,6 +18,13 @@
 
 === "🇷🇸 Сербия"
 
+    **Термины** (по-русски — на языке страны)
+
+    - проект построенного объекта — *projekat izvedenog objekta (PIO)*
+    - главная книга построенного объекта — *glavna sveska izvedenog objekta*
+    - отступления от проекта — *odstupanja od projekta*
+    - геодезическая съёмка построенного объекта — *geodetski snimak izvedenog objekta*
+
     **Что это**
 
     - **Проект построенного объекта (PIO)** — совокупность проектов с показом всех деталей построенного объекта, нужных для определения пригодности к использованию; разрабатывается для получения разрешения на использование, эксплуатации и обслуживания; нужен для всех объектов с разрешением на строительство (чл. 19 Правилника, чл. 124 Закона). Это PZI с изменениями, возникшими при строительстве.
@@ -34,12 +41,24 @@
 
     - PIO технической проверке не подлежит, кроме случаев легализации объекта (чл. 124 Закона).
 
+    !!! quote "Оригинал (srpski) · Правилник 96/2023, чл. 19"
+
+        Projekat izvedenog objekta predstavlja skup međusobno usaglašenih projekata sa prikazom svih detalja izgrađenog objekta neophodnih za utvrđivanje njegove podobnosti za upotrebu.
+
+    !!! quote "Оригинал (srpski) · Закон, чл. 124"
+
+        Projekat izvedenog objekta je projekat za izvođenje sa izmenama nastalim u toku građenja objekta.
+
     **Источники**
 
     - [Правилник 96/2023, чл. 19, 71–78](https://www.paragraf.rs/propisi/pravilnik-o-sadrzini-nacinu-i-postupku-izrade-i-nacinu-vrsenja-kontrole-tehnicke-dokumentacije-prema-klasi-i-nameni-objekata.html)
     - [Закон, чл. 124](https://www.paragraf.rs/propisi/zakon_o_planiranju_i_izgradnji.html)
 
 === "🇪🇺 ЕС (EN 16310)"
+
+    **Термины** (по-русски — на языке страны)
+
+    - as built — «как построено»
 
     **Что это**
 
@@ -50,6 +69,13 @@
     - [отчёт ACE 2013](https://oar.archi/wp-content/uploads/2021/03/the_design_and_construction_phases_of_a_construction_project_pdf_1478002177.pdf)
 
 === "🇬🇧 Англия (RIBA 2020)"
+
+    **Термины** (по-русски — на языке страны)
+
+    - Verified Construction Information — подтверждённая информация о построенном
+    - Building Manual — руководство по зданию
+    - Asset Information — информация об активе
+    - golden thread — «золотая нить» информации о здании
 
     **Что это**
 

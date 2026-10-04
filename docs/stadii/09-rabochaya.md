@@ -28,6 +28,15 @@
 
 === "🇷🇸 Сербия"
 
+    **Термины** (по-русски — на языке страны)
+
+    - проект для производства работ — *projekat za izvođenje (PZI)*
+    - Программа контроля и обеспечения качества — *Program kontrole i osiguranja kvaliteta*
+    - план превентивных мер — *plan preventivnih mera*
+    - проект геодезической разбивки — *projekat geodetskog obeležavanja*
+    - детали и узлы — *detalji i čvorovi*
+    - опалубка и арматура — *oplata i armatura*
+
     **Что это**
 
     - **Проект для производства работ (PZI)** — совокупность проектов, необходимых для строительных, ремесленных, инсталляционных и других работ; определяет строительно-технические, технологические и эксплуатационные характеристики с оборудованием и инсталляциями, способ контроля и обеспечения качества строительных изделий, организационные решения, инвестиционную стоимость и условия обслуживания (чл. 18 Правилника, чл. 123 Закона). Обязателен для объектов с разрешением, кроме категории «A».
@@ -45,12 +54,25 @@
     - чертежи, схемы и детали строительных, ремесленных и инсталляционных работ; сводные планы инсталляций; инструкции по установке; технологические схемы; чертежи земляных работ и креплений котлована; детальные конструктивные чертежи с позициями всех элементов, планы опалубки и арматуры, узлы и стыки; изоляция; схемы этапности; приключения;
     - масштаб — соответствующий строительству; PZI может разрабатываться по частям и этапам, и работы ведутся только для утверждённой части (чл. 123 Закона).
 
+    !!! quote "Оригинал (srpski) · Правилник 96/2023, чл. 18"
+
+        Projekat za izvođenje je skup međusobno usaglašenih projekata neophodnih za izvođenje građevinskih, zanatskih, instalaterskih radova i drugih radova, kojim se utvrđuju građevinsko-tehničke, tehnološke i eksploatacione karakteristike objekta sa opremom i instalacijama, način kontrole i osiguranja kvaliteta građevinskih proizvoda, tehničko-tehnološka i organizaciona rešenja za izgradnju objekta, investiciona vrednost objekta, kao i uslovi održavanja objekta.
+
     **Источники**
 
     - [Правилник 96/2023, чл. 18, 61–70](https://www.paragraf.rs/propisi/pravilnik-o-sadrzini-nacinu-i-postupku-izrade-i-nacinu-vrsenja-kontrole-tehnicke-dokumentacije-prema-klasi-i-nameni-objekata.html)
     - [Закон, чл. 123](https://www.paragraf.rs/propisi/zakon_o_planiranju_i_izgradnji.html)
 
 === "🇪🇺 ЕС (EN 16310)"
+
+    **Термины** (по-русски — на языке страны)
+
+    - Developed Design (2.3) — развитое проектирование
+    - Technical Design / FEED (2.4) — техническое проектирование / предпроектная инженерная проработка
+    - Detailed Engineering (2.5) — детальная инженерная проработка
+    - Bill of Quantities — ведомость объёмов работ
+    - *études d’exécution* (фр.) — рабочие чертежи подрядчика
+    - Detailed Design (Чехия) — детальная проектная документация
 
     **Что это**
 
@@ -67,12 +89,31 @@
 
     - этап **Detailed Design** на основе проектной документации для разрешения: подробно определяет требования к качеству (материалы, изготовление), позволяет составить перечень работ и ведомость объёмов (BOQ); база для производственных и монтажных чертежей генподрядчика; этап **List of Works and Deliverables** — перечень работ и поставок для тендера.
 
+    !!! quote "Оригинал (English) · ACE, 2013, F15 (Франция)"
+
+        The developed design is the stage at which construction drawings are prepared with a view to develop the design up to a level of detail that allows the production of written specifications.
+
+    !!! quote "Оригинал (English) · CKA, 2017 (Чехия)"
+
+        Detailed Design is designed in detail allowing to list construction works, deliverables, and services with a BOQ.
+
     **Источники**
 
     - [отчёт ACE 2013](https://oar.archi/wp-content/uploads/2021/03/the_design_and_construction_phases_of_a_construction_project_pdf_1478002177.pdf) (F15–F20)
     - [CKA, Standards of Architects’ Scope of Services (2017)](https://en.cka.cz/++api++/resources/standards-of-architects-scope-of-services.pdf/@@download/file)
 
 === "🇬🇧 Англия (RIBA 2020)"
+
+    **Термины** (по-русски — на языке страны)
+
+    - Technical Design — техническое проектирование
+    - Manufacturing Information — информация для изготовления
+    - Construction Information — информация для строительства
+    - Final Specifications — окончательные спецификации
+    - Building Systems — строительные системы
+    - Prescriptive Information — предписывающая информация (можно строить)
+    - Descriptive Information — описательная информация (проектирует субподрядчик)
+    - specialist subcontractor — специализированный субподрядчик
 
     **Что это**
 
@@ -89,6 +130,10 @@
 
     - матрица ответственности (Responsibility Matrix) определяет, какую информацию команда проектировщиков выдаёт как **Prescriptive** (может использоваться для строительства), а какую как **Descriptive** (специализированный субподрядчик проектирует сам).
     - Отчёт стадии (Stage Report) для Stage 4 обычно не нужен.
+
+    !!! quote "Оригинал (English) · RIBA Plan of Work 2020, Stage 4"
+
+        Outcome: All design information required to manufacture and construct the project completed.
 
     **Источники**
 

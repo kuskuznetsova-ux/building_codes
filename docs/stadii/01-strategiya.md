@@ -28,6 +28,16 @@
 
 === "🇷🇸 Сербия"
 
+    **Термины** (по-русски — на языке страны)
+
+    - предварительные работы — *prethodni radovi*
+    - предварительная студия оправданности (предварительное ТЭО) — *prethodna studija opravdanosti*
+    - студия оправданности (ТЭО) — *studija opravdanosti*
+    - генеральный проект — *generalni projekat (GNP)*
+    - макролокация — *makrolokacija*
+    - этапность строительства — *etapnost gradnje*
+    - ревизия (профессиональная проверка) — *revizija (stručna kontrola)*
+
     **Что это**
 
     - **Предварительные работы** (чл. 112 Закона): исследования, анализы и проекты; данные по инженерно-геологическим, геотехническим, геодезическим, гидрологическим, метеорологическим, урбанистическим, техническим, технологическим, экономическим, энергетическим, сейсмическим, водохозяйственным и транспортным условиям; условия защиты от пожара и среды.
@@ -48,12 +58,27 @@
 
     - графика GNP для линейных объектов — масштаб 1:25000–1:10000 или другой удобный (чл. 34 Правилника).
 
+    !!! quote "Оригинал (srpski) · Правилник 96/2023, чл. 14"
+
+        Generalni projekat ima za cilj sagledavanje resursnih i prostornih mogućnosti i ograničenja izgradnje objekata, sa zadatkom da se kroz postupke vrednovanja usvoji generalna koncepcija, makrolokacija i prostorna dispozicija objekta, utvrde osnovne funkcionalne, tehnološke i tehničke karakteristike objekta, etapnost gradnje, uslovi eksploatacije, odnos prema prostoru i životnoj sredini, kao i osnove za ekonomsku analizu.
+
+    !!! quote "Оригинал (srpski) · Закон, чл. 113"
+
+        Prethodnom studijom opravdanosti utvrđuje se naročito prostorna, ekološka, društvena, finansijska, tržišna i ekonomska opravdanost investicije za varijantna rešenja definisana generalnim projektom, na osnovu kojih se donosi planski dokument, kao i odluka o opravdanosti ulaganja u prethodne radove za idejni projekat i izradu studije opravdanosti.
+
     **Источники**
 
     - [Правилник 96/2023, чл. 2, 14, 34](https://www.paragraf.rs/propisi/pravilnik-o-sadrzini-nacinu-i-postupku-izrade-i-nacinu-vrsenja-kontrole-tehnicke-dokumentacije-prema-klasi-i-nameni-objekata.html)
     - [Закон, чл. 112–117, 131](https://www.paragraf.rs/propisi/zakon_o_planiranju_i_izgradnji.html)
 
 === "🇪🇺 ЕС (EN 16310)"
+
+    **Термины** (по-русски — на языке страны)
+
+    - Initiative — инициатива (возникновение потребности в объекте)
+    - feasibility study — технико-экономическое обоснование
+    - client — заказчик
+    - project definition — определение проекта
 
     **Что это**
 
@@ -63,12 +88,27 @@
 
     - ⏳ не сверено: состав подстадий Annex A (Table A.1) не прочитан.
 
+    !!! quote "Оригинал (English) · ACE, 2013, п. 1.08"
+
+        The Glossary (CEN/TC 395) divides the building project into six stages (each of which also includes sub stages).
+
     **Источники**
 
     - [отчёт ACE 2013](https://oar.archi/wp-content/uploads/2021/03/the_design_and_construction_phases_of_a_construction_project_pdf_1478002177.pdf)
     - [EN 16310 (iTeh)](https://standards.iteh.ai/catalog/standards/cen/7250e686-1a17-446c-bc6a-754708162070/en-16310-2013)
 
 === "🇬🇧 Англия (RIBA 2020)"
+
+    **Термины** (по-русски — на языке страны)
+
+    - Strategic Definition — стратегическое определение
+    - Business Case — бизнес-обоснование
+    - Client Requirements — требования заказчика
+    - Project Risks — риски проекта
+    - Project Budget — бюджет проекта
+    - Spatial Requirements — пространственные требования
+    - Site Surveys — обследования участка
+    - Project Strategies — стратегии проекта (по темам)
 
     **Что это**
 
@@ -89,6 +129,10 @@
     **Кто**
 
     - только команда заказчика и его консультанты; проектная команда обычно не нанимается до стадии 2.
+
+    !!! quote "Оригинал (English) · RIBA Plan of Work 2020, Stage 0"
+
+        Outcome: The best means of achieving the Client Requirements confirmed.
 
     **Источники**
 

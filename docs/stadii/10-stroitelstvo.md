@@ -26,6 +26,14 @@
 
 === "🇷🇸 Сербия"
 
+    **Термины** (по-русски — на языке страны)
+
+    - уведомление о начале работ — *prijava radova*
+    - подрядчик — *izvođač radova*
+    - ответственный производитель работ — *odgovorni izvođač radova*
+    - стручный (технический) надзор — *stručni nadzor*
+    - стройплощадка — *gradilište*
+
     **Начало работ**
 
     - инвестор подаёт **prijava radova** органу, выдавшему разрешение, до начала работ; с ней: доказательство уплаты взносов на обустройство земли, сбор, полис страхования ответственности перед третьими лицами и др.; подтверждение — немедленно, а при обеспечительных средствах — в течение 5 рабочих дней (чл. 148, 8д Закона);
@@ -40,11 +48,28 @@
 
     - *prijava završetka izgradnje temelja* и *prijava završetka izgradnje objekta u konstruktivnom smislu* принимаются немедленно при наличии документации (чл. 8д, п. 3а–3б).
 
+    !!! quote "Оригинал (srpski) · Закон, чл. 148"
+
+        Investitor podnosi prijavu radova organu koji je izdao građevinsku dozvolu pre početka izvođenja radova.
+
+    !!! quote "Оригинал (srpski) · Закон, чл. 153"
+
+        Investitor obezbeđuje stručni nadzor u toku građenja objekta, odnosno izvođenja radova za koje je izdata građevinska dozvola.
+
     **Источники**
 
     - [Закон, чл. 8д, 148–153](https://www.paragraf.rs/propisi/zakon_o_planiranju_i_izgradnji.html)
 
 === "🇪🇺 ЕС (EN 16310)"
+
+    **Термины** (по-русски — на языке страны)
+
+    - Procurement (стадия 3) — закупки, выбор подрядчика
+    - Construction Contracting (3.2) — заключение строительного контракта
+    - Pre-construction (4.1) — подготовка к строительству
+    - Construction (4.2) — строительство
+    - *ordre de service* (фр.) — приказ о начале работ
+    - Architect’s Supervision (Чехия) — авторский надзор
 
     **Что это**
 
@@ -66,6 +91,15 @@
 
 === "🇬🇧 Англия (RIBA 2020)"
 
+    **Термины** (по-русски — на языке страны)
+
+    - Manufacturing and Construction — изготовление и строительство
+    - Site Query — запрос с площадки
+    - Defects List — список дефектов
+    - Practical Completion — практическое завершение
+    - commencement notice — уведомление о начале
+    - completion notice — уведомление о завершении
+
     **Что это**
 
     - **Stage 5 Manufacturing and Construction.** Результат: изготовление, строительство и пусконаладка (Commissioning) завершены.
@@ -79,6 +113,10 @@
     **Уведомления (reg. 16)**
 
     - до начала работ — уведомление и ожидание не менее 2 дней; не позднее 5 дней после начала — уведомление о фактическом начале; в течение 5 дней после завершения — уведомление о завершении с заявлением клиента о соответствии и заявлениями подрядчиков и проектировщиков о выполнении обязанностей; для зданий под Fire Safety Order — уведомление не менее чем за 5 дней до частичного заселения.
+
+    !!! quote "Оригинал (English) · RIBA Plan of Work 2020, Stage 5"
+
+        Outcome: Manufacturing, construction and Commissioning completed.
 
     **Источники**
 

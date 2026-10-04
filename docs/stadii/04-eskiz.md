@@ -18,6 +18,15 @@
 
 === "🇷🇸 Сербия"
 
+    **Термины** (по-русски — на языке страны)
+
+    - идейный проект — *idejni projekat (IDP)*
+    - основные требования к объекту — *osnovni zahtevi za objekat*
+    - конструктивная система — *konstruktivni sistem*
+    - схема размещения инсталляций — *šema rasporeda instalacija*
+    - решение об одобрении работ — *rešenje o odobrenju za izvođenje radova*
+    - ревизионная комиссия — *reviziona komisija*
+
     **Что это**
 
     - **Идейный проект (IDP)** — проект или совокупность согласованных проектов, определяющих назначение, положение, форму, мощность, технико-технологические и функциональные характеристики и вид объекта, описывающих работы и доказывающих выполнение основных требований — по виду и классу объекта и работ (чл. 16 Правилника).
@@ -37,12 +46,23 @@
     - инсталляции: основные схемы и подключение к инфраструктуре;
     - геодезическая основа — топографический снимок, интегрированный с кадастровым планом, от лицензированной геодезической организации.
 
+    !!! quote "Оригинал (srpski) · Правилник 96/2023, чл. 16"
+
+        Idejni projekat je projekat, odnosno skup međusobno usaglašenih projekata kojima se određuju: namena, položaj, oblik, kapacitet, tehničko-tehnološke i funkcionalne karakteristike i izgled objekta, opisuju radovi i dokazuje ispunjenost osnovnih zahteva za objekat, u zavisnosti od vrste i klase objekta, odnosno radova koji se izvode.
+
     **Источники**
 
     - [Правилник 96/2023, чл. 16, 42–49](https://www.paragraf.rs/propisi/pravilnik-o-sadrzini-nacinu-i-postupku-izrade-i-nacinu-vrsenja-kontrole-tehnicke-dokumentacije-prema-klasi-i-nameni-objekata.html)
     - [Закон, чл. 118, 131](https://www.paragraf.rs/propisi/zakon_o_planiranju_i_izgradnji.html)
 
 === "🇪🇺 ЕС (EN 16310)"
+
+    **Термины** (по-русски — на языке страны)
+
+    - Preliminary Design (2.2) — предварительное проектирование
+    - *avant projet sommaire (APS)* (фр.) — краткий предварительный проект
+    - *avant projet détaillé (APD)* (фр.) — детальный предварительный проект
+    - *Land Zone Permit Design* (Чехия) — документация для разрешения на землепользование
 
     **Что это**
 
@@ -57,12 +77,20 @@
 
     - этап **Land Zone Permit Design** на основе утверждённой концепции: положение здания на участке, соответствие концепции, транспортное и инженерное подключение, имущественные права; структура частей A–E по Постановлению № 499/2006 Sb.
 
+    !!! quote "Оригинал (English) · ACE, 2013, F8 (Франция)"
+
+        Preliminary Design (APS avant projet sommaire) 1/100 & 1/200; Preliminary Design (APD avant projet détaillé) 1/50 & 1/100.
+
     **Источники**
 
     - [отчёт ACE 2013](https://oar.archi/wp-content/uploads/2021/03/the_design_and_construction_phases_of_a_construction_project_pdf_1478002177.pdf) (F3, F8)
     - [CKA, Standards of Architects’ Scope of Services (2017)](https://en.cka.cz/++api++/resources/standards-of-architects-scope-of-services.pdf/@@download/file)
 
 === "🇬🇧 Англия (RIBA 2020)"
+
+    **Термины** (по-русски — на языке страны)
+
+    - (отдельной стадии нет) — Concept Design и Spatial Coordination
 
     **Что это**
 

@@ -17,6 +17,12 @@
 
 === "🇷🇸 Сербия"
 
+    **Термины** (по-русски — на языке страны)
+
+    - владелец объекта — *vlasnik objekta*
+    - текущее содержание — *tekuće održavanje*
+    - регулярные, чрезвычайные и специализированные осмотры — *redovni, vanredni i specijalistički pregledi*
+
     **Что это**
 
     - Владелец объекта, на который выдано разрешение на использование, обеспечивает инвестиционное и текущее обслуживание объекта, а также регулярные, чрезвычайные и специализированные осмотры в соответствии со специальными нормами (чл. 159 Закона).
@@ -26,12 +32,21 @@
 
     - конкретные специальные нормы по осмотрам не читались ⏳.
 
+    !!! quote "Оригинал (srpski) · Закон, чл. 159"
+
+        Vlasnik objekta za koji je izdata upotrebna dozvola obezbeđuje izvođenje radova na investicionom i tekućem održavanju objekta kao i redovne, vanredne i specijalističke preglede objekta, u skladu sa posebnim propisima.
+
     **Источники**
 
     - [Закон, чл. 159](https://www.paragraf.rs/propisi/zakon_o_planiranju_i_izgradnji.html)
     - [Правилник 96/2023, чл. 19](https://www.paragraf.rs/propisi/pravilnik-o-sadrzini-nacinu-i-postupku-izrade-i-nacinu-vrsenja-kontrole-tehnicke-dokumentacije-prema-klasi-i-nameni-objekata.html)
 
 === "🇪🇺 ЕС (EN 16310)"
+
+    **Термины** (по-русски — на языке страны)
+
+    - Usage (5) — использование
+    - End of life (6) — конец жизненного цикла
 
     **Что это**
 
@@ -47,6 +62,13 @@
 
 === "🇬🇧 Англия (RIBA 2020)"
 
+    **Термины** (по-русски — на языке страны)
+
+    - Use — эксплуатация
+    - Facilities Management — управление объектом
+    - Asset Management — управление активом
+    - Digital Twin — цифровой двойник
+
     **Что это**
 
     - **Stage 7 Use.** Результат: здание используется, эксплуатируется и обслуживается эффективно.
@@ -56,6 +78,10 @@
     - оценка после заселения (Post Occupancy Evaluation);
     - стратегии управления объектом (Facilities Management, Asset Management); обновление Asset Information и Building Manual;
     - по окончании жизненного цикла — снова Stage 0: реконструкция, перепрофилирование или демонтаж.
+
+    !!! quote "Оригинал (English) · RIBA Plan of Work 2020, Stage 7"
+
+        Outcome: Building used, operated and maintained efficiently.
 
     **Источники**
 

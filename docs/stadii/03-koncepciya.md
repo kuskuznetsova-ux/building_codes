@@ -27,6 +27,19 @@
 
 === "🇷🇸 Сербия"
 
+    **Термины** (по-русски — на языке страны)
+
+    - идейное решение — *idejno rešenje (IDR)*
+    - главная книга — *glavna sveska*
+    - технический описание — *tehnički opis*
+    - БРГП (брутто развитая площадь) — *BRGP (bruto razvijena građevinska površina)*
+    - функциональная единица — *funkcionalna jedinica*
+    - ситуационный план — *situacioni plan*
+    - план, разрез, фасад — *osnova, presek, izgled*
+    - сводный план инсталляций — *sinhron-plan instalacija*
+    - главный проектант — *glavni projektant*
+    - ответственный проектант — *odgovorni projektant*
+
     **Что это**
 
     - **Идейное решение (IDR)** — показ планируемой концепции объекта с данными, необходимыми для локационных условий и проверки соответствия плану: назначение, БРГП, габарит, регуляция, положение на участке, доступ, число функциональных единиц, мощности и подключение (чл. 15 Правилника). Разработка технических решений не требуется (чл. 117а Закона).
@@ -50,12 +63,22 @@
 
     - на каждом чертеже в нижнем правом углу — штамп не шире 18 см: инвестор, объект, организация, вид документации (IDR, IDP, PGD, PZI, PIO), название части, чертежа, масштаб, главный проектант и номер лицензии, номер чертежа, дата; легенда и знак севера (чл. 31).
 
+    !!! quote "Оригинал (srpski) · Правилник 96/2023, чл. 15"
+
+        Idejno rešenje je prikaz planirane koncepcije objekta, sa obaveznim prikazom i navođenjem samo onih podataka koji su neophodni za utvrđivanje lokacijskih uslova, odnosno podataka koji su neophodni za utvrđivanje usklađenosti sa planskim dokumentom i utvrđivanje uslova za projektovanje i priključenje.
+
     **Источники**
 
     - [Правилник 96/2023, чл. 15, 31, 35–41](https://www.paragraf.rs/propisi/pravilnik-o-sadrzini-nacinu-i-postupku-izrade-i-nacinu-vrsenja-kontrole-tehnicke-dokumentacije-prema-klasi-i-nameni-objekata.html)
     - [Закон, чл. 117а](https://www.paragraf.rs/propisi/zakon_o_planiranju_i_izgradnji.html)
 
 === "🇪🇺 ЕС (EN 16310)"
+
+    **Термины** (по-русски — на языке страны)
+
+    - Conceptual Design (подстадия 2.1) — концептуальное проектирование
+    - *esquisse* (фр.) — эскиз
+    - design concept — концепция проекта
 
     **Что это**
 
@@ -70,12 +93,32 @@
 
     - этап **Preliminary – Concept Design**: первое графическое пространственное воплощение задания — размещение здания на участке, масса, внутренняя планировка, фасады, основные материалы; предварительный бюджет по м² и м³; предварительные консультации с органами.
 
+    !!! quote "Оригинал (English) · ACE, 2013, F8 (Франция)"
+
+        Conceptual Design (esquisse) 1/200 & 1/500 except for the private house.
+
+    !!! quote "Оригинал (English) · CKA, 2017 (Чехия)"
+
+        A Concept Design (study) is the first graphic representation of the spatial rendering of the client’s brief.
+
     **Источники**
 
     - [отчёт ACE 2013](https://oar.archi/wp-content/uploads/2021/03/the_design_and_construction_phases_of_a_construction_project_pdf_1478002177.pdf) (F8–F9)
     - [CKA, Standards of Architects’ Scope of Services (2017)](https://en.cka.cz/++api++/resources/standards-of-architects-scope-of-services.pdf/@@download/file)
 
 === "🇬🇧 Англия (RIBA 2020)"
+
+    **Термины** (по-русски — на языке страны)
+
+    - Concept Design — концептуальное проектирование
+    - Architectural Concept — архитектурная концепция
+    - Strategic Engineering — стратегические инженерные требования
+    - Cost Plan — план стоимости
+    - Outline Specification — предварительная спецификация
+    - Stage Report — отчёт стадии
+    - Design Review — проектный обзор
+    - Derogation — отступление от задания
+    - pre-application Planning Advice — предварительная консультация по планированию
 
     **Что это**
 
@@ -95,6 +138,10 @@
     **Детализация**
 
     - на стадии 2 — «правила большого пальца» (rules of thumb), а не детальный анализ; расчёты нужны точечно (например, размеры ступеней и подступенков). Чрезмерная детализация рискует привести к отброшенной работе.
+
+    !!! quote "Оригинал (English) · RIBA Plan of Work 2020, Stage 2"
+
+        Outcome: Architectural Concept approved by the client and aligned to the Project Brief.
 
     **Источники**
 
