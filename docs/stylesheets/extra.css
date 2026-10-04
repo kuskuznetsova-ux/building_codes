@@ -42,8 +42,20 @@
 .md-typeset .pair .orig:not(:has(p)) { border-right-color: transparent; }
 /* таблица терминов: язык страны чёрным, русский серым */
 .md-typeset .tabbed-block table td:nth-child(2) { color: var(--md-default-fg-color--light); }
+.md-typeset .pair table td:nth-child(2), .md-typeset .pair table td { color: inherit; }
 @media (max-width: 60em) {
   .md-typeset .pair { grid-template-columns: 1fr; gap: .2rem; }
   .md-typeset .pair .orig { order: 1; border-right: 0; border-left: 3px solid #b0b0b0; padding: .1em 0 .1em .8em; }
   .md-typeset .pair .ru { order: 2; }
 }
+
+/* матрицы без колонки «№» (пожарная безопасность) */
+.matrix.fire table:not([class]) { table-layout: fixed; }
+.matrix.fire table:not([class]) th:nth-child(1), .matrix.fire table:not([class]) td:nth-child(1) { width: 8rem; text-align: left; padding-left: .55em; padding-right: .55em; }
+.matrix.fire table:not([class]) th:nth-child(2), .matrix.fire table:not([class]) td:nth-child(2) { width: auto; }
+.matrix.fire table:not([class]) th:nth-child(n+3) { width: auto; }
+
+/* таблицы внутри пар «оригинал | русский» */
+.md-typeset .pair > div { min-width: 0; overflow-x: auto; }
+.md-typeset .pair table:not([class]) { font-size: .66rem; display: table; width: 100%; }
+.md-typeset .pair table:not([class]) th, .md-typeset .pair table:not([class]) td { padding: .4em .5em; }

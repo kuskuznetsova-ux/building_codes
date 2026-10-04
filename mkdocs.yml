@@ -57,9 +57,23 @@ nav:
       - Проектирование: sravnenie/proektirovanie.md
       - Архитектура: sravnenie/arhitektura.md
   - Пожарная безопасность:
-      - Обзор и аналоги СП: pozharnaya/index.md
-      - Эвакуация (СП 1): pozharnaya/sp1-evakuaciya.md
-      - Распространение пожара (СП 4): pozharnaya/sp4-ogranichenie-rasprostraneniya.md
+      - Матрица основных правил: pozharnaya/index.md
+      - 1. Число эвакуационных выходов и лестниц: pozharnaya/vyhody.md
+      - 2. Расстояние от двери квартиры до выхода: pozharnaya/rasstoyanie.md
+      - 3. Ширина путей эвакуации, лестниц и дверей: pozharnaya/shirina.md
+      - 4. Огнестойкость строительных конструкций: pozharnaya/ognestojkost.md
+      - 5. Секции, отсеки и отделение квартир: pozharnaya/otseki.md
+      - 6. Расстояния между зданиями и до границы участка: pozharnaya/razryvy.md
+      - 7. Наружные стены и фасады: pozharnaya/fasady.md
+      - Высотные здания (матрица): pozharnaya/vysotnye/index.md
+      - В1. Порог «высотного здания» и способ измерения высоты: pozharnaya/vysotnye/porog.md
+      - В2. Эвакуационные лестницы и выходы: pozharnaya/vysotnye/lestnitsy.md
+      - В3. Длина путей эвакуации в высотных зданиях: pozharnaya/vysotnye/puti.md
+      - В4. Пожарные лифты и доступ пожарных: pozharnaya/vysotnye/lifty.md
+      - В5. Огнестойкость и пожарные отсеки: pozharnaya/vysotnye/ognestojkost.md
+      - В6. Фасады и наружные стены: pozharnaya/vysotnye/fasady.md
+      - "Прежняя таблица — эвакуация (СП 1)": pozharnaya/sp1-evakuaciya.md
+      - "Прежняя таблица — распространение пожара (СП 4)": pozharnaya/sp4-ogranichenie-rasprostraneniya.md
   - Нормативы по странам:
       - normy/index.md
   - Глоссарий: glossary.md
