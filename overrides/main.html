@@ -1,0 +1,7 @@
+{% extends "base.html" %}
+
+{% block extrahead %}
+  {{ super() }}
+  {# Пока сайт в разработке: просим поисковики не индексировать страницы. Чтобы открыть сайт, удалить эту строку (и overrides/ из mkdocs.yml). #}
+  <meta name="robots" content="noindex, nofollow, noarchive">
+{% endblock %}

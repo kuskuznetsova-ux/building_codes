@@ -3,6 +3,7 @@ site_description: Сравнение нормативов проектирова
 docs_dir: docs
 theme:
   name: material
+  custom_dir: overrides
   language: ru
   features:
     - navigation.tabs
