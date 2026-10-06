@@ -22,6 +22,7 @@
 
     **Источники**
 
+    - [СП 2.13130, п. 6.5.1](https://www.consultant.ru/document/cons_doc_LAW_362483/)
     - [СП 4.13130, п. 5.2.9](https://base.garant.ru/70398302/)
 
 === "🇷🇸 Сербия"
