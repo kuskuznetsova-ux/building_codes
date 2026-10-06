@@ -1,3 +1,4 @@
+import os
 # -*- coding: utf-8 -*-
 import sys,os
 sys.path.insert(0,os.path.dirname(__file__))
@@ -36,7 +37,7 @@ SEC=[
  ('Approved Document B Vol 2 (2006), п. 8.14',Q('adb2_06','8.14 Blocks of flats with a floor more than 30m above ground level should be fitted with a sprinkler system','can be ignored.'),'Редакция 2006: спринклеры в блоках квартир — если этаж выше 30 м над землёй; только в квартирах, не в общих зонах; ограничение BS 9251 (до 20 м) можно игнорировать.'),
  ('Approved Document B Vol 1 (2019, с поправками), п. 7.4',Q('adb1','Blocks of flats with a top storey more than 11m above ground level','in accordance with Appendix E.'),'Текущая редакция: спринклеры — если верхний этаж выше 11 м; порог снижен с 30 м до 11 м. (Поправка введена после Гренфелла; точную дату и номер поправки в портале предстоит указать ⏳.)')]),
 ]
-md=['---','hide:','  - toc','---','','# Англия: правовая основа (Building Act, Building Regulations, gateways)','',
+md=['---','hide:','  - toc','---','','# 4.1 Англия: правовая основа (Building Act, Building Regulations, gateways)','',
 '!!! warning "Статус: черновик"',
 '    Тексты взяты с legislation.gov.uk (сохранённые страницы, версия «с изменениями на 06.10.2026»). Слева — оригинал, справа — рабочий перевод. Документы AD B и Building Bulletin 100 здесь не рассматриваются: их тексты — на gov.uk.','',
 'Иерархия: **Building Act 1984** (закон) → **Building Regulations 2010** (регламент; требования Part B) → **Approved Documents** (руководство по соблюдению) → для высотных жилых зданий ещё **Building Safety Act 2022** и **S.I. 2023/275, 2023/909**.','']

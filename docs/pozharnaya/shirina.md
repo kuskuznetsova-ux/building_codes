@@ -1,4 +1,4 @@
-# 6. Ширина путей эвакуации, лестниц и дверей
+# 2.6 Ширина путей эвакуации, лестниц и дверей
 
 [← К матрице](index.md) · Минимальные ширины коридоров, маршей и выходов.
 
@@ -97,6 +97,21 @@
 
 === "🇪🇺 ЕС"
 
+    **Страны ЕС: национальные нормы** (единой нормы ЕС нет; ниже — Германия, Франция, Австрия, Испания)
+
+    <div class="matrix fire eu" markdown>
+
+    | Страна | Нормативный документ | Что установлено |
+    |---|---|---|
+    | 🇩🇪 Германия (и общее по ЕС) | [МВО § 36](https://bvpi.de/bvpi/downloads/MBO.pdf?m=1749800306) | Нет единой нормы. Пример — Германия: коридоры «настолько широки, чтобы пропустить наибольший ожидаемый поток» (МВО § 36(2)) |
+    | 🇫🇷 Франция | Франция: [Arrêté 31.01.1986](https://medias.amf.asso.fr/docs/DOCUMENTS/AMF_20070607_arrete_31_01_86_incendie.pdf) (жилые дома, копия AMF; консолидированная редакция Légifrance не сверена ⏳) | Дверь защищённого хода ≥0,80 м; другие ширины в arrêté 1986 ⏳ не найдены |
+    | 🇦🇹 Австрия | Австрия: OIB-Richtlinien, ред. май 2023 ([RL 2](https://www.propellets.at/assets/upload/pelletlagerung/oib-rl-2-ausgabe-mai-2023.pdf), [RL 2.2](https://din-notlicht.com/wp-content/uploads/oib-rl-2.2-ausgabe-mai-2023.pdf), [RL 2.3](https://din-notlicht.com/wp-content/uploads/oib-rl-2.3-ausgabe-mai-2023.pdf), [RL 4](https://glas-gasperlmair.at/wp-content/uploads/2023/10/oib-rl_4_ausgabe_mai_2023.pdf), [Begriffsbestimmungen](https://din-notlicht.com/wp-content/uploads/oib-rl-begriffsbestimmungen-ausgabe-mai-2023.pdf)) | Лестницы/проходы на путях эвакуации: ширина в свету растёт на 10 см на каждые 10 человек свыше 120 (RL 4, п. 2.4.5); Hauptgänge ≥1,20 м (п. 2.4.1) |
+    | 🇪🇸 Испания | Испания: [CTE DB-SI](https://www.codigotecnico.org/pdf/Documentos/SI/DBSI.pdf) | Двери и проходы A ≥ P/200, но ≥0,80 м; коридоры ≥1,00 м; незащищённые лестницы вниз A ≥ P/160 (Tabla 4.1) |
+
+    </div>
+
+    **🇪🇺 ЕС и 🇩🇪 Германия — цитаты**
+
     Единого норматива ЕС нет. Пример национальной нормы — Германия (МВО, типовой кодекс; конкретные ширины задают подзаконные акты земель).
 
     <div class="pair" markdown>
@@ -112,9 +127,50 @@
     </div>
     </div>
 
-    **Источники**
+    **🇫🇷 Франция — цитаты**
 
-    - [МВО § 36](https://bvpi.de/bvpi/downloads/MBO.pdf?m=1749800306)
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    *fr · Arrêté 1986, защищённая лестница, дверь:* La porte, d'une largeur de 0,80 mètre au moins, doit être munie d'un ferme-porte et s'ouvrir dans le sens de la sortie en venant des logements.
+
+    </div>
+    <div class="ru" markdown>
+
+    Дверь шириной не менее 0,80 м должна иметь доводчик и открываться по ходу эвакуации из квартир.
+
+    </div>
+    </div>
+
+    **🇦🇹 Австрия — цитаты**
+
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    *de · OIB-RL 4, п. 2.4.5:* 2.4.5 Bei Gängen, Treppen und Rampen im Verlauf von Fluchtwegen für mehr als 120 Personen muss die lichte Breite für jeweils weitere angefangene zehn Personen um jeweils 10 cm erhöht werden.
+
+    </div>
+    <div class="ru" markdown>
+
+    Для коридоров, лестниц и пандусов на путях эвакуации более чем для 120 человек ширина в свету увеличивается на 10 см на каждые следующие (даже неполные) десять человек.
+
+    </div>
+    </div>
+
+    **🇪🇸 Испания — цитаты**
+
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    *es · CTE DB-SI, Tabla 4.1:* Puertas y pasos A  P / 200(1)  0,80 m(2) La anchura de toda hoja de puerta no debe ser menor que 0,60 m, ni exceder de 1,23 m.
+
+    </div>
+    <div class="ru" markdown>
+
+    Двери и проходы: A ≥ P/200 и не менее 0,80 м; ширина створки не менее 0,60 м и не более 1,23 м. (P — число людей, A — ширина.)
+
+    </div>
+    </div>
 
 === "🇬🇧 Англия"
 

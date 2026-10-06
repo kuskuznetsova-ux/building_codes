@@ -11,6 +11,8 @@ theme:
     - navigation.top
     - search.suggest
     - content.tabs.link
+    - navigation.indexes
+    - navigation.expand
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
@@ -38,60 +40,64 @@ markdown_extensions:
       permalink: true
 nav:
   - Главная: index.md
-  - Сравнение:
-      - Стадии проектирования и строительства:
-          - Матрица стадий: sravnenie/stadii.md
-          - 1. Стратегия и обоснование: stadii/01-strategiya.md
-          - 2. Подготовка задания: stadii/02-zadanie.md
-          - 3. Концепция: stadii/03-koncepciya.md
-          - 4. Эскиз / предварительный проект: stadii/04-eskiz.md
-          - 5. Согласование архитектурного облика: stadii/05-ago-agr.md
-          - 6. Проект для разрешения: stadii/06-proekt-razresheniya.md
-          - 7. Проверка / экспертиза: stadii/07-ekspertiza.md
-          - 8. Разрешение на строительство: stadii/08-razreshenie.md
-          - 9. Рабочая документация: stadii/09-rabochaya.md
-          - 10. Строительство: stadii/10-stroitelstvo.md
-          - 11. Исполнительная документация: stadii/11-ispolnitelnaya.md
-          - 12. Приёмка и ввод: stadii/12-priemka-vvod.md
-          - 13. Передача заказчику: stadii/13-peredacha.md
-          - 14. Эксплуатация: stadii/14-ekspluatatsiya.md
+  - "1. Стадии проектирования":
+      - "1. Матрица стадий":
+          - sravnenie/stadii.md
+          - "1.1 Стратегия и обоснование": stadii/01-strategiya.md
+          - "1.2 Подготовка задания": stadii/02-zadanie.md
+          - "1.3 Концепция": stadii/03-koncepciya.md
+          - "1.4 Эскиз / предварительный проект": stadii/04-eskiz.md
+          - "1.5 Согласование архитектурного облика": stadii/05-ago-agr.md
+          - "1.6 Проект для разрешения": stadii/06-proekt-razresheniya.md
+          - "1.7 Проверка / экспертиза": stadii/07-ekspertiza.md
+          - "1.8 Разрешение на строительство": stadii/08-razreshenie.md
+          - "1.9 Рабочая документация": stadii/09-rabochaya.md
+          - "1.10 Строительство": stadii/10-stroitelstvo.md
+          - "1.11 Исполнительная документация": stadii/11-ispolnitelnaya.md
+          - "1.12 Приёмка и ввод": stadii/12-priemka-vvod.md
+          - "1.13 Передача заказчику": stadii/13-peredacha.md
+          - "1.14 Эксплуатация": stadii/14-ekspluatatsiya.md
       - Проектирование: sravnenie/proektirovanie.md
       - Архитектура: sravnenie/arhitektura.md
-  - Пожарная безопасность:
-      - Матрица основных правил: pozharnaya/index.md
-      - "1. Классы зданий: как делят в разных странах": pozharnaya/klassy.md
-      - "2. Методики измерения высоты и расстояний": pozharnaya/metodiki.md
-      - "3. Юридическая сила документов и допустимые отклонения": pozharnaya/pravovaya-sila.md
-      - "4. Число эвакуационных выходов и лестниц": pozharnaya/vyhody.md
-      - "5. Расстояние от двери квартиры до выхода": pozharnaya/rasstoyanie.md
-      - "6. Ширина путей эвакуации, лестниц и дверей": pozharnaya/shirina.md
-      - "7. Огнестойкость строительных конструкций": pozharnaya/ognestojkost.md
-      - "8. Секции, отсеки и отделение квартир": pozharnaya/otseki.md
-      - "9. Расстояния между зданиями и до границы участка": pozharnaya/razryvy.md
-      - "10. Наружные стены и фасады": pozharnaya/fasady.md
-      - "11. Отделка путей эвакуации": pozharnaya/otdelka.md
-      - "12. Автоматическое пожаротушение (спринклеры) в жилых домах": pozharnaya/sprinklery.md
-      - "13. Детские дошкольные учреждения и школы": pozharnaya/doo.md
-      - "14. Автостоянки и гаражи": pozharnaya/avtostoyanki.md
-      - Высотные здания (матрица): pozharnaya/vysotnye/index.md
-      - "В1. Порог «высотного здания» и способ измерения высоты": pozharnaya/vysotnye/porog.md
-      - "В2. Эвакуационные лестницы и выходы": pozharnaya/vysotnye/lestnitsy.md
-      - "В3. Длина путей эвакуации в высотных зданиях": pozharnaya/vysotnye/puti.md
-      - "В4. Пожарные лифты и доступ пожарных": pozharnaya/vysotnye/lifty.md
-      - "В5. Огнестойкость и пожарные отсеки": pozharnaya/vysotnye/ognestojkost.md
-      - "В6. Фасады и наружные стены": pozharnaya/vysotnye/fasady.md
-      - "В7. Автоматическое пожаротушение и водопровод": pozharnaya/vysotnye/sprinklery.md
-      - "Прежняя таблица — эвакуация (СП 1)": pozharnaya/sp1-evakuaciya.md
-      - "Прежняя таблица — распространение пожара (СП 4)": pozharnaya/sp4-ogranichenie-rasprostraneniya.md
-  - Градостроительство:
-      - Матрица (инсоляция и расстояния): gradostroitelstvo/index.md
-      - "1. Инсоляция зданий и территорий": gradostroitelstvo/insolyatsiya.md
-      - "2. Расстояния между зданиями (генплан и планировка)": gradostroitelstvo/razryvy-genplan.md
-  - Нормативы по странам:
-      - Карта документов: normy/index.md
-      - Англия — правовая основа: normy/uk.md
-  - Глоссарий: glossary.md
-  - Источники: istochniki.md
+  - "2. Пожарная безопасность":
+      - "2. Матрица основных правил":
+          - pozharnaya/index.md
+          - "2.1 Классы зданий: как делят в разных странах": pozharnaya/klassy.md
+          - "2.2 Методики измерения высоты и расстояний": pozharnaya/metodiki.md
+          - "2.3 Юридическая сила документов и допустимые отклонения": pozharnaya/pravovaya-sila.md
+          - "2.4 Число эвакуационных выходов и лестниц": pozharnaya/vyhody.md
+          - "2.5 Расстояние от двери квартиры до выхода": pozharnaya/rasstoyanie.md
+          - "2.6 Ширина путей эвакуации, лестниц и дверей": pozharnaya/shirina.md
+          - "2.7 Огнестойкость строительных конструкций": pozharnaya/ognestojkost.md
+          - "2.8 Секции, отсеки и отделение квартир": pozharnaya/otseki.md
+          - "2.9 Расстояния между зданиями и до границы участка": pozharnaya/razryvy.md
+          - "2.10 Наружные стены и фасады": pozharnaya/fasady.md
+          - "2.11 Отделка путей эвакуации": pozharnaya/otdelka.md
+          - "2.12 Автоматическое пожаротушение (спринклеры) в жилых домах": pozharnaya/sprinklery.md
+          - "2.13 Детские дошкольные учреждения и школы": pozharnaya/doo.md
+          - "2.14 Автостоянки и гаражи": pozharnaya/avtostoyanki.md
+          - "2.15 Высотные здания (матрица)":
+              - pozharnaya/vysotnye/index.md
+              - "2.15.1 Порог «высотного здания» и способ измерения высоты": pozharnaya/vysotnye/porog.md
+              - "2.15.2 Эвакуационные лестницы и выходы": pozharnaya/vysotnye/lestnitsy.md
+              - "2.15.3 Длина путей эвакуации в высотных зданиях": pozharnaya/vysotnye/puti.md
+              - "2.15.4 Пожарные лифты и доступ пожарных": pozharnaya/vysotnye/lifty.md
+              - "2.15.5 Огнестойкость и пожарные отсеки": pozharnaya/vysotnye/ognestojkost.md
+              - "2.15.6 Фасады и наружные стены": pozharnaya/vysotnye/fasady.md
+              - "2.15.7 Автоматическое пожаротушение и водопровод": pozharnaya/vysotnye/sprinklery.md
+          - "2.16 Прежняя таблица — эвакуация (СП 1)": pozharnaya/sp1-evakuaciya.md
+          - "2.17 Прежняя таблица — распространение пожара (СП 4)": pozharnaya/sp4-ogranichenie-rasprostraneniya.md
+  - "3. Градостроительство":
+      - "3. Матрица (инсоляция и расстояния)":
+          - gradostroitelstvo/index.md
+          - "3.1 Инсоляция зданий и территорий": gradostroitelstvo/insolyatsiya.md
+          - "3.2 Расстояния между зданиями (генплан и планировка)": gradostroitelstvo/razryvy-genplan.md
+  - "4. Нормативы по странам":
+      - "4. Карта документов":
+          - normy/index.md
+          - "4.1 Англия — правовая основа": normy/uk.md
+  - "5. Глоссарий": glossary.md
+  - "6. Источники": istochniki.md
   - Как вести портал: contributing.md
 
 validation:

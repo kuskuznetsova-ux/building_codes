@@ -1,4 +1,4 @@
-# 5. Расстояние от двери квартиры до выхода
+# 2.5 Расстояние от двери квартиры до выхода
 
 [← К матрице](index.md) · Предельная длина пути от входной двери квартиры до лестничной клетки или наружу.
 
@@ -94,6 +94,21 @@
 
 === "🇪🇺 ЕС"
 
+    **Страны ЕС: национальные нормы** (единой нормы ЕС нет; ниже — Германия, Франция, Австрия, Испания)
+
+    <div class="matrix fire eu" markdown>
+
+    | Страна | Нормативный документ | Что установлено |
+    |---|---|---|
+    | 🇩🇪 Германия (и общее по ЕС) | [МВО § 35](https://bvpi.de/bvpi/downloads/MBO.pdf?m=1749800306) | Нет единой нормы. Пример — Германия: из любой точки жилого помещения до выхода в лестничную клетку или наружу не более 35 м (МВО § 35(2)) |
+    | 🇫🇷 Франция | Франция: [Arrêté 31.01.1986](https://medias.amf.asso.fr/docs/DOCUMENTS/AMF_20070607_arrete_31_01_86_incendie.pdf) (жилые дома, копия AMF; консолидированная редакция Légifrance не сверена ⏳) | До лестницы: ≤7 м от двери квартиры (3-я семья A); по защищённому ходу «à l’abri des fumées» — ≤15 м (ст. 31) |
+    | 🇦🇹 Австрия | Австрия: OIB-Richtlinien, ред. май 2023 ([RL 2](https://www.propellets.at/assets/upload/pelletlagerung/oib-rl-2-ausgabe-mai-2023.pdf), [RL 2.2](https://din-notlicht.com/wp-content/uploads/oib-rl-2.2-ausgabe-mai-2023.pdf), [RL 2.3](https://din-notlicht.com/wp-content/uploads/oib-rl-2.3-ausgabe-mai-2023.pdf), [RL 4](https://glas-gasperlmair.at/wp-content/uploads/2023/10/oib-rl_4_ausgabe_mai_2023.pdf), [Begriffsbestimmungen](https://din-notlicht.com/wp-content/uploads/oib-rl-begriffsbestimmungen-ausgabe-mai-2023.pdf)) | Не более 40 м ходьбы от любой точки; для квартир — от входной двери (RL 2, п. 5.1.1–5.1.2) |
+    | 🇪🇸 Испания | Испания: [CTE DB-SI](https://www.codigotecnico.org/pdf/Documentos/SI/DBSI.pdf) | До выхода с этажа: 25 м при одном выходе; 50 м при нескольких (+25 % со спринклерами); 35 м — стоянки |
+
+    </div>
+
+    **🇪🇺 ЕС и 🇩🇪 Германия — цитаты**
+
     На уровне ЕС норм расстояний нет (CPR задаёт лишь общее требование безопасной эвакуации). Ниже — пример национальной нормы Германии (МВО — типовой кодекс земель; в каждой земле действует собственный закон).
 
     <div class="pair" markdown>
@@ -109,9 +124,50 @@
     </div>
     </div>
 
-    **Источники**
+    **🇫🇷 Франция — цитаты**
 
-    - [МВО § 35](https://bvpi.de/bvpi/downloads/MBO.pdf?m=1749800306)
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    *fr · Arrêté 1986, ст. 31:* Art. 31. La distance à parcourir entre la porte palière de chaque logement et la porte de l'escalier ou l'accès à l'air libre ne doit pas dépasser quinze mètres.
+
+    </div>
+    <div class="ru" markdown>
+
+    Расстояние от входной двери каждой квартиры до двери лестницы или выхода на открытый воздух не должно превышать 15 м.
+
+    </div>
+    </div>
+
+    **🇦🇹 Австрия — цитаты**
+
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    *de · OIB-RL 2, п. 5.1.1–5.1.2:* 5.1.1 Von jeder Stelle jedes Raumes – ausgenommen nicht ausgebaute Dachräume – muss in höchstens 40 m Gehweglänge erreichbar sein: a) ein direkter Ausgang zu einem sicheren Ort des angrenzenden Geländes im Freien, oder b) ein Treppenhaus oder eine Außentreppe gemäß Tabelle 2a bzw. 2b mit jeweils einem Ausgang zu einem sicheren Ort des angrenzenden Geländes im Freien, oder c) ein Treppenhaus oder eine Außentreppe gemäß Tabelle 3 mit jeweils einem Ausgang zu einem sicheren Ort des angrenzenden Geländes im Freien, wobei zusätzlich Punkt 5.1.4 gilt. 5.1.2 Bei Wohnungen wird abweichend von Punkt 5.1.1 in den Fällen b) und c) die Gehweglänge ab der Wohnungseingangstüre gemessen. Dabei dürfen sich die Wohnungen über höchstens zwei Geschoße erstrecken.
+
+    </div>
+    <div class="ru" markdown>
+
+    От любой точки любого помещения (кроме необорудованных чердаков) в пределах не более 40 м пути должны быть доступны: а) прямой выход наружу, либо б)/в) лестничная клетка или внешняя лестница по табл. 2a/2b/3 с выходом наружу. Для квартир в случаях б) и в) длина считается от входной двери квартиры; квартиры не более чем на двух этажах.
+
+    </div>
+    </div>
+
+    **🇪🇸 Испания — цитаты**
+
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    *es · CTE DB-SI, Tabla 3.1:* La longitud de los recorridos de evacuación hasta una salida de planta no excede de 25 m, excepto en los casos que se indican a continuación: - 35 m en uso Aparcamiento; - 50 m si se trata de una planta, incluso de uso Aparcamiento, que tiene una salida directa al espacio exterior seguro y la ocupación no excede de 25 personas, o bien de un espacio al aire libre en el que el riesgo de incendio sea irrelevante, por ejemplo, una cubierta de edificio, una terraza, etc.
+
+    </div>
+    <div class="ru" markdown>
+
+    Длина путей эвакуации до выхода с этажа не более 25 м, кроме: 35 м — в стоянках; 50 м — для этажа (в т. ч. стоянки) с прямым выходом в безопасное внешнее пространство при заселённости ≤25 человек или для открытого пространства с несущественным риском (кровля, терраса и т. п.).
+
+    </div>
+    </div>
 
 === "🇬🇧 Англия"
 

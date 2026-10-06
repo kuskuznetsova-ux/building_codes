@@ -1,4 +1,4 @@
-# 1. Классы зданий: как делят в разных странах
+# 2.1 Классы зданий: как делят в разных странах
 
 [← К матрице](index.md) · Какие классификации зданий применяются при выборе пожарных требований.
 
@@ -89,6 +89,21 @@
 
 === "🇪🇺 ЕС"
 
+    **Страны ЕС: национальные нормы** (единой нормы ЕС нет; ниже — Германия, Франция, Австрия, Испания)
+
+    <div class="matrix fire eu" markdown>
+
+    | Страна | Нормативный документ | Что установлено |
+    |---|---|---|
+    | 🇩🇪 Германия (и общее по ЕС) | [МВО § 2](https://bvpi.de/bvpi/downloads/MBO.pdf?m=1749800306) | Нет единой системы. Пример — Германия: классы зданий 1–5 по высоте (до 7 / 13 м) и числу единиц использования; «особые здания» (Sonderbauten) — отдельно (МВО § 2(3), (4)) |
+    | 🇫🇷 Франция | Франция: [Arrêté 31.01.1986](https://medias.amf.asso.fr/docs/DOCUMENTS/AMF_20070607_arrete_31_01_86_incendie.pdf) (жилые дома, копия AMF; консолидированная редакция Légifrance не сверена ⏳) | 1–4 «семьи» жилых зданий по этажности и высоте пола верхней квартиры: 3-я — до 28 м, 4-я — 28–50 м; выше 50 м — особые правила (IGH) |
+    | 🇦🇹 Австрия | Австрия: OIB-Richtlinien, ред. май 2023 ([RL 2](https://www.propellets.at/assets/upload/pelletlagerung/oib-rl-2-ausgabe-mai-2023.pdf), [RL 2.2](https://din-notlicht.com/wp-content/uploads/oib-rl-2.2-ausgabe-mai-2023.pdf), [RL 2.3](https://din-notlicht.com/wp-content/uploads/oib-rl-2.3-ausgabe-mai-2023.pdf), [RL 4](https://glas-gasperlmair.at/wp-content/uploads/2023/10/oib-rl_4_ausgabe_mai_2023.pdf), [Begriffsbestimmungen](https://din-notlicht.com/wp-content/uploads/oib-rl-begriffsbestimmungen-ausgabe-mai-2023.pdf)) | Классы GK1–GK5 по числу надземных этажей и «Fluchtniveau» (≤7 / ≤11 / ≤22 м), площади и числу квартир; выше 22 м — отдельная RL 2.3 |
+    | 🇪🇸 Испания | Испания: [CTE DB-SI](https://www.codigotecnico.org/pdf/Documentos/SI/DBSI.pdf) | Классов зданий нет: требования зависят от назначения (uso, напр. Residencial Vivienda) и «высоты эвакуации» (ступени 15 / 28 / 50 / 80 м) |
+
+    </div>
+
+    **🇪🇺 ЕС и 🇩🇪 Германия — цитаты**
+
     Единой классификации зданий для пожарных требований в ЕС нет (CPR классифицирует строительные изделия по реакции на огонь A1–F по EN 13501-1 ⏳ — стандарт не читался). Ниже — пример Германии, МВО (типовой кодекс; в землях действуют свои редакции).
 
     <div class="pair" markdown>
@@ -104,9 +119,63 @@
     </div>
     </div>
 
-    **Источники**
+    **🇫🇷 Франция — цитаты**
 
-    - [МВО § 2](https://bvpi.de/bvpi/downloads/MBO.pdf?m=1749800306)
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    *fr · Arrêté 1986, ст. 3 (3-я и 4-я семьи):* 3° Troisième famille : - Habitations dont le plancher bas du logement le plus haut est situé à vingt-huit mètres au plus au-dessus du sol utilement accessible aux engins des services de secours et de lutte contre l'incendie, parmi lesquelles on distingue: o Troisième famille A: habitations comportant au plus sept étages sur rez-de-chaussée, et dans lesquelles la distance entre la porte palière de logement la plus éloignée et l'accès à l'escalier est au plus égale à sept mètres; o Troisième famille B: habitations ne satisfaisant pas aux conditions précédentes.
+
+    </div>
+    <div class="ru" markdown>
+
+    3-я семья — жилые здания, у которых пол самой высокой квартиры не выше 28 м над грунтом, доступным для спасательной техники: 3A — не более 7 этажей над первым и не более 7 м от двери самой дальней квартиры до лестницы; 3B — остальные.
+
+    </div>
+    </div>
+
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    *fr · Arrêté 1986, ст. 3 (4-я семья):* Quatrième famille: - Habitations dont le plancher bas du logement le plus haut est situé à plus de vingt-huit mètres et à cinquante mètres au plus au-dessus du niveau du sol utilement accessible aux engins des services publics de secours et de lutte contre l'incendie.
+
+    </div>
+    <div class="ru" markdown>
+
+    4-я семья — жилые здания, у которых пол самой высокой квартиры выше 28 м и не выше 50 м над грунтом, доступным для техники спасательных служб.
+
+    </div>
+    </div>
+
+    **🇦🇹 Австрия — цитаты**
+
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    *en · Begriffsbestimmungen, Gebäudeklasse 4 и 5:* Gebäude der Gebäudeklasse 4 (GK4) a) Gebäude mit nicht mehr als vier oberirdischen Geschoßen und mit einem Fluchtniveau von nicht mehr als 11 m, bestehend aus mehreren Wohnungen bzw. mehreren Betriebseinheiten von jeweils nicht mehr als 400 m² Nutzfläche der einzelnen Wohnungen bzw. Betriebseinheiten in den oberirdischen Geschoßen, b) Gebäude mit nicht mehr als vier oberirdischen Geschoßen und mit einem Fluchtniveau von nicht mehr als 11 m, bestehend aus einer Wohnung bzw. einer Betriebseinheit ohne Begrenzung der BruttoGrundfläche der oberirdischen Geschoße. Gebäude der Gebäudeklasse 5 (GK5) Gebäude mit einem Fluchtniveau von nicht mehr als 22 m, die nicht in die Gebäudeklassen 1, 2, 3 oder 4 fallen.
+
+    </div>
+    <div class="ru" markdown>
+
+    GK4 — не более 4 надземных этажей, Fluchtniveau не более 11 м, несколько квартир по ≤400 м² (или одна квартира/единица без ограничения площади). GK5 — Fluchtniveau не более 22 м, если здание не попадает в GK1–4.
+
+    </div>
+    </div>
+
+    **🇪🇸 Испания — цитаты**
+
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    *es · CTE DB-SI, Anejo A: Altura de evacuación:* Altura de evacuación Máxima diferencia de cotas entre un origen de evacuación y la salida de edificio que le corresponda.
+
+    </div>
+    <div class="ru" markdown>
+
+    Высота эвакуации — максимальная разность отметок между точкой начала эвакуации и соответствующим выходом из здания.
+
+    </div>
+    </div>
 
 === "🇬🇧 Англия"
 

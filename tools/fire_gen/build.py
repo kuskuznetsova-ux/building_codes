@@ -5,21 +5,40 @@ from qlib import pair,LANG
 from firedata import TOP
 from hrdata import HT
 from gdata import GT
+from eudata import EU,SRC
 OUT=os.path.join(os.path.dirname(os.path.abspath(__file__)),'..','..','docs','pozharnaya')
 FLAG={'ru':'🇷🇺 Россия','rs':'🇷🇸 Сербия','eu':'🇪🇺 ЕС','uk':'🇬🇧 Англия'}
 LB={'ru':'ru','rs':'sr','eu':'en / de','uk':'en'}
 def tab_lang(k,it):
     lab=it[1]
-    if k=='eu': return 'de' if lab.startswith(('MBO','MHHR')) else 'en'
+    if k=='eu':
+        if lab.startswith(('MBO','MHHR','M-GarStVO','MSB','OIB')): return 'de'
+        if lab.startswith('Arrêté'): return 'fr'
+        if lab.startswith('CTE'): return 'es'
+        return 'en'
     return LB[k]
-def page(topics,i,back,title_prefix,status):
-    t=topics[i]; n=i+1
-    md=[f'# {n}. {t["title"]}','',f'[← К матрице]({back}) · {t["intro"]}','',
+def page(topics,i,back,title_prefix,status,grp=None):
+    t=topics[i]; n=title_prefix+str(i+1)
+    md=[f'# {n} {t["title"]}','',f'[← К матрице]({back}) · {t["intro"]}','',
         '!!! warning "Статус: черновик"',f'    {status}','']
     if t.get('summary'): md+=['<div class="matrix fire" markdown>','',t['summary'],'','</div>','']
     for k in ['ru','rs','eu','uk']:
         md.append(f'=== "{FLAG[k]}"'); md.append('')
-        for it in t['tabs'][k]:
+        eud=EU.get((grp,t['slug'])) if k=='eu' else None
+        items=list(t['tabs'][k])
+        if eud:
+            de=t['cells']['eu']
+            md+=['    **Страны ЕС: национальные нормы** (единой нормы ЕС нет; ниже — Германия, Франция, Австрия, Испания)','',
+                 '    <div class="matrix fire eu" markdown>','','    | Страна | Нормативный документ | Что установлено |','    |---|---|---|',
+                 f'    | 🇩🇪 Германия (и общее по ЕС) | {"; ".join(de[1]) or "МВО, МХР и др. (типовые акты земель)"} | {de[0]} |']
+            for cc,fl in (('FR','🇫🇷 Франция'),('AT','🇦🇹 Австрия'),('ES','🇪🇸 Испания')):
+                md.append(f'    | {fl} | {SRC[cc]} | {eud[cc][0]} |')
+            md+=['','    </div>','']
+            md.append('    **🇪🇺 ЕС и 🇩🇪 Германия — цитаты**'); md.append('')
+            for cc,fl in (('FR','🇫🇷 Франция'),('AT','🇦🇹 Австрия'),('ES','🇪🇸 Испания')):
+                if eud[cc][1]:
+                    items+=[('h',fl+' — цитаты')]+list(eud[cc][1])
+        for it in items:
             if it[0]=='h': md.append(f'    **{it[1]}**'); md.append('')
             elif it[0]=='n': md.append(f'    {it[1]}'); md.append('')
             elif it[0] in ('q','t'):
@@ -28,7 +47,7 @@ def page(topics,i,back,title_prefix,status):
                 if k=='ru': ru='*Пояснение:* '+ru if not ru.lstrip().startswith('|') else ru
                 md+=pair(it[1],it[2],ru,lg)
         srcs=t['cells'][k][1]
-        if srcs:
+        if srcs and not eud:
             md.append('    **Источники**'); md.append('')
             for s in srcs: md.append(f'    - {s}')
             md.append('')
@@ -37,36 +56,44 @@ def page(topics,i,back,title_prefix,status):
     if i<len(topics)-1: nav.append(f'[{topics[i+1]["title"]} →]({topics[i+1]["slug"]}.md)')
     md.append(' · '.join(nav)); md.append('')
     return '\n'.join(md)
-def matrix(topics,first):
+def short(s,n=110):
+    if len(s)<=n: return s
+    c=s[:n].rsplit(' ',1)[0]
+    return c+'…'
+def matrix(topics,first,pref='',grp=None):
     rows=['| Аспект | 🇷🇺 Россия | 🇷🇸 Сербия | 🇪🇺 ЕС | 🇬🇧 Англия |','|---|---|---|---|---|']
-    for t in topics:
+    for ti,t in enumerate(topics):
         cs=[]
         for k in ['ru','rs','eu','uk']:
             txt,src=t['cells'][k]
+            eud=EU.get((grp,t['slug'])) if k=='eu' else None
+            if eud:
+                txt='<br>'.join(f'**{cc}** {short(x)}' for cc,x in [('DE',txt)]+[(c,eud[c][0]) for c in ('FR','AT','ES')])
+                s=f'[{txt}]({t["slug"]}.md#{k})'; cs.append(s); continue
             s=f'[{txt}]({t["slug"]}.md#{k})'
             if src: s+='<br><small>'+'; '.join(src)+'</small>'
             cs.append(s)
-        rows.append(f'| [**{t["title"]}**]({t["slug"]}.md) | '+' | '.join(cs)+' |')
+        rows.append(f'| [**{pref}{ti+1} {t["title"]}**]({t["slug"]}.md) | '+' | '.join(cs)+' |')
     return '\n'.join(rows)
-STAT_F='Первый срез — многоквартирные жилые дома (плюс автостоянки). Цитаты взяты программно из текстов документов; перевод — рабочий, неофициальный. **⏳** — не сверено. Тексты ФЗ-123 и СП 486 сверены по двум независимым копиям; английский текст CPR — с legislation.gov.uk (сохранённая копия акта).'
+STAT_F='Первый срез — многоквартирные жилые дома (плюс автостоянки). Цитаты взяты программно из текстов документов; перевод — рабочий, неофициальный. **⏳** — не сверено. Тексты ФЗ-123, СП 486, СП 2.13130 и СП 42.13330.2026 сверены по официальным редакциям; английский текст CPR — с legislation.gov.uk (сохранённая копия акта).'
 STAT_H='Цитаты взяты программно из текстов документов; перевод — рабочий, неофициальный. **⏳** — не сверено; для ЕС есть только пример Германии (МВО и Muster-Hochhaus-Richtlinie — типовые акты земель).'
 os.makedirs(OUT+'/vysotnye',exist_ok=True)
-for i,t in enumerate(TOP): open(f'{OUT}/{t["slug"]}.md','w').write(page(TOP,i,'index.md','',STAT_F))
-for i,t in enumerate(HT): open(f'{OUT}/vysotnye/{t["slug"]}.md','w').write(page(HT,i,'index.md','',STAT_H))
+for i,t in enumerate(TOP): open(f'{OUT}/{t["slug"]}.md','w').write(page(TOP,i,'index.md','2.',STAT_F,'F'))
+for i,t in enumerate(HT): open(f'{OUT}/vysotnye/{t["slug"]}.md','w').write(page(HT,i,'index.md','2.15.',STAT_H,'H'))
 # --- index.md (матрица основных правил)
 idx=f'''---
 hide:
   - toc
 ---
 
-# Пожарная безопасность: основные правила
+# 2. Пожарная безопасность: основные правила
 
 !!! warning "Статус: черновик, первый срез — многоквартирные жилые дома"
     Каждая ячейка ведёт на страницу темы с вкладкой страны: **слева** — цитата в оригинале (чёрным), **справа** — перевод на русский (серым). **⏳** — не сверено. Высотные здания: [отдельная матрица](vysotnye/index.md).
 
 <div class="matrix fire" markdown>
 
-{matrix(TOP,True)}
+{matrix(TOP,True,'2.','F')}
 
 </div>
 
@@ -90,7 +117,7 @@ hide:
 
 ## Что осталось сверить
 
-- [ ] ФЗ-123 и СП 486 — сверены по двум копиям, официальные сайты не открывались; СП 1.13130 с изменениями № 1–3. СП 2.13130.2020 (с изм. 1, 2) и СП 486 (с изм. 1) — читались по PDF из «Техэксперт», предоставленным пользователем.
+- [ ] ФЗ-123 (ред. на 04.08.2026), СП 2.13130.2020 (изм. 1, 2), СП 486 (изм. 1) и СП 42.13330.2026 — сверены по официальным редакциям из «Техэксперт» (предоставлены пользователем); СП 1.13130 с изменениями № 1–3 и СП 4.13130 — ещё нет. СП 2.13130.2020 (с изм. 1, 2) и СП 486 (с изм. 1) — читались по PDF из «Техэксперт», предоставленным пользователем.
 - [ ] СП 484 (сигнализация в жилых домах) не читался.
 - [ ] Сербия: Правилник о безопасности от пожара наружных стен зданий; расстояния между зданиями.
 - [ ] ЕС: EN 13501-1/-2; земельные законы Германии, Франция и др. (в матрице только CPR и МВО).
@@ -110,7 +137,7 @@ hide:
   - toc
 ---
 
-# Высотные здания: пороги и основные требования
+# 2.15 Высотные здания: пороги и основные требования
 
 !!! warning "Статус: черновик"
     В России высотным считается здание **выше 75 м**. Таблица сравнивает порог в других странах; ниже — матрица основных требований. Каждая ячейка ведёт на страницу темы: **слева** оригинал (чёрным), **справа** русский перевод (серым). **⏳** — не сверено.
@@ -127,7 +154,7 @@ hide:
 
 <div class="matrix fire" markdown>
 
-{matrix(HT,True)}
+{matrix(HT,True,'2.15.','H')}
 
 </div>
 
@@ -150,21 +177,21 @@ print('built',len(TOP),len(HT))
 # --- градостроительство
 GOUT=os.path.join(os.path.dirname(os.path.abspath(__file__)),'..','..','docs','gradostroitelstvo')
 os.makedirs(GOUT,exist_ok=True)
-STAT_G='Цитаты взяты программно из текстов документов; перевод — рабочий, неофициальный. **⏳** — не сверено. Тексты СанПиН и СП 42 — с копий сайтов (sudact.ru, meganorm.ru), официальные сайты не открывались.'
-for i,t in enumerate(GT): open(f'{GOUT}/{t["slug"]}.md','w').write(page(GT,i,'index.md','',STAT_G))
+STAT_G='Цитаты взяты программно из текстов документов; перевод — рабочий, неофициальный. **⏳** — не сверено. СП 42.13330.2026 сверен по официальной редакции (Техэксперт); текст СанПиН — с копии sudact.ru ⏳.'
+for i,t in enumerate(GT): open(f'{GOUT}/{t["slug"]}.md','w').write(page(GT,i,'index.md','3.',STAT_G,'G'))
 gidx=f'''---
 hide:
   - toc
 ---
 
-# Градостроительство: инсоляция и расстояния между зданиями
+# 3. Градостроительство: инсоляция и расстояния между зданиями
 
 !!! warning "Статус: черновик, первый срез — жилые здания"
     Сравнение инсоляции (СанПиН 1.2.3685-21) и расстояний по генплану (СП 42.13330.2026, введён с 12.07.2026) с нормами Сербии, ЕС (пример Германии) и Англии. Каждая ячейка ведёт на страницу темы: **слева** оригинал, **справа** перевод. **⏳** — не сверено.
 
 <div class="matrix fire" markdown>
 
-{matrix(GT,True)}
+{matrix(GT,True,'3.','G')}
 
 </div>
 

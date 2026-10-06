@@ -1,4 +1,4 @@
-# 2. Методики измерения высоты и расстояний
+# 2.2 Методики измерения высоты и расстояний
 
 [← К матрице](index.md) · Как считают высоту здания и длину пути эвакуации: от этого зависят пороги и допустимые значения.
 
@@ -100,6 +100,21 @@
 
 === "🇪🇺 ЕС"
 
+    **Страны ЕС: национальные нормы** (единой нормы ЕС нет; ниже — Германия, Франция, Австрия, Испания)
+
+    <div class="matrix fire eu" markdown>
+
+    | Страна | Нормативный документ | Что установлено |
+    |---|---|---|
+    | 🇩🇪 Германия (и общее по ЕС) | [МВО § 2(3)](https://bvpi.de/bvpi/downloads/MBO.pdf?m=1749800306); [M-GarStVO § 14](https://bauministerkonferenz.de/Dokumente/42323132.pdf) | Пример — Германия: высота — от пола верхнего этажа, где возможна жилая комната, до поверхности земли «в среднем» (МВО § 2(3)); путь — «по линии движения» (M-GarStVO, МХР) |
+    | 🇫🇷 Франция | Франция: [Arrêté 31.01.1986](https://medias.amf.asso.fr/docs/DOCUMENTS/AMF_20070607_arrete_31_01_86_incendie.pdf) (жилые дома, копия AMF; консолидированная редакция Légifrance не сверена ⏳) | Высота — пол самой высокой квартиры над «грунтом, доступным для техники спасательных служб» (ст. 1, 3); лестничные клетки — по «voies échelles» с вылетом лестницы 18/24/30 м |
+    | 🇦🇹 Австрия | Австрия: OIB-Richtlinien, ред. май 2023 ([RL 2](https://www.propellets.at/assets/upload/pelletlagerung/oib-rl-2-ausgabe-mai-2023.pdf), [RL 2.2](https://din-notlicht.com/wp-content/uploads/oib-rl-2.2-ausgabe-mai-2023.pdf), [RL 2.3](https://din-notlicht.com/wp-content/uploads/oib-rl-2.3-ausgabe-mai-2023.pdf), [RL 4](https://glas-gasperlmair.at/wp-content/uploads/2023/10/oib-rl_4_ausgabe_mai_2023.pdf), [Begriffsbestimmungen](https://din-notlicht.com/wp-content/uploads/oib-rl-begriffsbestimmungen-ausgabe-mai-2023.pdf)) | Fluchtniveau — разность между верхом пола самого высокого надземного этажа и прилегающей поверхностью земли «в среднем»; путь — Gehweglänge (RL 2, п. 5.1.1) |
+    | 🇪🇸 Испания | Испания: [CTE DB-SI](https://www.codigotecnico.org/pdf/Documentos/SI/DBSI.pdf) | Высота эвакуации — разность отметок начала эвакуации и выхода из здания; длина пути — по оси проходов, лестниц и пандусов |
+
+    </div>
+
+    **🇪🇺 ЕС и 🇩🇪 Германия — цитаты**
+
     <div class="pair" markdown>
     <div class="orig" markdown>
 
@@ -116,7 +131,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *en · M-GarStVO § 14 Abs. 2 (путь):* Die Entfernung ist in der Lauflinie, jedoch nicht über Einstellplätze zu messen.
+    *de · M-GarStVO § 14 Abs. 2 (путь):* Die Entfernung ist in der Lauflinie, jedoch nicht über Einstellplätze zu messen.
 
     </div>
     <div class="ru" markdown>
@@ -139,10 +154,50 @@
     </div>
     </div>
 
-    **Источники**
+    **🇫🇷 Франция — цитаты**
 
-    - [МВО § 2(3)](https://bvpi.de/bvpi/downloads/MBO.pdf?m=1749800306)
-    - [M-GarStVO § 14](https://bauministerkonferenz.de/Dokumente/42323132.pdf)
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    *fr · Arrêté 1986, ст. 4 (voies échelles):* Voies parallèles : leur bord le plus proche doit être à moins de 8 mètres et à plus de 1 mètre de la projection horizontale de la partie la plus saillante de la façade pour l'emploi des échelles de 30 mètres. La distance est réduite à 6 mètres pour les échelles de 24 mètres et à 3 mètres pour les échelles de 18 mètres.
+
+    </div>
+    <div class="ru" markdown>
+
+    Параллельные проезды: их ближний край — менее 8 м и более 1 м от горизонтальной проекции самой выступающей части фасада для лестниц 30 м; 6 м — для лестниц 24 м и 3 м — для лестниц 18 м. (Лестничные клетки зданий 3-й семьи должны быть доступны по таким «лестничным проездам», ст. 4.)
+
+    </div>
+    </div>
+
+    **🇦🇹 Австрия — цитаты**
+
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    *en · Begriffsbestimmungen, Fluchtniveau:* Fluchtniveau Höhendifferenz zwischen der Fußbodenoberkante des höchstgelegenen oberirdischen Geschoßes und der an das Gebäude angrenzenden Geländeoberfläche nach Fertigstellung im Mittel.
+
+    </div>
+    <div class="ru" markdown>
+
+    Fluchtniveau: разность высот между верхней отметкой пола самого высокого надземного этажа и примыкающей к зданию поверхностью земли после завершения работ — в среднем.
+
+    </div>
+    </div>
+
+    **🇪🇸 Испания — цитаты**
+
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    *es · CTE DB-SI, Anejo A: Recorrido de evacuación:* Recorrido de evacuación Recorrido que conduce desde un origen de evacuación hasta una salida de planta, situada en la misma planta considerada o en otra, o hasta una salida de edificio. Conforme a ello, una vez alcanzada una salida de planta, la longitud del recorrido posterior no computa a efectos del cumplimiento de los límites a los recorridos de evacuación. La longitud de los recorridos por pasillos, escaleras y rampas, se medirá sobre el eje de los mismos.
+
+    </div>
+    <div class="ru" markdown>
+
+    Путь эвакуации — путь от начала эвакуации до выхода с этажа (на этом или другом этаже) или до выхода из здания. После достижения выхода с этажа дальнейший путь в пределах ограничений не учитывается. Длина путей по коридорам, лестницам и пандусам измеряется по их оси.
+
+    </div>
+    </div>
 
 === "🇬🇧 Англия"
 

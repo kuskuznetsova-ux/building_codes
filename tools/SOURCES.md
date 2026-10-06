@@ -31,3 +31,14 @@
 | lich | ins/lich.txt | https://lichfields.uk/blog/2022/june/10/is-your-planning-application-at-risk-new-bre-report-209-guidance-fundamental-changes-to-daylight-and-sunlight-assessments (пересказ BRE 209 и EN 17037) |
 
 Для генератора стадий (`tools/stages_gen`): `rs/` (Правилник 96/2023, Закон о планировании и строительстве — paragraf.rs), `st/` (RIBA Plan of Work 2020, ACE 2013, ПП РФ № 87), `eu/cka.txt`, `uk/gw.txt` — ссылки в `tools/stages_gen/data.py`.
+
+## Страны ЕС (Франция, Австрия, Испания) — eudata.py
+| key | file | URL |
+|---|---|---|
+| es | eu5/es_n.txt | https://www.codigotecnico.org/pdf/Documentos/SI/DBSI.pdf |
+| at | eu5/at_n.txt | https://www.propellets.at/assets/upload/pelletlagerung/oib-rl-2-ausgabe-mai-2023.pdf (OIB-RL 2) |
+| atb | eu5/atb_n.txt | https://din-notlicht.com/wp-content/uploads/oib-rl-begriffsbestimmungen-ausgabe-mai-2023.pdf |
+| at23 | eu5/at23o_n.txt | https://din-notlicht.com/wp-content/uploads/oib-rl-2.3-ausgabe-mai-2023.pdf |
+| at22 | eu5/at22_n.txt | https://din-notlicht.com/wp-content/uploads/oib-rl-2.2-ausgabe-mai-2023.pdf |
+| at4 | eu5/at4_n.txt | https://glas-gasperlmair.at/wp-content/uploads/2023/10/oib-rl_4_ausgabe_mai_2023.pdf |
+| fr | eu5/fr_n.txt | https://medias.amf.asso.fr/docs/DOCUMENTS/AMF_20070607_arrete_31_01_86_incendie.pdf (Légifrance недоступен) |

@@ -1,4 +1,4 @@
-# 5. Огнестойкость и пожарные отсеки
+# 2.15.5 Огнестойкость и пожарные отсеки
 
 [← К матрице](index.md) · Пределы огнестойкости конструкций и предельные площади отсеков.
 
@@ -104,6 +104,21 @@
 
 === "🇪🇺 ЕС"
 
+    **Страны ЕС: национальные нормы** (единой нормы ЕС нет; ниже — Германия, Франция, Австрия, Испания)
+
+    <div class="matrix fire eu" markdown>
+
+    | Страна | Нормативный документ | Что установлено |
+    |---|---|---|
+    | 🇩🇪 Германия (и общее по ЕС) | [МХР, п. 3.1](https://bau.bremen.de/sixcms/media.php/13/MHHR.pdf) | Пример — Германия (МХР 3.1): несущие конструкции огнестойкие и негорючие; выше 60 м — 120 минут |
+    | 🇫🇷 Франция | Франция: [Arrêté 31.01.1986](https://medias.amf.asso.fr/docs/DOCUMENTS/AMF_20070607_arrete_31_01_86_incendie.pdf) (жилые дома, копия AMF; консолидированная редакция Légifrance не сверена ⏳) | 4-я семья (28–50 м): несущие вертикальные элементы — 1½ ч (ст. 5) |
+    | 🇦🇹 Австрия | Австрия: OIB-Richtlinien, ред. май 2023 ([RL 2](https://www.propellets.at/assets/upload/pelletlagerung/oib-rl-2-ausgabe-mai-2023.pdf), [RL 2.2](https://din-notlicht.com/wp-content/uploads/oib-rl-2.2-ausgabe-mai-2023.pdf), [RL 2.3](https://din-notlicht.com/wp-content/uploads/oib-rl-2.3-ausgabe-mai-2023.pdf), [RL 4](https://glas-gasperlmair.at/wp-content/uploads/2023/10/oib-rl_4_ausgabe_mai_2023.pdf), [Begriffsbestimmungen](https://din-notlicht.com/wp-content/uploads/oib-rl-begriffsbestimmungen-ausgabe-mai-2023.pdf)) | RL 2.3: несущие и жёсткости R 90 и A2; стены/перекрытия отсеков REI 90 и A2 (п. 2.2) |
+    | 🇪🇸 Испания | Испания: [CTE DB-SI](https://www.codigotecnico.org/pdf/Documentos/SI/DBSI.pdf) | Высота эвакуации >28 м: стены/перекрытия секторов жилья EI 120; несущие — R 120 (SI 1, SI 6) |
+
+    </div>
+
+    **🇪🇺 ЕС и 🇩🇪 Германия — цитаты**
+
     <div class="pair" markdown>
     <div class="orig" markdown>
 
@@ -117,9 +132,20 @@
     </div>
     </div>
 
-    **Источники**
+    **🇦🇹 Австрия — цитаты**
 
-    - [МХР, п. 3.1](https://bau.bremen.de/sixcms/media.php/13/MHHR.pdf)
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    *de · OIB-RL 2.3, п. 2.2.1:* 2.2.1 Tragende und aussteifende Bauteile sowie Läufe und Podeste von Sicherheitstreppenhäusern müssen R 90 und A2 entsprechen.
+
+    </div>
+    <div class="ru" markdown>
+
+    Несущие и раскрепляющие элементы, а также марши и площадки «безопасных лестничных клеток» должны соответствовать R 90 и A2.
+
+    </div>
+    </div>
 
 === "🇬🇧 Англия"
 

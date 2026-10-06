@@ -1,4 +1,4 @@
-# 14. Автостоянки и гаражи
+# 2.14 Автостоянки и гаражи
 
 [← К матрице](index.md) · Эвакуация, огнестойкость и автоматическое тушение закрытых и открытых стоянок.
 
@@ -186,12 +186,27 @@
 
 === "🇪🇺 ЕС"
 
+    **Страны ЕС: национальные нормы** (единой нормы ЕС нет; ниже — Германия, Франция, Австрия, Испания)
+
+    <div class="matrix fire eu" markdown>
+
+    | Страна | Нормативный документ | Что установлено |
+    |---|---|---|
+    | 🇩🇪 Германия (и общее по ЕС) | [M-GarStVO §§ 2, 12, 14, 17](https://bauministerkonferenz.de/Dokumente/42323132.pdf) | Пример — Германия (M-GarStVO): малые ≤100 м², средние до 1000 м², большие >1000 м²; 2 пути спасения; до выхода 50 м (открытые) / 35 м (закрытые); отсеки 5000 / 2500 м² (§§ 1, 12, 14) |
+    | 🇫🇷 Франция | Франция: [Arrêté 31.01.1986](https://medias.amf.asso.fr/docs/DOCUMENTS/AMF_20070607_arrete_31_01_86_incendie.pdf) (жилые дома, копия AMF; консолидированная редакция Légifrance не сверена ⏳) | Закрытые стоянки при жилых домах площадью от 100 до 6 000 м² — в рамках arrêté (ст. 1); детали ⏳ |
+    | 🇦🇹 Австрия | Австрия: OIB-Richtlinien, ред. май 2023 ([RL 2](https://www.propellets.at/assets/upload/pelletlagerung/oib-rl-2-ausgabe-mai-2023.pdf), [RL 2.2](https://din-notlicht.com/wp-content/uploads/oib-rl-2.2-ausgabe-mai-2023.pdf), [RL 2.3](https://din-notlicht.com/wp-content/uploads/oib-rl-2.3-ausgabe-mai-2023.pdf), [RL 4](https://glas-gasperlmair.at/wp-content/uploads/2023/10/oib-rl_4_ausgabe_mai_2023.pdf), [Begriffsbestimmungen](https://din-notlicht.com/wp-content/uploads/oib-rl-begriffsbestimmungen-ausgabe-mai-2023.pdf)) | Гаражи — OIB-RL 2.2: путь до выхода ≤40 м; доп. независимый путь на каждом этаже (п. 5.5) |
+    | 🇪🇸 Испания | Испания: [CTE DB-SI](https://www.codigotecnico.org/pdf/Documentos/SI/DBSI.pdf) | Стоянка — отдельный сектор при >100 м²; путь до выхода ≤35 м (SI 1, SI 3) |
+
+    </div>
+
+    **🇪🇺 ЕС и 🇩🇪 Германия — цитаты**
+
     Единых норм ЕС нет. Пример — немецкая типовая Muster-Garagen- und Stellplatzverordnung (M-GarStVO, редакция 4 сентября 2020); в землях действуют свои редакции.
 
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *en · M-GarStVO § 2 Abs. 8:* Es sind Garagen mit einer Nutzfläche 1. bis 100 m² Kleingaragen, 2. über 100 m² bis 1000 m² Mittelgaragen, 3. über 1000 m² Großgaragen.
+    *de · M-GarStVO § 2 Abs. 8:* Es sind Garagen mit einer Nutzfläche 1. bis 100 m² Kleingaragen, 2. über 100 m² bis 1000 m² Mittelgaragen, 3. über 1000 m² Großgaragen.
 
     </div>
     <div class="ru" markdown>
@@ -204,7 +219,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *en · M-GarStVO § 14 Abs. 1–2:* Jede Mittel- und Großgarage muss in jedem Geschoss und Brandabschnitt mindestens zwei voneinander unabhängige bauliche Rettungswege haben, die unmittelbar oder über notwendige Treppenräume ins Freie führen. Es ist zulässig, einen der nach Satz 1 erforderlichen Rettungswege über den benachbarten Brandabschnitt derselben Garage zu führen. In oberirdischen Mittel- und Großgaragen genügt ein Rettungsweg, wenn ein Ausgang ins Freie in höchstens 10 m Entfernung erreichbar ist. Der zweite Rettungsweg darf auch über eine Rampe führen. Bei oberirdischen Mittel- und Großgaragen, deren Einstellplätze im Mittel nicht mehr als 3 m über der Geländeoberfläche liegen, sind Treppenräume für notwendige Treppen nicht erforderlich. (2) Von jeder Stelle einer Mittel- und Großgarage muss in demselben Geschoß mindestens ein notwendiger Treppenraum oder, wenn ein Treppenraum nicht erforderlich ist, mindestens eine notwendige Treppe oder ein Ausgang ins Freie 1. bei offenen Mittel- und Großgaragen in einer Entfernung von höchstens 50 m, 2. bei geschlossenen Mittel- und Großgaragen in einer Entfernung von höchstens 35 m erreichbar sein. Die Entfernung ist in der Lauflinie, jedoch nicht über Einstellplätze zu messen.
+    *de · M-GarStVO § 14 Abs. 1–2:* Jede Mittel- und Großgarage muss in jedem Geschoss und Brandabschnitt mindestens zwei voneinander unabhängige bauliche Rettungswege haben, die unmittelbar oder über notwendige Treppenräume ins Freie führen. Es ist zulässig, einen der nach Satz 1 erforderlichen Rettungswege über den benachbarten Brandabschnitt derselben Garage zu führen. In oberirdischen Mittel- und Großgaragen genügt ein Rettungsweg, wenn ein Ausgang ins Freie in höchstens 10 m Entfernung erreichbar ist. Der zweite Rettungsweg darf auch über eine Rampe führen. Bei oberirdischen Mittel- und Großgaragen, deren Einstellplätze im Mittel nicht mehr als 3 m über der Geländeoberfläche liegen, sind Treppenräume für notwendige Treppen nicht erforderlich. (2) Von jeder Stelle einer Mittel- und Großgarage muss in demselben Geschoß mindestens ein notwendiger Treppenraum oder, wenn ein Treppenraum nicht erforderlich ist, mindestens eine notwendige Treppe oder ein Ausgang ins Freie 1. bei offenen Mittel- und Großgaragen in einer Entfernung von höchstens 50 m, 2. bei geschlossenen Mittel- und Großgaragen in einer Entfernung von höchstens 35 m erreichbar sein. Die Entfernung ist in der Lauflinie, jedoch nicht über Einstellplätze zu messen.
 
     </div>
     <div class="ru" markdown>
@@ -217,7 +232,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *en · M-GarStVO § 12 Abs. 1:* Geschlossene Garagen, ausgenommen automatische Garagen, müssen durch Brandwände nach § 30 Abs. 3 Satz 1 MBO in Brandabschnitte mit Nutzflächen 1. in oberirdischen geschlossenen Garagen bis höchstens 5.000 m², 2. in sonstigen geschlossenen Garagen bis höchstens 2.500 m² unterteilt sein. Die Nutzfläche darf höchstens doppelt so groß sein, wenn die Garagen selbsttätige Feuerlöschanlagen haben.
+    *de · M-GarStVO § 12 Abs. 1:* Geschlossene Garagen, ausgenommen automatische Garagen, müssen durch Brandwände nach § 30 Abs. 3 Satz 1 MBO in Brandabschnitte mit Nutzflächen 1. in oberirdischen geschlossenen Garagen bis höchstens 5.000 m², 2. in sonstigen geschlossenen Garagen bis höchstens 2.500 m² unterteilt sein. Die Nutzfläche darf höchstens doppelt so groß sein, wenn die Garagen selbsttätige Feuerlöschanlagen haben.
 
     </div>
     <div class="ru" markdown>
@@ -227,9 +242,50 @@
     </div>
     </div>
 
-    **Источники**
+    **🇫🇷 Франция — цитаты**
 
-    - [M-GarStVO §§ 2, 12, 14, 17](https://bauministerkonferenz.de/Dokumente/42323132.pdf)
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    *fr · Arrêté 1986, ст. 1:* aux parcs de stationnement couverts annexes des bâtiments ci-dessus, ayant une surface de plus de 100 mètres carrés et de 6 000 mètres carrés au plus.
+
+    </div>
+    <div class="ru" markdown>
+
+    Положения настоящего arrêté применяются к закрытым стоянкам, примыкающим к вышеуказанным зданиям, площадью более 100 м² и не более 6 000 м².
+
+    </div>
+    </div>
+
+    **🇦🇹 Австрия — цитаты**
+
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    *de · OIB-RL 2.2, п. 5.5.1:* 5.5.1 Von jeder Stelle einer Garage müssen in höchstens 40 m Gehweglänge erreichbar sein: a) ein direkter Ausgang zu einem sicheren Ort des angrenzenden Geländes im Freien, oder b) ein Treppenhaus oder eine Außentreppe jeweils gemäß Tabelle 3 der OIB-Richtlinie 2 jeweils mit einer vorgelagerten Schleuse gemäß Punkt 5.4.3 bei Garagen mit nicht mehr als zwei unterirdischen Geschoßen und einer Nutzfläche von nicht mehr als 600 m², oder c) ein Treppenhaus oder eine Außentreppe jeweils gemäß Tabelle 3 der OIB-Richtlinie 2, wobei zusätzlich Punkt 5.5.2 gilt.
+
+    </div>
+    <div class="ru" markdown>
+
+    От любой точки гаража в пределах не более 40 м пути должны быть доступны: а) прямой выход наружу, либо б) лестничная клетка или внешняя лестница по табл. 3 RL 2 с предшлюзом — для гаражей не более чем с двумя подземными этажами и площадью не более 600 м², либо в) лестничная клетка по табл. 3 RL 2 (с доп. условиями п. 5.5.2).
+
+    </div>
+    </div>
+
+    **🇪🇸 Испания — цитаты**
+
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    *es · CTE DB-SI, Tabla 3.1:* 35 m en uso Aparcamiento;
+
+    </div>
+    <div class="ru" markdown>
+
+    (Длина пути эвакуации не более 25 м, кроме случаев:) 35 м — в стоянках.
+
+    </div>
+    </div>
 
 === "🇬🇧 Англия"
 

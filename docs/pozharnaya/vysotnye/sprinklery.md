@@ -1,4 +1,4 @@
-# 7. Автоматическое пожаротушение и водопровод
+# 2.15.7 Автоматическое пожаротушение и водопровод
 
 [← К матрице](index.md) · Обязательность спринклерных установок и пожарных кранов.
 
@@ -58,6 +58,21 @@
 
 === "🇪🇺 ЕС"
 
+    **Страны ЕС: национальные нормы** (единой нормы ЕС нет; ниже — Германия, Франция, Австрия, Испания)
+
+    <div class="matrix fire eu" markdown>
+
+    | Страна | Нормативный документ | Что установлено |
+    |---|---|---|
+    | 🇩🇪 Германия (и общее по ЕС) | [МХР, п. 6.3](https://bau.bremen.de/sixcms/media.php/13/MHHR.pdf) | Пример — Германия (МХР 6.3): автоматические установки тушения обязательны в высотных домах (кроме облегчённых по п. 8); мокрые стояки с гидрантами на каждом этаже |
+    | 🇫🇷 Франция | Франция: [Arrêté 31.01.1986](https://medias.amf.asso.fr/docs/DOCUMENTS/AMF_20070607_arrete_31_01_86_incendie.pdf) (жилые дома, копия AMF; консолидированная редакция Légifrance не сверена ⏳) | ⏳ не сверено |
+    | 🇦🇹 Австрия | Австрия: OIB-Richtlinien, ред. май 2023 ([RL 2](https://www.propellets.at/assets/upload/pelletlagerung/oib-rl-2-ausgabe-mai-2023.pdf), [RL 2.2](https://din-notlicht.com/wp-content/uploads/oib-rl-2.2-ausgabe-mai-2023.pdf), [RL 2.3](https://din-notlicht.com/wp-content/uploads/oib-rl-2.3-ausgabe-mai-2023.pdf), [RL 4](https://glas-gasperlmair.at/wp-content/uploads/2023/10/oib-rl_4_ausgabe_mai_2023.pdf), [Begriffsbestimmungen](https://din-notlicht.com/wp-content/uploads/oib-rl-begriffsbestimmungen-ausgabe-mai-2023.pdf)) | RL 2.3: нормы к установкам (60 мин воды; для жилья ≤32 м — 30 мин); где обязательны ⏳ не выяснено; сухой стояк достаточен для жилья ≤32 м |
+    | 🇪🇸 Испания | Испания: [CTE DB-SI](https://www.codigotecnico.org/pdf/Documentos/SI/DBSI.pdf) | АУП — при высоте эвакуации >80 м; сухая колонна — выше 24 м (жильё); аварийный лифт — выше 28 м (SI 4) |
+
+    </div>
+
+    **🇪🇺 ЕС и 🇩🇪 Германия — цитаты**
+
     <div class="pair" markdown>
     <div class="orig" markdown>
 
@@ -83,10 +98,6 @@
 
     </div>
     </div>
-
-    **Источники**
-
-    - [МХР, п. 6.3](https://bau.bremen.de/sixcms/media.php/13/MHHR.pdf)
 
 === "🇬🇧 Англия"
 

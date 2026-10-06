@@ -1,4 +1,4 @@
-# 12. Автоматическое пожаротушение (спринклеры) в жилых домах
+# 2.12 Автоматическое пожаротушение (спринклеры) в жилых домах
 
 [← К матрице](index.md) · Когда спринклеры обязательны или дают послабления.
 
@@ -79,6 +79,21 @@
 
 === "🇪🇺 ЕС"
 
+    **Страны ЕС: национальные нормы** (единой нормы ЕС нет; ниже — Германия, Франция, Австрия, Испания)
+
+    <div class="matrix fire eu" markdown>
+
+    | Страна | Нормативный документ | Что установлено |
+    |---|---|---|
+    | 🇩🇪 Германия (и общее по ЕС) | [МХР, п. 6.3](https://bau.bremen.de/sixcms/media.php/13/MHHR.pdf); [M-GarStVO § 17](https://bauministerkonferenz.de/Dokumente/42323132.pdf) | Общей нормы нет. Германия: в высотных домах АУП обязательны (МХР 6.3.1.1); в больших подземных гаражах — (M-GarStVO § 17(3)); для обычных жилых домов ⏳ |
+    | 🇫🇷 Франция | Франция: [Arrêté 31.01.1986](https://medias.amf.asso.fr/docs/DOCUMENTS/AMF_20070607_arrete_31_01_86_incendie.pdf) (жилые дома, копия AMF; консолидированная редакция Légifrance не сверена ⏳) | В arrêté 1986 для обычного жилья АУП не найдены ⏳ |
+    | 🇦🇹 Австрия | Австрия: OIB-Richtlinien, ред. май 2023 ([RL 2](https://www.propellets.at/assets/upload/pelletlagerung/oib-rl-2-ausgabe-mai-2023.pdf), [RL 2.2](https://din-notlicht.com/wp-content/uploads/oib-rl-2.2-ausgabe-mai-2023.pdf), [RL 2.3](https://din-notlicht.com/wp-content/uploads/oib-rl-2.3-ausgabe-mai-2023.pdf), [RL 4](https://glas-gasperlmair.at/wp-content/uploads/2023/10/oib-rl_4_ausgabe_mai_2023.pdf), [Begriffsbestimmungen](https://din-notlicht.com/wp-content/uploads/oib-rl-begriffsbestimmungen-ausgabe-mai-2023.pdf)) | RL 2.3 (выше 22 м): требования к АУП и водоснабжению (60 мин; для жилья до 32 м — 30 мин) — но где АУП обязательны ⏳ не выяснено |
+    | 🇪🇸 Испания | Испания: [CTE DB-SI](https://www.codigotecnico.org/pdf/Documentos/SI/DBSI.pdf) | АУП обязательна при высоте эвакуации >80 м; при АУП площади секторов можно удвоить, пути — увеличить на 25 % (SI 1, SI 3, SI 4) |
+
+    </div>
+
+    **🇪🇺 ЕС и 🇩🇪 Германия — цитаты**
+
     Общей нормы ЕС нет. Ниже — пример Германии (типовые акты земель); для обычных жилых домов требований ⏳ не сверено.
 
     <div class="pair" markdown>
@@ -97,7 +112,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *en · M-GarStVO § 17 Abs. 3 (гаражи):* Selbsttätige Feuerlöschanlagen müssen vorhanden sein 1. in Geschossen von Großgaragen, wenn der Fußboden der Geschosse im Mittel mehr als 4 m unter der Geländeoberfläche liegt. und das Gebäude nicht allein der Garagennutzung dient; dies gilt nicht, wenn die Großgarage zu Geschossen mit anderer Nutzung in keiner Verbindung steht, 2. in automatischen Garagen mit mehr als 20 Garageneinstellplätzen.
+    *de · M-GarStVO § 17 Abs. 3 (гаражи):* Selbsttätige Feuerlöschanlagen müssen vorhanden sein 1. in Geschossen von Großgaragen, wenn der Fußboden der Geschosse im Mittel mehr als 4 m unter der Geländeoberfläche liegt. und das Gebäude nicht allein der Garagennutzung dient; dies gilt nicht, wenn die Großgarage zu Geschossen mit anderer Nutzung in keiner Verbindung steht, 2. in automatischen Garagen mit mehr als 20 Garageneinstellplätzen.
 
     </div>
     <div class="ru" markdown>
@@ -107,10 +122,35 @@
     </div>
     </div>
 
-    **Источники**
+    **🇦🇹 Австрия — цитаты**
 
-    - [МХР, п. 6.3](https://bau.bremen.de/sixcms/media.php/13/MHHR.pdf)
-    - [M-GarStVO § 17](https://bauministerkonferenz.de/Dokumente/42323132.pdf)
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    *de · OIB-RL 2.3, п. 2.11.2:* 2.11.2 Automatische Löschanlagen (z.B. Sprinkleranlage SPA) mit dem Schutzziel „den Brand im Entstehungsstadium zu entdecken und zu löschen oder solange unter Kontrolle zu halten, bis das Löschen mit anderen Mitteln durchgeführt werden kann“müssen nach einer anerkannten Richtlinie ausgeführt werden. Die automatische Löschanlage muss über eine Wasserversorgung mit erhöhter Zuverlässigkeit und mindestens 60 Minuten Wirkzeit verfügen; für Wohngebäude mit einem Fluchtniveau von nicht mehr als 32 m ist eine einfache Wasserversorgung mit einer Wirkzeit von 30 Minuten ausreichend.
+
+    </div>
+    <div class="ru" markdown>
+
+    Автоматические установки тушения (напр., спринклерные) должны выполняться по признанной директиве. Водоснабжение — повышенной надёжности и не менее 60 минут; для жилых зданий с Fluchtniveau не более 32 м достаточно простого водоснабжения на 30 минут.
+
+    </div>
+    </div>
+
+    **🇪🇸 Испания — цитаты**
+
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    *es · CTE DB-SI, SI 4, Tabla 1.1:* Instalación automática de extinción Salvo otra indicación en relación con el uso, en todo edificio cuya altura de evacuación exceda de 80 m.
+
+    </div>
+    <div class="ru" markdown>
+
+    Автоматическая установка тушения: если нет иных указаний по назначению — в любом здании, у которого высота эвакуации превышает 80 м.
+
+    </div>
+    </div>
 
 === "🇬🇧 Англия"
 

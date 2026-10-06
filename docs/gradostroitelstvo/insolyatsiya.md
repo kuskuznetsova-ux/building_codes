@@ -1,4 +1,4 @@
-# 1. Инсоляция зданий и территорий
+# 3.1 Инсоляция зданий и территорий
 
 [← К матрице](index.md) · Требования к продолжительности прямого солнечного света в помещениях и на участках.
 
@@ -134,6 +134,21 @@
 
 === "🇪🇺 ЕС"
 
+    **Страны ЕС: национальные нормы** (единой нормы ЕС нет; ниже — Германия, Франция, Австрия, Испания)
+
+    <div class="matrix fire eu" markdown>
+
+    | Страна | Нормативный документ | Что установлено |
+    |---|---|---|
+    | 🇩🇪 Германия (и общее по ЕС) | [Lichfields о BRE 209 и EN 17037](https://lichfields.uk/blog/2022/june/10/is-your-planning-application-at-risk-new-bre-report-209-guidance-fundamental-changes-to-daylight-and-sunlight-assessments) | Стандарт EN 17037 «Daylight in buildings» (добровольный): солнечное освещение — минимум 1,5 / 3,0 / 4,0 ч на дату между 1 февраля и 21 марта; дневной свет — коэффициенты 2,1 / 3,5 / 5,0% (значения для Великобритании); национальные нормы — ⏳ (Германия: DIN 5034) |
+    | 🇫🇷 Франция | Франция: [Arrêté 31.01.1986](https://medias.amf.asso.fr/docs/DOCUMENTS/AMF_20070607_arrete_31_01_86_incendie.pdf) (жилые дома, копия AMF; консолидированная редакция Légifrance не сверена ⏳) | ⏳ не сверено (регулируется местными PLU; общенациональной нормы по часам инсоляции не найдено) |
+    | 🇦🇹 Австрия | Австрия: OIB-Richtlinien, ред. май 2023 ([RL 2](https://www.propellets.at/assets/upload/pelletlagerung/oib-rl-2-ausgabe-mai-2023.pdf), [RL 2.2](https://din-notlicht.com/wp-content/uploads/oib-rl-2.2-ausgabe-mai-2023.pdf), [RL 2.3](https://din-notlicht.com/wp-content/uploads/oib-rl-2.3-ausgabe-mai-2023.pdf), [RL 4](https://glas-gasperlmair.at/wp-content/uploads/2023/10/oib-rl_4_ausgabe_mai_2023.pdf), [Begriffsbestimmungen](https://din-notlicht.com/wp-content/uploads/oib-rl-begriffsbestimmungen-ausgabe-mai-2023.pdf)) | ⏳ не сверено (строительные законы земель; OIB-RL 3 «Гигиена, здоровье, охрана окружающей среды» не читалась) |
+    | 🇪🇸 Испания | Испания: [CTE DB-SI](https://www.codigotecnico.org/pdf/Documentos/SI/DBSI.pdf) | ⏳ не сверено (CTE и местные ordenanzas; нормы по часам инсоляции не найдено) |
+
+    </div>
+
+    **🇪🇺 ЕС и 🇩🇪 Германия — цитаты**
+
     Единого европейского закона об инсоляции нет. EN 17037:2018 «Daylight in buildings» — европейский стандарт (добровольный, пока на него не сослалось национальное право). Ниже — описание его требований по обзору английской консалтинговой фирмы Lichfields (вторичный источник; сам стандарт платный и здесь не читался ⏳). Для Германии нужно отдельно изучить DIN 5034 ⏳.
 
     <div class="pair" markdown>
@@ -161,10 +176,6 @@
 
     </div>
     </div>
-
-    **Источники**
-
-    - [Lichfields о BRE 209 и EN 17037](https://lichfields.uk/blog/2022/june/10/is-your-planning-application-at-risk-new-bre-report-209-guidance-fundamental-changes-to-daylight-and-sunlight-assessments)
 
 === "🇬🇧 Англия"
 

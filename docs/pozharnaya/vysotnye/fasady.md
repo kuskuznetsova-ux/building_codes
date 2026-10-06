@@ -1,4 +1,4 @@
-# 6. Фасады и наружные стены
+# 2.15.6 Фасады и наружные стены
 
 [← К матрице](index.md) · Горючесть фасадных систем и меры против распространения огня по фасаду.
 
@@ -72,6 +72,21 @@
 
 === "🇪🇺 ЕС"
 
+    **Страны ЕС: национальные нормы** (единой нормы ЕС нет; ниже — Германия, Франция, Австрия, Испания)
+
+    <div class="matrix fire eu" markdown>
+
+    | Страна | Нормативный документ | Что установлено |
+    |---|---|---|
+    | 🇩🇪 Германия (и общее по ЕС) | [МХР, п. 3.4](https://bau.bremen.de/sixcms/media.php/13/MHHR.pdf) | Пример — Германия (МХР 3.4): ненесущие наружные стены, облицовки, балконные ограждения — из негорючих материалов |
+    | 🇫🇷 Франция | Франция: [Arrêté 31.01.1986](https://medias.amf.asso.fr/docs/DOCUMENTS/AMF_20070607_arrete_31_01_86_incendie.pdf) (жилые дома, копия AMF; консолидированная редакция Légifrance не сверена ⏳) | Фасады этажей: M2 при P/H < 0,8, иначе M3 (ст. 13) |
+    | 🇦🇹 Австрия | Австрия: OIB-Richtlinien, ред. май 2023 ([RL 2](https://www.propellets.at/assets/upload/pelletlagerung/oib-rl-2-ausgabe-mai-2023.pdf), [RL 2.2](https://din-notlicht.com/wp-content/uploads/oib-rl-2.2-ausgabe-mai-2023.pdf), [RL 2.3](https://din-notlicht.com/wp-content/uploads/oib-rl-2.3-ausgabe-mai-2023.pdf), [RL 4](https://glas-gasperlmair.at/wp-content/uploads/2023/10/oib-rl_4_ausgabe_mai_2023.pdf), [Begriffsbestimmungen](https://din-notlicht.com/wp-content/uploads/oib-rl-begriffsbestimmungen-ausgabe-mai-2023.pdf)) | Фасады: ограничение передачи огня по фасаду («второй этаж над очагом»); навесные — доп. условия (RL 2.3, п. 2.3) |
+    | 🇪🇸 Испания | Испания: [CTE DB-SI](https://www.codigotecnico.org/pdf/Documentos/SI/DBSI.pdf) | Фасады выше 18 м — класс B-s3,d0 (SI 2) |
+
+    </div>
+
+    **🇪🇺 ЕС и 🇩🇪 Германия — цитаты**
+
     <div class="pair" markdown>
     <div class="orig" markdown>
 
@@ -85,9 +100,20 @@
     </div>
     </div>
 
-    **Источники**
+    **🇦🇹 Австрия — цитаты**
 
-    - [МХР, п. 3.4](https://bau.bremen.de/sixcms/media.php/13/MHHR.pdf)
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    *de · OIB-RL 2.3, п. 2.3.1:* 2.3.1 Fassaden (z.B. Außenwand-Wärmedämmverbundsysteme, vorgehängte hinterlüftete, belüftete oder nicht hinterlüftete Fassaden) sind so auszuführen, dass bezogen auf das zweite über dem Brandherd liegende Geschoß eine Brandweiterleitung über die Fassade und das Herabfallen großer Fassadenteile wirksam eingeschränkt wird.
+
+    </div>
+    <div class="ru" markdown>
+
+    Фасады (например, системы наружной теплоизоляции по штукатурке, вентилируемые и невентилируемые) выполняются так, чтобы применительно ко второму этажу над очагом пожара были эффективно ограничены передача огня по фасаду и падение крупных частей.
+
+    </div>
+    </div>
 
 === "🇬🇧 Англия"
 

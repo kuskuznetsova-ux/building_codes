@@ -1,4 +1,4 @@
-# 4. Число эвакуационных выходов и лестниц
+# 2.4 Число эвакуационных выходов и лестниц
 
 [← К матрице](index.md) · Сколько выходов с этажа и лестниц должно быть в многоквартирном доме.
 
@@ -85,6 +85,21 @@
 
 === "🇪🇺 ЕС"
 
+    **Страны ЕС: национальные нормы** (единой нормы ЕС нет; ниже — Германия, Франция, Австрия, Испания)
+
+    <div class="matrix fire eu" markdown>
+
+    | Страна | Нормативный документ | Что установлено |
+    |---|---|---|
+    | 🇩🇪 Германия (и общее по ЕС) | [CPR 305/2011, прил. I](https://www.legislation.gov.uk/eur/2011/305/annex/I); [МВО § 33](https://bvpi.de/bvpi/downloads/MBO.pdf?m=1749800306) | Единой нормы нет: CPR требует лишь возможности покинуть здание или спасения (прил. I, п. 2(d)). Пример — Германия: два независимых пути спасения (МВО § 33) |
+    | 🇫🇷 Франция | Франция: [Arrêté 31.01.1986](https://medias.amf.asso.fr/docs/DOCUMENTS/AMF_20070607_arrete_31_01_86_incendie.pdf) (жилые дома, копия AMF; консолидированная редакция Légifrance не сверена ⏳) | 3-я семья A: одна лестница при ≤7 этажей и ≤7 м от двери до лестницы; 3B и 4-я семья — «защищённая» лестница (ст. 26–29) |
+    | 🇦🇹 Австрия | Австрия: OIB-Richtlinien, ред. май 2023 ([RL 2](https://www.propellets.at/assets/upload/pelletlagerung/oib-rl-2-ausgabe-mai-2023.pdf), [RL 2.2](https://din-notlicht.com/wp-content/uploads/oib-rl-2.2-ausgabe-mai-2023.pdf), [RL 2.3](https://din-notlicht.com/wp-content/uploads/oib-rl-2.3-ausgabe-mai-2023.pdf), [RL 4](https://glas-gasperlmair.at/wp-content/uploads/2023/10/oib-rl_4_ausgabe_mai_2023.pdf), [Begriffsbestimmungen](https://din-notlicht.com/wp-content/uploads/oib-rl-begriffsbestimmungen-ausgabe-mai-2023.pdf)) | Единственный путь эвакуации допустим при Treppenhaus по табл. 2a/2b/3 (GK 2–4); иначе — второй независимый путь или спасение техникой пожарных (п. 5.1.4, 5.2) |
+    | 🇪🇸 Испания | Испания: [CTE DB-SI](https://www.codigotecnico.org/pdf/Documentos/SI/DBSI.pdf) | Один выход с этажа допустим при ≤100 чел. (в жилом здании — ≤500 в целом), высоте эвакуации вниз ≤28 м; иначе две лестницы |
+
+    </div>
+
+    **🇪🇺 ЕС и 🇩🇪 Германия — цитаты**
+
     **Уровень ЕС: Регламент (ЕС) № 305/2011 (CPR)**
 
     <div class="pair" markdown>
@@ -128,10 +143,50 @@
     </div>
     </div>
 
-    **Источники**
+    **🇫🇷 Франция — цитаты**
 
-    - [CPR 305/2011, прил. I](https://www.legislation.gov.uk/eur/2011/305/annex/I)
-    - [МВО § 33](https://bvpi.de/bvpi/downloads/MBO.pdf?m=1749800306)
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    *fr · Arrêté 1986, ст. 26–27:* Art. 26. Dans les habitations de la troisième famille B, l'escalier doit être un escalier « protégé » soit « à l'air libre », soit « à l'abri des fumées » répondant aux définitions ci-après. Art. 27. L'escalier « protégé » doit : - être desservi à chaque niveau par une circulation horizontale protégée, avec laquelle il ne communique que par une seule issue;
+
+    </div>
+    <div class="ru" markdown>
+
+    Ст. 26: в жилых зданиях 3-й семьи B лестница должна быть «защищённой» — «на открытом воздухе» либо «защищённой от дыма». Ст. 27: защищённая лестница обслуживается на каждом уровне защищённым горизонтальным ходом, с которым связана единственным проёмом.
+
+    </div>
+    </div>
+
+    **🇦🇹 Австрия — цитаты**
+
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    *de · OIB-RL 2, п. 5.1.4:* 5.1.4 Im Falle von Punkt 5.1.1 c) muss in jedem Geschoß mit Aufenthaltsräumen zusätzlich a) ein Rettungsweg gemäß Punkt 5.2 vorhanden sein, oder b) ein unabhängiger Fluchtweg zu einem weiteren Treppenhaus oder einer weiteren Außentreppe jeweils gemäß Tabelle 3 erreichbar sein, wobei die Gehweglänge nicht begrenzt ist, oder c) ein unabhängiger Fluchtweg zu einem benachbarten Brandabschnitt erreichbar sein, der über einen direkten Ausgang zu einem sicheren Ort des angrenzenden Geländes im Freien oder ein Treppenhaus bzw. eine Außentreppe verfügt, wobei die Gehweglänge zum benachbarten Brandabschnitt nicht begrenzt ist.
+
+    </div>
+    <div class="ru" markdown>
+
+    Если применяется п. 5.1.1 c), то на каждом этаже с помещениями для пребывания людей должен быть дополнительно: а) путь спасения по п. 5.2 (с пожарной техникой), либо б) независимый путь к другой лестничной клетке или внешней лестнице (длина не ограничена), либо в) независимый путь в соседний пожарный отсек со своим выходом или лестницей (длина не ограничена).
+
+    </div>
+    </div>
+
+    **🇪🇸 Испания — цитаты**
+
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    *es · CTE DB-SI, Tabla 3.1:* La ocupación no excede de 100 personas, excepto en los casos que se indican a continuación: - 500 personas en el conjunto del edificio, en el caso de salida de un edificio de viviendas; - 50 personas en zonas desde las que la evacuación hasta una salida de planta deba salvar una altura mayor que 2 m en sentido ascendente; - 50 alumnos en escuelas infantiles, o de enseñanza primaria o secundaria.
+
+    </div>
+    <div class="ru" markdown>
+
+    Заселённость не более 100 человек, кроме случаев: 500 человек на всё здание при выходе из жилого дома; 50 человек в зонах, где эвакуация до выхода с этажа требует подъёма более 2 м; 50 учеников в детских, начальных или средних школах.
+
+    </div>
+    </div>
 
 === "🇬🇧 Англия"
 
