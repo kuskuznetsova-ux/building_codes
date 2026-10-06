@@ -3,7 +3,7 @@ hide:
   - toc
 ---
 
-# Англия: правовая основа (Building Act, Building Regulations, gateways)
+# 4.1 Англия: правовая основа (Building Act, Building Regulations, gateways)
 
 !!! warning "Статус: черновик"
     Тексты взяты с legislation.gov.uk (сохранённые страницы, версия «с изменениями на 06.10.2026»). Слева — оригинал, справа — рабочий перевод. Документы AD B и Building Bulletin 100 здесь не рассматриваются: их тексты — на gov.uk.

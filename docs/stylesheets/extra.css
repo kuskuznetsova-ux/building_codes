@@ -59,3 +59,8 @@
 .md-typeset .pair > div { min-width: 0; overflow-x: auto; }
 .md-typeset .pair table:not([class]) { font-size: .66rem; display: table; width: 100%; }
 .md-typeset .pair table:not([class]) th, .md-typeset .pair table:not([class]) td { padding: .4em .5em; }
+
+/* подразделы бокового меню — с отступом вправо */
+@media screen and (min-width:76.25em){
+  .md-sidebar--primary .md-nav__item--nested .md-nav__item--nested .md-nav__item .md-nav__link{padding-left:.9rem}
+}
