@@ -80,7 +80,8 @@ nav:
       - "Прежняя таблица — эвакуация (СП 1)": pozharnaya/sp1-evakuaciya.md
       - "Прежняя таблица — распространение пожара (СП 4)": pozharnaya/sp4-ogranichenie-rasprostraneniya.md
   - Нормативы по странам:
-      - normy/index.md
+      - Карта документов: normy/index.md
+      - Англия — правовая основа: normy/uk.md
   - Глоссарий: glossary.md
   - Источники: istochniki.md
   - Как вести портал: contributing.md
