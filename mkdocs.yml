@@ -98,6 +98,15 @@ nav:
           - "4.1 Англия — правовая основа": normy/uk.md
   - "5. Глоссарий": glossary.md
   - "6. Источники": istochniki.md
+  - "7. Доступная среда (МГН)":
+      - "7. Матрица доступности":
+          - dostupnaya/index.md
+          - "7.1 Область применения и юридическая сила": dostupnaya/oblast.md
+          - "7.2 Входы и пандусы": dostupnaya/pandusy.md
+          - "7.3 Ширина дверей и проходов": dostupnaya/dveri.md
+          - "7.4 Лифты для МГН": dostupnaya/lifty.md
+          - "7.5 Парковка для МГН": dostupnaya/parkovka.md
+          - "7.6 Уборные и санузлы для МГН": dostupnaya/ubornye.md
   - Как вести портал: contributing.md
 
 validation:

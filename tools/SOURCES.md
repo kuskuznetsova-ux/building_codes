@@ -42,3 +42,12 @@
 | at22 | eu5/at22_n.txt | https://din-notlicht.com/wp-content/uploads/oib-rl-2.2-ausgabe-mai-2023.pdf |
 | at4 | eu5/at4_n.txt | https://glas-gasperlmair.at/wp-content/uploads/2023/10/oib-rl_4_ausgabe_mai_2023.pdf |
 | fr | eu5/fr_n.txt | https://medias.amf.asso.fr/docs/DOCUMENTS/AMF_20070607_arrete_31_01_86_incendie.pdf (Légifrance недоступен) |
+
+## Доступная среда (adata.py)
+| key | file | URL |
+|---|---|---|
+| sp59 | acc/sp59.txt | СП 59.13330.2020 — PDF «Техэксперт», предоставлен пользователем (pdftotext -layout) |
+| adm2 | acc/adm2.txt | https://assets.publishing.service.gov.uk/media/66f6c5eec71e42688b65ee11/ADM__V2_with_2024_amendments.pdf (pdftotext БЕЗ -layout: двухколоночная вёрстка) |
+| sua | acc/sua.txt | https://www.codigotecnico.org/pdf/Documentos/SUA/DBSUA.pdf |
+| rsa | acc/rs.txt | https://www.paragraf.rs/propisi_download/pravilnik_o_tehnickim_standardima_planiranja_projektovanja_i_izgradnje_objekata_kojima_se_osigurava_nesmetano_kretanje_i_pristup_osobama_sa_invaliditetom_deci_i_starim_osobama.pdf |
+| uae | ae/ud.txt | https://dmpmedia.dm.gov.ae/uploads/2025/12/DUBAI-GUIDE-for-build-environment-Universal-Design.pdf |

@@ -40,3 +40,7 @@
 
 ## Бэклог: раздел «Доступная среда (МГН)»
 Отдельный раздел верхнего уровня (по аналогии с СП 59.13330): РФ — СП 59.13330, ФЗ-181; Сербия — правилник о доступности; ЕС — EN 17210, DIN 18040 (Германия), OIB-RL 4 (Австрия, уже есть в корпусе: `at4`), CTE DB-SUA (Испания); Англия — Approved Document M; Дубай — Dubai Guide for Built Environment (Universal Design), https://dmpmedia.dm.gov.ae/uploads/2025/12/DUBAI-GUIDE-for-build-environment-Universal-Design.pdf (скачивается, 45 МБ; не код, а аудит-чеклисты, раздел GAE — оповещение и эвакуация). Колонка ОАЭ по пожарным нормам ждёт UAE Fire and Life Safety Code и Dubai Building Code (оба недоступны для скачивания из сессии — нужны от пользователя).
+
+## Раздел 7 «Доступная среда (МГН)» — сделан (первый срез)
+- `tools/fire_gen/adata.py` (6 тем, колонки RU/RS/EU-таблица/UK/AE), вывод в `docs/dostupnaya/`; генерируется `build.py`. Колонка ОАЭ — по Dubai Universal Design Audit Guide (аудит-чеклисты); Dubai Building Code, UAE Fire Code и Dubai Universal Design Code не читались (недоступны для скачивания).
+- Не сверено: DIN 18040 (платный), Франция, Approved Document M Vol 1 и Part T, санузлы РФ (табл. 6.1), эвакуация МГН.
