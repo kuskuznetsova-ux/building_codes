@@ -3,6 +3,7 @@ site_description: Сравнение нормативов проектирова
 docs_dir: docs
 theme:
   name: material
+  custom_dir: overrides
   language: ru
   features:
     - navigation.tabs
@@ -58,17 +59,20 @@ nav:
       - Архитектура: sravnenie/arhitektura.md
   - Пожарная безопасность:
       - Матрица основных правил: pozharnaya/index.md
-      - "1. Число эвакуационных выходов и лестниц": pozharnaya/vyhody.md
-      - "2. Расстояние от двери квартиры до выхода": pozharnaya/rasstoyanie.md
-      - "3. Ширина путей эвакуации, лестниц и дверей": pozharnaya/shirina.md
-      - "4. Огнестойкость строительных конструкций": pozharnaya/ognestojkost.md
-      - "5. Секции, отсеки и отделение квартир": pozharnaya/otseki.md
-      - "6. Расстояния между зданиями и до границы участка": pozharnaya/razryvy.md
-      - "7. Наружные стены и фасады": pozharnaya/fasady.md
-      - "8. Отделка путей эвакуации": pozharnaya/otdelka.md
-      - "9. Автоматическое пожаротушение (спринклеры) в жилых домах": pozharnaya/sprinklery.md
-      - "10. Детские дошкольные учреждения и школы": pozharnaya/doo.md
-      - "11. Автостоянки и гаражи": pozharnaya/avtostoyanki.md
+      - "1. Классы зданий: как делят в разных странах": pozharnaya/klassy.md
+      - "2. Методики измерения высоты и расстояний": pozharnaya/metodiki.md
+      - "3. Юридическая сила документов и допустимые отклонения": pozharnaya/pravovaya-sila.md
+      - "4. Число эвакуационных выходов и лестниц": pozharnaya/vyhody.md
+      - "5. Расстояние от двери квартиры до выхода": pozharnaya/rasstoyanie.md
+      - "6. Ширина путей эвакуации, лестниц и дверей": pozharnaya/shirina.md
+      - "7. Огнестойкость строительных конструкций": pozharnaya/ognestojkost.md
+      - "8. Секции, отсеки и отделение квартир": pozharnaya/otseki.md
+      - "9. Расстояния между зданиями и до границы участка": pozharnaya/razryvy.md
+      - "10. Наружные стены и фасады": pozharnaya/fasady.md
+      - "11. Отделка путей эвакуации": pozharnaya/otdelka.md
+      - "12. Автоматическое пожаротушение (спринклеры) в жилых домах": pozharnaya/sprinklery.md
+      - "13. Детские дошкольные учреждения и школы": pozharnaya/doo.md
+      - "14. Автостоянки и гаражи": pozharnaya/avtostoyanki.md
       - Высотные здания (матрица): pozharnaya/vysotnye/index.md
       - "В1. Порог «высотного здания» и способ измерения высоты": pozharnaya/vysotnye/porog.md
       - "В2. Эвакуационные лестницы и выходы": pozharnaya/vysotnye/lestnitsy.md
@@ -79,6 +83,10 @@ nav:
       - "В7. Автоматическое пожаротушение и водопровод": pozharnaya/vysotnye/sprinklery.md
       - "Прежняя таблица — эвакуация (СП 1)": pozharnaya/sp1-evakuaciya.md
       - "Прежняя таблица — распространение пожара (СП 4)": pozharnaya/sp4-ogranichenie-rasprostraneniya.md
+  - Градостроительство:
+      - Матрица (инсоляция и расстояния): gradostroitelstvo/index.md
+      - "1. Инсоляция зданий и территорий": gradostroitelstvo/insolyatsiya.md
+      - "2. Расстояния между зданиями (генплан и планировка)": gradostroitelstvo/razryvy-genplan.md
   - Нормативы по странам:
       - Карта документов: normy/index.md
       - Англия — правовая основа: normy/uk.md

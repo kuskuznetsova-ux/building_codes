@@ -13,6 +13,7 @@
 
 - [Стадии проектирования и строительства](sravnenie/stadii.md) — сквозная матрица стадий.
 - [Проектирование](sravnenie/proektirovanie.md), [Архитектура](sravnenie/arhitektura.md).
+- [Градостроительство: инсоляция и расстояния](gradostroitelstvo/index.md) — СП 42.13330.2026, СанПиН, сравнение.
 - [Пожарная безопасность](pozharnaya/index.md) — матрица основных правил (RU/RS/EU/UK) и [высотные здания](pozharnaya/vysotnye/index.md).
 - [Глоссарий](glossary.md) — сербские и английские термины с переводом на русский.
 - [Источники](istochniki.md).
