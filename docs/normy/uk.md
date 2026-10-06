@@ -294,8 +294,85 @@ The Building (Higher-Risk Buildings Procedures) (England) Regulations 2023 — �
 </div>
 </div>
 
+## Обязанности участников (Building Regulations 2010, Part 2A, рег. 11A, 11E, 11F)
+
+Часть 2A введена 01.10.2023: обязанности заказчика, проектировщика и подрядчика, компетентность и проверка прошлых нарушений (для зданий повышенного риска).
+
+Источники: [uksi/2010/2214/regulation/11A](https://www.legislation.gov.uk/uksi/2010/2214/regulation/11A); [uksi/2010/2214/regulation/11E](https://www.legislation.gov.uk/uksi/2010/2214/regulation/11E); [uksi/2010/2214/regulation/11F](https://www.legislation.gov.uk/uksi/2010/2214/regulation/11F)
+
+<div class="pair" markdown>
+<div class="orig" markdown>
+
+*en · Building Regulations 2010, reg. 11A(1)–(2):* 11A. — (1) A client must make suitable arrangements for planning, managing and monitoring a project (including allocation of sufficient time and other resources) so as to ensure compliance with all relevant requirements. (2) Arrangements under paragraph (1) are suitable if— (a) they ensure that the design work is carried out so that the building work to which the design relates, if built, would be in compliance with all relevant requirements; (b) they ensure the building work is carried out in accordance with all relevant requirements; (c) they enable the designers and contractors to cooperate with each other to ensure compliance with all relevant requirements; and (d) they provide for periodic review of the building work (and the design work) included or to be included in the project so as to identify whether it is higher-risk building work.
+
+</div>
+<div class="ru" markdown>
+
+Заказчик должен организовать планирование, управление и контроль проекта (с достаточным временем и ресурсами) для соблюдения всех требований. Организация подходит, если: проектирование ведётся так, чтобы построенное здание соответствовало требованиям; работы ведутся в соответствии с ними; проектировщики и подрядчики сотрудничают; предусмотрены периодические проверки, не относится ли работа к строительству здания повышенного риска.
+
+</div>
+</div>
+
+<div class="pair" markdown>
+<div class="orig" markdown>
+
+*en · Building Regulations 2010, reg. 11E(2):* (2) Before permitting A to carry out any work— (a) P must take all reasonable steps to satisfy themself that A— (i) fulfils the requirements in regulation 11F(1) and (2) (competence: general requirement), or (ii) is an individual who is in training to fulfil the requirements in regulation 11F(1) and (2) and arrangements have been put in place to supervise A, and (b) where the work relates to a higher-risk building, P must— (i) ask A whether a serious sanction has occurred, in relation to them, within the 5 years ending on the date of the appointment; and (ii) consider any information available to P relating to any misconduct of A (including any serious sanction).
+
+</div>
+<div class="ru" markdown>
+
+Прежде чем допустить исполнителя к работе, заказчик (или назначающий) должен принять все разумные меры, чтобы убедиться в его компетентности; для зданий повышенного риска — спросить, не было ли в последние 5 лет серьёзных санкций, и учесть сведения о любом нарушении.
+
+</div>
+</div>
+
+<div class="pair" markdown>
+<div class="orig" markdown>
+
+*en · Building Regulations 2010, reg. 11F(1):* 11F. — (1) Any person carrying out any building work or any design work must have— (a) where the person is an individual, the skills, knowledge, experience and behaviours necessary, (b) where the person is not an individual, the organisational capability, to carry out— (i) the building work in accordance with all relevant requirements; (ii) the design work so that the building work to which the design relates, if built, would be in accordance with all relevant requirements.
+
+</div>
+<div class="ru" markdown>
+
+Любой исполнитель строительных или проектных работ должен обладать необходимыми навыками, знаниями, опытом и поведением (а организация — организационными возможностями), чтобы вести работы в соответствии со всеми требованиями и проектировать так, чтобы построенное соответствовало требованиям.
+
+</div>
+</div>
+
+## Эволюция Approved Document B: спринклеры в жилых домах (редакции 2006 → 2019)
+
+Старая редакция (2006, Vol 2, п. 8.14) и текущая (2019 с поправками, Vol 1, п. 7.4). В 2006 Vol 1 относился только к индивидуальным домам; многоквартирные дома — Vol 2.
+
+Источники: [government/publications/historical-documents-relating-to-approved-document-b-fire-safety](https://www.gov.uk/government/publications/historical-documents-relating-to-approved-document-b-fire-safety); [government/publications/fire-safety-approved-document-b](https://www.gov.uk/government/publications/fire-safety-approved-document-b)
+
+<div class="pair" markdown>
+<div class="orig" markdown>
+
+*en · Approved Document B Vol 2 (2006), п. 8.14:* 8.14 Blocks of flats with a floor more than 30m above ground level should be fitted with a sprinkler system in accordance paragraph 0.16. Note: Sprinklers need only be provided within the individual flats, they are not required in the common areas such as stairs, corridors or landings. For the purposes of this paragraph the limit on the scope of BS 9251:2005 to buildings below 20m in height can be ignored.
+
+</div>
+<div class="ru" markdown>
+
+Редакция 2006: спринклеры в блоках квартир — если этаж выше 30 м над землёй; только в квартирах, не в общих зонах; ограничение BS 9251 (до 20 м) можно игнорировать.
+
+</div>
+</div>
+
+<div class="pair" markdown>
+<div class="orig" markdown>
+
+*en · Approved Document B Vol 1 (2019, с поправками), п. 7.4:* Blocks of flats with a top storey more than 11m above ground level (see Diagram D6) should be fitted with a sprinkler system throughout the building in accordance with Appendix E.
+
+</div>
+<div class="ru" markdown>
+
+Текущая редакция: спринклеры — если верхний этаж выше 11 м; порог снижен с 30 м до 11 м. (Поправка введена после Гренфелла; точную дату и номер поправки в портале предстоит указать ⏳.)
+
+</div>
+</div>
+
 ## Что осталось сверить
 
-- [ ] Building Regulations 2010: Part 2A (обязанности заказчика, проектировщика, подрядчика).
 - [ ] Текст параграфа (zg) приложения 4 к Planning Order 2015 (Gateway 1): прочитано только примечание об изменении консультанта.
-- [ ] Approved Document B Vol 2, разд. 13 (выходы и расстояния) и историческое сравнение редакций AD B.
+- [ ] Эволюция AD B: даты введения поправок (2020, 2022, 2025–2029) и сравнение других разделов (фасады, лестницы).
+- [ ] Reg. 11B–11D, 11G–11L и остальные положения Part 2A.
