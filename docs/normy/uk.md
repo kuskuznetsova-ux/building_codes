@@ -223,8 +223,79 @@ The Building (Higher-Risk Buildings Procedures) (England) Regulations 2023 — �
 </div>
 </div>
 
+## Подача заявок на строительный контроль (Building Regulations 2010, рег. 12, 16, 17) и Gateway 1
+
+Процедура для обычных (не HRB) зданий и планировочный «ворота» для высотных жилых зданий.
+
+Источники: [uksi/2010/2214/regulation/12](https://www.legislation.gov.uk/uksi/2010/2214/regulation/12); [uksi/2010/2214/regulation/16](https://www.legislation.gov.uk/uksi/2010/2214/regulation/16); [uksi/2010/2214/regulation/17](https://www.legislation.gov.uk/uksi/2010/2214/regulation/17); [uksi/2015/595/schedule/4](https://www.legislation.gov.uk/uksi/2015/595/schedule/4)
+
+<div class="pair" markdown>
+<div class="orig" markdown>
+
+*en · Building Regulations 2010, reg. 12(1):* 12. —(1) This regulation applies to a person who intends to— (a) carry out building work; (b) replace or renovate a thermal element in a building to which the energy efficiency requirements apply; (c) make a change to a building's energy status; or (d) make a material change of use.
+
+</div>
+<div class="ru" markdown>
+
+Рег. 12 применяется к тому, кто намерен: вести строительные работы; заменять или обновлять тепловой элемент; менять энергетический статус здания; изменять назначение здания. Такие лица подают либо уведомление о работах (building notice), либо заявку на одобрение с полными планами.
+
+</div>
+</div>
+
+<div class="pair" markdown>
+<div class="orig" markdown>
+
+*en · Building Regulations 2010, reg. 12(3):* (3) A person intending to carry out building work in relation to a building to which the Regulatory Reform (Fire Safety) Order 2005 applies, or will apply after the completion of the building work, shall give an application for building control approval with full plans
+
+</div>
+<div class="ru" markdown>
+
+Для зданий, на которые распространяется Указ о пожарной безопасности 2005 года (общественные, рабочие здания и др.), допустима только заявка с полными планами, а не простое уведомление о работах.
+
+</div>
+</div>
+
+<div class="pair" markdown>
+<div class="orig" markdown>
+
+*en · Building Regulations 2010, reg. 16(1):* 16. —(1) Subject to paragraphs (8) and (9), a person who proposes to carry out building work shall not start that work unless— (a) that person has given the relevant authority notice of intention to start work ; and (b) at least two days have elapsed since the end of the day on which the notice was given.
+
+</div>
+<div class="ru" markdown>
+
+Начинать работы можно, только подав органу уведомление о намерении начать и выдержав не менее двух дней после дня подачи уведомления.
+
+</div>
+</div>
+
+<div class="pair" markdown>
+<div class="orig" markdown>
+
+*en · Building Regulations 2010, reg. 17(2):* (2) The specified period referred to in paragraph (1) is eight weeks starting from the date that notice is received by the relevant authority in accordance with regulation 16(4)
+
+</div>
+<div class="ru" markdown>
+
+Срок выдачи сертификата о завершении (для обычных зданий) — восемь недель с даты получения уведомления органом.
+
+</div>
+</div>
+
+<div class="pair" markdown>
+<div class="orig" markdown>
+
+*en · Planning Order 2015, Schedule 4, прим. F9 (Gateway 1):* Sch. 4 para. (zg): the words “the Building Safety Regulator” are substituted for “the Health and Safety Executive” (27.1.2026) by The Building Safety Regulator (Establishment of New Body and Transfer of Functions etc.) Regulations 2026 (S.I. 2026/20) , reg. 1(2) , Sch. 2 para. 18 (with reg. 5 )
+
+</div>
+<div class="ru" markdown>
+
+Планировочный Gateway 1: для высотных жилых зданий до выдачи разрешения на планировку обязательна консультация по пожарной безопасности. В параграфе (zg) приложения 4 слова «Health and Safety Executive» заменены словами «Building Safety Regulator» с 27.01.2026 (S.I. 2026/20), то есть консультант теперь — отдельный регулятор.
+
+</div>
+</div>
+
 ## Что осталось сверить
 
-- [ ] Building Regulations 2010: полный текст рег. 12, 16, 17 (подача заявок) и Part 2A (обязанности).
-- [ ] Gateway 1 (планирование): положения о консультации с HSE — Town and Country Planning Order 2015, ст. 34 (читалась ранее).
-- [ ] Building Bulletin 100 и Approved Document B Vol 2 — на gov.uk.
+- [ ] Building Regulations 2010: Part 2A (обязанности заказчика, проектировщика, подрядчика).
+- [ ] Текст параграфа (zg) приложения 4 к Planning Order 2015 (Gateway 1): прочитано только примечание об изменении консультанта.
+- [ ] Approved Document B Vol 2, разд. 13 (выходы и расстояния) и историческое сравнение редакций AD B.

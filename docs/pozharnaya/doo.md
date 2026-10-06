@@ -133,7 +133,60 @@
     </div>
     <div class="ru" markdown>
 
-    Противопожарная безопасность школ регулируется Building Bulletin 100, который следует использовать; он содержит положения, выходящие за рамки Building Regulations. ⏳ Текст BB 100 не читался; «школа» в AD B — место обучения детей 2–19 лет, включая nursery schools (детские сады), начальные и средние школы.
+    Противопожарная безопасность школ регулируется Building Bulletin 100, который следует использовать; он содержит положения, выходящие за рамки Building Regulations. «Школа» в AD B — место обучения детей 2–19 лет, включая nursery schools (детские сады), начальные и средние школы.
+
+    </div>
+    </div>
+
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    *en · Building Bulletin 100, табл. 1 (расстояния):*
+
+    | Location | One direction only, m | More than one direction, m |
+    |---|---|---|
+    | Places of special fire hazard | 9 | 18 |
+    | Areas with seating in rows | 15 | 32 |
+    | Areas not listed above | 18 | 45 |
+    | Ground storey of small premises with a single exit | 27 | N/A |
+
+    </div>
+    <div class="ru" markdown>
+
+    | Место | Эвакуация в одном направлении, м | Более чем в одном направлении, м |
+    |---|---|---|
+    | Места особой пожарной опасности | 9 | 18 |
+    | Зоны с рядами сидений | 15 | 32 |
+    | Прочие зоны | 18 | 45 |
+    | Первый этаж малых зданий с одним выходом | 27 | — |
+    
+    *Табл. 1 BB 100 (максимальная длина пути до этажного или конечного выхода; расстояние по прямой — 2/3 от длины пути). Ряд значений сверен по версии PDF с раскладкой колонок.*
+
+    </div>
+    </div>
+
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    *en · Building Bulletin 100, разд. 4.3.2:* Very young children (infants/nursery school age) will move more slowly than older children or adults, and also require constant supervision and direction during egress. Consideration should be given to providing direct access to an external place of safety from their classrooms.
+
+    </div>
+    <div class="ru" markdown>
+
+    Совсем маленькие дети (младенцы, детсадовский возраст) двигаются медленнее и требуют постоянного надзора и указаний при эвакуации. Следует рассмотреть прямой выход из их групповых помещений наружу, в безопасное место.
+
+    </div>
+    </div>
+
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    *en · Building Bulletin 100, разд. 1.6 (спринклеры):* Although the provision of sprinklers is not a requirement of the Building Regulations, DCSF expects that the Education Authority, Funding Body or overall ‘client’ of the scheme, should request, as part of the Employer's Requirements, that a risk assessment be undertaken to assess the validity of providing sprinklers in the scheme.
+
+    </div>
+    <div class="ru" markdown>
+
+    Хотя спринклеры не требуются Building Regulations, Министерство образования ожидает, что заказчик включит в техническое задание оценку рисков для решения вопроса о спринклерах; политика — все новые школы со спринклерами, кроме немногих малорисковых.
 
     </div>
     </div>
@@ -141,5 +194,6 @@
     **Источники**
 
     - [AD B Vol 2, п. 0.14](https://www.gov.uk/government/publications/fire-safety-approved-document-b)
+    - [BB 100](https://www.gov.uk/government/publications/building-bulletin-100-design-for-fire-safety-in-schools)
 
 [← Автоматическое пожаротушение (спринклеры) в жилых домах](sprinklery.md) · [Автостоянки и гаражи →](avtostoyanki.md)
