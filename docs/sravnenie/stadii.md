@@ -106,7 +106,7 @@ flowchart TB
 
 Статус: **сверено частично** (дата проверки: 2026-10-04).
 
-**Англия:** прочитан полный текст RIBA Plan of Work 2020 Overview (стадии 0–7, исходы, задачи, документы); официальные источники по Planning (Order 2015, ст. 34), Building Regulations 2010 (reg. 12, 16, 17) и Building Safety Regulator (брошюра «The three gateways»). Не сверено: Town and Country Planning Act 1990, порядок Building Control в деталях, срок Gateway 2 (12 недель) по официальному источнику.
+**Англия:** прочитан полный текст RIBA Plan of Work 2020 Overview (стадии 0–7, исходы, задачи, документы); официальные источники по Planning (Order 2015, ст. 34), Building Regulations 2010 (reg. 12, 16, 17) и Building Safety Regulator (брошюра «The three gateways»). Не сверено: Town and Country Planning Act 1990, порядок Building Control в деталях, Срок Gateway 2 (12 недель) и Gateway 3 (8 недель) подтверждены по S.I. 2023/909 (см. [Англия: правовая основа](../normy/uk.md)).
 
 **ЕС:** EN 16310:2013 платный; полный текст Annex A не получен. Список стадий и подстадий дан по отчёту ACE 2013 (по проекту FprEN 16310:2012) и описанию iTeh; в них расходятся названия стадии 5 (Usage против Handover & Operation). Национальные примеры — Франция (ACE) и Чехия (профессиональный стандарт CKA 2017), они не являются нормой ЕС.
 
