@@ -104,6 +104,21 @@
 
 === "🇪🇺 ЕС"
 
+    **Страны ЕС: национальные нормы** (единой нормы ЕС нет; ниже — Германия, Франция, Австрия, Испания)
+
+    <div class="matrix fire eu" markdown>
+
+    | Страна | Нормативный документ | Что установлено |
+    |---|---|---|
+    | 🇩🇪 Германия (и общее по ЕС) | [CPR 305/2011, прил. I](https://www.legislation.gov.uk/eur/2011/305/annex/I) | Нет единой нормы (CPR: ограничить распространение на соседние сооружения, п. 2(c)); пример — Германия: ⏳ не сверено |
+    | 🇫🇷 Франция | Франция: [Arrêté 31.01.1986](https://medias.amf.asso.fr/docs/DOCUMENTS/AMF_20070607_arrete_31_01_86_incendie.pdf) (жилые дома, копия AMF; консолидированная редакция Légifrance не сверена ⏳) | Нет таблицы разрывов между зданиями; для фасадов: отношение P/H (расстояние между остеклением / высота) 0,8 определяет класс отделки (ст. 13) |
+    | 🇦🇹 Австрия | Австрия: OIB-Richtlinien, ред. май 2023 ([RL 2](https://www.propellets.at/assets/upload/pelletlagerung/oib-rl-2-ausgabe-mai-2023.pdf), [RL 2.2](https://din-notlicht.com/wp-content/uploads/oib-rl-2.2-ausgabe-mai-2023.pdf), [RL 2.3](https://din-notlicht.com/wp-content/uploads/oib-rl-2.3-ausgabe-mai-2023.pdf), [RL 4](https://glas-gasperlmair.at/wp-content/uploads/2023/10/oib-rl_4_ausgabe_mai_2023.pdf), [Begriffsbestimmungen](https://din-notlicht.com/wp-content/uploads/oib-rl-begriffsbestimmungen-ausgabe-mai-2023.pdf)) | Не расстояния между зданиями, а размещение проёмов у брандмауэра: ≥50 см от середины стены, между проёмами ≥3 м при угле <135° (RL 2, п. 3.1.8) |
+    | 🇪🇸 Испания | Испания: [CTE DB-SI](https://www.codigotecnico.org/pdf/Documentos/SI/DBSI.pdf) | Фасады разных секторов/зон: участки без EI 60 разнесены на d = 3,00 м (фасады параллельно) … 0,50 м (угол 180°); с соседним зданием — 50 % d (SI 2) |
+
+    </div>
+
+    **🇪🇺 ЕС и 🇩🇪 Германия — цитаты**
+
     <div class="pair" markdown>
     <div class="orig" markdown>
 
@@ -117,9 +132,50 @@
     </div>
     </div>
 
-    **Источники**
+    **🇫🇷 Франция — цитаты**
 
-    - [CPR 305/2011, прил. I](https://www.legislation.gov.uk/eur/2011/305/annex/I)
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    *fr · Arrêté 1986, ст. 13:* Art. 13. Dans les habitations de troisième et quatrième familles, si P est la distance minimale comprise entre les plans des vitrages des immeubles en vis-à-vis ou entre le plan des vitrages d'un immeuble et la limite de propriété et H la hauteur la plus élevée de ces deux immeubles, les parements extérieurs des façades des étages (menuiseries, coffrets de branchements, remplissage de garde-corps et fermetures exclus) doivent être classés en catégorie M. 2 au moins si P/H est inférieur à 0,8. Dans le cas contraire, ils peuvent être classés en catégorie M. 3 au moins.
+
+    </div>
+    <div class="ru" markdown>
+
+    В жилых зданиях 3-й и 4-й семьи, если P — наименьшее расстояние между плоскостями остекления соседних зданий (или между остеклением и границей участка), а H — наибольшая высота из двух зданий: наружная облицовка фасадов этажей должна быть не ниже категории M2 при P/H < 0,8; иначе — не ниже M3.
+
+    </div>
+    </div>
+
+    **🇦🇹 Австрия — цитаты**
+
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    *de · OIB-RL 2, п. 3.1.8:* 3.1.8 Türen, Tore, Fenster und sonstige Öffnungen in Außenwänden, die an brandabschnittsbildende Wände anschließen, müssen von der Mitte der brandabschnittsbildenden Wand – falls die horizontale Brandübertragung nicht durch gleichwertige Maßnahmen begrenzt werden kann – einen Abstand von mindestens 50 cm haben. Der Abstand solcher Öffnungen voneinander muss bei Gebäuden, deren Außenwände an der brandabschnittsbildenden Wand einen Winkel von weniger als 135 Grad bilden, mindestens 3,00 m betragen.
+
+    </div>
+    <div class="ru" markdown>
+
+    Двери, ворота, окна и иные проёмы в наружных стенах, примыкающих к стене пожарного отсека, должны быть на расстоянии не менее 50 см от середины этой стены (если горизонтальная передача огня не ограничена равноценными мерами). Расстояние между такими проёмами при угле менее 135° между наружными стенами — не менее 3,00 м.
+
+    </div>
+    </div>
+
+    **🇪🇸 Испания — цитаты**
+
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    *es · CTE DB-SI, SI 2, п. 1.2:* 2 Con el fin de limitar el riesgo de propagación exterior horizontal del incendio a través de la fachada entre dos sectores de incendio, entre una zona de riesgo especial alto y otras zonas o hacia una escalera protegida o pasillo protegido desde otras zonas, los puntos de sus fachadas que no sean al menos EI 60 deben estar separados la distancia d en proyección horizontal que se indica a continuación, como mínimo, en función del ángulo α formado por los planos exteriores de dichas fachadas. Para valores intermedios del ángulo α, la distancia d puede obtenerse por interpolación lineal. Cuando se trate de edificios diferentes y colindantes, los puntos de la fachada del edificio considerado que no sean al menos EI 60 cumplirán el 50% de la distancia d hasta la bisectriz del ángulo formado por ambas fachadas. (1) α 0º(1) 45º 60º 90º 135º 180º d (m) 3,00 2,75 2,50 2,00 1,25 0,50
+
+    </div>
+    <div class="ru" markdown>
+
+    Чтобы ограничить горизонтальное распространение пожара по фасаду между двумя пожарными секторами и т. п., точки фасадов, не отвечающие EI 60, должны быть разнесены по горизонтали не менее чем на d в зависимости от угла α между плоскостями фасадов (3,00 м при α = 0°, … 0,50 м при 180°; промежуточные значения — линейной интерполяцией). Для соседних зданий — 50 % d до биссектрисы угла.
+
+    </div>
+    </div>
 
 === "🇬🇧 Англия"
 

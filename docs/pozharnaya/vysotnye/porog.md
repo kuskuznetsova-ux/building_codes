@@ -72,6 +72,21 @@
 
 === "🇪🇺 ЕС"
 
+    **Страны ЕС: национальные нормы** (единой нормы ЕС нет; ниже — Германия, Франция, Австрия, Испания)
+
+    <div class="matrix fire eu" markdown>
+
+    | Страна | Нормативный документ | Что установлено |
+    |---|---|---|
+    | 🇩🇪 Германия (и общее по ЕС) | [МВО § 2(3)–(4)](https://bvpi.de/bvpi/downloads/MBO.pdf?m=1749800306); [МХР](https://bau.bremen.de/sixcms/media.php/13/MHHR.pdf) | Единого порога в ЕС нет. Пример — Германия: Hochhaus — более 22 м (МВО § 2(4) Nr. 1); Требования к таким зданиям — Muster-Hochhaus-Richtlinie (МХР); Франция, Бельгия и др. ⏳ не сверены |
+    | 🇫🇷 Франция | Франция: [Arrêté 31.01.1986](https://medias.amf.asso.fr/docs/DOCUMENTS/AMF_20070607_arrete_31_01_86_incendie.pdf) (жилые дома, копия AMF; консолидированная редакция Légifrance не сверена ⏳) | IGH — жилые здания с полом верхней квартиры выше 50 м над уровнем, доступным пожарным (ст. 1); 28 м — граница 3-й и 4-й семей |
+    | 🇦🇹 Австрия | Австрия: OIB-Richtlinien, ред. май 2023 ([RL 2](https://www.propellets.at/assets/upload/pelletlagerung/oib-rl-2-ausgabe-mai-2023.pdf), [RL 2.2](https://din-notlicht.com/wp-content/uploads/oib-rl-2.2-ausgabe-mai-2023.pdf), [RL 2.3](https://din-notlicht.com/wp-content/uploads/oib-rl-2.3-ausgabe-mai-2023.pdf), [RL 4](https://glas-gasperlmair.at/wp-content/uploads/2023/10/oib-rl_4_ausgabe_mai_2023.pdf), [Begriffsbestimmungen](https://din-notlicht.com/wp-content/uploads/oib-rl-begriffsbestimmungen-ausgabe-mai-2023.pdf)) | Порог 22 м (GK5 — до 22 м); RL 2.3 — Fluchtniveau >22 м, с подразделами ≤32 м / 32–90 м / >90 м |
+    | 🇪🇸 Испания | Испания: [CTE DB-SI](https://www.codigotecnico.org/pdf/Documentos/SI/DBSI.pdf) | Отдельного понятия «высотное здание» в DB-SI нет; ступени по высоте эвакуации: 28 м, 50 м, 80 м |
+
+    </div>
+
+    **🇪🇺 ЕС и 🇩🇪 Германия — цитаты**
+
     Единого европейского порога высотного здания нет: каждая страна определяет его сама. Ниже — пример Германии (МВО — типовой кодекс; в каждой земле действует собственный закон). Франция (IGH), Бельгия и другие страны ⏳ по первоисточникам не проверялись.
 
     <div class="pair" markdown>
@@ -100,10 +115,35 @@
     </div>
     </div>
 
-    **Источники**
+    **🇫🇷 Франция — цитаты**
 
-    - [МВО § 2(3)–(4)](https://bvpi.de/bvpi/downloads/MBO.pdf?m=1749800306)
-    - [МХР](https://bau.bremen.de/sixcms/media.php/13/MHHR.pdf)
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    *fr · Arrêté 1986, ст. 1:* Les règles particulières concernant les immeubles d'habitation dont le plancher bas du logement le plus haut est situé à plus de 50 mètres au-dessus du sol font l'objet des articles R. 122-1 à R. 122-55 du code de la construction et de l'habitation et de l'arrêté portant règlement de sécurité pour la construction des immeubles de grande hauteur et leur protection contre les risques d'incendie et de panique.
+
+    </div>
+    <div class="ru" markdown>
+
+    Особые правила для жилых зданий, у которых пол самой высокой квартиры выше 50 м над грунтом, установлены в ст. R.122-1–R.122-55 Кодекса строительства и жилья и в arrêté о правилах безопасности зданий большой высоты (IGH).
+
+    </div>
+    </div>
+
+    **🇦🇹 Австрия — цитаты**
+
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    *de · OIB-RL 2.3, оглавление:* 3 Gebäude mit einem Fluchtniveau von nicht mehr als 32 m ....................................................................... 8 4 Gebäude mit einem Fluchtniveau von mehr als 32 m und nicht mehr als 90 m ........................................ 9 5 Gebäude mit einem Fluchtniveau von mehr als 90 m
+
+    </div>
+    <div class="ru" markdown>
+
+    3. Здания с Fluchtniveau не более 32 м … 4. Здания с Fluchtniveau более 32 м и не более 90 м … 5. Здания с Fluchtniveau более 90 м.
+
+    </div>
+    </div>
 
 === "🇬🇧 Англия"
 

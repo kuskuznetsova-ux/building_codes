@@ -71,6 +71,21 @@
 
 === "🇪🇺 ЕС"
 
+    **Страны ЕС: национальные нормы** (единой нормы ЕС нет; ниже — Германия, Франция, Австрия, Испания)
+
+    <div class="matrix fire eu" markdown>
+
+    | Страна | Нормативный документ | Что установлено |
+    |---|---|---|
+    | 🇩🇪 Германия (и общее по ЕС) | [МХР, п. 4.2](https://bau.bremen.de/sixcms/media.php/13/MHHR.pdf) | Пример — Германия (МХР 4.2): до 60 м одна «безопасная» лестничная клетка вместо двух; выше 60 м — все клетки безопасные |
+    | 🇫🇷 Франция | Франция: [Arrêté 31.01.1986](https://medias.amf.asso.fr/docs/DOCUMENTS/AMF_20070607_arrete_31_01_86_incendie.pdf) (жилые дома, копия AMF; консолидированная редакция Légifrance не сверена ⏳) | 3B: «защищённая» лестница (ст. 26); 4-я семья — доступы к защищённым лестницам ≤50 м от проезда для техники (ст. 3) |
+    | 🇦🇹 Австрия | Австрия: OIB-Richtlinien, ред. май 2023 ([RL 2](https://www.propellets.at/assets/upload/pelletlagerung/oib-rl-2-ausgabe-mai-2023.pdf), [RL 2.2](https://din-notlicht.com/wp-content/uploads/oib-rl-2.2-ausgabe-mai-2023.pdf), [RL 2.3](https://din-notlicht.com/wp-content/uploads/oib-rl-2.3-ausgabe-mai-2023.pdf), [RL 4](https://glas-gasperlmair.at/wp-content/uploads/2023/10/oib-rl_4_ausgabe_mai_2023.pdf), [Begriffsbestimmungen](https://din-notlicht.com/wp-content/uploads/oib-rl-begriffsbestimmungen-ausgabe-mai-2023.pdf)) | До 32 м: «Sicherheitstreppenhaus» ступени 1 (с подпором воздуха), ≤40 м ходьбы от любой точки (RL 2.3, п. 3.1–3.2) |
+    | 🇪🇸 Испания | Испания: [CTE DB-SI](https://www.codigotecnico.org/pdf/Documentos/SI/DBSI.pdf) | Лестницы — как в SI 3; выход с этажа единственный лишь при высоте эвакуации ≤28 м; выше — две лестницы (Tabla 3.1) |
+
+    </div>
+
+    **🇪🇺 ЕС и 🇩🇪 Германия — цитаты**
+
     Пример национальной нормы — Германия, Muster-Hochhaus-Richtlinie (МХР, редакция апреля 2008, типовой акт; применяется землями с изменениями). Другие страны ⏳ не сверены.
 
     <div class="pair" markdown>
@@ -86,9 +101,20 @@
     </div>
     </div>
 
-    **Источники**
+    **🇦🇹 Австрия — цитаты**
 
-    - [МХР, п. 4.2](https://bau.bremen.de/sixcms/media.php/13/MHHR.pdf)
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    *de · OIB-RL 2.3, п. 3.1.1:* 3.1.1 Von jeder Stelle jedes Raumes muss in höchstens 40 m Gehweglänge ein Sicherheitstreppenhaus der Stufe 1 gemäß Punkt 3.2 erreichbar sein. Bei Wohnungen wird die Gehweglänge ab der Wohnungseingangstüre gemessen. Dabei dürfen sich die Wohnungen über höchstens zwei Geschoße erstrecken.
+
+    </div>
+    <div class="ru" markdown>
+
+    От любой точки любого помещения в пределах не более 40 м ходьбы должна быть достижима «безопасная лестничная клетка» ступени 1 (по п. 3.2). Для квартир длина считается от входной двери; квартиры — не более чем на двух этажах.
+
+    </div>
+    </div>
 
 === "🇬🇧 Англия"
 

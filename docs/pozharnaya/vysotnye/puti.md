@@ -58,11 +58,22 @@
 
 === "🇪🇺 ЕС"
 
+    **Страны ЕС: национальные нормы** (единой нормы ЕС нет; ниже — Германия, Франция, Австрия, Испания)
+
+    <div class="matrix fire eu" markdown>
+
+    | Страна | Нормативный документ | Что установлено |
+    |---|---|---|
+    | 🇩🇪 Германия (и общее по ЕС) | [МВО § 35](https://bvpi.de/bvpi/downloads/MBO.pdf?m=1749800306) | ⏳ не сверено (в МХР отдельных длин путей нет; общие — МВО § 35: 35 м) |
+    | 🇫🇷 Франция | Франция: [Arrêté 31.01.1986](https://medias.amf.asso.fr/docs/DOCUMENTS/AMF_20070607_arrete_31_01_86_incendie.pdf) (жилые дома, копия AMF; консолидированная редакция Légifrance не сверена ⏳) | Ход до лестницы: ≤7 м (3A) или ≤15 м по защищённому ходу (ст. 3, 31) |
+    | 🇦🇹 Австрия | Австрия: OIB-Richtlinien, ред. май 2023 ([RL 2](https://www.propellets.at/assets/upload/pelletlagerung/oib-rl-2-ausgabe-mai-2023.pdf), [RL 2.2](https://din-notlicht.com/wp-content/uploads/oib-rl-2.2-ausgabe-mai-2023.pdf), [RL 2.3](https://din-notlicht.com/wp-content/uploads/oib-rl-2.3-ausgabe-mai-2023.pdf), [RL 4](https://glas-gasperlmair.at/wp-content/uploads/2023/10/oib-rl_4_ausgabe_mai_2023.pdf), [Begriffsbestimmungen](https://din-notlicht.com/wp-content/uploads/oib-rl-begriffsbestimmungen-ausgabe-mai-2023.pdf)) | ≤40 м до Sicherheitstreppenhaus (RL 2.3, п. 3.1.1) |
+    | 🇪🇸 Испания | Испания: [CTE DB-SI](https://www.codigotecnico.org/pdf/Documentos/SI/DBSI.pdf) | ≤25 м (один выход) / ≤50 м (несколько выходов) до выхода с этажа (SI 3, Tabla 3.1) |
+
+    </div>
+
+    **🇪🇺 ЕС и 🇩🇪 Германия — цитаты**
+
     В МХР отдельных значений длины путей не найдено ⏳; для Германии в целом — МВО § 35 Abs. 2: до выхода в лестничную клетку не более 35 м (см. [расстояние до выхода](../rasstoyanie.md#eu)).
-
-    **Источники**
-
-    - [МВО § 35](https://bvpi.de/bvpi/downloads/MBO.pdf?m=1749800306)
 
 === "🇬🇧 Англия"
 

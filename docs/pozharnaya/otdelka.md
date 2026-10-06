@@ -65,6 +65,21 @@
 
 === "🇪🇺 ЕС"
 
+    **Страны ЕС: национальные нормы** (единой нормы ЕС нет; ниже — Германия, Франция, Австрия, Испания)
+
+    <div class="matrix fire eu" markdown>
+
+    | Страна | Нормативный документ | Что установлено |
+    |---|---|---|
+    | 🇩🇪 Германия (и общее по ЕС) | [МВО § 35](https://bvpi.de/bvpi/downloads/MBO.pdf?m=1749800306) | CPR — общего требования нет; пример Германии: на лестничных клетках отделка негорючая, полы не ниже «трудновоспламеняемых» (МВО § 35(5)) |
+    | 🇫🇷 Франция | Франция: [Arrêté 31.01.1986](https://medias.amf.asso.fr/docs/DOCUMENTS/AMF_20070607_arrete_31_01_86_incendie.pdf) (жилые дома, копия AMF; консолидированная редакция Légifrance не сверена ⏳) | Защищённый ход: потолок M1, стены M2, пол M3 (ст. 32) |
+    | 🇦🇹 Австрия | Австрия: OIB-Richtlinien, ред. май 2023 ([RL 2](https://www.propellets.at/assets/upload/pelletlagerung/oib-rl-2-ausgabe-mai-2023.pdf), [RL 2.2](https://din-notlicht.com/wp-content/uploads/oib-rl-2.2-ausgabe-mai-2023.pdf), [RL 2.3](https://din-notlicht.com/wp-content/uploads/oib-rl-2.3-ausgabe-mai-2023.pdf), [RL 4](https://glas-gasperlmair.at/wp-content/uploads/2023/10/oib-rl_4_ausgabe_mai_2023.pdf), [Begriffsbestimmungen](https://din-notlicht.com/wp-content/uploads/oib-rl-begriffsbestimmungen-ausgabe-mai-2023.pdf)) | Табл. 1a (класс горючести отделки) — ⏳ не читал |
+    | 🇪🇸 Испания | Испания: [CTE DB-SI](https://www.codigotecnico.org/pdf/Documentos/SI/DBSI.pdf) | Защищённые коридоры и лестницы: стены/потолок B-s1,d0, пол CFL-s1; обитаемые зоны: C-s2,d0 / EFL (Tabla 4.1 SI 1) |
+
+    </div>
+
+    **🇪🇺 ЕС и 🇩🇪 Германия — цитаты**
+
     На уровне ЕС требований к отделке нет (классы реакции на огонь по EN 13501-1 применяются национальными нормами). Пример — Германия, МВО.
 
     <div class="pair" markdown>
@@ -80,9 +95,35 @@
     </div>
     </div>
 
-    **Источники**
+    **🇫🇷 Франция — цитаты**
 
-    - [МВО § 35](https://bvpi.de/bvpi/downloads/MBO.pdf?m=1749800306)
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    *fr · Arrêté 1986, ст. 32:* Art. 32. Les revêtements des parois de cette circulation doivent être classés en catégorie : - M 1 s'ils sont collés ou tendus en plafond, - M 2 s'ils sont collés ou tendus sur les parois verticales, - M 3 s'ils sont collés ou tendus sur le sol.
+
+    </div>
+    <div class="ru" markdown>
+
+    Покрытия стен этого хода — категории: M1 (приклеенные или натянутые на потолке), M2 (на вертикальных стенах), M3 (на полу).
+
+    </div>
+    </div>
+
+    **🇪🇸 Испания — цитаты**
+
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    *es · CTE DB-SI, SI 1, Tabla 4.1:* Tabla 4.1 Clases de reacción al fuego de los elementos constructivos Revestimientos(1) Situación del elemento De techos y paredes(2)(3) De suelos(2) Zonas ocupables(4) C-s2,d0 EFL Pasillos y escaleras protegidos B-s1,d0 CFL-s1 Aparcamientos y recintos de riesgo especial (5) B-s1,d0 BFL-s1
+
+    </div>
+    <div class="ru" markdown>
+
+    Классы реакции на огонь: в обитаемых зонах — потолки и стены C-s2,d0, полы EFL; в защищённых коридорах и лестницах — B-s1,d0 и CFL-s1; в стоянках и помещениях особого риска — B-s1,d0 и BFL-s1.
+
+    </div>
+    </div>
 
 === "🇬🇧 Англия"
 

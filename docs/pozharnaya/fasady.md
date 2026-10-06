@@ -71,6 +71,21 @@
 
 === "🇪🇺 ЕС"
 
+    **Страны ЕС: национальные нормы** (единой нормы ЕС нет; ниже — Германия, Франция, Австрия, Испания)
+
+    <div class="matrix fire eu" markdown>
+
+    | Страна | Нормативный документ | Что установлено |
+    |---|---|---|
+    | 🇩🇪 Германия (и общее по ЕС) | [МВО § 28](https://bvpi.de/bvpi/downloads/MBO.pdf?m=1749800306) | CPR: ограничить распространение огня (п. 2(b)). Пример — Германия: фасады не должны способствовать распространению огня; ненесущие наружные стены — негорючие или огнестойкие (МВО § 28) |
+    | 🇫🇷 Франция | Франция: [Arrêté 31.01.1986](https://medias.amf.asso.fr/docs/DOCUMENTS/AMF_20070607_arrete_31_01_86_incendie.pdf) (жилые дома, копия AMF; консолидированная редакция Légifrance не сверена ⏳) | Облицовка фасадов: классы M2/M3 (≈ реакция на огонь) в зависимости от семьи и P/H; дерево допускается кроме 3B/4-й семьи (ст. 12–13) |
+    | 🇦🇹 Австрия | Австрия: OIB-Richtlinien, ред. май 2023 ([RL 2](https://www.propellets.at/assets/upload/pelletlagerung/oib-rl-2-ausgabe-mai-2023.pdf), [RL 2.2](https://din-notlicht.com/wp-content/uploads/oib-rl-2.2-ausgabe-mai-2023.pdf), [RL 2.3](https://din-notlicht.com/wp-content/uploads/oib-rl-2.3-ausgabe-mai-2023.pdf), [RL 4](https://glas-gasperlmair.at/wp-content/uploads/2023/10/oib-rl_4_ausgabe_mai_2023.pdf), [Begriffsbestimmungen](https://din-notlicht.com/wp-content/uploads/oib-rl-begriffsbestimmungen-ausgabe-mai-2023.pdf)) | ETICS в GK4–5 не должны давать распространения огня по фасаду («второй этаж над очагом»); EPS ≤10 см или A2 — условие считается выполненным (RL 2, п. 3.5) |
+    | 🇪🇸 Испания | Испания: [CTE DB-SI](https://www.codigotecnico.org/pdf/Documentos/SI/DBSI.pdf) | Системы фасада >10 % площади: D-s3,d0 до 10 м; C-s3,d0 до 18 м; B-s3,d0 выше 18 м; полоса EI 60 высотой 1 м между секторами (SI 2) |
+
+    </div>
+
+    **🇪🇺 ЕС и 🇩🇪 Германия — цитаты**
+
     <div class="pair" markdown>
     <div class="orig" markdown>
 
@@ -112,9 +127,50 @@
     </div>
     </div>
 
-    **Источники**
+    **🇫🇷 Франция — цитаты**
 
-    - [МВО § 28](https://bvpi.de/bvpi/downloads/MBO.pdf?m=1749800306)
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    *fr · Arrêté 1986, ст. 12:* Art. 12. Pour les habitations des première et deuxième familles, les parements extérieurs des façades (menuiseries, coffrets de branchements, remplissage des garde-corps et fermetures exclus) doivent être, sauf dérogation prévue à l'article 15 c ci-après, classés en catégorie M. 3 au moins ou réalisés en bois.
+
+    </div>
+    <div class="ru" markdown>
+
+    Для жилых зданий 1-й и 2-й семьи наружные облицовки фасадов (кроме столярных изделий и т. п.) — не ниже категории M3 или из дерева, за исключением случаев, предусмотренных ст. 15 c.
+
+    </div>
+    </div>
+
+    **🇦🇹 Австрия — цитаты**
+
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    *de · OIB-RL 2, п. 3.5.1–3.5.2:* 3.5.1 Bei Gebäuden der Gebäudeklassen 4 und 5 sind Außenwand-Wärmedämmverbundsysteme so auszuführen, dass bezogen auf das zweite über dem Brandherd liegende Geschoß a) eine Brandweiterleitung über die Fassade und b) das Herabfallen großer Fassadenteile wirksam eingeschränkt wird. 3.5.2 Für Außenwand-Wärmedämmverbundsysteme mit einer Wärmedämmung von nicht mehr als 10 cm aus expandiertem Polystyrol (EPS) oder aus Baustoffen der Klasse A2 gelten die Anforderungen gemäß Punkt 3.5.1 als erfüllt.
+
+    </div>
+    <div class="ru" markdown>
+
+    У зданий классов 4 и 5 системы наружной теплоизоляции по штукатурке должны быть выполнены так, чтобы применительно ко второму этажу над очагом пожара были эффективно ограничены передача огня по фасаду и падение крупных частей фасада. Для систем с утеплителем не более 10 см из вспененного полистирола (EPS) или из материалов класса A2 требования п. 3.5.1 считаются выполненными.
+
+    </div>
+    </div>
+
+    **🇪🇸 Испания — цитаты**
+
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    *es · CTE DB-SI, SI 2, п. 1.3–1.4:* 3 Con el fin de limitar el riesgo de propagación vertical del incendio por fachada entre dos sectores de incendio, entre una zona de riesgo especial alto y otras zonas más altas del edificio, o bien hacia una escalera protegida o hacia un pasillo protegido desde otras zonas, dicha fachada debe ser al menos EI 60 en una franja de 1 m de altura, como mínimo, medida sobre el plano de la fachada (véase figura 1.7). En caso de existir elementos salientes aptos para impedir el paso de las llamas, la altura de dicha franja podrá reducirse en la dimensión del citado saliente (véase figura 1.8). Figura 1.7 Encuentro forjado-fachada 4 Figura 1.6. Fachadas a 180º Figura 1. 8 Encuentro forjado- fachada con saliente La clase de reacción al fuego de los sistemas constructivos de fachada que ocupen más del 10% de su superficie será, en función de la altura total de la fachada: - D-s3,d0 en fachadas de altura hasta 10 m; - C-s3,d0 en fachadas de altura hasta 18 m; - B-s3,d0 en fachadas de altura superior a 18 m.
+
+    </div>
+    <div class="ru" markdown>
+
+    Чтобы ограничить вертикальное распространение огня по фасаду между двумя секторами, фасад должен быть не ниже EI 60 в полосе высотой не менее 1 м (выступы, мешающие проходу пламени, высоту полосы уменьшают). Класс реакции на огонь систем фасада, занимающих более 10 % поверхности: D-s3,d0 при высоте фасада до 10 м; C-s3,d0 — до 18 м; B-s3,d0 — выше 18 м.
+
+    </div>
+    </div>
 
 === "🇬🇧 Англия"
 

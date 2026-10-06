@@ -60,6 +60,21 @@
 
 === "🇪🇺 ЕС"
 
+    **Страны ЕС: национальные нормы** (единой нормы ЕС нет; ниже — Германия, Франция, Австрия, Испания)
+
+    <div class="matrix fire eu" markdown>
+
+    | Страна | Нормативный документ | Что установлено |
+    |---|---|---|
+    | 🇩🇪 Германия (и общее по ЕС) | [МВО § 67](https://bvpi.de/bvpi/downloads/MBO.pdf?m=1749800306); [CPR 305/2011](https://www.legislation.gov.uk/eur/2011/305/annex/I) | CPR обязателен, но числовых норм не даёт. Германия: строительный орган может допустить отступление от требований, если оно совместимо с общественными интересами и целью требования (МВО § 67) |
+    | 🇫🇷 Франция | Франция: [Arrêté 31.01.1986](https://medias.amf.asso.fr/docs/DOCUMENTS/AMF_20070607_arrete_31_01_86_incendie.pdf) (жилые дома, копия AMF; консолидированная редакция Légifrance не сверена ⏳) | Arrêté — министерский акт; о допустимости отступлений в его тексте: только отдельные исключения (напр., ст. 12, 15) ⏳ общая процедура не сверена |
+    | 🇦🇹 Австрия | Австрия: OIB-Richtlinien, ред. май 2023 ([RL 2](https://www.propellets.at/assets/upload/pelletlagerung/oib-rl-2-ausgabe-mai-2023.pdf), [RL 2.2](https://din-notlicht.com/wp-content/uploads/oib-rl-2.2-ausgabe-mai-2023.pdf), [RL 2.3](https://din-notlicht.com/wp-content/uploads/oib-rl-2.3-ausgabe-mai-2023.pdf), [RL 4](https://glas-gasperlmair.at/wp-content/uploads/2023/10/oib-rl_4_ausgabe_mai_2023.pdf), [Begriffsbestimmungen](https://din-notlicht.com/wp-content/uploads/oib-rl-begriffsbestimmungen-ausgabe-mai-2023.pdf)) | OIB-RL — технические правила (обязательность задают земельные законы); отступление допустимо, если доказан тот же уровень защиты |
+    | 🇪🇸 Испания | Испания: [CTE DB-SI](https://www.codigotecnico.org/pdf/Documentos/SI/DBSI.pdf) | DB-SI — «документ базовых требований» к CTE; допускаются другие решения по процедуре ст. 5 CTE с документированием в проекте |
+
+    </div>
+
+    **🇪🇺 ЕС и 🇩🇪 Германия — цитаты**
+
     <div class="pair" markdown>
     <div class="orig" markdown>
 
@@ -73,10 +88,35 @@
     </div>
     </div>
 
-    **Источники**
+    **🇦🇹 Австрия — цитаты**
 
-    - [МВО § 67](https://bvpi.de/bvpi/downloads/MBO.pdf?m=1749800306)
-    - [CPR 305/2011](https://www.legislation.gov.uk/eur/2011/305/annex/I)
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    *de · OIB-RL 2, Vorbemerkungen:* Von den Anforderungen dieser OIB-Richtlinie kann entsprechend den jeweiligen landesrechtlichen Bestimmungen abgewichen werden, wenn vom Bauwerber nachgewiesen wird, dass das gleiche Schutzniveau wie bei Anwendung der Richtlinie erreicht wird. Hierbei ist der OIB-Leitfaden „Abweichungen im Brandschutz und Brandschutzkonzepte“anzuwenden.
+
+    </div>
+    <div class="ru" markdown>
+
+    От требований настоящей OIB-RL можно отступить в соответствии с земельным правом, если заявитель докажет, что достигнут тот же уровень защиты, что и при применении RL. При этом применяется Руководство OIB «Отступления в пожарной безопасности и концепции пожарной безопасности».
+
+    </div>
+    </div>
+
+    **🇪🇸 Испания — цитаты**
+
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    *es · CTE DB-SI, Criterios generales de aplicación:* Pueden utilizarse otras soluciones diferentes a las contenidas en este DB, en cuyo caso deberá seguirse el procedimiento establecido en el artículo 5 del CTE y deberá documentarse en el proyecto el cumplimiento de las exigencias básicas.
+
+    </div>
+    <div class="ru" markdown>
+
+    Можно использовать иные решения, чем в настоящем DB; тогда нужно следовать процедуре ст. 5 CTE и документировать в проекте соблюдение основных требований.
+
+    </div>
+    </div>
 
 === "🇬🇧 Англия"
 

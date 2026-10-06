@@ -5,21 +5,40 @@ from qlib import pair,LANG
 from firedata import TOP
 from hrdata import HT
 from gdata import GT
+from eudata import EU,SRC
 OUT=os.path.join(os.path.dirname(os.path.abspath(__file__)),'..','..','docs','pozharnaya')
 FLAG={'ru':'🇷🇺 Россия','rs':'🇷🇸 Сербия','eu':'🇪🇺 ЕС','uk':'🇬🇧 Англия'}
 LB={'ru':'ru','rs':'sr','eu':'en / de','uk':'en'}
 def tab_lang(k,it):
     lab=it[1]
-    if k=='eu': return 'de' if lab.startswith(('MBO','MHHR')) else 'en'
+    if k=='eu':
+        if lab.startswith(('MBO','MHHR','M-GarStVO','MSB','OIB')): return 'de'
+        if lab.startswith('Arrêté'): return 'fr'
+        if lab.startswith('CTE'): return 'es'
+        return 'en'
     return LB[k]
-def page(topics,i,back,title_prefix,status):
+def page(topics,i,back,title_prefix,status,grp=None):
     t=topics[i]; n=title_prefix+str(i+1)
     md=[f'# {n} {t["title"]}','',f'[← К матрице]({back}) · {t["intro"]}','',
         '!!! warning "Статус: черновик"',f'    {status}','']
     if t.get('summary'): md+=['<div class="matrix fire" markdown>','',t['summary'],'','</div>','']
     for k in ['ru','rs','eu','uk']:
         md.append(f'=== "{FLAG[k]}"'); md.append('')
-        for it in t['tabs'][k]:
+        eud=EU.get((grp,t['slug'])) if k=='eu' else None
+        items=list(t['tabs'][k])
+        if eud:
+            de=t['cells']['eu']
+            md+=['    **Страны ЕС: национальные нормы** (единой нормы ЕС нет; ниже — Германия, Франция, Австрия, Испания)','',
+                 '    <div class="matrix fire eu" markdown>','','    | Страна | Нормативный документ | Что установлено |','    |---|---|---|',
+                 f'    | 🇩🇪 Германия (и общее по ЕС) | {"; ".join(de[1]) or "МВО, МХР и др. (типовые акты земель)"} | {de[0]} |']
+            for cc,fl in (('FR','🇫🇷 Франция'),('AT','🇦🇹 Австрия'),('ES','🇪🇸 Испания')):
+                md.append(f'    | {fl} | {SRC[cc]} | {eud[cc][0]} |')
+            md+=['','    </div>','']
+            md.append('    **🇪🇺 ЕС и 🇩🇪 Германия — цитаты**'); md.append('')
+            for cc,fl in (('FR','🇫🇷 Франция'),('AT','🇦🇹 Австрия'),('ES','🇪🇸 Испания')):
+                if eud[cc][1]:
+                    items+=[('h',fl+' — цитаты')]+list(eud[cc][1])
+        for it in items:
             if it[0]=='h': md.append(f'    **{it[1]}**'); md.append('')
             elif it[0]=='n': md.append(f'    {it[1]}'); md.append('')
             elif it[0] in ('q','t'):
@@ -28,7 +47,7 @@ def page(topics,i,back,title_prefix,status):
                 if k=='ru': ru='*Пояснение:* '+ru if not ru.lstrip().startswith('|') else ru
                 md+=pair(it[1],it[2],ru,lg)
         srcs=t['cells'][k][1]
-        if srcs:
+        if srcs and not eud:
             md.append('    **Источники**'); md.append('')
             for s in srcs: md.append(f'    - {s}')
             md.append('')
@@ -37,12 +56,20 @@ def page(topics,i,back,title_prefix,status):
     if i<len(topics)-1: nav.append(f'[{topics[i+1]["title"]} →]({topics[i+1]["slug"]}.md)')
     md.append(' · '.join(nav)); md.append('')
     return '\n'.join(md)
-def matrix(topics,first,pref=''):
+def short(s,n=110):
+    if len(s)<=n: return s
+    c=s[:n].rsplit(' ',1)[0]
+    return c+'…'
+def matrix(topics,first,pref='',grp=None):
     rows=['| Аспект | 🇷🇺 Россия | 🇷🇸 Сербия | 🇪🇺 ЕС | 🇬🇧 Англия |','|---|---|---|---|---|']
     for ti,t in enumerate(topics):
         cs=[]
         for k in ['ru','rs','eu','uk']:
             txt,src=t['cells'][k]
+            eud=EU.get((grp,t['slug'])) if k=='eu' else None
+            if eud:
+                txt='<br>'.join(f'**{cc}** {short(x)}' for cc,x in [('DE',txt)]+[(c,eud[c][0]) for c in ('FR','AT','ES')])
+                s=f'[{txt}]({t["slug"]}.md#{k})'; cs.append(s); continue
             s=f'[{txt}]({t["slug"]}.md#{k})'
             if src: s+='<br><small>'+'; '.join(src)+'</small>'
             cs.append(s)
@@ -51,8 +78,8 @@ def matrix(topics,first,pref=''):
 STAT_F='Первый срез — многоквартирные жилые дома (плюс автостоянки). Цитаты взяты программно из текстов документов; перевод — рабочий, неофициальный. **⏳** — не сверено. Тексты ФЗ-123, СП 486, СП 2.13130 и СП 42.13330.2026 сверены по официальным редакциям; английский текст CPR — с legislation.gov.uk (сохранённая копия акта).'
 STAT_H='Цитаты взяты программно из текстов документов; перевод — рабочий, неофициальный. **⏳** — не сверено; для ЕС есть только пример Германии (МВО и Muster-Hochhaus-Richtlinie — типовые акты земель).'
 os.makedirs(OUT+'/vysotnye',exist_ok=True)
-for i,t in enumerate(TOP): open(f'{OUT}/{t["slug"]}.md','w').write(page(TOP,i,'index.md','2.',STAT_F))
-for i,t in enumerate(HT): open(f'{OUT}/vysotnye/{t["slug"]}.md','w').write(page(HT,i,'index.md','2.15.',STAT_H))
+for i,t in enumerate(TOP): open(f'{OUT}/{t["slug"]}.md','w').write(page(TOP,i,'index.md','2.',STAT_F,'F'))
+for i,t in enumerate(HT): open(f'{OUT}/vysotnye/{t["slug"]}.md','w').write(page(HT,i,'index.md','2.15.',STAT_H,'H'))
 # --- index.md (матрица основных правил)
 idx=f'''---
 hide:
@@ -66,7 +93,7 @@ hide:
 
 <div class="matrix fire" markdown>
 
-{matrix(TOP,True,'2.')}
+{matrix(TOP,True,'2.','F')}
 
 </div>
 
@@ -127,7 +154,7 @@ hide:
 
 <div class="matrix fire" markdown>
 
-{matrix(HT,True,'2.15.')}
+{matrix(HT,True,'2.15.','H')}
 
 </div>
 
@@ -151,7 +178,7 @@ print('built',len(TOP),len(HT))
 GOUT=os.path.join(os.path.dirname(os.path.abspath(__file__)),'..','..','docs','gradostroitelstvo')
 os.makedirs(GOUT,exist_ok=True)
 STAT_G='Цитаты взяты программно из текстов документов; перевод — рабочий, неофициальный. **⏳** — не сверено. СП 42.13330.2026 сверен по официальной редакции (Техэксперт); текст СанПиН — с копии sudact.ru ⏳.'
-for i,t in enumerate(GT): open(f'{GOUT}/{t["slug"]}.md','w').write(page(GT,i,'index.md','3.',STAT_G))
+for i,t in enumerate(GT): open(f'{GOUT}/{t["slug"]}.md','w').write(page(GT,i,'index.md','3.',STAT_G,'G'))
 gidx=f'''---
 hide:
   - toc
@@ -164,7 +191,7 @@ hide:
 
 <div class="matrix fire" markdown>
 
-{matrix(GT,True,'3.')}
+{matrix(GT,True,'3.','G')}
 
 </div>
 

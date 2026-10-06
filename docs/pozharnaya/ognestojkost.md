@@ -134,6 +134,21 @@
 
 === "🇪🇺 ЕС"
 
+    **Страны ЕС: национальные нормы** (единой нормы ЕС нет; ниже — Германия, Франция, Австрия, Испания)
+
+    <div class="matrix fire eu" markdown>
+
+    | Страна | Нормативный документ | Что установлено |
+    |---|---|---|
+    | 🇩🇪 Германия (и общее по ЕС) | [CPR 305/2011, прил. I](https://www.legislation.gov.uk/eur/2011/305/annex/I) | CPR: несущая способность сохраняется заданное время (прил. I, п. 2(a)); периоды — национальное право; классы по EN 13501-2 |
+    | 🇫🇷 Франция | Франция: [Arrêté 31.01.1986](https://medias.amf.asso.fr/docs/DOCUMENTS/AMF_20070607_arrete_31_01_86_incendie.pdf) (жилые дома, копия AMF; консолидированная редакция Légifrance не сверена ⏳) | Несущие вертикальные элементы: 1-я семья — ¼ ч, 2-я — ½ ч, 3-я — 1 ч, 4-я — 1½ ч (ст. 5) |
+    | 🇦🇹 Австрия | Австрия: OIB-Richtlinien, ред. май 2023 ([RL 2](https://www.propellets.at/assets/upload/pelletlagerung/oib-rl-2-ausgabe-mai-2023.pdf), [RL 2.2](https://din-notlicht.com/wp-content/uploads/oib-rl-2.2-ausgabe-mai-2023.pdf), [RL 2.3](https://din-notlicht.com/wp-content/uploads/oib-rl-2.3-ausgabe-mai-2023.pdf), [RL 4](https://glas-gasperlmair.at/wp-content/uploads/2023/10/oib-rl_4_ausgabe_mai_2023.pdf), [Begriffsbestimmungen](https://din-notlicht.com/wp-content/uploads/oib-rl-begriffsbestimmungen-ausgabe-mai-2023.pdf)) | Табл. 1b: R 30 … R 90 по классам GK1–GK5; для GK5 выше 6 этажей — R 90 и A2 ⏳ значения таблицы — по тексту PDF |
+    | 🇪🇸 Испания | Испания: [CTE DB-SI](https://www.codigotecnico.org/pdf/Documentos/SI/DBSI.pdf) | Жильё (Residencial Vivienda): R 60 при высоте эвакуации ≤15 м, R 90 при ≤28 м, R 120 выше; подвалы — R 120 (Tabla 3.1 SI 6) |
+
+    </div>
+
+    **🇪🇺 ЕС и 🇩🇪 Германия — цитаты**
+
     <div class="pair" markdown>
     <div class="orig" markdown>
 
@@ -147,9 +162,35 @@
     </div>
     </div>
 
-    **Источники**
+    **🇫🇷 Франция — цитаты**
 
-    - [CPR 305/2011, прил. I](https://www.legislation.gov.uk/eur/2011/305/annex/I)
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    *fr · Arrêté 1986, ст. 5:* Art. 5. Les éléments porteurs verticaux des habitations doivent présenter les degrés de stabilité au feu ciaprès : - Habitations de la première famille: un quart d'heure; - Habitations de la deuxième famille: une demi-heure; - Habitations de la troisième famille: une heure; - Habitations de la quatrième famille: une heure et demie.
+
+    </div>
+    <div class="ru" markdown>
+
+    Вертикальные несущие элементы должны иметь такие степени огнестойкости: 1-я семья — четверть часа; 2-я — полчаса; 3-я — час; 4-я — полтора часа.
+
+    </div>
+    </div>
+
+    **🇪🇸 Испания — цитаты**
+
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    *es · CTE DB-SI, SI 6, Tabla 3.1:* Tabla 3.1 Resistencia al fuego suficiente de los elementos estructurales Plantas sobre rasante Uso del sector de incendio considerado(1) Plantas de sótano altura de evacuación del edificio ≤15 m ≤28 m >28 m Vivienda unifamiliar(2) R 30 R 30 - - Residencial Vivienda, Residencial Público, Docente, Administrativo R 120 R 60 R 90 R 120 Comercial, Pública concurrencia, Hospitalario R 120(3) R 90 R 120 R 180 Aparcamiento (edificio de uso exclusivo o situado sobre otro uso) R 90 Aparcamiento (situado bajo un uso distinto) R 120(4) (1) La resistencia al fuego suficiente R
+
+    </div>
+    <div class="ru" markdown>
+
+    Таблица 3.1: достаточная огнестойкость несущих элементов. Для Residencial Vivienda, Residencial Público, Docente, Administrativo: подвал — R 120; надземные этажи при высоте эвакуации ≤15 м — R 60, ≤28 м — R 90, >28 м — R 120.
+
+    </div>
+    </div>
 
 === "🇬🇧 Англия"
 
