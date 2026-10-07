@@ -10,7 +10,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *ru · СП 477.1325800.2020, п. 8.4:* 8.4 Эвакуационные выходы с этажей высотных зданий, комплексов следует предусматривать в незадымляемые лестничные клетки. В высотных жилых и общественных зданиях следует предусматривать не менее двух незадымляемых лестничных клеток типа Н2 (с подпором воздуха в объем лестничной клетки при пожаре) или типа Н3 (с входом на каждом этаже через тамбур-шлюз, в котором на этаже пожара обеспечивается подпор воздуха) или их комбинации. При этом не менее чем одна из лестничных клеток должна быть предусмотрена незадымляемой типа Н2 с входом на каждом этаже через тамбур-шлюз с подпором воздуха на этаже пожара.
+    *ru · СП 477.1325800.2020, п. 8.4:* <small class="actual">актуально на момент публикации 07.10.26</small> 8.4 Эвакуационные выходы с этажей высотных зданий, комплексов следует предусматривать в незадымляемые лестничные клетки. В высотных жилых и общественных зданиях следует предусматривать не менее двух незадымляемых лестничных клеток типа Н2 (с подпором воздуха в объем лестничной клетки при пожаре) или типа Н3 (с входом на каждом этаже через тамбур-шлюз, в котором на этаже пожара обеспечивается подпор воздуха) или их комбинации. При этом не менее чем одна из лестничных клеток должна быть предусмотрена незадымляемой типа Н2 с входом на каждом этаже через тамбур-шлюз с подпором воздуха на этаже пожара.
 
     </div>
     <div class="ru" markdown>
@@ -23,7 +23,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *ru · СП 477.1325800.2020, п. 8.6:* 8.6 Ширина пути эвакуации по лестнице, предназначенной для эвакуации людей, в т.ч. расположенной в лестничной клетке, должна быть не менее ширины любого эвакуационного выхода на нее, но не менее, м: 1,2 - в жилых зданиях; 1,35 - в зданиях иного назначения.
+    *ru · СП 477.1325800.2020, п. 8.6:* <small class="actual">актуально на момент публикации 07.10.26</small> 8.6 Ширина пути эвакуации по лестнице, предназначенной для эвакуации людей, в т.ч. расположенной в лестничной клетке, должна быть не менее ширины любого эвакуационного выхода на нее, но не менее, м: 1,2 - в жилых зданиях; 1,35 - в зданиях иного назначения.
 
     </div>
     <div class="ru" markdown>
@@ -42,7 +42,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *sr · Pravilnik 80/2015, čl. 33:* Svaki požarni sektor objekta mora biti dostupan preko najmanje jednog sigurnosnog stepeništa, a za objekte čija je visina preko 40 m, preko dva sigurnosna stepeništa koja vode direktno do nivoa prizemlja, odnosno do krajnjeg izlaza iz objekta. Za objekte visine od 40 m do 75 m jedno od dva sigurnosna stepeništa mora ispunjavati uslove za potrebe intervencije gašenja požara i spasavanja.
+    *sr · Pravilnik 80/2015, čl. 33:* <small class="actual">актуально на момент публикации 07.10.26</small> Svaki požarni sektor objekta mora biti dostupan preko najmanje jednog sigurnosnog stepeništa, a za objekte čija je visina preko 40 m, preko dva sigurnosna stepeništa koja vode direktno do nivoa prizemlja, odnosno do krajnjeg izlaza iz objekta. Za objekte visine od 40 m do 75 m jedno od dva sigurnosna stepeništa mora ispunjavati uslove za potrebe intervencije gašenja požara i spasavanja.
 
     </div>
     <div class="ru" markdown>
@@ -55,7 +55,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *sr · Pravilnik 80/2015, čl. 36a (40–75 м):* Unutrašnja sigurnosna stepeništa za objekte visine 40 m do 75 m moraju biti opremljena sistemima koji ostvaruju natpritisak koji ne prelazi 50 Pa ±10% (potrebna sila za otvaranje vrata ne prelazi 100 N) projektovanim u skladu sa zahtevima standarda SRPS EN 12101-6, ili stepeništa moraju ispunjavati zahteve iz člana 34. ovog pravilnika i moraju biti odvojena pretprostorom koji ispunjava sledeće uslove:
+    *sr · Pravilnik 80/2015, čl. 36a (40–75 м):* <small class="actual">актуально на момент публикации 07.10.26</small> Unutrašnja sigurnosna stepeništa za objekte visine 40 m do 75 m moraju biti opremljena sistemima koji ostvaruju natpritisak koji ne prelazi 50 Pa ±10% (potrebna sila za otvaranje vrata ne prelazi 100 N) projektovanim u skladu sa zahtevima standarda SRPS EN 12101-6, ili stepeništa moraju ispunjavati zahteve iz člana 34. ovog pravilnika i moraju biti odvojena pretprostorom koji ispunjava sledeće uslove:
 
     </div>
     <div class="ru" markdown>
@@ -91,7 +91,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *de · MHHR, п. 4.2.1–4.2.2:* 4.2.1 In Hochhäusern mit nicht mehr als 60 m Höhe genügt an Stelle von zwei notwendigen Treppenräumen ein Sicherheitstreppenraum. 4.2.2 In Hochhäusern mit mehr als 60 m Höhe müssen alle notwendigen Treppenräume als Sicherheitstreppenräume ausgebildet sein.
+    *de · MHHR, п. 4.2.1–4.2.2:* <small class="actual">актуально на момент публикации 07.10.26</small> 4.2.1 In Hochhäusern mit nicht mehr als 60 m Höhe genügt an Stelle von zwei notwendigen Treppenräumen ein Sicherheitstreppenraum. 4.2.2 In Hochhäusern mit mehr als 60 m Höhe müssen alle notwendigen Treppenräume als Sicherheitstreppenräume ausgebildet sein.
 
     </div>
     <div class="ru" markdown>
@@ -106,7 +106,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *de · OIB-RL 2.3, п. 3.1.1:* 3.1.1 Von jeder Stelle jedes Raumes muss in höchstens 40 m Gehweglänge ein Sicherheitstreppenhaus der Stufe 1 gemäß Punkt 3.2 erreichbar sein. Bei Wohnungen wird die Gehweglänge ab der Wohnungseingangstüre gemessen. Dabei dürfen sich die Wohnungen über höchstens zwei Geschoße erstrecken.
+    *de · OIB-RL 2.3, п. 3.1.1:* <small class="actual">актуально на момент публикации 07.10.26</small> 3.1.1 Von jeder Stelle jedes Raumes muss in höchstens 40 m Gehweglänge ein Sicherheitstreppenhaus der Stufe 1 gemäß Punkt 3.2 erreichbar sein. Bei Wohnungen wird die Gehweglänge ab der Wohnungseingangstüre gemessen. Dabei dürfen sich die Wohnungen über höchstens zwei Geschoße erstrecken.
 
     </div>
     <div class="ru" markdown>
@@ -121,7 +121,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *en · Approved Document B Vol 1, п. 3.30:* Flats should be served by more than one common stair if either of the following applies. a. The flat is on a storey that does not meet the criteria for a single escape route or a small single stair building (see paragraphs 3.27 and 3.32). b. The building has a top storey of 18m or more in height (see Diagram D6 in Appendix D).
+    *en · Approved Document B Vol 1, п. 3.30:* <small class="actual">актуально на момент публикации 07.10.26</small> Flats should be served by more than one common stair if either of the following applies. a. The flat is on a storey that does not meet the criteria for a single escape route or a small single stair building (see paragraphs 3.27 and 3.32). b. The building has a top storey of 18m or more in height (see Diagram D6 in Appendix D).
 
     </div>
     <div class="ru" markdown>
@@ -134,7 +134,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *en · Approved Document B Vol 1, п. 3.63:* A stair of acceptable width for everyday use will be sufficient for escape purposes. If it is also a firefighting stair or a common stair in a building with a storey 18m or more in height (see Diagram D6 in Appendix D), it should be at least 1100mm wide. The width is the clear width between the walls or balustrades. Any handrails and strings intruding into that width by a maximum of 100mm on each side may be ignored.
+    *en · Approved Document B Vol 1, п. 3.63:* <small class="actual">актуально на момент публикации 07.10.26</small> A stair of acceptable width for everyday use will be sufficient for escape purposes. If it is also a firefighting stair or a common stair in a building with a storey 18m or more in height (see Diagram D6 in Appendix D), it should be at least 1100mm wide. The width is the clear width between the walls or balustrades. Any handrails and strings intruding into that width by a maximum of 100mm on each side may be ignored.
 
     </div>
     <div class="ru" markdown>
@@ -147,5 +147,9 @@
     **Источники**
 
     - [AD B Vol 1, пп. 3.30, 3.63](https://www.gov.uk/government/publications/fire-safety-approved-document-b)
+
+=== "🇦🇪 ОАЭ (Дубай)"
+
+    ⏳ Не сверено: Dubai Building Code и UAE Fire and Life Safety Code (Civil Defence) недоступны для скачивания; по пожарной безопасности и градостроительству ОАЭ в портал пока ничего не вошло. Раздел «Доступная среда» по Дубаю — см. [7. Доступная среда](../../dostupnaya/index.md).
 
 [← Порог «высотного здания» и способ измерения высоты](porog.md) · [Длина путей эвакуации в высотных зданиях →](puti.md)

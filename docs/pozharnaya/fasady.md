@@ -10,7 +10,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *ru · ФЗ-123, ст. 87, ч. 11:* 11. В зданиях и сооружениях I - III степеней огнестойкости, кроме малоэтажных жилых домов (до трех этажей включительно), отвечающих требованиям законодательства Российской Федерации о градостроительной деятельности, не допускается выполнять отделку внешних поверхностей наружных стен из материалов групп горючести Г2 - Г4, а фасадные системы не должны распространять горение.
+    *ru · ФЗ-123, ст. 87, ч. 11:* <small class="actual">актуально на момент публикации 07.10.26</small> 11. В зданиях и сооружениях I - III степеней огнестойкости, кроме малоэтажных жилых домов (до трех этажей включительно), отвечающих требованиям законодательства Российской Федерации о градостроительной деятельности, не допускается выполнять отделку внешних поверхностей наружных стен из материалов групп горючести Г2 - Г4, а фасадные системы не должны распространять горение.
 
     </div>
     <div class="ru" markdown>
@@ -29,7 +29,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *sr · Pravilnik 22/2019, čl. 17:* Fasadni (spoljni) zid objekta mora biti izveden tako da se spreči put plamena između dve susedne etaže izvođenjem vertikalnog građevinskog elementa čija je otpornost prema požaru u skladu sa usvojenim stepenom otpornosti prema požaru objekta, ispitan prema posebnom standardu za spoljne zidove odnosno zid zavese. Visina vertikalnog građevinskog elementa koji razdvaja etaže (prekidno rastojanje) mora biti dužine najmanje 1 m, ili dužine najmanje 1 m koju čini zbir vertikalnih i horizontalnih delova, kako je prikazano na Slici 1. Izuzetno od st. 1. i 2. ovog člana prekidno rastojanje može se odrediti i proračunom prema SRPS EN 1991-1-2. Odredba stava 1. ovog člana ne odnosi se na stepenišne prostore.
+    *sr · Pravilnik 22/2019, čl. 17:* <small class="actual">актуально на момент публикации 07.10.26</small> Fasadni (spoljni) zid objekta mora biti izveden tako da se spreči put plamena između dve susedne etaže izvođenjem vertikalnog građevinskog elementa čija je otpornost prema požaru u skladu sa usvojenim stepenom otpornosti prema požaru objekta, ispitan prema posebnom standardu za spoljne zidove odnosno zid zavese. Visina vertikalnog građevinskog elementa koji razdvaja etaže (prekidno rastojanje) mora biti dužine najmanje 1 m, ili dužine najmanje 1 m koju čini zbir vertikalnih i horizontalnih delova, kako je prikazano na Slici 1. Izuzetno od st. 1. i 2. ovog člana prekidno rastojanje može se odrediti i proračunom prema SRPS EN 1991-1-2. Odredba stava 1. ovog člana ne odnosi se na stepenišne prostore.
 
     </div>
     <div class="ru" markdown>
@@ -42,7 +42,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *sr · Pravilnik 22/2019, čl. 18 (ст. 1–2):* Horizontalno širenje požara na fasadi na granici požarnog sektora sprečava se horizontalnim prekidnim rastojanjem, tako što se na mestu sučeljavanja izvodi deo fasadnog zida, u ukupnoj širini od minimum 1 m, iste otpornosti prema požaru kao i unutrašnji požarni zid sa kojim se sučeljava, ispitan prema posebnom standardu za spoljne zidove odnosno zid zavese. Horizontalno prekidno rastojanje iz stava 1. ovog člana može se postići i na način da unutrašnji požarni zid na mestu sučeljavanja izlazi van fasade najmanje 0,50 m.
+    *sr · Pravilnik 22/2019, čl. 18 (ст. 1–2):* <small class="actual">актуально на момент публикации 07.10.26</small> Horizontalno širenje požara na fasadi na granici požarnog sektora sprečava se horizontalnim prekidnim rastojanjem, tako što se na mestu sučeljavanja izvodi deo fasadnog zida, u ukupnoj širini od minimum 1 m, iste otpornosti prema požaru kao i unutrašnji požarni zid sa kojim se sučeljava, ispitan prema posebnom standardu za spoljne zidove odnosno zid zavese. Horizontalno prekidno rastojanje iz stava 1. ovog člana može se postići i na način da unutrašnji požarni zid na mestu sučeljavanja izlazi van fasade najmanje 0,50 m.
 
     </div>
     <div class="ru" markdown>
@@ -55,7 +55,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *sr · Pravilnik 22/2019, čl. 11 (навесные фасады):* U sastavu zid zavese u pogledu sistema ili pojedinačnih komponenata sistema u objektima klase IS3, NS3, IP3, NP3, IJ3, NJ3 moraju se primeniti građevinski proizvodi najmanje karakteristike reakcije na požar A2 prema SRPS EN 13501-1, osim elemenata za zaptivanje koji moraju imati karakteristike reakcije na požar najmanje klase E.
+    *sr · Pravilnik 22/2019, čl. 11 (навесные фасады):* <small class="actual">актуально на момент публикации 07.10.26</small> U sastavu zid zavese u pogledu sistema ili pojedinačnih komponenata sistema u objektima klase IS3, NS3, IP3, NP3, IJ3, NJ3 moraju se primeniti građevinski proizvodi najmanje karakteristike reakcije na požar A2 prema SRPS EN 13501-1, osim elemenata za zaptivanje koji moraju imati karakteristike reakcije na požar najmanje klase E.
 
     </div>
     <div class="ru" markdown>
@@ -89,7 +89,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *en · CPR 305/2011, прил. I, п. 2(b):* (b) the generation and spread of fire and smoke within the construction works are limited;
+    *en · CPR 305/2011, прил. I, п. 2(b):* <small class="actual">актуально на момент публикации 07.10.26</small> (b) the generation and spread of fire and smoke within the construction works are limited;
 
     </div>
     <div class="ru" markdown>
@@ -104,7 +104,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *de · MBO § 28 Abs. 1:* Außenwände und Außenwandteile wie Brüstungen und Schürzen sind so auszubilden, dass eine Brandausbreitung auf und in diesen Bauteilen ausreichend lang begrenzt ist.
+    *de · MBO § 28 Abs. 1:* <small class="actual">актуально на момент публикации 07.10.26</small> Außenwände und Außenwandteile wie Brüstungen und Schürzen sind so auszubilden, dass eine Brandausbreitung auf und in diesen Bauteilen ausreichend lang begrenzt ist.
 
     </div>
     <div class="ru" markdown>
@@ -117,7 +117,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *de · MBO § 28 Abs. 2:* Nichttragende Außenwände und nichttragende Teile tragender Außenwände müssen aus nichtbrennbaren Baustoffen bestehen; sie sind aus brennbaren Baustoffen zulässig, wenn sie als raumabschließende Bauteile feuerhemmend sind.
+    *de · MBO § 28 Abs. 2:* <small class="actual">актуально на момент публикации 07.10.26</small> Nichttragende Außenwände und nichttragende Teile tragender Außenwände müssen aus nichtbrennbaren Baustoffen bestehen; sie sind aus brennbaren Baustoffen zulässig, wenn sie als raumabschließende Bauteile feuerhemmend sind.
 
     </div>
     <div class="ru" markdown>
@@ -132,7 +132,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *fr · Arrêté 1986, ст. 12:* Art. 12. Pour les habitations des première et deuxième familles, les parements extérieurs des façades (menuiseries, coffrets de branchements, remplissage des garde-corps et fermetures exclus) doivent être, sauf dérogation prévue à l'article 15 c ci-après, classés en catégorie M. 3 au moins ou réalisés en bois.
+    *fr · Arrêté 1986, ст. 12:* <small class="actual">актуально на момент публикации 07.10.26</small> Art. 12. Pour les habitations des première et deuxième familles, les parements extérieurs des façades (menuiseries, coffrets de branchements, remplissage des garde-corps et fermetures exclus) doivent être, sauf dérogation prévue à l'article 15 c ci-après, classés en catégorie M. 3 au moins ou réalisés en bois.
 
     </div>
     <div class="ru" markdown>
@@ -147,7 +147,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *de · OIB-RL 2, п. 3.5.1–3.5.2:* 3.5.1 Bei Gebäuden der Gebäudeklassen 4 und 5 sind Außenwand-Wärmedämmverbundsysteme so auszuführen, dass bezogen auf das zweite über dem Brandherd liegende Geschoß a) eine Brandweiterleitung über die Fassade und b) das Herabfallen großer Fassadenteile wirksam eingeschränkt wird. 3.5.2 Für Außenwand-Wärmedämmverbundsysteme mit einer Wärmedämmung von nicht mehr als 10 cm aus expandiertem Polystyrol (EPS) oder aus Baustoffen der Klasse A2 gelten die Anforderungen gemäß Punkt 3.5.1 als erfüllt.
+    *de · OIB-RL 2, п. 3.5.1–3.5.2:* <small class="actual">актуально на момент публикации 07.10.26</small> 3.5.1 Bei Gebäuden der Gebäudeklassen 4 und 5 sind Außenwand-Wärmedämmverbundsysteme so auszuführen, dass bezogen auf das zweite über dem Brandherd liegende Geschoß a) eine Brandweiterleitung über die Fassade und b) das Herabfallen großer Fassadenteile wirksam eingeschränkt wird. 3.5.2 Für Außenwand-Wärmedämmverbundsysteme mit einer Wärmedämmung von nicht mehr als 10 cm aus expandiertem Polystyrol (EPS) oder aus Baustoffen der Klasse A2 gelten die Anforderungen gemäß Punkt 3.5.1 als erfüllt.
 
     </div>
     <div class="ru" markdown>
@@ -162,7 +162,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *es · CTE DB-SI, SI 2, п. 1.3–1.4:* 3 Con el fin de limitar el riesgo de propagación vertical del incendio por fachada entre dos sectores de incendio, entre una zona de riesgo especial alto y otras zonas más altas del edificio, o bien hacia una escalera protegida o hacia un pasillo protegido desde otras zonas, dicha fachada debe ser al menos EI 60 en una franja de 1 m de altura, como mínimo, medida sobre el plano de la fachada (véase figura 1.7). En caso de existir elementos salientes aptos para impedir el paso de las llamas, la altura de dicha franja podrá reducirse en la dimensión del citado saliente (véase figura 1.8). Figura 1.7 Encuentro forjado-fachada 4 Figura 1.6. Fachadas a 180º Figura 1. 8 Encuentro forjado- fachada con saliente La clase de reacción al fuego de los sistemas constructivos de fachada que ocupen más del 10% de su superficie será, en función de la altura total de la fachada: - D-s3,d0 en fachadas de altura hasta 10 m; - C-s3,d0 en fachadas de altura hasta 18 m; - B-s3,d0 en fachadas de altura superior a 18 m.
+    *es · CTE DB-SI, SI 2, п. 1.3–1.4:* <small class="actual">актуально на момент публикации 07.10.26</small> 3 Con el fin de limitar el riesgo de propagación vertical del incendio por fachada entre dos sectores de incendio, entre una zona de riesgo especial alto y otras zonas más altas del edificio, o bien hacia una escalera protegida o hacia un pasillo protegido desde otras zonas, dicha fachada debe ser al menos EI 60 en una franja de 1 m de altura, como mínimo, medida sobre el plano de la fachada (véase figura 1.7). En caso de existir elementos salientes aptos para impedir el paso de las llamas, la altura de dicha franja podrá reducirse en la dimensión del citado saliente (véase figura 1.8). Figura 1.7 Encuentro forjado-fachada 4 Figura 1.6. Fachadas a 180º Figura 1. 8 Encuentro forjado- fachada con saliente La clase de reacción al fuego de los sistemas constructivos de fachada que ocupen más del 10% de su superficie será, en función de la altura total de la fachada: - D-s3,d0 en fachadas de altura hasta 10 m; - C-s3,d0 en fachadas de altura hasta 18 m; - B-s3,d0 en fachadas de altura superior a 18 m.
 
     </div>
     <div class="ru" markdown>
@@ -177,7 +177,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *en · Approved Document B Vol 1, п. 10.14:* Regulation 7(2) applies to any building with a storey at least 18m above ground level (as measured in accordance with Diagram D6 in Appendix D) and which contains one or more dwellings; an institution; or a room for residential purposes. It requires that all materials which become part of an external wall or specifed attachment achieve class A2-s1, d0 or class A1 in accordance with BS EN 13501-1, other than those exempted by regulation 7(3).
+    *en · Approved Document B Vol 1, п. 10.14:* <small class="actual">актуально на момент публикации 07.10.26</small> Regulation 7(2) applies to any building with a storey at least 18m above ground level (as measured in accordance with Diagram D6 in Appendix D) and which contains one or more dwellings; an institution; or a room for residential purposes. It requires that all materials which become part of an external wall or specifed attachment achieve class A2-s1, d0 or class A1 in accordance with BS EN 13501-1, other than those exempted by regulation 7(3).
 
     </div>
     <div class="ru" markdown>
@@ -190,7 +190,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *en · Approved Document B Vol 1, п. 10.5:* The external surfaces (i.e. outermost external material) of external walls should comply with the provisions in Table 10.1. The provisions in Table 10.1 apply to each wall individually in relation to its proximity to the relevant boundary.
+    *en · Approved Document B Vol 1, п. 10.5:* <small class="actual">актуально на момент публикации 07.10.26</small> The external surfaces (i.e. outermost external material) of external walls should comply with the provisions in Table 10.1. The provisions in Table 10.1 apply to each wall individually in relation to its proximity to the relevant boundary.
 
     </div>
     <div class="ru" markdown>
@@ -203,5 +203,9 @@
     **Источники**
 
     - [AD B Vol 1, пп. 10.5, 10.14](https://www.gov.uk/government/publications/fire-safety-approved-document-b)
+
+=== "🇦🇪 ОАЭ (Дубай)"
+
+    ⏳ Не сверено: Dubai Building Code и UAE Fire and Life Safety Code (Civil Defence) недоступны для скачивания; по пожарной безопасности и градостроительству ОАЭ в портал пока ничего не вошло. Раздел «Доступная среда» по Дубаю — см. [7. Доступная среда](../dostupnaya/index.md).
 
 [← Расстояния между зданиями и до границы участка](razryvy.md) · [Отделка путей эвакуации →](otdelka.md)

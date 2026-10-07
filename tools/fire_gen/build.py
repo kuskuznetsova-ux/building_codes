@@ -6,9 +6,10 @@ from firedata import TOP
 from hrdata import HT
 from gdata import GT
 from eudata import EU,SRC
+from adata import ACC
 OUT=os.path.join(os.path.dirname(os.path.abspath(__file__)),'..','..','docs','pozharnaya')
-FLAG={'ru':'🇷🇺 Россия','rs':'🇷🇸 Сербия','eu':'🇪🇺 ЕС','uk':'🇬🇧 Англия'}
-LB={'ru':'ru','rs':'sr','eu':'en / de','uk':'en'}
+FLAG={'ru':'🇷🇺 Россия','rs':'🇷🇸 Сербия','eu':'🇪🇺 ЕС','uk':'🇬🇧 Англия','ae':'🇦🇪 ОАЭ (Дубай)'}
+LB={'ru':'ru','rs':'sr','eu':'en / de','uk':'en','ae':'en'}
 def tab_lang(k,it):
     lab=it[1]
     if k=='eu':
@@ -22,7 +23,7 @@ def page(topics,i,back,title_prefix,status,grp=None):
     md=[f'# {n} {t["title"]}','',f'[← К матрице]({back}) · {t["intro"]}','',
         '!!! warning "Статус: черновик"',f'    {status}','']
     if t.get('summary'): md+=['<div class="matrix fire" markdown>','',t['summary'],'','</div>','']
-    for k in ['ru','rs','eu','uk']:
+    for k in t.get('keys',['ru','rs','eu','uk']):
         md.append(f'=== "{FLAG[k]}"'); md.append('')
         eud=EU.get((grp,t['slug'])) if k=='eu' else None
         items=list(t['tabs'][k])
@@ -61,10 +62,11 @@ def short(s,n=110):
     c=s[:n].rsplit(' ',1)[0]
     return c+'…'
 def matrix(topics,first,pref='',grp=None):
-    rows=['| Аспект | 🇷🇺 Россия | 🇷🇸 Сербия | 🇪🇺 ЕС | 🇬🇧 Англия |','|---|---|---|---|---|']
+    ks=topics[0].get('keys',['ru','rs','eu','uk'])
+    rows=['| Аспект | '+' | '.join(FLAG[k] for k in ks)+' |','|---'*(len(ks)+1)+'|']
     for ti,t in enumerate(topics):
         cs=[]
-        for k in ['ru','rs','eu','uk']:
+        for k in ks:
             txt,src=t['cells'][k]
             eud=EU.get((grp,t['slug'])) if k=='eu' else None
             if eud:
@@ -77,6 +79,12 @@ def matrix(topics,first,pref='',grp=None):
     return '\n'.join(rows)
 STAT_F='Первый срез — многоквартирные жилые дома (плюс автостоянки). Цитаты взяты программно из текстов документов; перевод — рабочий, неофициальный. **⏳** — не сверено. Тексты ФЗ-123, СП 486, СП 2.13130 и СП 42.13330.2026 сверены по официальным редакциям; английский текст CPR — с legislation.gov.uk (сохранённая копия акта).'
 STAT_H='Цитаты взяты программно из текстов документов; перевод — рабочий, неофициальный. **⏳** — не сверено; для ЕС есть только пример Германии (МВО и Muster-Hochhaus-Richtlinie — типовые акты земель).'
+AE_NOTE='⏳ Не сверено: Dubai Building Code и UAE Fire and Life Safety Code (Civil Defence) недоступны для скачивания; по пожарной безопасности и градостроительству ОАЭ в портал пока ничего не вошло. Раздел «Доступная среда» по Дубаю — см. [7. Доступная среда](../dostupnaya/index.md).'
+for _L,_rel in ((TOP,'../dostupnaya/index.md'),(HT,'../../dostupnaya/index.md'),(GT,'../dostupnaya/index.md')):
+    for _t in _L:
+        _t['keys']=['ru','rs','eu','uk','ae']
+        _t['cells']['ae']=('⏳ не сверено (документы ОАЭ недоступны)',[])
+        _t['tabs']['ae']=[('n',AE_NOTE.replace('../dostupnaya/index.md',_rel))]
 os.makedirs(OUT+'/vysotnye',exist_ok=True)
 for i,t in enumerate(TOP): open(f'{OUT}/{t["slug"]}.md','w').write(page(TOP,i,'index.md','2.',STAT_F,'F'))
 for i,t in enumerate(HT): open(f'{OUT}/vysotnye/{t["slug"]}.md','w').write(page(HT,i,'index.md','2.15.',STAT_H,'H'))
@@ -211,3 +219,40 @@ hide:
 '''
 open(GOUT+'/index.md','w').write(gidx)
 print('gradostroitelstvo',len(GT))
+
+# --- доступная среда
+AOUT=os.path.join(os.path.dirname(os.path.abspath(__file__)),'..','..','docs','dostupnaya')
+os.makedirs(AOUT,exist_ok=True)
+STAT_A='Первый срез — жилые и общественные здания. Цитаты взяты программно из текстов документов; перевод — рабочий, неофициальный. **⏳** — не сверено. СП 59.13330.2020 прочитан по редакции из «Техэксперт» (предоставлена пользователем); Approved Document M Vol 2 — копия gov.uk (ред. 2024); для Дубая использовано руководство «Dubai Universal Design Audit Guide» (Dubai Municipality) — оно ссылается на «Dubai Universal Design Code», сам код не прочитан.'
+for i,t in enumerate(ACC): open(f'{AOUT}/{t["slug"]}.md','w').write(page(ACC,i,'index.md','7.',STAT_A,'A'))
+aidx=f'''---
+hide:
+  - toc
+---
+
+# 7. Доступная среда (МГН)
+
+!!! warning "Статус: черновик, первый срез"
+    Сравнение требований к доступности зданий для маломобильных групп населения (СП 59.13330.2020 и аналоги). Каждая ячейка ведёт на страницу темы: **слева** оригинал (чёрным), **справа** русский перевод (серым). **⏳** — не сверено.
+
+<div class="matrix fire ae5" markdown>
+
+{matrix(ACC,True,'7.','A')}
+
+</div>
+
+## Как читать
+
+- **Россия**: СП 59.13330.2020 (свод правил, переработанный СНиП 35-01-2001). **Сербия**: Правилник 22/2015 (в ред. 10/2026). **Англия**: Part M Building Regulations и Approved Document M (Vol 1 — жильё, Vol 2 — прочие здания; здесь только Vol 2). **ОАЭ**: в портал вошло руководство Dubai Municipality — аудит-справочник с чек-листами; требования самого «Dubai Universal Design Code» ⏳ не читались.
+- **ЕС**: единой строительной нормы нет. Европейский закон о доступности (EAA) относится к продуктам и услугам, а не к зданиям. По странам: Германия — МВО § 50 (DIN 18040 платный ⏳), Австрия — OIB-RL 4, Испания — CTE DB-SUA, Франция ⏳.
+
+## Что осталось сверить
+
+- [ ] Россия: СП 59, раздел 7 (места проживания инвалидов), раздел 8 (специальные требования к зданиям), зоны безопасности МГН при пожаре (связь с СП 1.13130 п. 9).
+- [ ] Сербия: рабочая копия правилника — Paragraf (с изменениями 10/2026); нумерация статей по копии.
+- [ ] Англия: Approved Document M Vol 1 (жильё: M4(1)–M4(3)), Approved Document T (туалеты), BS 8300.
+- [ ] ЕС: DIN 18040 (Германия), Франция (arrêté 2015/2017 и др.), EN 17210.
+- [ ] ОАЭ: Dubai Universal Design Code, UAE Fire and Life Safety Code (эвакуация МГН).
+'''
+open(AOUT+'/index.md','w').write(aidx)
+print('dostupnaya',len(ACC))

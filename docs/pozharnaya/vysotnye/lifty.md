@@ -10,7 +10,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *ru · СП 477.1325800.2020, п. 7.6.1:* 7.6.1 Для обеспечения деятельности пожарных подразделений и спасения МГН в высотном здании (в высотном комплексе - в каждом из зданий) следует предусматривать не менее двух лифтов (при зонной схеме организации работы лифтов - в каждой из зон) для транспортирования подразделений пожарной охраны в соответствии с требованиями ГОСТ Р 53296 , ГОСТ 34305 , ГОСТ 33652 .
+    *ru · СП 477.1325800.2020, п. 7.6.1:* <small class="actual">актуально на момент публикации 07.10.26</small> 7.6.1 Для обеспечения деятельности пожарных подразделений и спасения МГН в высотном здании (в высотном комплексе - в каждом из зданий) следует предусматривать не менее двух лифтов (при зонной схеме организации работы лифтов - в каждой из зон) для транспортирования подразделений пожарной охраны в соответствии с требованиями ГОСТ Р 53296 , ГОСТ 34305 , ГОСТ 33652 .
 
     </div>
     <div class="ru" markdown>
@@ -23,7 +23,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *ru · СП 477.1325800.2020, п. 9.2:* 9.2 На крыше зданий следует предусматривать площадку размерами не менее 5 x 5 м для транспортно-спасательной кабины пожарного вертолета (с учетом 9.1 ). Над указанной площадкой и на расстоянии менее 5 м от нее запрещается размещение антенн, электропроводов, кабелей.
+    *ru · СП 477.1325800.2020, п. 9.2:* <small class="actual">актуально на момент публикации 07.10.26</small> 9.2 На крыше зданий следует предусматривать площадку размерами не менее 5 x 5 м для транспортно-спасательной кабины пожарного вертолета (с учетом 9.1 ). Над указанной площадкой и на расстоянии менее 5 м от нее запрещается размещение антенн, электропроводов, кабелей.
 
     </div>
     <div class="ru" markdown>
@@ -42,7 +42,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *sr · Pravilnik 80/2015, čl. 62:* U objektima višim od 75 m jedan od liftova predviđa se kao vatrogasni lift i mora ispunjavati zahteve standarda SRPS EN 81- 72. Vatrogasni lift mora biti smešten u sopstveno okno i mora imati sopstveni pretprostor, čiji su zidovi otporni prema požaru 1,5 h (REI 90), izvedeni od građevinskih proizvoda karakteristike reakcije na požar najmanje klase A2s1d0 prema standardu SRPS EN 13501-1.
+    *sr · Pravilnik 80/2015, čl. 62:* <small class="actual">актуально на момент публикации 07.10.26</small> U objektima višim od 75 m jedan od liftova predviđa se kao vatrogasni lift i mora ispunjavati zahteve standarda SRPS EN 81- 72. Vatrogasni lift mora biti smešten u sopstveno okno i mora imati sopstveni pretprostor, čiji su zidovi otporni prema požaru 1,5 h (REI 90), izvedeni od građevinskih proizvoda karakteristike reakcije na požar najmanje klase A2s1d0 prema standardu SRPS EN 13501-1.
 
     </div>
     <div class="ru" markdown>
@@ -55,7 +55,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *sr · Pravilnik 80/2015, čl. 7:* Za potrebe intervencije prilikom gašenja požara mora se obezbediti plato na kome je moguće korišćenje automehaničkih lestava u svim položajima. Pristupni put i plato za intervencije moraju imati kolovoze nosivosti najmanje 130 kN osovinskog pritiska.
+    *sr · Pravilnik 80/2015, čl. 7:* <small class="actual">актуально на момент публикации 07.10.26</small> Za potrebe intervencije prilikom gašenja požara mora se obezbediti plato na kome je moguće korišćenje automehaničkih lestava u svim položajima. Pristupni put i plato za intervencije moraju imati kolovoze nosivosti najmanje 130 kN osovinskog pritiska.
 
     </div>
     <div class="ru" markdown>
@@ -89,7 +89,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *de · MHHR, п. 6.1.1.1:* Hochhäuser müssen Feuerwehraufzüge mit Haltestellen in jedem Geschoss haben.
+    *de · MHHR, п. 6.1.1.1:* <small class="actual">актуально на момент публикации 07.10.26</small> Hochhäuser müssen Feuerwehraufzüge mit Haltestellen in jedem Geschoss haben.
 
     </div>
     <div class="ru" markdown>
@@ -102,7 +102,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *de · MHHR, п. 6.1.1.2–6.1.1.3:* Feuerwehraufzüge müssen eigene Fahrschächte haben, in die Feuer und Rauch nicht eindringen können. Jede Stelle eines Geschosses muss von einem Feuerwehraufzug in höchstens 50 m  Entfernung erreichbar sein. Die Entfernung wird in der Lauflinie gemessen.
+    *de · MHHR, п. 6.1.1.2–6.1.1.3:* <small class="actual">актуально на момент публикации 07.10.26</small> Feuerwehraufzüge müssen eigene Fahrschächte haben, in die Feuer und Rauch nicht eindringen können. Jede Stelle eines Geschosses muss von einem Feuerwehraufzug in höchstens 50 m  Entfernung erreichbar sein. Die Entfernung wird in der Lauflinie gemessen.
 
     </div>
     <div class="ru" markdown>
@@ -115,7 +115,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *de · MHHR, п. 6.1.3.1:* Vor jeder Fahrschachttür muss ein Vorraum angeordnet sein, in den Feuer und Rauch nicht eindringen können. Der Vorraum muss in unmittelbarer Nähe zu einem notwendigen Treppenraum angeordnet sein.
+    *de · MHHR, п. 6.1.3.1:* <small class="actual">актуально на момент публикации 07.10.26</small> Vor jeder Fahrschachttür muss ein Vorraum angeordnet sein, in den Feuer und Rauch nicht eindringen können. Der Vorraum muss in unmittelbarer Nähe zu einem notwendigen Treppenraum angeordnet sein.
 
     </div>
     <div class="ru" markdown>
@@ -130,7 +130,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *de · OIB-RL 2.3, п. 2.7.8:* 2.7.8 Für jeden Brandabschnitt ist mindestens ein Feuerwehraufzug vorzusehen. Ein Feuerwehraufzug darf mehreren Brandabschnitten zugeordnet werden, falls der Zugang unmittelbar aus den angrenzenden Brandabschnitten erfolgt. Für die Beurteilung des Erfordernisses eines Feuerwehraufzuges ist die Höhendifferenz zwischen der Fußbodenoberkante des höchstgelegenen oberirdischen Geschoßes und der Feuerwehrangriffsebene maßgebend.
+    *de · OIB-RL 2.3, п. 2.7.8:* <small class="actual">актуально на момент публикации 07.10.26</small> 2.7.8 Für jeden Brandabschnitt ist mindestens ein Feuerwehraufzug vorzusehen. Ein Feuerwehraufzug darf mehreren Brandabschnitten zugeordnet werden, falls der Zugang unmittelbar aus den angrenzenden Brandabschnitten erfolgt. Für die Beurteilung des Erfordernisses eines Feuerwehraufzuges ist die Höhendifferenz zwischen der Fußbodenoberkante des höchstgelegenen oberirdischen Geschoßes und der Feuerwehrangriffsebene maßgebend.
 
     </div>
     <div class="ru" markdown>
@@ -145,7 +145,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *es · CTE DB-SI, SI 4, Tabla 1.1:* Ascensor de emergencia En las plantas cuya altura de evacuación exceda de 28 m
+    *es · CTE DB-SI, SI 4, Tabla 1.1:* <small class="actual">актуально на момент публикации 07.10.26</small> Ascensor de emergencia En las plantas cuya altura de evacuación exceda de 28 m
 
     </div>
     <div class="ru" markdown>
@@ -160,7 +160,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *en · Approved Document B Vol 1, п. 15.2:* A building with a storey more than 18m above the fire and rescue service vehicle access level should have one or more firefighting shafts, each containing a firefighting lift (Diagram 15.1). The number and location of firefighting shafts should comply with paragraphs 15.4 to 15.7. Firefighting shafts are not required to serve a basement that is not large or deep enough to need one (see paragraph 15.3 and Diagram 15.2).
+    *en · Approved Document B Vol 1, п. 15.2:* <small class="actual">актуально на момент публикации 07.10.26</small> A building with a storey more than 18m above the fire and rescue service vehicle access level should have one or more firefighting shafts, each containing a firefighting lift (Diagram 15.1). The number and location of firefighting shafts should comply with paragraphs 15.4 to 15.7. Firefighting shafts are not required to serve a basement that is not large or deep enough to need one (see paragraph 15.3 and Diagram 15.2).
 
     </div>
     <div class="ru" markdown>
@@ -173,7 +173,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *en · Approved Document B Vol 1, п. 15.5:* In buildings where a firefighting shaft is required, a minimum of two firefighting shafts should be provided to buildings with a storey that has both of the following. a. A floor area of 900m2 or more. b. A floor level 18m or more above the fire and rescue service vehicle access level.
+    *en · Approved Document B Vol 1, п. 15.5:* <small class="actual">актуально на момент публикации 07.10.26</small> In buildings where a firefighting shaft is required, a minimum of two firefighting shafts should be provided to buildings with a storey that has both of the following. a. A floor area of 900m2 or more. b. A floor level 18m or more above the fire and rescue service vehicle access level.
 
     </div>
     <div class="ru" markdown>
@@ -186,7 +186,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *en · Approved Document B Vol 1, п. 15.9:* Firefighting shafts should achieve a minimum fire resistance of REI 120. A minimum of REI 60 is acceptable for either of the following (see Diagram 15.1). a. Constructions separating the firefighting shaft from the rest of the building. b. Constructions separating the firefighting stair, firefighting lift shaft and firefighting lobby.
+    *en · Approved Document B Vol 1, п. 15.9:* <small class="actual">актуально на момент публикации 07.10.26</small> Firefighting shafts should achieve a minimum fire resistance of REI 120. A minimum of REI 60 is acceptable for either of the following (see Diagram 15.1). a. Constructions separating the firefighting shaft from the rest of the building. b. Constructions separating the firefighting stair, firefighting lift shaft and firefighting lobby.
 
     </div>
     <div class="ru" markdown>
@@ -199,5 +199,9 @@
     **Источники**
 
     - [AD B Vol 1, разд. 15](https://www.gov.uk/government/publications/fire-safety-approved-document-b)
+
+=== "🇦🇪 ОАЭ (Дубай)"
+
+    ⏳ Не сверено: Dubai Building Code и UAE Fire and Life Safety Code (Civil Defence) недоступны для скачивания; по пожарной безопасности и градостроительству ОАЭ в портал пока ничего не вошло. Раздел «Доступная среда» по Дубаю — см. [7. Доступная среда](../../dostupnaya/index.md).
 
 [← Длина путей эвакуации в высотных зданиях](puti.md) · [Огнестойкость и пожарные отсеки →](ognestojkost.md)

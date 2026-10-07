@@ -64,3 +64,10 @@
 @media screen and (min-width:76.25em){
   .md-sidebar--primary .md-nav__item--nested .md-nav__item--nested .md-nav__item .md-nav__link{padding-left:.9rem}
 }
+
+/* переключатель столбцов стран */
+.col-toggle { font-size: .72rem; margin: .6em 0 .4em; display: flex; flex-wrap: wrap; gap: .4em 1.1em; align-items: center; color: var(--md-default-fg-color--light); }
+.col-toggle label { cursor: pointer; white-space: nowrap; }
+.col-toggle input { vertical-align: middle; margin-right: .15em; }
+/* приписка об актуальности нормы */
+.md-typeset .actual { color: #c62828; font-size: .58rem; font-weight: 400; font-style: normal; margin-left: .25em; white-space: nowrap; }

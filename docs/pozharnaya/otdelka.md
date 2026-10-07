@@ -10,7 +10,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *ru · ФЗ-123, ст. 134, ч. 6:* 6. Область применения декоративно-отделочных, облицовочных материалов и покрытий полов на путях эвакуации и в зальных помещениях (за исключением покрытий полов спортивных арен спортивных сооружений и полов танцевальных залов) в зданиях различных функционального назначения, этажности и вместимости приведена в таблицах 28 и 29 приложения к настоящему Федеральному закону. Показатели пожарной опасности декоративно-отделочных, облицовочных материалов и покрытий полов в зданиях V степени огнестойкости и зданиях класса конструктивной пожарной опасности С3 не регламентируются.
+    *ru · ФЗ-123, ст. 134, ч. 6:* <small class="actual">актуально на момент публикации 07.10.26</small> 6. Область применения декоративно-отделочных, облицовочных материалов и покрытий полов на путях эвакуации и в зальных помещениях (за исключением покрытий полов спортивных арен спортивных сооружений и полов танцевальных залов) в зданиях различных функционального назначения, этажности и вместимости приведена в таблицах 28 и 29 приложения к настоящему Федеральному закону. Показатели пожарной опасности декоративно-отделочных, облицовочных материалов и покрытий полов в зданиях V степени огнестойкости и зданиях класса конструктивной пожарной опасности С3 не регламентируются.
 
     </div>
     <div class="ru" markdown>
@@ -23,7 +23,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *ru · ФЗ-123, прил., табл. 28 (выборка):*
+    *ru · ФЗ-123, прил., табл. 28 (выборка):* <small class="actual">актуально на момент публикации 07.10.26</small>
 
     | Класс Ф здания | Этажность / высота | Стены и потолки: вестибюли, лестничные клетки, лифтовые холлы | Стены и потолки: общие коридоры, холлы | Полы: вестибюли, лестничные клетки | Полы: общие коридоры |
     |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *sr · Pravilnik 22/2019, čl. 14:* Zidne, plafonske i podne obloge prostora za komunikaciju koji pripadaju koridoru evakuacije, moraju biti karakteristike reakcije na požar najmanje klase A2s1d0 prema standardu SRPS EN 13501-1. Zidne, plafonske i podne obloge koje se postavljaju na evakuacionim putevima koji nisu obuhvaćeni stavom 1. ovog člana (npr. etažni hodnici, prolazi i sl.), a u zavisnosti od etapa evakuacije, moraju biti karakteristike reakcije na požar najmanje klase Bs1d0 odnosno Bfis1, prema standardu SRPS EN 13501-1.
+    *sr · Pravilnik 22/2019, čl. 14:* <small class="actual">актуально на момент публикации 07.10.26</small> Zidne, plafonske i podne obloge prostora za komunikaciju koji pripadaju koridoru evakuacije, moraju biti karakteristike reakcije na požar najmanje klase A2s1d0 prema standardu SRPS EN 13501-1. Zidne, plafonske i podne obloge koje se postavljaju na evakuacionim putevima koji nisu obuhvaćeni stavom 1. ovog člana (npr. etažni hodnici, prolazi i sl.), a u zavisnosti od etapa evakuacije, moraju biti karakteristike reakcije na požar najmanje klase Bs1d0 odnosno Bfis1, prema standardu SRPS EN 13501-1.
 
     </div>
     <div class="ru" markdown>
@@ -85,7 +85,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *de · MBO § 35 Abs. 5:* In notwendigen Treppenräumen und in Räumen nach Absatz 3 Satz 2 müssen 1. Bekleidungen, Putze, Dämmstoffe, Unterdecken und Einbauten aus nichtbrennbaren Baustoffen bestehen, 2. Wände und Decken aus brennbaren Baustoffen eine Bekleidung aus nichtbrennbaren Baustoffen in ausreichender Dicke haben, 30 3. Bodenbeläge, ausgenommen Gleitschutzprofile, aus mindestens schwerentflammbaren Baustoffen bestehen.
+    *de · MBO § 35 Abs. 5:* <small class="actual">актуально на момент публикации 07.10.26</small> In notwendigen Treppenräumen und in Räumen nach Absatz 3 Satz 2 müssen 1. Bekleidungen, Putze, Dämmstoffe, Unterdecken und Einbauten aus nichtbrennbaren Baustoffen bestehen, 2. Wände und Decken aus brennbaren Baustoffen eine Bekleidung aus nichtbrennbaren Baustoffen in ausreichender Dicke haben, 30 3. Bodenbeläge, ausgenommen Gleitschutzprofile, aus mindestens schwerentflammbaren Baustoffen bestehen.
 
     </div>
     <div class="ru" markdown>
@@ -100,7 +100,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *fr · Arrêté 1986, ст. 32:* Art. 32. Les revêtements des parois de cette circulation doivent être classés en catégorie : - M 1 s'ils sont collés ou tendus en plafond, - M 2 s'ils sont collés ou tendus sur les parois verticales, - M 3 s'ils sont collés ou tendus sur le sol.
+    *fr · Arrêté 1986, ст. 32:* <small class="actual">актуально на момент публикации 07.10.26</small> Art. 32. Les revêtements des parois de cette circulation doivent être classés en catégorie : - M 1 s'ils sont collés ou tendus en plafond, - M 2 s'ils sont collés ou tendus sur les parois verticales, - M 3 s'ils sont collés ou tendus sur le sol.
 
     </div>
     <div class="ru" markdown>
@@ -115,7 +115,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *es · CTE DB-SI, SI 1, Tabla 4.1:* Tabla 4.1 Clases de reacción al fuego de los elementos constructivos Revestimientos(1) Situación del elemento De techos y paredes(2)(3) De suelos(2) Zonas ocupables(4) C-s2,d0 EFL Pasillos y escaleras protegidos B-s1,d0 CFL-s1 Aparcamientos y recintos de riesgo especial (5) B-s1,d0 BFL-s1
+    *es · CTE DB-SI, SI 1, Tabla 4.1:* <small class="actual">актуально на момент публикации 07.10.26</small> Tabla 4.1 Clases de reacción al fuego de los elementos constructivos Revestimientos(1) Situación del elemento De techos y paredes(2)(3) De suelos(2) Zonas ocupables(4) C-s2,d0 EFL Pasillos y escaleras protegidos B-s1,d0 CFL-s1 Aparcamientos y recintos de riesgo especial (5) B-s1,d0 BFL-s1
 
     </div>
     <div class="ru" markdown>
@@ -130,7 +130,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *en · Approved Document B Vol 1, п. 4.1:* The surface linings of walls and ceilings should meet the classifications in Table 4.1.
+    *en · Approved Document B Vol 1, п. 4.1:* <small class="actual">актуально на момент публикации 07.10.26</small> The surface linings of walls and ceilings should meet the classifications in Table 4.1.
 
     </div>
     <div class="ru" markdown>
@@ -143,7 +143,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *en · Approved Document B Vol 1, табл. 4.1:*
+    *en · Approved Document B Vol 1, табл. 4.1:* <small class="actual">актуально на момент публикации 07.10.26</small>
 
     | Location | Classification |
     |---|---|
@@ -170,5 +170,9 @@
     **Источники**
 
     - [AD B Vol 1, разд. 4, табл. 4.1](https://www.gov.uk/government/publications/fire-safety-approved-document-b)
+
+=== "🇦🇪 ОАЭ (Дубай)"
+
+    ⏳ Не сверено: Dubai Building Code и UAE Fire and Life Safety Code (Civil Defence) недоступны для скачивания; по пожарной безопасности и градостроительству ОАЭ в портал пока ничего не вошло. Раздел «Доступная среда» по Дубаю — см. [7. Доступная среда](../dostupnaya/index.md).
 
 [← Наружные стены и фасады](fasady.md) · [Автоматическое пожаротушение (спринклеры) в жилых домах →](sprinklery.md)
