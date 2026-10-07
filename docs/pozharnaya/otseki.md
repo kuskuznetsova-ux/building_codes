@@ -10,7 +10,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *ru · СП 4.13130.2013, п. 5.2.9:* 5.2.9 В зданиях I, II и III степеней огнестойкости, класса Ф1.3 для делении на секции следует предусматривать противопожарные стены 2-го типа или перегородки не ниже 1-го типа, а стены и перегородки, отделяющие внеквартирные коридоры от других помещений, должны иметь предел огнестойкости не менее EI 45. Межквартирные ненесущие стены и перегородки должны иметь предел огнестойкости не менее EI 30 и класс пожарной опасности К0.
+    *ru · СП 4.13130.2013, п. 5.2.9:* <small class="actual">актуально на момент публикации 07.10.26</small> 5.2.9 В зданиях I, II и III степеней огнестойкости, класса Ф1.3 для делении на секции следует предусматривать противопожарные стены 2-го типа или перегородки не ниже 1-го типа, а стены и перегородки, отделяющие внеквартирные коридоры от других помещений, должны иметь предел огнестойкости не менее EI 45. Межквартирные ненесущие стены и перегородки должны иметь предел огнестойкости не менее EI 30 и класс пожарной опасности К0.
 
     </div>
     <div class="ru" markdown>
@@ -30,7 +30,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *sr · Pravilnik 22/2019, čl. 20 (т. 4–6):* 4) objekti sa hodnicima dužine veće od 40 m moraju biti podeljeni pregradom i vratima otpornim prema požaru najmanje 60 min; 5) u objektima stan se izdvaja od susednih stanova, poslovnih i drugih prostorija, zidovima i međuspratnim konstrukcijama otpornim prema požaru 90 min; 6) zajedničke stanarske ostave, prostorije za deponiju smeća i sl. moraju se izdvojiti u posebne požarne sektore sa elementima konstrukcije otpornim prema požaru 90 min.
+    *sr · Pravilnik 22/2019, čl. 20 (т. 4–6):* <small class="actual">актуально на момент публикации 07.10.26</small> 4) objekti sa hodnicima dužine veće od 40 m moraju biti podeljeni pregradom i vratima otpornim prema požaru najmanje 60 min; 5) u objektima stan se izdvaja od susednih stanova, poslovnih i drugih prostorija, zidovima i međuspratnim konstrukcijama otpornim prema požaru 90 min; 6) zajedničke stanarske ostave, prostorije za deponiju smeća i sl. moraju se izdvojiti u posebne požarne sektore sa elementima konstrukcije otpornim prema požaru 90 min.
 
     </div>
     <div class="ru" markdown>
@@ -66,7 +66,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *de · MBO § 14:* Bauliche Anlagen sind so anzuordnen, zu errichten, zu ändern und instand zu halten, dass der Entstehung eines Brandes und der Ausbreitung von Feuer und Rauch (Brandausbreitung) vorgebeugt wird und bei einem Brand die Rettung von Menschen und Tieren sowie wirksame Löscharbeiten möglich sind.
+    *de · MBO § 14:* <small class="actual">актуально на момент публикации 07.10.26</small> Bauliche Anlagen sind so anzuordnen, zu errichten, zu ändern und instand zu halten, dass der Entstehung eines Brandes und der Ausbreitung von Feuer und Rauch (Brandausbreitung) vorgebeugt wird und bei einem Brand die Rettung von Menschen und Tieren sowie wirksame Löscharbeiten möglich sind.
 
     </div>
     <div class="ru" markdown>
@@ -81,7 +81,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *fr · Arrêté 1986, ст. 8:* A l'exclusion des façades, les parois verticales de l'enveloppe du logement doivent être : - Coupe-feu de degré une demi-heure pour les habitations collectives de la deuxième famille et pour les habitations de la troisième famille; - Coupe-feu de degré une heure pour les habitations de la quatrième famille.
+    *fr · Arrêté 1986, ст. 8:* <small class="actual">актуально на момент публикации 07.10.26</small> A l'exclusion des façades, les parois verticales de l'enveloppe du logement doivent être : - Coupe-feu de degré une demi-heure pour les habitations collectives de la deuxième famille et pour les habitations de la troisième famille; - Coupe-feu de degré une heure pour les habitations de la quatrième famille.
 
     </div>
     <div class="ru" markdown>
@@ -96,7 +96,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *de · OIB-RL 2, п. 3.1.2–3.1.3:* 3.1.2 Brandabschnitte in unterirdischen Geschoßen dürfen eine maximale Netto-Grundfläche von 800 m² nicht überschreiten. 3.1.3 Brandabschnitte sind durch brandabschnittsbildende Bauteile (z.B. Wände, Decken) gegeneinander abzutrennen.
+    *de · OIB-RL 2, п. 3.1.2–3.1.3:* <small class="actual">актуально на момент публикации 07.10.26</small> 3.1.2 Brandabschnitte in unterirdischen Geschoßen dürfen eine maximale Netto-Grundfläche von 800 m² nicht überschreiten. 3.1.3 Brandabschnitte sind durch brandabschnittsbildende Bauteile (z.B. Wände, Decken) gegeneinander abzutrennen.
 
     </div>
     <div class="ru" markdown>
@@ -111,7 +111,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *es · CTE DB-SI, Tabla 1.1:* No se establece límite de superficie para los sectores de riesgo mínimo. - La superficie construida de todo sector de incendio no debe exceder de 2.500 m2. - Los elementos que separan viviendas entre sí deben ser al menos EI 60.
+    *es · CTE DB-SI, Tabla 1.1:* <small class="actual">актуально на момент публикации 07.10.26</small> No se establece límite de superficie para los sectores de riesgo mínimo. - La superficie construida de todo sector de incendio no debe exceder de 2.500 m2. - Los elementos que separan viviendas entre sí deben ser al menos EI 60.
 
     </div>
     <div class="ru" markdown>
@@ -126,7 +126,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *en · Approved Document B Vol 1, п. 7.1:* All of the following should be provided as compartment walls and compartment floors and should have, as a minimum, the fire resistance given in Appendix B, Table B1. a. Any floor (unless it is within a flat, i.e. between one storey and another within one individual dwelling). b. Any wall separating a flat from another part of the building. c. Any wall enclosing a refuse storage chamber. d. Any wall common to two or more buildings.
+    *en · Approved Document B Vol 1, п. 7.1:* <small class="actual">актуально на момент публикации 07.10.26</small> All of the following should be provided as compartment walls and compartment floors and should have, as a minimum, the fire resistance given in Appendix B, Table B1. a. Any floor (unless it is within a flat, i.e. between one storey and another within one individual dwelling). b. Any wall separating a flat from another part of the building. c. Any wall enclosing a refuse storage chamber. d. Any wall common to two or more buildings.
 
     </div>
     <div class="ru" markdown>
@@ -139,7 +139,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *en · Approved Document B Vol 1, п. 7.4:* Blocks of flats with a top storey more than 11m above ground level (see Diagram D6) should be fitted with a sprinkler system throughout the building in accordance with Appendix E.
+    *en · Approved Document B Vol 1, п. 7.4:* <small class="actual">актуально на момент публикации 07.10.26</small> Blocks of flats with a top storey more than 11m above ground level (see Diagram D6) should be fitted with a sprinkler system throughout the building in accordance with Appendix E.
 
     </div>
     <div class="ru" markdown>
@@ -152,5 +152,9 @@
     **Источники**
 
     - [AD B Vol 1, пп. 7.1, 7.4](https://www.gov.uk/government/publications/fire-safety-approved-document-b)
+
+=== "🇦🇪 ОАЭ (Дубай)"
+
+    ⏳ Не сверено: Dubai Building Code и UAE Fire and Life Safety Code (Civil Defence) недоступны для скачивания; по пожарной безопасности и градостроительству ОАЭ в портал пока ничего не вошло. Раздел «Доступная среда» по Дубаю — см. [7. Доступная среда](../dostupnaya/index.md).
 
 [← Огнестойкость строительных конструкций](ognestojkost.md) · [Расстояния между зданиями и до границы участка →](razryvy.md)

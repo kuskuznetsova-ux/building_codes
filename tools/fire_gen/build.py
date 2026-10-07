@@ -79,6 +79,12 @@ def matrix(topics,first,pref='',grp=None):
     return '\n'.join(rows)
 STAT_F='Первый срез — многоквартирные жилые дома (плюс автостоянки). Цитаты взяты программно из текстов документов; перевод — рабочий, неофициальный. **⏳** — не сверено. Тексты ФЗ-123, СП 486, СП 2.13130 и СП 42.13330.2026 сверены по официальным редакциям; английский текст CPR — с legislation.gov.uk (сохранённая копия акта).'
 STAT_H='Цитаты взяты программно из текстов документов; перевод — рабочий, неофициальный. **⏳** — не сверено; для ЕС есть только пример Германии (МВО и Muster-Hochhaus-Richtlinie — типовые акты земель).'
+AE_NOTE='⏳ Не сверено: Dubai Building Code и UAE Fire and Life Safety Code (Civil Defence) недоступны для скачивания; по пожарной безопасности и градостроительству ОАЭ в портал пока ничего не вошло. Раздел «Доступная среда» по Дубаю — см. [7. Доступная среда](../dostupnaya/index.md).'
+for _L,_rel in ((TOP,'../dostupnaya/index.md'),(HT,'../../dostupnaya/index.md'),(GT,'../dostupnaya/index.md')):
+    for _t in _L:
+        _t['keys']=['ru','rs','eu','uk','ae']
+        _t['cells']['ae']=('⏳ не сверено (документы ОАЭ недоступны)',[])
+        _t['tabs']['ae']=[('n',AE_NOTE.replace('../dostupnaya/index.md',_rel))]
 os.makedirs(OUT+'/vysotnye',exist_ok=True)
 for i,t in enumerate(TOP): open(f'{OUT}/{t["slug"]}.md','w').write(page(TOP,i,'index.md','2.',STAT_F,'F'))
 for i,t in enumerate(HT): open(f'{OUT}/vysotnye/{t["slug"]}.md','w').write(page(HT,i,'index.md','2.15.',STAT_H,'H'))

@@ -10,7 +10,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *ru · СП 59.13330.2020, п. 6.2.4:* 6.2.4 Ширина дверных полотен и открытых проемов в стене, а также выходов из помещений и коридоров на лестничную клетку должна быть не менее 0,9 м. При глубине откоса в стене открытого и дверного проема более 1,0 м ширину проема следует принимать по ширине коммуникационного прохода, но не менее 1,2 м. Дверные проемы не должны иметь порогов и перепадов высот пола. При необходимости устройства порогов (при входе в жилой дом, общежитие, дом-интернат, выходе на балкон, лоджию и т.п.) их высота или перепад высот не должны превышать 0,014 м.
+    *ru · СП 59.13330.2020, п. 6.2.4:* <small class="actual">актуально на момент публикации 07.10.26</small> 6.2.4 Ширина дверных полотен и открытых проемов в стене, а также выходов из помещений и коридоров на лестничную клетку должна быть не менее 0,9 м. При глубине откоса в стене открытого и дверного проема более 1,0 м ширину проема следует принимать по ширине коммуникационного прохода, но не менее 1,2 м. Дверные проемы не должны иметь порогов и перепадов высот пола. При необходимости устройства порогов (при входе в жилой дом, общежитие, дом-интернат, выходе на балкон, лоджию и т.п.) их высота или перепад высот не должны превышать 0,014 м.
 
     </div>
     <div class="ru" markdown>
@@ -23,7 +23,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *ru · СП 59.13330.2020, п. 6.2.1:* 6.2.1 Пути движении к помещениям, зонам и местам обслуживания внутри здания следует проектировать в соответствии с нормативными требованиями к путям эвакуации людей из здания. Ширина путей движения (в коридорах, галереях и т.п.) должна быть не менее 1,8 м, допускается ширина коридора 1,5-1,2 м с организацией разъездов (карманов) для кресел-колясок длиной не менее 2 м при общей с коридором ширине не менее 1,8 м в пределах прямой видимости следующего кармана.
+    *ru · СП 59.13330.2020, п. 6.2.1:* <small class="actual">актуально на момент публикации 07.10.26</small> 6.2.1 Пути движении к помещениям, зонам и местам обслуживания внутри здания следует проектировать в соответствии с нормативными требованиями к путям эвакуации людей из здания. Ширина путей движения (в коридорах, галереях и т.п.) должна быть не менее 1,8 м, допускается ширина коридора 1,5-1,2 м с организацией разъездов (карманов) для кресел-колясок длиной не менее 2 м при общей с коридором ширине не менее 1,8 м в пределах прямой видимости следующего кармана.
 
     </div>
     <div class="ru" markdown>
@@ -42,7 +42,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *sr · Правилник 22/2015, чл. 13:* Pristupačan ulaz u zgradu projektuje se i izvodi tako da: 1) ispred ulaznih vrata bude ravan pešački plato dimenzija najmanje 150 x 150 cm; 2) svetla širina ulaznih vrata najmanje 90 do 210 cm, a kod javnih objekata najmanje 183 cm;
+    *sr · Правилник 22/2015, чл. 13:* <small class="actual">актуально на момент публикации 07.10.26</small> Pristupačan ulaz u zgradu projektuje se i izvodi tako da: 1) ispred ulaznih vrata bude ravan pešački plato dimenzija najmanje 150 x 150 cm; 2) svetla širina ulaznih vrata najmanje 90 do 210 cm, a kod javnih objekata najmanje 183 cm;
 
     </div>
     <div class="ru" markdown>
@@ -76,7 +76,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *es · CTE DB-SI, Anejo A: Itinerario accesible:* Pasillos y pasos - Anchura libre de paso ≥ 1,20 m. En zonas comunes de edificios de uso Residencial Vivien- da se admite 1,10 m - Estrechamientos puntuales de anchura ≥ 1,00 m, de longitud ≤ 0,50 m, y con separación ≥ 0,65 m a huecos de paso o a cambios de dirección - Puertas - Anchura libre de paso ≥ 0,80 m medida en el marco y aportada por no más de una hoja.
+    *es · CTE DB-SI, Anejo A: Itinerario accesible:* <small class="actual">актуально на момент публикации 07.10.26</small> Pasillos y pasos - Anchura libre de paso ≥ 1,20 m. En zonas comunes de edificios de uso Residencial Vivien- da se admite 1,10 m - Estrechamientos puntuales de anchura ≥ 1,00 m, de longitud ≤ 0,50 m, y con separación ≥ 0,65 m a huecos de paso o a cambios de dirección - Puertas - Anchura libre de paso ≥ 0,80 m medida en el marco y aportada por no más de una hoja.
 
     </div>
     <div class="ru" markdown>
@@ -89,7 +89,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *de · OIB-RL 4, п. 2.4.1–2.4.2:* 2.4.1 Hauptgänge müssen eine lichte Durchgangsbreite von mindestens 1,20 m aufweisen. Eine lichte Durchgangsbreite von 1,00 m genügt • bei Gebäuden oder Gebäudeteilen mit nicht mehr als drei Wohnungen, • bei Reihenhäusern, • in Wohnungen von nicht barrierefrei zu gestaltenden Gebäuden oder Gebäudeteilen, • in anpassbaren Wohnungen gemäß Punkt 7.4.2, wenn sichergestellt ist, dass bei Bedarf eine lichte Durchgangsbreite von 1,20 m herstellbar ist, • in anpassbaren Wohnungen gemäß Punkt 7.4.2, die sich über mehr als eine Ebene erstrecken, für jenen Teil, der gemäß Punkt 2.4.3 nicht barrierefrei erreichbar sein muss, sowie • bei Nebengängen. 2.4.2 In allgemein zugänglichen Bereichen von Gebäuden oder Gebäudeteilen, die barrierefrei zu gestalten sind, muss in Hauptgängen, die durch Türen abgetrennt werden, eine Bewegungsfläche (Wendekreis) mit einem Durchmesser von mindestens 1,50 m vorhanden sein.
+    *de · OIB-RL 4, п. 2.4.1–2.4.2:* <small class="actual">актуально на момент публикации 07.10.26</small> 2.4.1 Hauptgänge müssen eine lichte Durchgangsbreite von mindestens 1,20 m aufweisen. Eine lichte Durchgangsbreite von 1,00 m genügt • bei Gebäuden oder Gebäudeteilen mit nicht mehr als drei Wohnungen, • bei Reihenhäusern, • in Wohnungen von nicht barrierefrei zu gestaltenden Gebäuden oder Gebäudeteilen, • in anpassbaren Wohnungen gemäß Punkt 7.4.2, wenn sichergestellt ist, dass bei Bedarf eine lichte Durchgangsbreite von 1,20 m herstellbar ist, • in anpassbaren Wohnungen gemäß Punkt 7.4.2, die sich über mehr als eine Ebene erstrecken, für jenen Teil, der gemäß Punkt 2.4.3 nicht barrierefrei erreichbar sein muss, sowie • bei Nebengängen. 2.4.2 In allgemein zugänglichen Bereichen von Gebäuden oder Gebäudeteilen, die barrierefrei zu gestalten sind, muss in Hauptgängen, die durch Türen abgetrennt werden, eine Bewegungsfläche (Wendekreis) mit einem Durchmesser von mindestens 1,50 m vorhanden sein.
 
     </div>
     <div class="ru" markdown>
@@ -104,7 +104,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *en · AD M Vol 2, табл. 2:* Table 2 Minimum effective clear widths of doors Direction and width of approach New buildings (mm) Existing buildings (mm) Straight-on (without a turn or oblique approach) 800 750 At right angles to an access route at least 1500mm wide 800 750 At right angles to an access route at least 1200mm wide 825 775 External doors to buildings used by the general public 1000 775
+    *en · AD M Vol 2, табл. 2:* <small class="actual">актуально на момент публикации 07.10.26</small> Table 2 Minimum effective clear widths of doors Direction and width of approach New buildings (mm) Existing buildings (mm) Straight-on (without a turn or oblique approach) 800 750 At right angles to an access route at least 1500mm wide 800 750 At right angles to an access route at least 1200mm wide 825 775 External doors to buildings used by the general public 1000 775
 
     </div>
     <div class="ru" markdown>
@@ -123,7 +123,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *en · Dubai Guide, E6–E7:* E7 ≥ 900mm 2200mm E6 E6 Dimensions of the doors ≥900mm width x 2100mm height
+    *en · Dubai Guide, E6–E7:* <small class="actual">актуально на момент публикации 07.10.26</small> E7 ≥ 900mm 2200mm E6 E6 Dimensions of the doors ≥900mm width x 2100mm height
 
     </div>
     <div class="ru" markdown>
@@ -136,7 +136,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *en · Dubai Guide, E8:* E8 ≥5 seconds remaining open <66N ≥3 seconds to fully open ≥3 seconds to fully closed E8 3 seconds or more to move from closed to fully open position - Remain fully open for a minimum 5 seconds - Force not more than 66N
+    *en · Dubai Guide, E8:* <small class="actual">актуально на момент публикации 07.10.26</small> E8 ≥5 seconds remaining open <66N ≥3 seconds to fully open ≥3 seconds to fully closed E8 3 seconds or more to move from closed to fully open position - Remain fully open for a minimum 5 seconds - Force not more than 66N
 
     </div>
     <div class="ru" markdown>

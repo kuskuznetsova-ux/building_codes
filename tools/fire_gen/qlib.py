@@ -30,15 +30,18 @@ def Q(k,start,end,after=None):
     j=t.find(end,i+len(start)-1 if end.startswith(start[-3:]) else i); assert j>=0,('end?',k,end)
     return t[i:j+len(end)].strip()
 LANG={'ru':'ru','rs':'sr','eu':'en','uk':'en','de':'de'}
+import datetime
+PUB=os.environ.get('PUBDATE') or datetime.date.today().strftime('%d.%m.%y')
+ACT=f'<small class="actual">актуально на момент публикации {PUB}</small>'
 def pair(lab,quote,ru,lang):
     """возвращает markdown-блок пары (с отступом 4)"""
     o=[]
     o.append('    <div class="pair" markdown>'); o.append('    <div class="orig" markdown>'); o.append('')
     if quote.startswith('|'):   # таблица
-        o.append(f'    *{lang} · {lab}:*'); o.append('')
+        o.append(f'    *{lang} · {lab}:* {ACT}'); o.append('')
         for l in quote.strip('\n').split('\n'): o.append('    '+l)
     else:
-        o.append(f'    *{lang} · {lab}:* {quote}')
+        o.append(f'    *{lang} · {lab}:* {ACT} {quote}')
     o.append(''); o.append('    </div>'); o.append('    <div class="ru" markdown>'); o.append('')
     for l in ru.strip('\n').split('\n'): o.append('    '+l)
     o.append(''); o.append('    </div>'); o.append('    </div>'); o.append('')

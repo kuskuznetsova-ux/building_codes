@@ -10,7 +10,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *ru · СП 486.1311500.2020, табл. 1 (выборка):*
+    *ru · СП 486.1311500.2020, табл. 1 (выборка):* <small class="actual">актуально на момент публикации 07.10.26</small>
 
     | Объект защиты (табл. 1 СП 486) | АУП (автоматическое пожаротушение) | СПС (пожарная сигнализация) |
     |---|---|---|
@@ -31,7 +31,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *ru · СП 486.1311500.2020, прим. <4> к табл. 1:* <4> Спринклерные оросители АУП устанавливаются в общих (внеквартирных) коридорах с орошением входных дверей квартир.
+    *ru · СП 486.1311500.2020, прим. <4> к табл. 1:* <small class="actual">актуально на момент публикации 07.10.26</small> <4> Спринклерные оросители АУП устанавливаются в общих (внеквартирных) коридорах с орошением входных дверей квартир.
 
     </div>
     <div class="ru" markdown>
@@ -44,7 +44,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *ru · СП 486.1311500.2020, прим. <3> к табл. 1:* <3> Оснащение СПС многоквартирных жилых зданий осуществляется с учетом положений СП 484.1311500 и раздела 6.1 СП 1.13130.
+    *ru · СП 486.1311500.2020, прим. <3> к табл. 1:* <small class="actual">актуально на момент публикации 07.10.26</small> <3> Оснащение СПС многоквартирных жилых зданий осуществляется с учетом положений СП 484.1311500 и раздела 6.1 СП 1.13130.
 
     </div>
     <div class="ru" markdown>
@@ -63,7 +63,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *sr · Pravilnik 22/2019, čl. 11 (послабление):* Ukoliko se objekat ili požarni segment u celini opremaju stabilnom instalacijom za gašenje požara projektovani stepen otpornosti prema požaru može se smanjiti sa V na IV ili sa IV na III.
+    *sr · Pravilnik 22/2019, čl. 11 (послабление):* <small class="actual">актуально на момент публикации 07.10.26</small> Ukoliko se objekat ili požarni segment u celini opremaju stabilnom instalacijom za gašenje požara projektovani stepen otpornosti prema požaru može se smanjiti sa V na IV ili sa IV na III.
 
     </div>
     <div class="ru" markdown>
@@ -99,7 +99,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *de · MHHR, п. 6.3.1.1 (высотные дома):* Hochhäuser müssen automatische Feuerlöschanlagen haben, die die Brandausbreitung in den Geschossen und den Brandüberschlag von Geschoss zu Geschoss ausreichend lang verhindern. Dies gilt nicht für Hochhäuser nach Nummer 8.
+    *de · MHHR, п. 6.3.1.1 (высотные дома):* <small class="actual">актуально на момент публикации 07.10.26</small> Hochhäuser müssen automatische Feuerlöschanlagen haben, die die Brandausbreitung in den Geschossen und den Brandüberschlag von Geschoss zu Geschoss ausreichend lang verhindern. Dies gilt nicht für Hochhäuser nach Nummer 8.
 
     </div>
     <div class="ru" markdown>
@@ -112,7 +112,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *de · M-GarStVO § 17 Abs. 3 (гаражи):* Selbsttätige Feuerlöschanlagen müssen vorhanden sein 1. in Geschossen von Großgaragen, wenn der Fußboden der Geschosse im Mittel mehr als 4 m unter der Geländeoberfläche liegt. und das Gebäude nicht allein der Garagennutzung dient; dies gilt nicht, wenn die Großgarage zu Geschossen mit anderer Nutzung in keiner Verbindung steht, 2. in automatischen Garagen mit mehr als 20 Garageneinstellplätzen.
+    *de · M-GarStVO § 17 Abs. 3 (гаражи):* <small class="actual">актуально на момент публикации 07.10.26</small> Selbsttätige Feuerlöschanlagen müssen vorhanden sein 1. in Geschossen von Großgaragen, wenn der Fußboden der Geschosse im Mittel mehr als 4 m unter der Geländeoberfläche liegt. und das Gebäude nicht allein der Garagennutzung dient; dies gilt nicht, wenn die Großgarage zu Geschossen mit anderer Nutzung in keiner Verbindung steht, 2. in automatischen Garagen mit mehr als 20 Garageneinstellplätzen.
 
     </div>
     <div class="ru" markdown>
@@ -127,7 +127,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *de · OIB-RL 2.3, п. 2.11.2:* 2.11.2 Automatische Löschanlagen (z.B. Sprinkleranlage SPA) mit dem Schutzziel „den Brand im Entstehungsstadium zu entdecken und zu löschen oder solange unter Kontrolle zu halten, bis das Löschen mit anderen Mitteln durchgeführt werden kann“müssen nach einer anerkannten Richtlinie ausgeführt werden. Die automatische Löschanlage muss über eine Wasserversorgung mit erhöhter Zuverlässigkeit und mindestens 60 Minuten Wirkzeit verfügen; für Wohngebäude mit einem Fluchtniveau von nicht mehr als 32 m ist eine einfache Wasserversorgung mit einer Wirkzeit von 30 Minuten ausreichend.
+    *de · OIB-RL 2.3, п. 2.11.2:* <small class="actual">актуально на момент публикации 07.10.26</small> 2.11.2 Automatische Löschanlagen (z.B. Sprinkleranlage SPA) mit dem Schutzziel „den Brand im Entstehungsstadium zu entdecken und zu löschen oder solange unter Kontrolle zu halten, bis das Löschen mit anderen Mitteln durchgeführt werden kann“müssen nach einer anerkannten Richtlinie ausgeführt werden. Die automatische Löschanlage muss über eine Wasserversorgung mit erhöhter Zuverlässigkeit und mindestens 60 Minuten Wirkzeit verfügen; für Wohngebäude mit einem Fluchtniveau von nicht mehr als 32 m ist eine einfache Wasserversorgung mit einer Wirkzeit von 30 Minuten ausreichend.
 
     </div>
     <div class="ru" markdown>
@@ -142,7 +142,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *es · CTE DB-SI, SI 4, Tabla 1.1:* Instalación automática de extinción Salvo otra indicación en relación con el uso, en todo edificio cuya altura de evacuación exceda de 80 m.
+    *es · CTE DB-SI, SI 4, Tabla 1.1:* <small class="actual">актуально на момент публикации 07.10.26</small> Instalación automática de extinción Salvo otra indicación en relación con el uso, en todo edificio cuya altura de evacuación exceda de 80 m.
 
     </div>
     <div class="ru" markdown>
@@ -157,7 +157,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *en · Approved Document B Vol 1, п. 7.4:* Blocks of flats with a top storey more than 11m above ground level (see Diagram D6) should be fitted with a sprinkler system throughout the building in accordance with Appendix E.
+    *en · Approved Document B Vol 1, п. 7.4:* <small class="actual">актуально на момент публикации 07.10.26</small> Blocks of flats with a top storey more than 11m above ground level (see Diagram D6) should be fitted with a sprinkler system throughout the building in accordance with Appendix E.
 
     </div>
     <div class="ru" markdown>
@@ -170,7 +170,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *en · Approved Document B Vol 1, п. 11.21:* If a building is fitted throughout with a sprinkler system in accordance with Appendix E, either of the following is permitted. a. The boundary distance can be halved, to a minimum distance of 1m. b. The amount of unprotected area can be doubled.
+    *en · Approved Document B Vol 1, п. 11.21:* <small class="actual">актуально на момент публикации 07.10.26</small> If a building is fitted throughout with a sprinkler system in accordance with Appendix E, either of the following is permitted. a. The boundary distance can be halved, to a minimum distance of 1m. b. The amount of unprotected area can be doubled.
 
     </div>
     <div class="ru" markdown>
@@ -183,5 +183,9 @@
     **Источники**
 
     - [AD B Vol 1, пп. 7.4, 11.21](https://www.gov.uk/government/publications/fire-safety-approved-document-b)
+
+=== "🇦🇪 ОАЭ (Дубай)"
+
+    ⏳ Не сверено: Dubai Building Code и UAE Fire and Life Safety Code (Civil Defence) недоступны для скачивания; по пожарной безопасности и градостроительству ОАЭ в портал пока ничего не вошло. Раздел «Доступная среда» по Дубаю — см. [7. Доступная среда](../dostupnaya/index.md).
 
 [← Отделка путей эвакуации](otdelka.md) · [Детские дошкольные учреждения и школы →](doo.md)

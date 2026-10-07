@@ -10,7 +10,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *ru · СП 59.13330.2020, п. 5.1.14:* 5.1.14 У внешних лестниц для подъема МГН следует предусматривать: - пандусы при перепаде высот от 0,014 м до 6,0 м; - платформы подъемные с вертикальным перемещением по ГОСТ 34682.2 при перепаде высот до 3,0 м*; _______________ * Допускаются лифты. - лифты при перепаде высот от 3,0 м и более. В районах северной строительно-климатической зоны строительства по СП 131.13330 применение платформ подъемных с вертикальным перемещением в неотапливаемой шахте не допускается. Длину одного марша пандуса с учетом продольного уклона принимают по таблице 5.1. Таблица 5.1 Продольный уклон Длина одного марша Суммарная длина марша пандуса пандуса, м, не более наклонных поверхностей пандуса, м, не более От 30 до 40‰ (от 1:33 до 15 110 1:25) (включительно) От 40 до 50‰ (от 1:25 до 12 1:20) (включительно) От 50 до 60‰ (от 1:20 до 9 1:16,7) (включительно) От 61 до 80‰ (от 1:16 до 6 36 1:12,5) (включительно)
+    *ru · СП 59.13330.2020, п. 5.1.14:* <small class="actual">актуально на момент публикации 07.10.26</small> 5.1.14 У внешних лестниц для подъема МГН следует предусматривать: - пандусы при перепаде высот от 0,014 м до 6,0 м; - платформы подъемные с вертикальным перемещением по ГОСТ 34682.2 при перепаде высот до 3,0 м*; _______________ * Допускаются лифты. - лифты при перепаде высот от 3,0 м и более. В районах северной строительно-климатической зоны строительства по СП 131.13330 применение платформ подъемных с вертикальным перемещением в неотапливаемой шахте не допускается. Длину одного марша пандуса с учетом продольного уклона принимают по таблице 5.1. Таблица 5.1 Продольный уклон Длина одного марша Суммарная длина марша пандуса пандуса, м, не более наклонных поверхностей пандуса, м, не более От 30 до 40‰ (от 1:33 до 15 110 1:25) (включительно) От 40 до 50‰ (от 1:25 до 12 1:20) (включительно) От 50 до 60‰ (от 1:20 до 9 1:16,7) (включительно) От 61 до 80‰ (от 1:16 до 6 36 1:12,5) (включительно)
 
     </div>
     <div class="ru" markdown>
@@ -23,7 +23,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *ru · СП 59.13330.2020, п. 5.1.15–5.1.16:* 5.1.15 На участках пешеходных путей с максимальной расчетной интенсивностью движения пешеходов в двух направлениях до 2400 чел./ч ширину прохожей части пандуса, применяемого совместно с лестницей, назначают по расчету согласно СП 42.13330 и СП 35.13330, но не менее 0,9 м, а при интенсивности движения пешеходов более 2400 чел./ч - не менее 1,8 м. 5.1.16 Горизонтальные площадки перед началом и после завершения пандуса должны быть с размерами прохожей части, не менее: - на общих путях движения с встречным движением - ширина - 1,8 м, длина - 1,5 м, при каждом изменении направления пандуса - 1,8х1,8 м; - при движении в одном направлении - ширина - 1,5 м, длина - 1,5 м, при каждом изменении направления пандуса - 1,5х1,5 м.
+    *ru · СП 59.13330.2020, п. 5.1.15–5.1.16:* <small class="actual">актуально на момент публикации 07.10.26</small> 5.1.15 На участках пешеходных путей с максимальной расчетной интенсивностью движения пешеходов в двух направлениях до 2400 чел./ч ширину прохожей части пандуса, применяемого совместно с лестницей, назначают по расчету согласно СП 42.13330 и СП 35.13330, но не менее 0,9 м, а при интенсивности движения пешеходов более 2400 чел./ч - не менее 1,8 м. 5.1.16 Горизонтальные площадки перед началом и после завершения пандуса должны быть с размерами прохожей части, не менее: - на общих путях движения с встречным движением - ширина - 1,8 м, длина - 1,5 м, при каждом изменении направления пандуса - 1,8х1,8 м; - при движении в одном направлении - ширина - 1,5 м, длина - 1,5 м, при каждом изменении направления пандуса - 1,5х1,5 м.
 
     </div>
     <div class="ru" markdown>
@@ -36,7 +36,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *ru · СП 59.13330.2020, п. 6.1.1:* 6.1.1 В общественном или производственном здании (сооружении) должен быть минимум один вход, доступный для МГН, с поверхности земли и из каждого доступного для МГН подземного или надземного уровня, соединенного с этим зданием. В жилом многоквартирном здании доступными должны быть все подъезды.
+    *ru · СП 59.13330.2020, п. 6.1.1:* <small class="actual">актуально на момент публикации 07.10.26</small> 6.1.1 В общественном или производственном здании (сооружении) должен быть минимум один вход, доступный для МГН, с поверхности земли и из каждого доступного для МГН подземного или надземного уровня, соединенного с этим зданием. В жилом многоквартирном здании доступными должны быть все подъезды.
 
     </div>
     <div class="ru" markdown>
@@ -55,7 +55,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *sr · Правилник 22/2015, чл. 7:* nagib rampe nije veći od 5% (1:20), a ako nema uslova za rampu nagiba od 5% može iznositi 8.3% (1:12) za kratka rastojanja (do 6 m); 2) najveća dozvoljena ukupna dužina rampe u posebnom slučaju iznosi 15 m; 3) rampe duže od 6 m, a najviše do 9 m u slučaju da su manjeg nagiba, razdvajaju se odmorištima najmanje dužine 150 cm; 4) najmanja čista širina rampe za jednosmeran prolaz iznosi 90 cm, a ukoliko je dvokraka čista širina rampe iznosi min 150 cm, sa podestom od min. 150 cm; 5) rampe su zaštićene sa spoljnih strana ivičnjacima visine 5 cm, širine 5-10 cm i opremljene sa obe strane dvovisinskim rukohvatima podesnog oblika za prihvatanje na visini od 70 cm, odnosno 90 cm;
+    *sr · Правилник 22/2015, чл. 7:* <small class="actual">актуально на момент публикации 07.10.26</small> nagib rampe nije veći od 5% (1:20), a ako nema uslova za rampu nagiba od 5% može iznositi 8.3% (1:12) za kratka rastojanja (do 6 m); 2) najveća dozvoljena ukupna dužina rampe u posebnom slučaju iznosi 15 m; 3) rampe duže od 6 m, a najviše do 9 m u slučaju da su manjeg nagiba, razdvajaju se odmorištima najmanje dužine 150 cm; 4) najmanja čista širina rampe za jednosmeran prolaz iznosi 90 cm, a ukoliko je dvokraka čista širina rampe iznosi min 150 cm, sa podestom od min. 150 cm; 5) rampe su zaštićene sa spoljnih strana ivičnjacima visine 5 cm, širine 5-10 cm i opremljene sa obe strane dvovisinskim rukohvatima podesnog oblika za prihvatanje na visini od 70 cm, odnosno 90 cm;
 
     </div>
     <div class="ru" markdown>
@@ -89,7 +89,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *de · OIB-RL 4, п. 2.2.1–2.2.2:* 2.2.1 Das Längsgefälle darf höchstens 10 % betragen. 2.2.2 Bei Gebäuden oder Gebäudeteilen, die barrierefrei zu gestalten sind, gelten folgende Anforderungen: • Das Längsgefälle darf höchstens 6 % betragen; • Ein Quergefälle ist nicht zulässig;
+    *de · OIB-RL 4, п. 2.2.1–2.2.2:* <small class="actual">актуально на момент публикации 07.10.26</small> 2.2.1 Das Längsgefälle darf höchstens 10 % betragen. 2.2.2 Bei Gebäuden oder Gebäudeteilen, die barrierefrei zu gestalten sind, gelten folgende Anforderungen: • Das Längsgefälle darf höchstens 6 % betragen; • Ein Quergefälle ist nicht zulässig;
 
     </div>
     <div class="ru" markdown>
@@ -102,7 +102,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *es · CTE DB-SI, SUA 1, п. 4.3.1:* 4.3.1 Pendiente 1 Las rampas tendrán una pendiente del 12%, como máximo, excepto: a) las que pertenezcan a itinerarios accesibles, cuya pendiente será, como máximo, del 10% cuan- do su longitud sea menor que 3 m, del 8% cuando la longitud sea menor que 6 m y del 6% en el resto de los casos. Si la rampa es curva, la pendiente longitudinal máxima se medirá en el lado más desfavorable. b) las de circulación de vehículos en aparcamientos que también estén previstas para la circulación de personas, y no pertenezcan a un itinerario accesible, cuya pendiente será, como máximo, del 16%. 2 La pendiente transversal de las rampas que pertenezcan a itinerarios accesibles será del 2%, como máximo.
+    *es · CTE DB-SI, SUA 1, п. 4.3.1:* <small class="actual">актуально на момент публикации 07.10.26</small> 4.3.1 Pendiente 1 Las rampas tendrán una pendiente del 12%, como máximo, excepto: a) las que pertenezcan a itinerarios accesibles, cuya pendiente será, como máximo, del 10% cuan- do su longitud sea menor que 3 m, del 8% cuando la longitud sea menor que 6 m y del 6% en el resto de los casos. Si la rampa es curva, la pendiente longitudinal máxima se medirá en el lado más desfavorable. b) las de circulación de vehículos en aparcamientos que también estén previstas para la circulación de personas, y no pertenezcan a un itinerario accesible, cuya pendiente será, como máximo, del 16%. 2 La pendiente transversal de las rampas que pertenezcan a itinerarios accesibles será del 2%, como máximo.
 
     </div>
     <div class="ru" markdown>
@@ -117,7 +117,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *en · AD M Vol 2, табл. 1:* Table 1 Limits for ramp gradients Going of a flight 10m 5m 2m Maximum gradient Maximum rise 1:20 1:15 1:12 500mm 333mm 166mm Note: For goings between 2m and 10m, it is acceptable to interpolate between the maximum gradients, i.e. 1:14 for a 4m going or 1:19 for a 9m going
+    *en · AD M Vol 2, табл. 1:* <small class="actual">актуально на момент публикации 07.10.26</small> Table 1 Limits for ramp gradients Going of a flight 10m 5m 2m Maximum gradient Maximum rise 1:20 1:15 1:12 500mm 333mm 166mm Note: For goings between 2m and 10m, it is acceptable to interpolate between the maximum gradients, i.e. 1:14 for a 4m going or 1:19 for a 9m going
 
     </div>
     <div class="ru" markdown>
@@ -136,7 +136,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *en · Dubai Guide, LCR1–LCR5:* LCR1 Ramps used only when gradient of level >5% LCR2 Slope is ≤8% or 1:12 LCR3 Cross fall gradient ≤2% LCR4 Run length ≤10 meters
+    *en · Dubai Guide, LCR1–LCR5:* <small class="actual">актуально на момент публикации 07.10.26</small> LCR1 Ramps used only when gradient of level >5% LCR2 Slope is ≤8% or 1:12 LCR3 Cross fall gradient ≤2% LCR4 Run length ≤10 meters
 
     </div>
     <div class="ru" markdown>
@@ -149,7 +149,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *en · Dubai Guide, LCR5:* LCR5 Run width = 1000 mm between handrails
+    *en · Dubai Guide, LCR5:* <small class="actual">актуально на момент публикации 07.10.26</small> LCR5 Run width = 1000 mm between handrails
 
     </div>
     <div class="ru" markdown>

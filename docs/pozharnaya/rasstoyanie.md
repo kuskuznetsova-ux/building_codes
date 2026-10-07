@@ -10,7 +10,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *ru · СП 1.13130.2020, п. 6.1.8:* 6.1.8. Наибольшие расстояния от дверей квартир до лестничной клетки (тамбура) или выхода наружу (тамбура) следует принимать по таблице 3.
+    *ru · СП 1.13130.2020, п. 6.1.8:* <small class="actual">актуально на момент публикации 07.10.26</small> 6.1.8. Наибольшие расстояния от дверей квартир до лестничной клетки (тамбура) или выхода наружу (тамбура) следует принимать по таблице 3.
 
     </div>
     <div class="ru" markdown>
@@ -23,7 +23,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *ru · СП 1.13130.2020, табл. 3:*
+    *ru · СП 1.13130.2020, табл. 3:* <small class="actual">актуально на момент публикации 07.10.26</small>
 
     | Степень огнестойкости | Класс конструктивной пожарной опасности | Между лестничными клетками или наружными входами, м | В тупиковый коридор или галерею, м |
     |---|---|---|---|
@@ -46,7 +46,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *ru · СП 1.13130.2020, п. 6.1.8 (коридор без окна):* В секции жилого здания при выходе из квартир в коридор (холл, в том числе межквартирный), не имеющий оконного проема площадью не менее 1,2 м2 в торце, расстояние от двери наиболее удаленной квартиры до выхода непосредственно наружу, вестибюль (выделенный противопожарными перегородками 1-го типа), в лестничную клетку или в тамбур, ведущий в воздушную зону лестничной клетки типа Н1 или на лестничную клетку типа Н3, не должно превышать 12 м. При наличии оконного проема или системы противодымной вентиляции в коридоре (холле) это расстояние допускается принимать по таблице 3 как для тупикового коридора.
+    *ru · СП 1.13130.2020, п. 6.1.8 (коридор без окна):* <small class="actual">актуально на момент публикации 07.10.26</small> В секции жилого здания при выходе из квартир в коридор (холл, в том числе межквартирный), не имеющий оконного проема площадью не менее 1,2 м2 в торце, расстояние от двери наиболее удаленной квартиры до выхода непосредственно наружу, вестибюль (выделенный противопожарными перегородками 1-го типа), в лестничную клетку или в тамбур, ведущий в воздушную зону лестничной клетки типа Н1 или на лестничную клетку типа Н3, не должно превышать 12 м. При наличии оконного проема или системы противодымной вентиляции в коридоре (холле) это расстояние допускается принимать по таблице 3 как для тупикового коридора.
 
     </div>
     <div class="ru" markdown>
@@ -65,7 +65,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *sr · Pravilnik 22/2019, čl. 32:* Dužina puta evakuacije od polaznog mesta do prvog izlaza kod prostorija koje imaju jedan prvi izlaz ne može biti veća od 20 m. Dužina puta evakuacije od polaznog mesta do prvog izlaza kod prostorija koje imaju više prvih izlaza ne može biti veća od 45 m.
+    *sr · Pravilnik 22/2019, čl. 32:* <small class="actual">актуально на момент публикации 07.10.26</small> Dužina puta evakuacije od polaznog mesta do prvog izlaza kod prostorija koje imaju jedan prvi izlaz ne može biti veća od 20 m. Dužina puta evakuacije od polaznog mesta do prvog izlaza kod prostorija koje imaju više prvih izlaza ne može biti veća od 45 m.
 
     </div>
     <div class="ru" markdown>
@@ -78,7 +78,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *sr · Pravilnik 22/2019, čl. 33:* Dužina puta evakuacije od prvog do etažnog izlaza ne može biti veća od 30 m u nadzemnim, a 25 m u podzemnim etažama. Za objekte koji nemaju etažni izlaz dužina puta evakuacije od prvog izlaza do stepeništa iznosi najviše 20 m.
+    *sr · Pravilnik 22/2019, čl. 33:* <small class="actual">актуально на момент публикации 07.10.26</small> Dužina puta evakuacije od prvog do etažnog izlaza ne može biti veća od 30 m u nadzemnim, a 25 m u podzemnim etažama. Za objekte koji nemaju etažni izlaz dužina puta evakuacije od prvog izlaza do stepeništa iznosi najviše 20 m.
 
     </div>
     <div class="ru" markdown>
@@ -114,7 +114,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *de · MBO § 35 Abs. 2:* Von jeder Stelle eines Aufenthaltsraumes sowie eines Kellergeschosses muss mindestens ein Ausgang in einen notwendigen Treppenraum oder ins Freie in höchstens 35 m Entfernung erreichbar sein.
+    *de · MBO § 35 Abs. 2:* <small class="actual">актуально на момент публикации 07.10.26</small> Von jeder Stelle eines Aufenthaltsraumes sowie eines Kellergeschosses muss mindestens ein Ausgang in einen notwendigen Treppenraum oder ins Freie in höchstens 35 m Entfernung erreichbar sein.
 
     </div>
     <div class="ru" markdown>
@@ -129,7 +129,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *fr · Arrêté 1986, ст. 31:* Art. 31. La distance à parcourir entre la porte palière de chaque logement et la porte de l'escalier ou l'accès à l'air libre ne doit pas dépasser quinze mètres.
+    *fr · Arrêté 1986, ст. 31:* <small class="actual">актуально на момент публикации 07.10.26</small> Art. 31. La distance à parcourir entre la porte palière de chaque logement et la porte de l'escalier ou l'accès à l'air libre ne doit pas dépasser quinze mètres.
 
     </div>
     <div class="ru" markdown>
@@ -144,7 +144,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *de · OIB-RL 2, п. 5.1.1–5.1.2:* 5.1.1 Von jeder Stelle jedes Raumes – ausgenommen nicht ausgebaute Dachräume – muss in höchstens 40 m Gehweglänge erreichbar sein: a) ein direkter Ausgang zu einem sicheren Ort des angrenzenden Geländes im Freien, oder b) ein Treppenhaus oder eine Außentreppe gemäß Tabelle 2a bzw. 2b mit jeweils einem Ausgang zu einem sicheren Ort des angrenzenden Geländes im Freien, oder c) ein Treppenhaus oder eine Außentreppe gemäß Tabelle 3 mit jeweils einem Ausgang zu einem sicheren Ort des angrenzenden Geländes im Freien, wobei zusätzlich Punkt 5.1.4 gilt. 5.1.2 Bei Wohnungen wird abweichend von Punkt 5.1.1 in den Fällen b) und c) die Gehweglänge ab der Wohnungseingangstüre gemessen. Dabei dürfen sich die Wohnungen über höchstens zwei Geschoße erstrecken.
+    *de · OIB-RL 2, п. 5.1.1–5.1.2:* <small class="actual">актуально на момент публикации 07.10.26</small> 5.1.1 Von jeder Stelle jedes Raumes – ausgenommen nicht ausgebaute Dachräume – muss in höchstens 40 m Gehweglänge erreichbar sein: a) ein direkter Ausgang zu einem sicheren Ort des angrenzenden Geländes im Freien, oder b) ein Treppenhaus oder eine Außentreppe gemäß Tabelle 2a bzw. 2b mit jeweils einem Ausgang zu einem sicheren Ort des angrenzenden Geländes im Freien, oder c) ein Treppenhaus oder eine Außentreppe gemäß Tabelle 3 mit jeweils einem Ausgang zu einem sicheren Ort des angrenzenden Geländes im Freien, wobei zusätzlich Punkt 5.1.4 gilt. 5.1.2 Bei Wohnungen wird abweichend von Punkt 5.1.1 in den Fällen b) und c) die Gehweglänge ab der Wohnungseingangstüre gemessen. Dabei dürfen sich die Wohnungen über höchstens zwei Geschoße erstrecken.
 
     </div>
     <div class="ru" markdown>
@@ -159,7 +159,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *es · CTE DB-SI, Tabla 3.1:* La longitud de los recorridos de evacuación hasta una salida de planta no excede de 25 m, excepto en los casos que se indican a continuación: - 35 m en uso Aparcamiento; - 50 m si se trata de una planta, incluso de uso Aparcamiento, que tiene una salida directa al espacio exterior seguro y la ocupación no excede de 25 personas, o bien de un espacio al aire libre en el que el riesgo de incendio sea irrelevante, por ejemplo, una cubierta de edificio, una terraza, etc.
+    *es · CTE DB-SI, Tabla 3.1:* <small class="actual">актуально на момент публикации 07.10.26</small> La longitud de los recorridos de evacuación hasta una salida de planta no excede de 25 m, excepto en los casos que se indican a continuación: - 35 m en uso Aparcamiento; - 50 m si se trata de una planta, incluso de uso Aparcamiento, que tiene una salida directa al espacio exterior seguro y la ocupación no excede de 25 personas, o bien de un espacio al aire libre en el que el riesgo de incendio sea irrelevante, por ejemplo, una cubierta de edificio, una terraza, etc.
 
     </div>
     <div class="ru" markdown>
@@ -174,7 +174,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *en · Approved Document B Vol 1, п. 3.27:* From the flat entrance door, a single escape route is acceptable in either of the following cases. a. The flat is on a storey served by a single common stair and both of the following apply. i. Every flat is separated from the common stair by a protected lobby or common protected corridor (see Diagram 3.7). ii. The maximum travel distance in Table 3.1, for escape in one direction only, is not exceeded. b. The flat is on a storey served by two (or more) common stairs, the flat is in a dead end of a common corridor and the maximum travel distance given in Table 3.1, for escape in one direction only, is not exceeded (Diagram 3.8).
+    *en · Approved Document B Vol 1, п. 3.27:* <small class="actual">актуально на момент публикации 07.10.26</small> From the flat entrance door, a single escape route is acceptable in either of the following cases. a. The flat is on a storey served by a single common stair and both of the following apply. i. Every flat is separated from the common stair by a protected lobby or common protected corridor (see Diagram 3.7). ii. The maximum travel distance in Table 3.1, for escape in one direction only, is not exceeded. b. The flat is on a storey served by two (or more) common stairs, the flat is in a dead end of a common corridor and the maximum travel distance given in Table 3.1, for escape in one direction only, is not exceeded (Diagram 3.8).
 
     </div>
     <div class="ru" markdown>
@@ -187,7 +187,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *en · Approved Document B Vol 1, табл. 3.1:*
+    *en · Approved Document B Vol 1, табл. 3.1:* <small class="actual">актуально на момент публикации 07.10.26</small>
 
     | Наибольшее расстояние от входной двери квартиры до выхода с этажа или лестничного вестибюля | |
     |---|---|
@@ -210,5 +210,9 @@
     **Источники**
 
     - [AD B Vol 1, п. 3.27, табл. 3.1](https://www.gov.uk/government/publications/fire-safety-approved-document-b)
+
+=== "🇦🇪 ОАЭ (Дубай)"
+
+    ⏳ Не сверено: Dubai Building Code и UAE Fire and Life Safety Code (Civil Defence) недоступны для скачивания; по пожарной безопасности и градостроительству ОАЭ в портал пока ничего не вошло. Раздел «Доступная среда» по Дубаю — см. [7. Доступная среда](../dostupnaya/index.md).
 
 [← Число эвакуационных выходов и лестниц](vyhody.md) · [Ширина путей эвакуации, лестниц и дверей →](shirina.md)

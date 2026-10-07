@@ -10,7 +10,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *ru · СП 59.13330.2020, п. 5.2.4:* 5.2.4 Габариты специализированного места для стоянки (парковки) транспортных средств инвалида на кресле-коляске следует предусматривать размерами 6,0х3,6 м, что дает возможность создать безопасную зону сбоку и сзади машины. В случае расположения парковочного места вдоль проезжей части его длина должна составлять 6,8 м.
+    *ru · СП 59.13330.2020, п. 5.2.4:* <small class="actual">актуально на момент публикации 07.10.26</small> 5.2.4 Габариты специализированного места для стоянки (парковки) транспортных средств инвалида на кресле-коляске следует предусматривать размерами 6,0х3,6 м, что дает возможность создать безопасную зону сбоку и сзади машины. В случае расположения парковочного места вдоль проезжей части его длина должна составлять 6,8 м.
 
     </div>
     <div class="ru" markdown>
@@ -23,7 +23,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *ru · СП 59.13330.2020, п. 5.2.3:* при числе мест от общего числа: - до 100 включительно 5%, но не менее одного места; - от 101 до 200 включительно 5 мест и дополнительно 3% числа мест свыше 100; - от 201 до 500 включительно 8 мест и дополнительно 2% числа мест свыше 200; - 501 и более 14 мест и дополнительно 1% числа мест свыше 500.
+    *ru · СП 59.13330.2020, п. 5.2.3:* <small class="actual">актуально на момент публикации 07.10.26</small> при числе мест от общего числа: - до 100 включительно 5%, но не менее одного места; - от 101 до 200 включительно 5 мест и дополнительно 3% числа мест свыше 100; - от 201 до 500 включительно 8 мест и дополнительно 2% числа мест свыше 200; - 501 и более 14 мест и дополнительно 1% числа мест свыше 500.
 
     </div>
     <div class="ru" markdown>
@@ -42,7 +42,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *sr · Правилник 22/2015, чл. 36:* za javne garaže, javna parkirališta, kao i parkirališta uz objekte za javno korišćenje i stambene i stambeno poslovne zgrade sa deset i više stanova, najmanje 5% mesta od ukupnog broja mesta za parkiranje, a najmanje jedno mesto za parkiranje vozila osoba sa invaliditetom;
+    *sr · Правилник 22/2015, чл. 36:* <small class="actual">актуально на момент публикации 07.10.26</small> za javne garaže, javna parkirališta, kao i parkirališta uz objekte za javno korišćenje i stambene i stambeno poslovne zgrade sa deset i više stanova, najmanje 5% mesta od ukupnog broja mesta za parkiranje, a najmanje jedno mesto za parkiranje vozila osoba sa invaliditetom;
 
     </div>
     <div class="ru" markdown>
@@ -76,7 +76,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *es · CTE DB-SI, SUA 9, п. 1.2.3:* Comercial, Pública Concurrencia o Aparcamiento de uso público, una plaza accesible por cada 33 plazas de aparcamiento o fracción. c) En cualquier otro uso, una plaza accesible por cada 50 plazas de aparcamiento o fracción, hasta 200 plazas y una plaza accesible más por cada 100 plazas adicionales o fracción.
+    *es · CTE DB-SI, SUA 9, п. 1.2.3:* <small class="actual">актуально на момент публикации 07.10.26</small> Comercial, Pública Concurrencia o Aparcamiento de uso público, una plaza accesible por cada 33 plazas de aparcamiento o fracción. c) En cualquier otro uso, una plaza accesible por cada 50 plazas de aparcamiento o fracción, hasta 200 plazas y una plaza accesible más por cada 100 plazas adicionales o fracción.
 
     </div>
     <div class="ru" markdown>
@@ -89,7 +89,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *es · CTE DB-SI, Anejo A: Plaza de aparcamiento accesible:* Plaza de aparcamiento accesible Es la que cumple las siguientes condiciones: - Está situada próxima al acceso peatonal al aparcamiento y comunicada con él mediante un itinerario accesible. - Dispone de un espacio anejo de aproximación y transferencia, lateral de anchura ≥ 1,20 m si la plaza es en batería, pudiendo compartirse por dos plazas contiguas, y trasero de longitud ≥ 3,00 m si la plaza es en línea.
+    *es · CTE DB-SI, Anejo A: Plaza de aparcamiento accesible:* <small class="actual">актуально на момент публикации 07.10.26</small> Plaza de aparcamiento accesible Es la que cumple las siguientes condiciones: - Está situada próxima al acceso peatonal al aparcamiento y comunicada con él mediante un itinerario accesible. - Dispone de un espacio anejo de aproximación y transferencia, lateral de anchura ≥ 1,20 m si la plaza es en batería, pudiendo compartirse por dos plazas contiguas, y trasero de longitud ≥ 3,00 m si la plaza es en línea.
 
     </div>
     <div class="ru" markdown>
@@ -104,7 +104,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *en · AD M Vol 2, п. 1.15:* 1.15 The surface of a parking bay designated for disabled people, in particular the area surrounding the bay, should allow the safe transfer of a passenger or driver to a wheelchair and transfer from the parking bay to the access route to the building without undue effort
+    *en · AD M Vol 2, п. 1.15:* <small class="actual">актуально на момент публикации 07.10.26</small> 1.15 The surface of a parking bay designated for disabled people, in particular the area surrounding the bay, should allow the safe transfer of a passenger or driver to a wheelchair and transfer from the parking bay to the access route to the building without undue effort
 
     </div>
     <div class="ru" markdown>
@@ -123,7 +123,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *en · Dubai Guide, PA2–PA3:* Number of accessible parking lots: 2% of the Total Parking, max 10 spots PA3 Accessible spaces as close as possible to the entrance of the building and no more than 50m
+    *en · Dubai Guide, PA2–PA3:* <small class="actual">актуально на момент публикации 07.10.26</small> Number of accessible parking lots: 2% of the Total Parking, max 10 spots PA3 Accessible spaces as close as possible to the entrance of the building and no more than 50m
 
     </div>
     <div class="ru" markdown>
@@ -136,7 +136,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *en · Dubai Guide, PA4–PA7:* Dimensions of accessible parking spaces: PA6 Signs mounted at 2200mm with international symbol 2500 x 5500mm for angled parking, 2600 x 6000mm for parking along the sidewalk PA7 Marked with international symbols PA5 With lateral access aisle ≥1200mm
+    *en · Dubai Guide, PA4–PA7:* <small class="actual">актуально на момент публикации 07.10.26</small> Dimensions of accessible parking spaces: PA6 Signs mounted at 2200mm with international symbol 2500 x 5500mm for angled parking, 2600 x 6000mm for parking along the sidewalk PA7 Marked with international symbols PA5 With lateral access aisle ≥1200mm
 
     </div>
     <div class="ru" markdown>
