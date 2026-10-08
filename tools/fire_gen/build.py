@@ -3,6 +3,7 @@ import os,sys,re
 sys.path.insert(0,os.path.dirname(__file__))
 from qlib import pair,LANG
 from firedata import TOP
+import sp7data
 from hrdata import HT
 from gdata import GT
 from eudata import EU,SRC
@@ -87,7 +88,7 @@ for _L,_rel in ((TOP,'../dostupnaya/index.md'),(HT,'../../dostupnaya/index.md'),
         _t['tabs']['ae']=[('n',AE_NOTE.replace('../dostupnaya/index.md',_rel))]
 os.makedirs(OUT+'/vysotnye',exist_ok=True)
 for i,t in enumerate(TOP): open(f'{OUT}/{t["slug"]}.md','w').write(page(TOP,i,'index.md','2.',STAT_F,'F'))
-for i,t in enumerate(HT): open(f'{OUT}/vysotnye/{t["slug"]}.md','w').write(page(HT,i,'index.md','2.15.',STAT_H,'H'))
+for i,t in enumerate(HT): open(f'{OUT}/vysotnye/{t["slug"]}.md','w').write(page(HT,i,'index.md','2.16.',STAT_H,'H'))
 # --- index.md (матрица основных правил)
 idx=f'''---
 hide:
@@ -145,7 +146,7 @@ hide:
   - toc
 ---
 
-# 2.15 Высотные здания: пороги и основные требования
+# 2.16 Высотные здания: пороги и основные требования
 
 !!! warning "Статус: черновик"
     В России высотным считается здание **выше 75 м**. Таблица сравнивает порог в других странах; ниже — матрица основных требований. Каждая ячейка ведёт на страницу темы: **слева** оригинал (чёрным), **справа** русский перевод (серым). **⏳** — не сверено.
@@ -162,7 +163,7 @@ hide:
 
 <div class="matrix fire" markdown>
 
-{matrix(HT,True,'2.15.','H')}
+{matrix(HT,True,'2.16.','H')}
 
 </div>
 

@@ -10,7 +10,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *ru · ФЗ-123, ст. 32, ч. 1 п. 1 (класс Ф1):* <small class="actual">актуально на момент публикации 07.10.26</small> 1) Ф1 - здания, предназначенные для постоянного проживания и временного пребывания людей, в том числе: а) Ф1.1 - здания дошкольных образовательных организаций, специализированных домов престарелых и инвалидов (неквартирные), спальные корпуса образовательных организаций с наличием интерната и детских организаций, здания медицинских организаций, предназначенные для оказания медицинской помощи в стационарных условиях (круглосуточно); б) Ф1.2 - гостиницы, общежития (за исключением общежитий квартирного типа), спальные корпуса санаториев и домов отдыха общего типа, кемпингов; в) Ф1.3 - многоквартирные жилые дома, в том числе общежития квартирного типа; г) Ф1.4 - одноквартирные жилые дома, в том числе блокированные;
+    *ru · ФЗ-123, ст. 32, ч. 1 п. 1 (класс Ф1):* <small class="actual">актуально на момент публикации 08.10.26</small> 1) Ф1 - здания, предназначенные для постоянного проживания и временного пребывания людей, в том числе: а) Ф1.1 - здания дошкольных образовательных организаций, специализированных домов престарелых и инвалидов (неквартирные), спальные корпуса образовательных организаций с наличием интерната и детских организаций, здания медицинских организаций, предназначенные для оказания медицинской помощи в стационарных условиях (круглосуточно); б) Ф1.2 - гостиницы, общежития (за исключением общежитий квартирного типа), спальные корпуса санаториев и домов отдыха общего типа, кемпингов; в) Ф1.3 - многоквартирные жилые дома, в том числе общежития квартирного типа; г) Ф1.4 - одноквартирные жилые дома, в том числе блокированные;
 
     </div>
     <div class="ru" markdown>
@@ -23,7 +23,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *ru · ФЗ-123, ст. 87, ч. 5:* <small class="actual">актуально на момент публикации 07.10.26</small> 5. Класс конструктивной пожарной опасности зданий, сооружений и пожарных отсеков должен устанавливаться в зависимости от их этажности, класса функциональной пожарной опасности, площади пожарного отсека и пожарной опасности происходящих в них технологических процессов.
+    *ru · ФЗ-123, ст. 87, ч. 5:* <small class="actual">актуально на момент публикации 08.10.26</small> 5. Класс конструктивной пожарной опасности зданий, сооружений и пожарных отсеков должен устанавливаться в зависимости от их этажности, класса функциональной пожарной опасности, площади пожарного отсека и пожарной опасности происходящих в них технологических процессов.
 
     </div>
     <div class="ru" markdown>
@@ -42,7 +42,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *sr · Pravilnik 22/2019, čl. 7 (жилые объекты):* <small class="actual">актуально на момент публикации 07.10.26</small> Klasifikacija objekata prema dominantnoj nameni, izdvojenosti i visini određuje se na sledeći način: 1) Stambeni objekti: 1.1) Izdvojeni stambeni objekti i stambeni objekti u nizu visine do 12 m (IS1 i NS1); 1.2) Izdvojeni stambeni objekti i stambeni objekti u nizu visine od 12 m do 22 m (IS2 i NS2); 1.3) Izdvojeni stambeni objekti i stambeni objekti u nizu visine od 22 m do 30 m (IS3 i NS3);
+    *sr · Pravilnik 22/2019, čl. 7 (жилые объекты):* <small class="actual">актуально на момент публикации 08.10.26</small> Klasifikacija objekata prema dominantnoj nameni, izdvojenosti i visini određuje se na sledeći način: 1) Stambeni objekti: 1.1) Izdvojeni stambeni objekti i stambeni objekti u nizu visine do 12 m (IS1 i NS1); 1.2) Izdvojeni stambeni objekti i stambeni objekti u nizu visine od 12 m do 22 m (IS2 i NS2); 1.3) Izdvojeni stambeni objekti i stambeni objekti u nizu visine od 22 m do 30 m (IS3 i NS3);
 
     </div>
     <div class="ru" markdown>
@@ -55,7 +55,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *sr · Pravilnik 22/2019, čl. 4 т. 8–9:* <small class="actual">актуально на момент публикации 07.10.26</small> 8) izdvojeni objekat je objekat koji je od susednog objekta udaljen više od 4 m; 9) objekti u nizu su susedni objekti čije rastojanje iznosi manje od 4 m;
+    *sr · Pravilnik 22/2019, čl. 4 т. 8–9:* <small class="actual">актуально на момент публикации 08.10.26</small> 8) izdvojeni objekat je objekat koji je od susednog objekta udaljen više od 4 m; 9) objekti u nizu su susedni objekti čije rastojanje iznosi manje od 4 m;
 
     </div>
     <div class="ru" markdown>
@@ -68,7 +68,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *sr · Pravilnik 22/2019, čl. 8, табл. 1 (классы P):* <small class="actual">актуально на момент публикации 07.10.26</small>
+    *sr · Pravilnik 22/2019, čl. 8, табл. 1 (классы P):* <small class="actual">актуально на момент публикации 08.10.26</small>
 
     | Число лиц | до 20 | 21–50 | 51–100 | 101–300 | 301–700 | 701–1500 | 1501 и более |
     |---|---|---|---|---|---|---|---|
@@ -109,7 +109,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *de · MBO § 2 Abs. 3:* <small class="actual">актуально на момент публикации 07.10.26</small> Gebäude werden in folgende Gebäudeklassen eingeteilt: 1. Gebäudeklasse 1: a) freistehende Gebäude mit einer Höhe bis zu 7 m und nicht mehr als zwei Nutzungseinheiten von insgesamt nicht mehr als 400 m² und b) freistehende land- oder forstwirtschaftlich genutzte Gebäude, 2. Gebäudeklasse 2: Gebäude mit einer Höhe bis zu 7 m und nicht mehr als zwei Nutzungseinheiten von insgesamt nicht mehr als 400 m², 5 3. Gebäudeklasse 3: sonstige Gebäude mit einer Höhe bis zu 7 m, 4. Gebäudeklasse 4: Gebäude mit einer Höhe bis zu 13 m und Nutzungseinheiten mit jeweils nicht mehr als 400 m², 5. Gebäudeklasse 5: sonstige Gebäude einschließlich unterirdischer Gebäude.
+    *de · MBO § 2 Abs. 3:* <small class="actual">актуально на момент публикации 08.10.26</small> Gebäude werden in folgende Gebäudeklassen eingeteilt: 1. Gebäudeklasse 1: a) freistehende Gebäude mit einer Höhe bis zu 7 m und nicht mehr als zwei Nutzungseinheiten von insgesamt nicht mehr als 400 m² und b) freistehende land- oder forstwirtschaftlich genutzte Gebäude, 2. Gebäudeklasse 2: Gebäude mit einer Höhe bis zu 7 m und nicht mehr als zwei Nutzungseinheiten von insgesamt nicht mehr als 400 m², 5 3. Gebäudeklasse 3: sonstige Gebäude mit einer Höhe bis zu 7 m, 4. Gebäudeklasse 4: Gebäude mit einer Höhe bis zu 13 m und Nutzungseinheiten mit jeweils nicht mehr als 400 m², 5. Gebäudeklasse 5: sonstige Gebäude einschließlich unterirdischer Gebäude.
 
     </div>
     <div class="ru" markdown>
@@ -124,7 +124,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *fr · Arrêté 1986, ст. 3 (3-я и 4-я семьи):* <small class="actual">актуально на момент публикации 07.10.26</small> 3° Troisième famille : - Habitations dont le plancher bas du logement le plus haut est situé à vingt-huit mètres au plus au-dessus du sol utilement accessible aux engins des services de secours et de lutte contre l'incendie, parmi lesquelles on distingue: o Troisième famille A: habitations comportant au plus sept étages sur rez-de-chaussée, et dans lesquelles la distance entre la porte palière de logement la plus éloignée et l'accès à l'escalier est au plus égale à sept mètres; o Troisième famille B: habitations ne satisfaisant pas aux conditions précédentes.
+    *fr · Arrêté 1986, ст. 3 (3-я и 4-я семьи):* <small class="actual">актуально на момент публикации 08.10.26</small> 3° Troisième famille : - Habitations dont le plancher bas du logement le plus haut est situé à vingt-huit mètres au plus au-dessus du sol utilement accessible aux engins des services de secours et de lutte contre l'incendie, parmi lesquelles on distingue: o Troisième famille A: habitations comportant au plus sept étages sur rez-de-chaussée, et dans lesquelles la distance entre la porte palière de logement la plus éloignée et l'accès à l'escalier est au plus égale à sept mètres; o Troisième famille B: habitations ne satisfaisant pas aux conditions précédentes.
 
     </div>
     <div class="ru" markdown>
@@ -137,7 +137,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *fr · Arrêté 1986, ст. 3 (4-я семья):* <small class="actual">актуально на момент публикации 07.10.26</small> Quatrième famille: - Habitations dont le plancher bas du logement le plus haut est situé à plus de vingt-huit mètres et à cinquante mètres au plus au-dessus du niveau du sol utilement accessible aux engins des services publics de secours et de lutte contre l'incendie.
+    *fr · Arrêté 1986, ст. 3 (4-я семья):* <small class="actual">актуально на момент публикации 08.10.26</small> Quatrième famille: - Habitations dont le plancher bas du logement le plus haut est situé à plus de vingt-huit mètres et à cinquante mètres au plus au-dessus du niveau du sol utilement accessible aux engins des services publics de secours et de lutte contre l'incendie.
 
     </div>
     <div class="ru" markdown>
@@ -152,7 +152,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *en · Begriffsbestimmungen, Gebäudeklasse 4 и 5:* <small class="actual">актуально на момент публикации 07.10.26</small> Gebäude der Gebäudeklasse 4 (GK4) a) Gebäude mit nicht mehr als vier oberirdischen Geschoßen und mit einem Fluchtniveau von nicht mehr als 11 m, bestehend aus mehreren Wohnungen bzw. mehreren Betriebseinheiten von jeweils nicht mehr als 400 m² Nutzfläche der einzelnen Wohnungen bzw. Betriebseinheiten in den oberirdischen Geschoßen, b) Gebäude mit nicht mehr als vier oberirdischen Geschoßen und mit einem Fluchtniveau von nicht mehr als 11 m, bestehend aus einer Wohnung bzw. einer Betriebseinheit ohne Begrenzung der BruttoGrundfläche der oberirdischen Geschoße. Gebäude der Gebäudeklasse 5 (GK5) Gebäude mit einem Fluchtniveau von nicht mehr als 22 m, die nicht in die Gebäudeklassen 1, 2, 3 oder 4 fallen.
+    *en · Begriffsbestimmungen, Gebäudeklasse 4 и 5:* <small class="actual">актуально на момент публикации 08.10.26</small> Gebäude der Gebäudeklasse 4 (GK4) a) Gebäude mit nicht mehr als vier oberirdischen Geschoßen und mit einem Fluchtniveau von nicht mehr als 11 m, bestehend aus mehreren Wohnungen bzw. mehreren Betriebseinheiten von jeweils nicht mehr als 400 m² Nutzfläche der einzelnen Wohnungen bzw. Betriebseinheiten in den oberirdischen Geschoßen, b) Gebäude mit nicht mehr als vier oberirdischen Geschoßen und mit einem Fluchtniveau von nicht mehr als 11 m, bestehend aus einer Wohnung bzw. einer Betriebseinheit ohne Begrenzung der BruttoGrundfläche der oberirdischen Geschoße. Gebäude der Gebäudeklasse 5 (GK5) Gebäude mit einem Fluchtniveau von nicht mehr als 22 m, die nicht in die Gebäudeklassen 1, 2, 3 oder 4 fallen.
 
     </div>
     <div class="ru" markdown>
@@ -167,7 +167,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *es · CTE DB-SI, Anejo A: Altura de evacuación:* <small class="actual">актуально на момент публикации 07.10.26</small> Altura de evacuación Máxima diferencia de cotas entre un origen de evacuación y la salida de edificio que le corresponda.
+    *es · CTE DB-SI, Anejo A: Altura de evacuación:* <small class="actual">актуально на момент публикации 08.10.26</small> Altura de evacuación Máxima diferencia de cotas entre un origen de evacuación y la salida de edificio que le corresponda.
 
     </div>
     <div class="ru" markdown>
@@ -182,7 +182,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *en · Approved Document B Vol 1, п. 0.14:* <small class="actual">актуально на момент публикации 07.10.26</small> Building uses are classified within different purpose groups, which represent different levels of hazard (see Table 0.1). A purpose group can apply to a whole building or a compartment within the building, and should relate to the main use of the building or compartment.
+    *en · Approved Document B Vol 1, п. 0.14:* <small class="actual">актуально на момент публикации 08.10.26</small> Building uses are classified within different purpose groups, which represent different levels of hazard (see Table 0.1). A purpose group can apply to a whole building or a compartment within the building, and should relate to the main use of the building or compartment.
 
     </div>
     <div class="ru" markdown>
@@ -195,7 +195,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *en · Approved Document B, табл. 0.1 (сводка):* <small class="actual">актуально на момент публикации 07.10.26</small>
+    *en · Approved Document B, табл. 0.1 (сводка):* <small class="actual">актуально на момент публикации 08.10.26</small>
 
     | Группа | Назначение |
     |---|---|

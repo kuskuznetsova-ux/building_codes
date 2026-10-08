@@ -1,4 +1,4 @@
-# 2.15.1 Порог «высотного здания» и способ измерения высоты
+# 2.16.1 Порог «высотного здания» и способ измерения высоты
 
 [← К матрице](index.md) · С какой высоты здание считается высотным и как эту высоту считают.
 
@@ -10,7 +10,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *ru · СП 267.1325800.2016, п. 3.5:* <small class="actual">актуально на момент публикации 07.10.26</small> 3.5 высотное здание : Здание, имеющее высоту, определяемую в соответствии с СП 1.13130.2009 , более 75 м.
+    *ru · СП 267.1325800.2016, п. 3.5:* <small class="actual">актуально на момент публикации 08.10.26</small> 3.5 высотное здание : Здание, имеющее высоту, определяемую в соответствии с СП 1.13130.2009 , более 75 м.
 
     </div>
     <div class="ru" markdown>
@@ -23,7 +23,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *ru · СП 477.1325800.2020, п. 1.1:* <small class="actual">актуально на момент публикации 07.10.26</small> 1.1 Настоящий свод правил устанавливает требования пожарной безопасности при проектировании, строительстве, реконструкции, капитальном ремонте и эксплуатации зданий и комплексов класса функциональной пожарной опасности Ф1.3 высотой более 75 м и зданий и комплексов других классов функциональной пожарной опасности высотой более 50 м.
+    *ru · СП 477.1325800.2020, п. 1.1:* <small class="actual">актуально на момент публикации 08.10.26</small> 1.1 Настоящий свод правил устанавливает требования пожарной безопасности при проектировании, строительстве, реконструкции, капитальном ремонте и эксплуатации зданий и комплексов класса функциональной пожарной опасности Ф1.3 высотой более 75 м и зданий и комплексов других классов функциональной пожарной опасности высотой более 50 м.
 
     </div>
     <div class="ru" markdown>
@@ -43,7 +43,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *sr · Pravilnik 80/2015, čl. 2:* <small class="actual">актуально на момент публикации 07.10.26</small> Pod visokim objektom, u smislu ovog pravilnika, podrazumeva se zgrada povećanog rizika od požara sa prostorijama za boravak lica, čiji se podovi najvišeg sprata nalaze najmanje 30 m iznad kote terena na koju je moguć pristup vatrogasnim vozilima radi gašenja i spašavanja i sa koje je moguća intervencija uz korišćenje automehaničkih lestava ili drugih specijalnih vozila namenjenih gašenju i spašavanju sa visina.
+    *sr · Pravilnik 80/2015, čl. 2:* <small class="actual">актуально на момент публикации 08.10.26</small> Pod visokim objektom, u smislu ovog pravilnika, podrazumeva se zgrada povećanog rizika od požara sa prostorijama za boravak lica, čiji se podovi najvišeg sprata nalaze najmanje 30 m iznad kote terena na koju je moguć pristup vatrogasnim vozilima radi gašenja i spašavanja i sa koje je moguća intervencija uz korišćenje automehaničkih lestava ili drugih specijalnih vozila namenjenih gašenju i spašavanju sa visina.
 
     </div>
     <div class="ru" markdown>
@@ -56,7 +56,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *sr · Pravilnik 80/2015, čl. 2 (спорные случаи):* <small class="actual">актуально на момент публикации 07.10.26</small> Ako se, na osnovu parametara iz stava 1. ovog člana, ne može jasno utvrditi da li je predmetni objekat u kategoriji visokih objekata (zbog nagiba terena, denivelacije i slično), mora se predvideti i izvesti plato uređen za kretanje vatrogasnih vozila i izvođenje intervencija na objektu, u skladu sa članom 7. ovog pravilnika, na osnovu koga će se sprovesti postupak određivanja visine u skladu sa stavom 1. ovog člana.
+    *sr · Pravilnik 80/2015, čl. 2 (спорные случаи):* <small class="actual">актуально на момент публикации 08.10.26</small> Ako se, na osnovu parametara iz stava 1. ovog člana, ne može jasno utvrditi da li je predmetni objekat u kategoriji visokih objekata (zbog nagiba terena, denivelacije i slično), mora se predvideti i izvesti plato uređen za kretanje vatrogasnih vozila i izvođenje intervencija na objektu, u skladu sa članom 7. ovog pravilnika, na osnovu koga će se sprovesti postupak određivanja visine u skladu sa stavom 1. ovog člana.
 
     </div>
     <div class="ru" markdown>
@@ -92,7 +92,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *de · MBO § 2 Abs. 4 Nr. 1:* <small class="actual">актуально на момент публикации 07.10.26</small> Hochhäuser (Gebäude mit einer Höhe nach Absatz 3 Satz 2 von mehr als 22 m),
+    *de · MBO § 2 Abs. 4 Nr. 1:* <small class="actual">актуально на момент публикации 08.10.26</small> Hochhäuser (Gebäude mit einer Höhe nach Absatz 3 Satz 2 von mehr als 22 m),
 
     </div>
     <div class="ru" markdown>
@@ -105,7 +105,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *de · MBO § 2 Abs. 3 Satz 2:* <small class="actual">актуально на момент публикации 07.10.26</small> Höhe im Sinne des Satzes 1 ist das Maß der Fußbodenoberkante des höchstgelegenen Geschosses, in dem ein Aufenthaltsraum möglich ist, über der Geländeoberfläche im Mittel.
+    *de · MBO § 2 Abs. 3 Satz 2:* <small class="actual">актуально на момент публикации 08.10.26</small> Höhe im Sinne des Satzes 1 ist das Maß der Fußbodenoberkante des höchstgelegenen Geschosses, in dem ein Aufenthaltsraum möglich ist, über der Geländeoberfläche im Mittel.
 
     </div>
     <div class="ru" markdown>
@@ -120,7 +120,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *fr · Arrêté 1986, ст. 1:* <small class="actual">актуально на момент публикации 07.10.26</small> Les règles particulières concernant les immeubles d'habitation dont le plancher bas du logement le plus haut est situé à plus de 50 mètres au-dessus du sol font l'objet des articles R. 122-1 à R. 122-55 du code de la construction et de l'habitation et de l'arrêté portant règlement de sécurité pour la construction des immeubles de grande hauteur et leur protection contre les risques d'incendie et de panique.
+    *fr · Arrêté 1986, ст. 1:* <small class="actual">актуально на момент публикации 08.10.26</small> Les règles particulières concernant les immeubles d'habitation dont le plancher bas du logement le plus haut est situé à plus de 50 mètres au-dessus du sol font l'objet des articles R. 122-1 à R. 122-55 du code de la construction et de l'habitation et de l'arrêté portant règlement de sécurité pour la construction des immeubles de grande hauteur et leur protection contre les risques d'incendie et de panique.
 
     </div>
     <div class="ru" markdown>
@@ -135,7 +135,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *de · OIB-RL 2.3, оглавление:* <small class="actual">актуально на момент публикации 07.10.26</small> 3 Gebäude mit einem Fluchtniveau von nicht mehr als 32 m ....................................................................... 8 4 Gebäude mit einem Fluchtniveau von mehr als 32 m und nicht mehr als 90 m ........................................ 9 5 Gebäude mit einem Fluchtniveau von mehr als 90 m
+    *de · OIB-RL 2.3, оглавление:* <small class="actual">актуально на момент публикации 08.10.26</small> 3 Gebäude mit einem Fluchtniveau von nicht mehr als 32 m ....................................................................... 8 4 Gebäude mit einem Fluchtniveau von mehr als 32 m und nicht mehr als 90 m ........................................ 9 5 Gebäude mit einem Fluchtniveau von mehr als 90 m
 
     </div>
     <div class="ru" markdown>
@@ -150,7 +150,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *en · Building Safety Act 2022, s. 65(1):* <small class="actual">актуально на момент публикации 07.10.26</small> In this Part “higher-risk building” means a building in England that— (a) is at least 18 metres in height or has at least 7 storeys, and (b) contains at least 2 residential units.
+    *en · Building Safety Act 2022, s. 65(1):* <small class="actual">актуально на момент публикации 08.10.26</small> In this Part “higher-risk building” means a building in England that— (a) is at least 18 metres in height or has at least 7 storeys, and (b) contains at least 2 residential units.
 
     </div>
     <div class="ru" markdown>
@@ -163,7 +163,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *en · SI 2023/275, рег. 5(1):* <small class="actual">актуально на момент публикации 07.10.26</small> the height of a building is to be measured from ground level to the top of the floor surface of the top storey of the building (ignoring any storey which is a roof-top machinery or roof-top plant area or consists exclusively of roof-top machinery or roof-top plant rooms).
+    *en · SI 2023/275, рег. 5(1):* <small class="actual">актуально на момент публикации 08.10.26</small> the height of a building is to be measured from ground level to the top of the floor surface of the top storey of the building (ignoring any storey which is a roof-top machinery or roof-top plant area or consists exclusively of roof-top machinery or roof-top plant rooms).
 
     </div>
     <div class="ru" markdown>
@@ -176,7 +176,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *en · SI 2023/275, рег. 6(1):* <small class="actual">актуально на момент публикации 07.10.26</small> when determining the number of storeys a building has the following is to be ignored— (a) any storey which is below ground level; (b) any storey which is a roof-top machinery or roof-top plant area or consists exclusively of roof-top machinery or roof-top plant rooms; and (c) any storey consisting of a gallery with an internal floor area that is less than 50% of the internal floor area of the largest storey vertically above or below it which is not below ground level.
+    *en · SI 2023/275, рег. 6(1):* <small class="actual">актуально на момент публикации 08.10.26</small> when determining the number of storeys a building has the following is to be ignored— (a) any storey which is below ground level; (b) any storey which is a roof-top machinery or roof-top plant area or consists exclusively of roof-top machinery or roof-top plant rooms; and (c) any storey consisting of a gallery with an internal floor area that is less than 50% of the internal floor area of the largest storey vertically above or below it which is not below ground level.
 
     </div>
     <div class="ru" markdown>

@@ -19,7 +19,7 @@ hide:
 <div class="pair" markdown>
 <div class="orig" markdown>
 
-*en · Building Act 1984, s. 1(1):* <small class="actual">актуально на момент публикации 07.10.26</small> (1) The appropriate national authority may, for any of the purposes of— (a) securing the health, safety, welfare and convenience of persons in or about buildings and of others who may be affected by buildings or matters connected with buildings, (b) furthering the conservation of fuel and power, (c) preventing waste, undue consumption, misuse or contamination of water, (d) furthering the protection or enhancement of the environment, (e) facilitating sustainable development, or (f) furthering the prevention or detection of crime,
+*en · Building Act 1984, s. 1(1):* <small class="actual">актуально на момент публикации 08.10.26</small> (1) The appropriate national authority may, for any of the purposes of— (a) securing the health, safety, welfare and convenience of persons in or about buildings and of others who may be affected by buildings or matters connected with buildings, (b) furthering the conservation of fuel and power, (c) preventing waste, undue consumption, misuse or contamination of water, (d) furthering the protection or enhancement of the environment, (e) facilitating sustainable development, or (f) furthering the prevention or detection of crime,
 
 </div>
 <div class="ru" markdown>
@@ -32,7 +32,7 @@ hide:
 <div class="pair" markdown>
 <div class="orig" markdown>
 
-*en · Building Act 1984, s. 1(1A):* <small class="actual">актуально на момент публикации 07.10.26</small> (1A) Those matters are— (a) the design and construction of buildings; (b) the demolition of buildings; (c) services, fittings and equipment provided in or in connection with buildings.
+*en · Building Act 1984, s. 1(1A):* <small class="actual">актуально на момент публикации 08.10.26</small> (1A) Those matters are— (a) the design and construction of buildings; (b) the demolition of buildings; (c) services, fittings and equipment provided in or in connection with buildings.
 
 </div>
 <div class="ru" markdown>
@@ -45,7 +45,7 @@ hide:
 <div class="pair" markdown>
 <div class="orig" markdown>
 
-*en · Building Act 1984, s. 6(1):* <small class="actual">актуально на момент публикации 07.10.26</small> (1) For the purpose of providing practical guidance with respect to the requirements of any provision of building regulations, the appropriate national authority or a body designated by the appropriate national authority for the purposes of this section may— (a) approve and issue any document (whether or not prepared by the appropriate national authority or by the body concerned), or (b) approve any document issued or proposed to be issued otherwise than by the appropriate national authority or by the body concerned, if in the opinion of the appropriate national authority or, as the case may be, the body concerned the document is suitable for that purpose.
+*en · Building Act 1984, s. 6(1):* <small class="actual">актуально на момент публикации 08.10.26</small> (1) For the purpose of providing practical guidance with respect to the requirements of any provision of building regulations, the appropriate national authority or a body designated by the appropriate national authority for the purposes of this section may— (a) approve and issue any document (whether or not prepared by the appropriate national authority or by the body concerned), or (b) approve any document issued or proposed to be issued otherwise than by the appropriate national authority or by the body concerned, if in the opinion of the appropriate national authority or, as the case may be, the body concerned the document is suitable for that purpose.
 
 </div>
 <div class="ru" markdown>
@@ -58,7 +58,7 @@ hide:
 <div class="pair" markdown>
 <div class="orig" markdown>
 
-*en · Building Act 1984, s. 7(1):* <small class="actual">актуально на момент публикации 07.10.26</small> (1) A failure on the part of a person to comply with an approved document does not of itself render him liable to any civil or criminal proceedings; but if, in any proceedings whether civil or criminal, it is alleged that a person has at any time contravened a provision of building regulations— (a) a failure to comply with a relevant approved document may be relied upon as tending to establish liability, and (b) proof of compliance with such a document may be relied on as tending to negative liability.
+*en · Building Act 1984, s. 7(1):* <small class="actual">актуально на момент публикации 08.10.26</small> (1) A failure on the part of a person to comply with an approved document does not of itself render him liable to any civil or criminal proceedings; but if, in any proceedings whether civil or criminal, it is alleged that a person has at any time contravened a provision of building regulations— (a) a failure to comply with a relevant approved document may be relied upon as tending to establish liability, and (b) proof of compliance with such a document may be relied on as tending to negative liability.
 
 </div>
 <div class="ru" markdown>
@@ -77,7 +77,7 @@ hide:
 <div class="pair" markdown>
 <div class="orig" markdown>
 
-*en · Building Regulations 2010, Schedule 1, B1:* <small class="actual">актуально на момент публикации 07.10.26</small> B1 . The building shall be designed and constructed so that there are appropriate provisions for the early warning of fire, and appropriate means of escape in case of fire from the building to a place of safety outside the building capable of being safely and effectively used at all material times.
+*en · Building Regulations 2010, Schedule 1, B1:* <small class="actual">актуально на момент публикации 08.10.26</small> B1 . The building shall be designed and constructed so that there are appropriate provisions for the early warning of fire, and appropriate means of escape in case of fire from the building to a place of safety outside the building capable of being safely and effectively used at all material times.
 
 </div>
 <div class="ru" markdown>
@@ -90,7 +90,7 @@ B1: здание должно быть спроектировано и пост�
 <div class="pair" markdown>
 <div class="orig" markdown>
 
-*en · Building Regulations 2010, Schedule 1, B3(3)–(4):* <small class="actual">актуально на момент публикации 07.10.26</small> (3) Where reasonably necessary to inhibit the spread of fire within the building, measures shall be taken, to an extent appropriate to the size and intended use of the building, comprising either or both of the following— (a) sub-division of the building with fire-resisting construction; (b) installation of suitable automatic fire suppression systems. (4) The building shall be designed and constructed so that the unseen spread of fire and smoke within concealed spaces in its structure and fabric is inhibited.
+*en · Building Regulations 2010, Schedule 1, B3(3)–(4):* <small class="actual">актуально на момент публикации 08.10.26</small> (3) Where reasonably necessary to inhibit the spread of fire within the building, measures shall be taken, to an extent appropriate to the size and intended use of the building, comprising either or both of the following— (a) sub-division of the building with fire-resisting construction; (b) installation of suitable automatic fire suppression systems. (4) The building shall be designed and constructed so that the unseen spread of fire and smoke within concealed spaces in its structure and fabric is inhibited.
 
 </div>
 <div class="ru" markdown>
@@ -103,7 +103,7 @@ B3(3)–(4): где это разумно необходимо, нужны ме�
 <div class="pair" markdown>
 <div class="orig" markdown>
 
-*en · Building Regulations 2010, Schedule 1, B4(1):* <small class="actual">актуально на момент публикации 07.10.26</small> B4 .—(1) The external walls of the building shall adequately resist the spread of fire over the walls and from one building to another, having regard to the height, use and position of the building.
+*en · Building Regulations 2010, Schedule 1, B4(1):* <small class="actual">актуально на момент публикации 08.10.26</small> B4 .—(1) The external walls of the building shall adequately resist the spread of fire over the walls and from one building to another, having regard to the height, use and position of the building.
 
 </div>
 <div class="ru" markdown>
@@ -116,7 +116,7 @@ B4(1): наружные стены должны надлежащим образ�
 <div class="pair" markdown>
 <div class="orig" markdown>
 
-*en · Building Regulations 2010, Schedule 1, B5:* <small class="actual">актуально на момент публикации 07.10.26</small> B5 .—(1) The building shall be designed and constructed so as to provide reasonable facilities to assist fire fighters in the protection of life. (2) Reasonable provision shall be made within the site of the building to enable fire appliances to gain access to the building.
+*en · Building Regulations 2010, Schedule 1, B5:* <small class="actual">актуально на момент публикации 08.10.26</small> B5 .—(1) The building shall be designed and constructed so as to provide reasonable facilities to assist fire fighters in the protection of life. (2) Reasonable provision shall be made within the site of the building to enable fire appliances to gain access to the building.
 
 </div>
 <div class="ru" markdown>
@@ -129,7 +129,7 @@ B5: здание должно иметь разумные средства дл�
 <div class="pair" markdown>
 <div class="orig" markdown>
 
-*en · Building Regulations 2010, reg. 7(2) и 7(4):* <small class="actual">актуально на момент публикации 07.10.26</small> (2) Subject to paragraph (3), building work shall be carried out so that materials which become part of an external wall, or specified attachment, of a relevant building are of European Classification A2-s1, d0 or A1 … (4) In this regulation— (a) a “relevant building” means a building with a storey (not including roof-top plant areas or any storey consisting exclusively of plant rooms) at least 18 metres above ground level and which— (i) contains one or more dwellings; (ii) contains an institution; or (iii) contains a room for residential purposes
+*en · Building Regulations 2010, reg. 7(2) и 7(4):* <small class="actual">актуально на момент публикации 08.10.26</small> (2) Subject to paragraph (3), building work shall be carried out so that materials which become part of an external wall, or specified attachment, of a relevant building are of European Classification A2-s1, d0 or A1 … (4) In this regulation— (a) a “relevant building” means a building with a storey (not including roof-top plant areas or any storey consisting exclusively of plant rooms) at least 18 metres above ground level and which— (i) contains one or more dwellings; (ii) contains an institution; or (iii) contains a room for residential purposes
 
 </div>
 <div class="ru" markdown>
@@ -148,7 +148,7 @@ The Building (Higher-Risk Buildings Procedures) (England) Regulations 2023 — �
 <div class="pair" markdown>
 <div class="orig" markdown>
 
-*en · S.I. 2023/909, reg. 3:* <small class="actual">актуально на момент публикации 07.10.26</small> 3. Before any person starts HRB work or starts a stage of HRB work, the client in relation to that work (in this Chapter “the applicant”) must— (a) submit an application for building control approval in relation to the work to the regulator (a “building control approval application for HRB work” or, where the work is done in stages, a “building control approval application for a stage of HRB work”) in accordance with regulation 4 (building control approval applications for HRB work or stage of HRB work), (b) be granted building control approval for the work, (c) fulfil those requirements, if any, which in accordance with the building control approval must be fulfilled before the work or, as the case maybe, the stage of the work is started, and (d) notify the regulator of the date on which the work or the stage of the work is to start in accordance with regulation 9(2)
+*en · S.I. 2023/909, reg. 3:* <small class="actual">актуально на момент публикации 08.10.26</small> 3. Before any person starts HRB work or starts a stage of HRB work, the client in relation to that work (in this Chapter “the applicant”) must— (a) submit an application for building control approval in relation to the work to the regulator (a “building control approval application for HRB work” or, where the work is done in stages, a “building control approval application for a stage of HRB work”) in accordance with regulation 4 (building control approval applications for HRB work or stage of HRB work), (b) be granted building control approval for the work, (c) fulfil those requirements, if any, which in accordance with the building control approval must be fulfilled before the work or, as the case maybe, the stage of the work is started, and (d) notify the regulator of the date on which the work or the stage of the work is to start in accordance with regulation 9(2)
 
 </div>
 <div class="ru" markdown>
@@ -161,7 +161,7 @@ The Building (Higher-Risk Buildings Procedures) (England) Regulations 2023 — �
 <div class="pair" markdown>
 <div class="orig" markdown>
 
-*en · S.I. 2023/909, reg. 4(2)(b):* <small class="actual">актуально на момент публикации 07.10.26</small> (b) (i) such other plans as necessary to show that the HRB work would comply with all applicable requirements of the building regulations( 3 ); (ii) a competence declaration; (iii) a construction control plan; (iv) a change control plan; (v) a mandatory occurrence reporting plan; (vi) a Building Regulations compliance statement; (vii) a fire and emergency file; (viii) where the applicant proposes occupation of part of the building before completion of the HRB work, a partial completion strategy;
+*en · S.I. 2023/909, reg. 4(2)(b):* <small class="actual">актуально на момент публикации 08.10.26</small> (b) (i) such other plans as necessary to show that the HRB work would comply with all applicable requirements of the building regulations( 3 ); (ii) a competence declaration; (iii) a construction control plan; (iv) a change control plan; (v) a mandatory occurrence reporting plan; (vi) a Building Regulations compliance statement; (vii) a fire and emergency file; (viii) where the applicant proposes occupation of part of the building before completion of the HRB work, a partial completion strategy;
 
 </div>
 <div class="ru" markdown>
@@ -174,7 +174,7 @@ The Building (Higher-Risk Buildings Procedures) (England) Regulations 2023 — �
 <div class="pair" markdown>
 <div class="orig" markdown>
 
-*en · S.I. 2023/909, reg. 5(1) — срок Gateway 2:* <small class="actual">актуально на момент публикации 07.10.26</small> 5. —(1) Where the regulator receives a building control approval application for HRB work or a building control approval application for a stage of HRB work which is valid the regulator must— (a) notify the applicant to that effect, and (b) determine it within 12 weeks beginning with the date the application is received by the regulator or within such longer period as at any time the regulator and the applicant agree in writing.
+*en · S.I. 2023/909, reg. 5(1) — срок Gateway 2:* <small class="actual">актуально на момент публикации 08.10.26</small> 5. —(1) Where the regulator receives a building control approval application for HRB work or a building control approval application for a stage of HRB work which is valid the regulator must— (a) notify the applicant to that effect, and (b) determine it within 12 weeks beginning with the date the application is received by the regulator or within such longer period as at any time the regulator and the applicant agree in writing.
 
 </div>
 <div class="ru" markdown>
@@ -187,7 +187,7 @@ The Building (Higher-Risk Buildings Procedures) (England) Regulations 2023 — �
 <div class="pair" markdown>
 <div class="orig" markdown>
 
-*en · S.I. 2023/909, reg. 9(2):* <small class="actual">актуально на момент публикации 07.10.26</small> (2) At least five working days before the day on which the HRB work or the stage of HRB work starts, the client must give a notice to the regulator setting out their intention to start the work and the date that work is to start.
+*en · S.I. 2023/909, reg. 9(2):* <small class="actual">актуально на момент публикации 08.10.26</small> (2) At least five working days before the day on which the HRB work or the stage of HRB work starts, the client must give a notice to the regulator setting out their intention to start the work and the date that work is to start.
 
 </div>
 <div class="ru" markdown>
@@ -200,7 +200,7 @@ The Building (Higher-Risk Buildings Procedures) (England) Regulations 2023 — �
 <div class="pair" markdown>
 <div class="orig" markdown>
 
-*en · S.I. 2023/909, reg. 41(1) — срок Gateway 3:* <small class="actual">актуально на момент публикации 07.10.26</small> 41. —(1) Where the regulator receives a completion certificate application in relation to HRB work, a stage of HRB work or work to existing HRB which is valid the regulator must— (a) notify the applicant to that effect, and (b) determine it within 8 weeks beginning with the date the application is received by the regulator or within such longer period as at any time the regulator and the applicant agree in writing.
+*en · S.I. 2023/909, reg. 41(1) — срок Gateway 3:* <small class="actual">актуально на момент публикации 08.10.26</small> 41. —(1) Where the regulator receives a completion certificate application in relation to HRB work, a stage of HRB work or work to existing HRB which is valid the regulator must— (a) notify the applicant to that effect, and (b) determine it within 8 weeks beginning with the date the application is received by the regulator or within such longer period as at any time the regulator and the applicant agree in writing.
 
 </div>
 <div class="ru" markdown>
@@ -213,7 +213,7 @@ The Building (Higher-Risk Buildings Procedures) (England) Regulations 2023 — �
 <div class="pair" markdown>
 <div class="orig" markdown>
 
-*en · S.I. 2023/909, reg. 44(1):* <small class="actual">актуально на момент публикации 07.10.26</small> 44. —(1) The regulator must approve a completion certificate application and issue a completion certificate, if it is satisfied, after taking all reasonable steps, that— (a) HRB work, stage of HRB work or work to existing HRB is completed and complies with all applicable requirements of the building regulations; (b) the documents and information listed in regulation 40(2)(a) to (d) (completion certificate applications) and submitted as part of the completion certificate application are complete and accurate; (c) the information required to be provided to the relevant person in accordance with regulation 38 (handover of information on completion etc) is complete and has been provided.
+*en · S.I. 2023/909, reg. 44(1):* <small class="actual">актуально на момент публикации 08.10.26</small> 44. —(1) The regulator must approve a completion certificate application and issue a completion certificate, if it is satisfied, after taking all reasonable steps, that— (a) HRB work, stage of HRB work or work to existing HRB is completed and complies with all applicable requirements of the building regulations; (b) the documents and information listed in regulation 40(2)(a) to (d) (completion certificate applications) and submitted as part of the completion certificate application are complete and accurate; (c) the information required to be provided to the relevant person in accordance with regulation 38 (handover of information on completion etc) is complete and has been provided.
 
 </div>
 <div class="ru" markdown>
@@ -232,7 +232,7 @@ The Building (Higher-Risk Buildings Procedures) (England) Regulations 2023 — �
 <div class="pair" markdown>
 <div class="orig" markdown>
 
-*en · Building Regulations 2010, reg. 12(1):* <small class="actual">актуально на момент публикации 07.10.26</small> 12. —(1) This regulation applies to a person who intends to— (a) carry out building work; (b) replace or renovate a thermal element in a building to which the energy efficiency requirements apply; (c) make a change to a building's energy status; or (d) make a material change of use.
+*en · Building Regulations 2010, reg. 12(1):* <small class="actual">актуально на момент публикации 08.10.26</small> 12. —(1) This regulation applies to a person who intends to— (a) carry out building work; (b) replace or renovate a thermal element in a building to which the energy efficiency requirements apply; (c) make a change to a building's energy status; or (d) make a material change of use.
 
 </div>
 <div class="ru" markdown>
@@ -245,7 +245,7 @@ The Building (Higher-Risk Buildings Procedures) (England) Regulations 2023 — �
 <div class="pair" markdown>
 <div class="orig" markdown>
 
-*en · Building Regulations 2010, reg. 12(3):* <small class="actual">актуально на момент публикации 07.10.26</small> (3) A person intending to carry out building work in relation to a building to which the Regulatory Reform (Fire Safety) Order 2005 applies, or will apply after the completion of the building work, shall give an application for building control approval with full plans
+*en · Building Regulations 2010, reg. 12(3):* <small class="actual">актуально на момент публикации 08.10.26</small> (3) A person intending to carry out building work in relation to a building to which the Regulatory Reform (Fire Safety) Order 2005 applies, or will apply after the completion of the building work, shall give an application for building control approval with full plans
 
 </div>
 <div class="ru" markdown>
@@ -258,7 +258,7 @@ The Building (Higher-Risk Buildings Procedures) (England) Regulations 2023 — �
 <div class="pair" markdown>
 <div class="orig" markdown>
 
-*en · Building Regulations 2010, reg. 16(1):* <small class="actual">актуально на момент публикации 07.10.26</small> 16. —(1) Subject to paragraphs (8) and (9), a person who proposes to carry out building work shall not start that work unless— (a) that person has given the relevant authority notice of intention to start work ; and (b) at least two days have elapsed since the end of the day on which the notice was given.
+*en · Building Regulations 2010, reg. 16(1):* <small class="actual">актуально на момент публикации 08.10.26</small> 16. —(1) Subject to paragraphs (8) and (9), a person who proposes to carry out building work shall not start that work unless— (a) that person has given the relevant authority notice of intention to start work ; and (b) at least two days have elapsed since the end of the day on which the notice was given.
 
 </div>
 <div class="ru" markdown>
@@ -271,7 +271,7 @@ The Building (Higher-Risk Buildings Procedures) (England) Regulations 2023 — �
 <div class="pair" markdown>
 <div class="orig" markdown>
 
-*en · Building Regulations 2010, reg. 17(2):* <small class="actual">актуально на момент публикации 07.10.26</small> (2) The specified period referred to in paragraph (1) is eight weeks starting from the date that notice is received by the relevant authority in accordance with regulation 16(4)
+*en · Building Regulations 2010, reg. 17(2):* <small class="actual">актуально на момент публикации 08.10.26</small> (2) The specified period referred to in paragraph (1) is eight weeks starting from the date that notice is received by the relevant authority in accordance with regulation 16(4)
 
 </div>
 <div class="ru" markdown>
@@ -284,7 +284,7 @@ The Building (Higher-Risk Buildings Procedures) (England) Regulations 2023 — �
 <div class="pair" markdown>
 <div class="orig" markdown>
 
-*en · Planning Order 2015, Schedule 4, прим. F9 (Gateway 1):* <small class="actual">актуально на момент публикации 07.10.26</small> Sch. 4 para. (zg): the words “the Building Safety Regulator” are substituted for “the Health and Safety Executive” (27.1.2026) by The Building Safety Regulator (Establishment of New Body and Transfer of Functions etc.) Regulations 2026 (S.I. 2026/20) , reg. 1(2) , Sch. 2 para. 18 (with reg. 5 )
+*en · Planning Order 2015, Schedule 4, прим. F9 (Gateway 1):* <small class="actual">актуально на момент публикации 08.10.26</small> Sch. 4 para. (zg): the words “the Building Safety Regulator” are substituted for “the Health and Safety Executive” (27.1.2026) by The Building Safety Regulator (Establishment of New Body and Transfer of Functions etc.) Regulations 2026 (S.I. 2026/20) , reg. 1(2) , Sch. 2 para. 18 (with reg. 5 )
 
 </div>
 <div class="ru" markdown>
@@ -303,7 +303,7 @@ The Building (Higher-Risk Buildings Procedures) (England) Regulations 2023 — �
 <div class="pair" markdown>
 <div class="orig" markdown>
 
-*en · Building Regulations 2010, reg. 11A(1)–(2):* <small class="actual">актуально на момент публикации 07.10.26</small> 11A. — (1) A client must make suitable arrangements for planning, managing and monitoring a project (including allocation of sufficient time and other resources) so as to ensure compliance with all relevant requirements. (2) Arrangements under paragraph (1) are suitable if— (a) they ensure that the design work is carried out so that the building work to which the design relates, if built, would be in compliance with all relevant requirements; (b) they ensure the building work is carried out in accordance with all relevant requirements; (c) they enable the designers and contractors to cooperate with each other to ensure compliance with all relevant requirements; and (d) they provide for periodic review of the building work (and the design work) included or to be included in the project so as to identify whether it is higher-risk building work.
+*en · Building Regulations 2010, reg. 11A(1)–(2):* <small class="actual">актуально на момент публикации 08.10.26</small> 11A. — (1) A client must make suitable arrangements for planning, managing and monitoring a project (including allocation of sufficient time and other resources) so as to ensure compliance with all relevant requirements. (2) Arrangements under paragraph (1) are suitable if— (a) they ensure that the design work is carried out so that the building work to which the design relates, if built, would be in compliance with all relevant requirements; (b) they ensure the building work is carried out in accordance with all relevant requirements; (c) they enable the designers and contractors to cooperate with each other to ensure compliance with all relevant requirements; and (d) they provide for periodic review of the building work (and the design work) included or to be included in the project so as to identify whether it is higher-risk building work.
 
 </div>
 <div class="ru" markdown>
@@ -316,7 +316,7 @@ The Building (Higher-Risk Buildings Procedures) (England) Regulations 2023 — �
 <div class="pair" markdown>
 <div class="orig" markdown>
 
-*en · Building Regulations 2010, reg. 11E(2):* <small class="actual">актуально на момент публикации 07.10.26</small> (2) Before permitting A to carry out any work— (a) P must take all reasonable steps to satisfy themself that A— (i) fulfils the requirements in regulation 11F(1) and (2) (competence: general requirement), or (ii) is an individual who is in training to fulfil the requirements in regulation 11F(1) and (2) and arrangements have been put in place to supervise A, and (b) where the work relates to a higher-risk building, P must— (i) ask A whether a serious sanction has occurred, in relation to them, within the 5 years ending on the date of the appointment; and (ii) consider any information available to P relating to any misconduct of A (including any serious sanction).
+*en · Building Regulations 2010, reg. 11E(2):* <small class="actual">актуально на момент публикации 08.10.26</small> (2) Before permitting A to carry out any work— (a) P must take all reasonable steps to satisfy themself that A— (i) fulfils the requirements in regulation 11F(1) and (2) (competence: general requirement), or (ii) is an individual who is in training to fulfil the requirements in regulation 11F(1) and (2) and arrangements have been put in place to supervise A, and (b) where the work relates to a higher-risk building, P must— (i) ask A whether a serious sanction has occurred, in relation to them, within the 5 years ending on the date of the appointment; and (ii) consider any information available to P relating to any misconduct of A (including any serious sanction).
 
 </div>
 <div class="ru" markdown>
@@ -329,7 +329,7 @@ The Building (Higher-Risk Buildings Procedures) (England) Regulations 2023 — �
 <div class="pair" markdown>
 <div class="orig" markdown>
 
-*en · Building Regulations 2010, reg. 11F(1):* <small class="actual">актуально на момент публикации 07.10.26</small> 11F. — (1) Any person carrying out any building work or any design work must have— (a) where the person is an individual, the skills, knowledge, experience and behaviours necessary, (b) where the person is not an individual, the organisational capability, to carry out— (i) the building work in accordance with all relevant requirements; (ii) the design work so that the building work to which the design relates, if built, would be in accordance with all relevant requirements.
+*en · Building Regulations 2010, reg. 11F(1):* <small class="actual">актуально на момент публикации 08.10.26</small> 11F. — (1) Any person carrying out any building work or any design work must have— (a) where the person is an individual, the skills, knowledge, experience and behaviours necessary, (b) where the person is not an individual, the organisational capability, to carry out— (i) the building work in accordance with all relevant requirements; (ii) the design work so that the building work to which the design relates, if built, would be in accordance with all relevant requirements.
 
 </div>
 <div class="ru" markdown>
@@ -348,7 +348,7 @@ The Building (Higher-Risk Buildings Procedures) (England) Regulations 2023 — �
 <div class="pair" markdown>
 <div class="orig" markdown>
 
-*en · Approved Document B Vol 2 (2006), п. 8.14:* <small class="actual">актуально на момент публикации 07.10.26</small> 8.14 Blocks of flats with a floor more than 30m above ground level should be fitted with a sprinkler system in accordance paragraph 0.16. Note: Sprinklers need only be provided within the individual flats, they are not required in the common areas such as stairs, corridors or landings. For the purposes of this paragraph the limit on the scope of BS 9251:2005 to buildings below 20m in height can be ignored.
+*en · Approved Document B Vol 2 (2006), п. 8.14:* <small class="actual">актуально на момент публикации 08.10.26</small> 8.14 Blocks of flats with a floor more than 30m above ground level should be fitted with a sprinkler system in accordance paragraph 0.16. Note: Sprinklers need only be provided within the individual flats, they are not required in the common areas such as stairs, corridors or landings. For the purposes of this paragraph the limit on the scope of BS 9251:2005 to buildings below 20m in height can be ignored.
 
 </div>
 <div class="ru" markdown>
@@ -361,7 +361,7 @@ The Building (Higher-Risk Buildings Procedures) (England) Regulations 2023 — �
 <div class="pair" markdown>
 <div class="orig" markdown>
 
-*en · Approved Document B Vol 1 (2019, с поправками), п. 7.4:* <small class="actual">актуально на момент публикации 07.10.26</small> Blocks of flats with a top storey more than 11m above ground level (see Diagram D6) should be fitted with a sprinkler system throughout the building in accordance with Appendix E.
+*en · Approved Document B Vol 1 (2019, с поправками), п. 7.4:* <small class="actual">актуально на момент публикации 08.10.26</small> Blocks of flats with a top storey more than 11m above ground level (see Diagram D6) should be fitted with a sprinkler system throughout the building in accordance with Appendix E.
 
 </div>
 <div class="ru" markdown>

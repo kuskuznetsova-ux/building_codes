@@ -1,4 +1,4 @@
-# 2.15.3 Длина путей эвакуации в высотных зданиях
+# 2.16.3 Длина путей эвакуации в высотных зданиях
 
 [← К матрице](index.md) · Предельные расстояния от двери помещения до лестницы.
 
@@ -10,7 +10,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *ru · СП 477.1325800.2020, п. 8.10:* <small class="actual">актуально на момент публикации 07.10.26</small> 8.10 Расстояние по путям эвакуации от дверей помещений до дверей незадымляемой лестничной клетки типа Н2, тамбура-шлюза перед незадымляемой лестничной клеткой типа Н3 или Н2 следует принимать, м, не более: 15 - в жилых секциях для квартир, расположенных в тупиковых коридорах, на высоте более 75 м; 18 - в тупиковых коридорах; 20 - для помещений с массовым пребыванием людей, расположенных на высоте более 50 м, а также для помещений, рассчитанных на одновременное пребывание более 500 чел.; 25 - в других случаях.
+    *ru · СП 477.1325800.2020, п. 8.10:* <small class="actual">актуально на момент публикации 08.10.26</small> 8.10 Расстояние по путям эвакуации от дверей помещений до дверей незадымляемой лестничной клетки типа Н2, тамбура-шлюза перед незадымляемой лестничной клеткой типа Н3 или Н2 следует принимать, м, не более: 15 - в жилых секциях для квартир, расположенных в тупиковых коридорах, на высоте более 75 м; 18 - в тупиковых коридорах; 20 - для помещений с массовым пребыванием людей, расположенных на высоте более 50 м, а также для помещений, рассчитанных на одновременное пребывание более 500 чел.; 25 - в других случаях.
 
     </div>
     <div class="ru" markdown>
@@ -23,7 +23,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *ru · СП 477.1325800.2020, п. 8.8:* <small class="actual">актуально на момент публикации 07.10.26</small> 8.8 Коридоры следует разделять перегородками с пределом огнестойкости не ниже EI 45 с заполнением проемов противопожарными дверями не ниже 2-го типа на отсеки длиной, м, не более: - 60 - в общем случае; - 30 - в жилых зданиях, гостиницах, апартамент-отелях.
+    *ru · СП 477.1325800.2020, п. 8.8:* <small class="actual">актуально на момент публикации 08.10.26</small> 8.8 Коридоры следует разделять перегородками с пределом огнестойкости не ниже EI 45 с заполнением проемов противопожарными дверями не ниже 2-го типа на отсеки длиной, м, не более: - 60 - в общем случае; - 30 - в жилых зданиях, гостиницах, апартамент-отелях.
 
     </div>
     <div class="ru" markdown>
@@ -42,7 +42,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *sr · Pravilnik 80/2015, čl. 35:* <small class="actual">актуально на момент публикации 07.10.26</small> Najduži evakuacioni put od prvog izlaza iz prostorije do sigurnosnog stepeništa, kroz hodnik sa mogućnošću evakuacije na dve strane, za objekte visine do 75 m ne sme biti duži od 30 m, a za objekte više od 75 m ne sme biti duži 20 m. Izuzetno od stava 1. ovog člana, najduži put od prvog izlaza iz prostorije do sigurnosnog stepeništa, kroz slepi hodnik za objekte visine do 75 m, ne sme biti duži od 15 m, a za objekte više od 75 m ne sme biti duži 10 m
+    *sr · Pravilnik 80/2015, čl. 35:* <small class="actual">актуально на момент публикации 08.10.26</small> Najduži evakuacioni put od prvog izlaza iz prostorije do sigurnosnog stepeništa, kroz hodnik sa mogućnošću evakuacije na dve strane, za objekte visine do 75 m ne sme biti duži od 30 m, a za objekte više od 75 m ne sme biti duži 20 m. Izuzetno od stava 1. ovog člana, najduži put od prvog izlaza iz prostorije do sigurnosnog stepeništa, kroz slepi hodnik za objekte visine do 75 m, ne sme biti duži od 15 m, a za objekte više od 75 m ne sme biti duži 10 m
 
     </div>
     <div class="ru" markdown>
@@ -80,7 +80,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *en · Approved Document B Vol 1, табл. 3.1:* <small class="actual">актуально на момент публикации 07.10.26</small>
+    *en · Approved Document B Vol 1, табл. 3.1:* <small class="actual">актуально на момент публикации 08.10.26</small>
 
     | Maximum travel distance from flat entrance door to storey exit or stair lobby | |
     |---|---|

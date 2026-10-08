@@ -10,7 +10,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *ru · СП 4.13130.2013, п. 4.3:* <small class="actual">актуально на момент публикации 07.10.26</small> 4.3 Минимальные противопожарные расстояния (разрывы) между жилыми, общественными (в том числе административными, бытовыми) зданиями и сооружениями следует принимать в соответствии с таблицей 1 и с учетом пунктов 4.4-4.13.
+    *ru · СП 4.13130.2013, п. 4.3:* <small class="actual">актуально на момент публикации 08.10.26</small> 4.3 Минимальные противопожарные расстояния (разрывы) между жилыми, общественными (в том числе административными, бытовыми) зданиями и сооружениями следует принимать в соответствии с таблицей 1 и с учетом пунктов 4.4-4.13.
 
     </div>
     <div class="ru" markdown>
@@ -23,7 +23,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *ru · СП 4.13130.2013, табл. 1:* <small class="actual">актуально на момент публикации 07.10.26</small>
+    *ru · СП 4.13130.2013, табл. 1:* <small class="actual">актуально на момент публикации 08.10.26</small>
 
     | Здания (жилые и общественные) | I, II, III / С0 | II, III / С1 | IV / С0, С1 | IV, V / С2, С3 |
     |---|---|---|---|---|
@@ -43,7 +43,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *ru · СП 4.13130.2013, п. 4.5:* <small class="actual">актуально на момент публикации 07.10.26</small> 4.5 Противопожарные расстояния от глухих (без оконных проемов) стен жилых и общественных зданий, сооружений I-IV степеней огнестойкости, класса конструктивной пожарной опасности СО и С1, с наружной отделкой, облицовкой (при наличии) из материалов с показателями пожарной опасности не ниже Г1 и наружным (водоизоляционным) слоем кровли из материалов не ниже Г1 или РП1 до других зданий, сооружений допускается уменьшать на 20% по отношению к значениям, указанным в таблице 1.
+    *ru · СП 4.13130.2013, п. 4.5:* <small class="actual">актуально на момент публикации 08.10.26</small> 4.5 Противопожарные расстояния от глухих (без оконных проемов) стен жилых и общественных зданий, сооружений I-IV степеней огнестойкости, класса конструктивной пожарной опасности СО и С1, с наружной отделкой, облицовкой (при наличии) из материалов с показателями пожарной опасности не ниже Г1 и наружным (водоизоляционным) слоем кровли из материалов не ниже Г1 или РП1 до других зданий, сооружений допускается уменьшать на 20% по отношению к значениям, указанным в таблице 1.
 
     </div>
     <div class="ru" markdown>
@@ -56,7 +56,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *ru · СП 4.13130.2013, п. 4.6:* <small class="actual">актуально на момент публикации 07.10.26</small> 4.6 Противопожарные расстояния между зданиями, сооружениями I и II степеней огнестойкости класса конструктивной пожарной опасности С0 допускается уменьшать на 50% при оборудовании каждого из зданий и сооружений автоматическими установками пожаротушения.
+    *ru · СП 4.13130.2013, п. 4.6:* <small class="actual">актуально на момент публикации 08.10.26</small> 4.6 Противопожарные расстояния между зданиями, сооружениями I и II степеней огнестойкости класса конструктивной пожарной опасности С0 допускается уменьшать на 50% при оборудовании каждого из зданий и сооружений автоматическими установками пожаротушения.
 
     </div>
     <div class="ru" markdown>
@@ -75,7 +75,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *sr · Pravilnik 22/2019, čl. 19 (т. 5):* <small class="actual">актуально на момент публикации 07.10.26</small> 5) kod objekata u nizu koji su na rastojanju manjem od 1 m naspramni zidovi treba da budu bez prozora ili izuzetno sa malim otvorima (do 0,6 m2) za sanitarne prostorije i ostave.
+    *sr · Pravilnik 22/2019, čl. 19 (т. 5):* <small class="actual">актуально на момент публикации 08.10.26</small> 5) kod objekata u nizu koji su na rastojanju manjem od 1 m naspramni zidovi treba da budu bez prozora ili izuzetno sa malim otvorima (do 0,6 m2) za sanitarne prostorije i ostave.
 
     </div>
     <div class="ru" markdown>
@@ -88,7 +88,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *sr · Pravilnik 22/2019, čl. 20 (т. 1):* <small class="actual">актуально на момент публикации 07.10.26</small> 1) objekti veće dužine ili prislonjeni objekti u nizu izdvajaju se požarno na dužini od najviše 50 m zidovima otpornim prema požaru, rebrima na fasadi i krovu koji izlaze iz gabarita objekta najmanje 0,5 m ili primenom drugih tehničkih rešenja tako da se spreči širenje požara;
+    *sr · Pravilnik 22/2019, čl. 20 (т. 1):* <small class="actual">актуально на момент публикации 08.10.26</small> 1) objekti veće dužine ili prislonjeni objekti u nizu izdvajaju se požarno na dužini od najviše 50 m zidovima otpornim prema požaru, rebrima na fasadi i krovu koji izlaze iz gabarita objekta najmanje 0,5 m ili primenom drugih tehničkih rešenja tako da se spreči širenje požara;
 
     </div>
     <div class="ru" markdown>
@@ -122,7 +122,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *en · CPR 305/2011, прил. I, п. 2(c):* <small class="actual">актуально на момент публикации 07.10.26</small> (c) the spread of fire to neighbouring construction works is limited;
+    *en · CPR 305/2011, прил. I, п. 2(c):* <small class="actual">актуально на момент публикации 08.10.26</small> (c) the spread of fire to neighbouring construction works is limited;
 
     </div>
     <div class="ru" markdown>
@@ -137,7 +137,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *fr · Arrêté 1986, ст. 13:* <small class="actual">актуально на момент публикации 07.10.26</small> Art. 13. Dans les habitations de troisième et quatrième familles, si P est la distance minimale comprise entre les plans des vitrages des immeubles en vis-à-vis ou entre le plan des vitrages d'un immeuble et la limite de propriété et H la hauteur la plus élevée de ces deux immeubles, les parements extérieurs des façades des étages (menuiseries, coffrets de branchements, remplissage de garde-corps et fermetures exclus) doivent être classés en catégorie M. 2 au moins si P/H est inférieur à 0,8. Dans le cas contraire, ils peuvent être classés en catégorie M. 3 au moins.
+    *fr · Arrêté 1986, ст. 13:* <small class="actual">актуально на момент публикации 08.10.26</small> Art. 13. Dans les habitations de troisième et quatrième familles, si P est la distance minimale comprise entre les plans des vitrages des immeubles en vis-à-vis ou entre le plan des vitrages d'un immeuble et la limite de propriété et H la hauteur la plus élevée de ces deux immeubles, les parements extérieurs des façades des étages (menuiseries, coffrets de branchements, remplissage de garde-corps et fermetures exclus) doivent être classés en catégorie M. 2 au moins si P/H est inférieur à 0,8. Dans le cas contraire, ils peuvent être classés en catégorie M. 3 au moins.
 
     </div>
     <div class="ru" markdown>
@@ -152,7 +152,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *de · OIB-RL 2, п. 3.1.8:* <small class="actual">актуально на момент публикации 07.10.26</small> 3.1.8 Türen, Tore, Fenster und sonstige Öffnungen in Außenwänden, die an brandabschnittsbildende Wände anschließen, müssen von der Mitte der brandabschnittsbildenden Wand – falls die horizontale Brandübertragung nicht durch gleichwertige Maßnahmen begrenzt werden kann – einen Abstand von mindestens 50 cm haben. Der Abstand solcher Öffnungen voneinander muss bei Gebäuden, deren Außenwände an der brandabschnittsbildenden Wand einen Winkel von weniger als 135 Grad bilden, mindestens 3,00 m betragen.
+    *de · OIB-RL 2, п. 3.1.8:* <small class="actual">актуально на момент публикации 08.10.26</small> 3.1.8 Türen, Tore, Fenster und sonstige Öffnungen in Außenwänden, die an brandabschnittsbildende Wände anschließen, müssen von der Mitte der brandabschnittsbildenden Wand – falls die horizontale Brandübertragung nicht durch gleichwertige Maßnahmen begrenzt werden kann – einen Abstand von mindestens 50 cm haben. Der Abstand solcher Öffnungen voneinander muss bei Gebäuden, deren Außenwände an der brandabschnittsbildenden Wand einen Winkel von weniger als 135 Grad bilden, mindestens 3,00 m betragen.
 
     </div>
     <div class="ru" markdown>
@@ -167,7 +167,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *es · CTE DB-SI, SI 2, п. 1.2:* <small class="actual">актуально на момент публикации 07.10.26</small> 2 Con el fin de limitar el riesgo de propagación exterior horizontal del incendio a través de la fachada entre dos sectores de incendio, entre una zona de riesgo especial alto y otras zonas o hacia una escalera protegida o pasillo protegido desde otras zonas, los puntos de sus fachadas que no sean al menos EI 60 deben estar separados la distancia d en proyección horizontal que se indica a continuación, como mínimo, en función del ángulo α formado por los planos exteriores de dichas fachadas. Para valores intermedios del ángulo α, la distancia d puede obtenerse por interpolación lineal. Cuando se trate de edificios diferentes y colindantes, los puntos de la fachada del edificio considerado que no sean al menos EI 60 cumplirán el 50% de la distancia d hasta la bisectriz del ángulo formado por ambas fachadas. (1) α 0º(1) 45º 60º 90º 135º 180º d (m) 3,00 2,75 2,50 2,00 1,25 0,50
+    *es · CTE DB-SI, SI 2, п. 1.2:* <small class="actual">актуально на момент публикации 08.10.26</small> 2 Con el fin de limitar el riesgo de propagación exterior horizontal del incendio a través de la fachada entre dos sectores de incendio, entre una zona de riesgo especial alto y otras zonas o hacia una escalera protegida o pasillo protegido desde otras zonas, los puntos de sus fachadas que no sean al menos EI 60 deben estar separados la distancia d en proyección horizontal que se indica a continuación, como mínimo, en función del ángulo α formado por los planos exteriores de dichas fachadas. Para valores intermedios del ángulo α, la distancia d puede obtenerse por interpolación lineal. Cuando se trate de edificios diferentes y colindantes, los puntos de la fachada del edificio considerado que no sean al menos EI 60 cumplirán el 50% de la distancia d hasta la bisectriz del ángulo formado por ambas fachadas. (1) α 0º(1) 45º 60º 90º 135º 180º d (m) 3,00 2,75 2,50 2,00 1,25 0,50
 
     </div>
     <div class="ru" markdown>
@@ -182,7 +182,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *en · Approved Document B Vol 1, п. 11.21:* <small class="actual">актуально на момент публикации 07.10.26</small> If a building is fitted throughout with a sprinkler system in accordance with Appendix E, either of the following is permitted. a. The boundary distance can be halved, to a minimum distance of 1m. b. The amount of unprotected area can be doubled.
+    *en · Approved Document B Vol 1, п. 11.21:* <small class="actual">актуально на момент публикации 08.10.26</small> If a building is fitted throughout with a sprinkler system in accordance with Appendix E, either of the following is permitted. a. The boundary distance can be halved, to a minimum distance of 1m. b. The amount of unprotected area can be doubled.
 
     </div>
     <div class="ru" markdown>
@@ -195,7 +195,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *en · Approved Document B Vol 1, табл. 11.1:* <small class="actual">актуально на момент публикации 07.10.26</small>
+    *en · Approved Document B Vol 1, табл. 11.1:* <small class="actual">актуально на момент публикации 08.10.26</small>
 
     | Min distance between side of building and relevant boundary (m) | Max. total unprotected area (%) |
     |---|---|
@@ -226,7 +226,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *en · Approved Document B Vol 2, табл. 13.1 (прочие здания):* <small class="actual">актуально на момент публикации 07.10.26</small>
+    *en · Approved Document B Vol 2, табл. 13.1 (прочие здания):* <small class="actual">актуально на момент публикации 08.10.26</small>
 
     | Distance to relevant boundary, m | Residential, office, assembly and recreation: max % unprotected | Shop, commercial, industrial, storage: max % unprotected |
     |---|---|---|

@@ -10,7 +10,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *ru · СП 42.13330.2026, п. 6.4.21–6.4.22:* <small class="actual">актуально на момент публикации 07.10.26</small> 6.4.21 Расстояния между сторонами отдельно стоящих зданий многоквартирной жилой застройки (среднеэтажных, многоэтажных и высотных) определяют с учетом соблюдения норм инсоляции, освещенности. 6.4.22 Расстояния от стен многоквартирных жилых домов до других зданий, строений, сооружений следует определять в соответствии с требованиями [35] , в сейсмических районах - с учетом СП 14.13330 , а также положений [17] , [18] , с учетом характеристик климатических районов строительства согласно СП 131.13330 .
+    *ru · СП 42.13330.2026, п. 6.4.21–6.4.22:* <small class="actual">актуально на момент публикации 08.10.26</small> 6.4.21 Расстояния между сторонами отдельно стоящих зданий многоквартирной жилой застройки (среднеэтажных, многоэтажных и высотных) определяют с учетом соблюдения норм инсоляции, освещенности. 6.4.22 Расстояния от стен многоквартирных жилых домов до других зданий, строений, сооружений следует определять в соответствии с требованиями [35] , в сейсмических районах - с учетом СП 14.13330 , а также положений [17] , [18] , с учетом характеристик климатических районов строительства согласно СП 131.13330 .
 
     </div>
     <div class="ru" markdown>
@@ -23,7 +23,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *ru · СП 42.13330.2026, п. 6.4.23:* <small class="actual">актуально на момент публикации 07.10.26</small> 6.4.23 Между длинными сторонами отдельно стоящих зданий следует принимать расстояния (бытовые разрывы): для объектов малоэтажной двух-трехэтажной жилой застройки - не менее 15 м, для объектов малоэтажной многоквартирной четырехэтажной жилой застройки - не менее 20 м, между длинными сторонами одного здания относительно торцевой стороны другого - не менее 10 м с учетом соблюдения требований по инсоляции и освещенности. В стесненных условиях застройки расстояния допускается сокращать при соблюдении требований по инсоляции и освещенности при условии непросматриваемости жилых помещений из окна в окно.
+    *ru · СП 42.13330.2026, п. 6.4.23:* <small class="actual">актуально на момент публикации 08.10.26</small> 6.4.23 Между длинными сторонами отдельно стоящих зданий следует принимать расстояния (бытовые разрывы): для объектов малоэтажной двух-трехэтажной жилой застройки - не менее 15 м, для объектов малоэтажной многоквартирной четырехэтажной жилой застройки - не менее 20 м, между длинными сторонами одного здания относительно торцевой стороны другого - не менее 10 м с учетом соблюдения требований по инсоляции и освещенности. В стесненных условиях застройки расстояния допускается сокращать при соблюдении требований по инсоляции и освещенности при условии непросматриваемости жилых помещений из окна в окно.
 
     </div>
     <div class="ru" markdown>
@@ -42,7 +42,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *sr · Pravilnik 22/2015, čl. 55 (ст. 1–2):* <small class="actual">актуально на момент публикации 07.10.26</small> Međusobna udaljenost slobodnostojećih višespratnica i objekata koji se grade u prekinutom nizu, iznosi po pravilu najmanje polovinu visine višeg objekta, tako što se obezbeđuje udaljenost novog objekta od granice susedne građevinske parcele. Udaljenost se može smanjiti na četvrtinu, ako objekti na naspramnim bočnim fasadama ne sadrže naspramne otvore na prostorijama za stanovanje (kao i ateljeima i poslovnim prostorijama).
+    *sr · Pravilnik 22/2015, čl. 55 (ст. 1–2):* <small class="actual">актуально на момент публикации 08.10.26</small> Međusobna udaljenost slobodnostojećih višespratnica i objekata koji se grade u prekinutom nizu, iznosi po pravilu najmanje polovinu visine višeg objekta, tako što se obezbeđuje udaljenost novog objekta od granice susedne građevinske parcele. Udaljenost se može smanjiti na četvrtinu, ako objekti na naspramnim bočnim fasadama ne sadrže naspramne otvore na prostorijama za stanovanje (kao i ateljeima i poslovnim prostorijama).
 
     </div>
     <div class="ru" markdown>
@@ -55,7 +55,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *sr · Pravilnik 22/2015, čl. 55 (ст. 3–5):* <small class="actual">актуально на момент публикации 07.10.26</small> Udaljenost planiranih od okolnih objekata, osim objekata u nizu, po pravilu je 5,0 m. a minimum 4,00 m, ako jedan od zidova objekta sadrži otvore za dnevno osvetljenje. Za izgrađene objekte koji su međusobno udaljeni manje od 4,00 m ne mogu se na susednim stranama predviđati naspramni otvori stambenih prostorija. Višespratni slobodnostojeći objekat ne može zaklanjati direktno osunčanje drugom objektu više od polovine trajanja direktnog osunčanja.
+    *sr · Pravilnik 22/2015, čl. 55 (ст. 3–5):* <small class="actual">актуально на момент публикации 08.10.26</small> Udaljenost planiranih od okolnih objekata, osim objekata u nizu, po pravilu je 5,0 m. a minimum 4,00 m, ako jedan od zidova objekta sadrži otvore za dnevno osvetljenje. Za izgrađene objekte koji su međusobno udaljeni manje od 4,00 m ne mogu se na susednim stranama predviđati naspramni otvori stambenih prostorija. Višespratni slobodnostojeći objekat ne može zaklanjati direktno osunčanje drugom objektu više od polovine trajanja direktnog osunčanja.
 
     </div>
     <div class="ru" markdown>
@@ -68,7 +68,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *sr · Pravilnik 22/2015, čl. 56 и 59:* <small class="actual">актуально на момент публикации 07.10.26</small> Najmanje dozvoljeno rastojanje objekta i linije susedne građevinske parcele, kojom se obezbeđuje međusobna udaljenost objekata, je 2,5 m. … Međusobna udaljenost novih i okolnih objekata, osim objekata u nizu, je 5,0 m, tako što se obezbeđuje udaljenost novog objekta od granice susedne parcele.
+    *sr · Pravilnik 22/2015, čl. 56 и 59:* <small class="actual">актуально на момент публикации 08.10.26</small> Najmanje dozvoljeno rastojanje objekta i linije susedne građevinske parcele, kojom se obezbeđuje međusobna udaljenost objekata, je 2,5 m. … Međusobna udaljenost novih i okolnih objekata, osim objekata u nizu, je 5,0 m, tako što se obezbeđuje udaljenost novog objekta od granice susedne parcele.
 
     </div>
     <div class="ru" markdown>
@@ -104,7 +104,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *de · MBO § 6 Abs. 1 Satz 1:* <small class="actual">актуально на момент публикации 07.10.26</small> Vor den Außenwänden von Gebäuden sind Abstandsflächen von oberirdischen Gebäuden freizuhalten.
+    *de · MBO § 6 Abs. 1 Satz 1:* <small class="actual">актуально на момент публикации 08.10.26</small> Vor den Außenwänden von Gebäuden sind Abstandsflächen von oberirdischen Gebäuden freizuhalten.
 
     </div>
     <div class="ru" markdown>
@@ -117,7 +117,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *de · MBO § 6 Abs. 4 Satz 1:* <small class="actual">актуально на момент публикации 07.10.26</small> Die Tiefe der Abstandsfläche bemisst sich nach der Wandhöhe; sie wird senkrecht zur Wand gemessen.
+    *de · MBO § 6 Abs. 4 Satz 1:* <small class="actual">актуально на момент публикации 08.10.26</small> Die Tiefe der Abstandsfläche bemisst sich nach der Wandhöhe; sie wird senkrecht zur Wand gemessen.
 
     </div>
     <div class="ru" markdown>
@@ -130,7 +130,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *de · MBO § 6 Abs. 5 Satz 1:* <small class="actual">актуально на момент публикации 07.10.26</small> Die Tiefe der Abstandsflächen beträgt 0,4 H, mindestens 3 m.
+    *de · MBO § 6 Abs. 5 Satz 1:* <small class="actual">актуально на момент публикации 08.10.26</small> Die Tiefe der Abstandsflächen beträgt 0,4 H, mindestens 3 m.
 
     </div>
     <div class="ru" markdown>

@@ -10,7 +10,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *ru · СП 1.13130.2020, п. 6.1.1:* <small class="actual">актуально на момент публикации 07.10.26</small> 6.1.1. Не менее двух эвакуационных выходов, как правило, должны иметь этажи здания при общей площади квартир на этаже (на этаже секции) более 500 м2. При наличии одного эвакуационного выхода с этажа каждая квартира, расположенная на высоте более 15 м, кроме эвакуационного, должна иметь аварийный выход в соответствии с пунктом 4.2.4.
+    *ru · СП 1.13130.2020, п. 6.1.1:* <small class="actual">актуально на момент публикации 08.10.26</small> 6.1.1. Не менее двух эвакуационных выходов, как правило, должны иметь этажи здания при общей площади квартир на этаже (на этаже секции) более 500 м2. При наличии одного эвакуационного выхода с этажа каждая квартира, расположенная на высоте более 15 м, кроме эвакуационного, должна иметь аварийный выход в соответствии с пунктом 4.2.4.
 
     </div>
     <div class="ru" markdown>
@@ -23,7 +23,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *ru · СП 1.13130.2020, п. 6.1.1 (продолжение):* <small class="actual">актуально на момент публикации 07.10.26</small> Допускается в жилых зданиях с общей площадью квартир на этаже (этаже секции) от 500 до 550 м2 устройство одного эвакуационного выхода с этажа: при высоте расположения верхнего этажа не более 28 м - в обычную лестничную клетку, при условии оборудования прихожих в квартирах датчиками адресной пожарной сигнализации; при высоте расположения верхнего этажа более 28 м - в одну незадымляемую лестничную клетку типа Н1 при условии оборудования всех помещений квартир (кроме санузлов, ванных комнат, душевых и построчных) датчиками адресной пожарной сигнализации или автоматическим пожаротушением.
+    *ru · СП 1.13130.2020, п. 6.1.1 (продолжение):* <small class="actual">актуально на момент публикации 08.10.26</small> Допускается в жилых зданиях с общей площадью квартир на этаже (этаже секции) от 500 до 550 м2 устройство одного эвакуационного выхода с этажа: при высоте расположения верхнего этажа не более 28 м - в обычную лестничную клетку, при условии оборудования прихожих в квартирах датчиками адресной пожарной сигнализации; при высоте расположения верхнего этажа более 28 м - в одну незадымляемую лестничную клетку типа Н1 при условии оборудования всех помещений квартир (кроме санузлов, ванных комнат, душевых и построчных) датчиками адресной пожарной сигнализации или автоматическим пожаротушением.
 
     </div>
     <div class="ru" markdown>
@@ -42,7 +42,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *sr · Pravilnik 22/2019, čl. 13:* <small class="actual">актуально на момент публикации 07.10.26</small> Svaki požarni sektor stambenog, poslovnog i javnog objekta mora biti dostupan preko najmanje jednog stepeništa.
+    *sr · Pravilnik 22/2019, čl. 13:* <small class="actual">актуально на момент публикации 08.10.26</small> Svaki požarni sektor stambenog, poslovnog i javnog objekta mora biti dostupan preko najmanje jednog stepeništa.
 
     </div>
     <div class="ru" markdown>
@@ -55,7 +55,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *sr · Pravilnik 22/2019, čl. 31 (этажные выходы):* <small class="actual">актуально на момент публикации 07.10.26</small> etaža na kojoj boravi do 500 lica mora imati najmanje jedan izlaz; 2) etaža na kojoj boravi od 501 do 1500 lica mora imati najmanje dva izlaza;
+    *sr · Pravilnik 22/2019, čl. 31 (этажные выходы):* <small class="actual">актуально на момент публикации 08.10.26</small> etaža na kojoj boravi do 500 lica mora imati najmanje jedan izlaz; 2) etaža na kojoj boravi od 501 do 1500 lica mora imati najmanje dva izlaza;
 
     </div>
     <div class="ru" markdown>
@@ -68,7 +68,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *sr · Pravilnik 80/2015 (высокие здания), čl. 33:* <small class="actual">актуально на момент публикации 07.10.26</small> Svaki požarni sektor objekta mora biti dostupan preko najmanje jednog sigurnosnog stepeništa, a za objekte čija je visina preko 40 m, preko dva sigurnosna stepeništa koja vode direktno do nivoa prizemlja, odnosno do krajnjeg izlaza iz objekta. Za objekte visine od 40 m do 75 m jedno od dva sigurnosna stepeništa mora ispunjavati uslove za potrebe intervencije gašenja požara i spasavanja.
+    *sr · Pravilnik 80/2015 (высокие здания), čl. 33:* <small class="actual">актуально на момент публикации 08.10.26</small> Svaki požarni sektor objekta mora biti dostupan preko najmanje jednog sigurnosnog stepeništa, a za objekte čija je visina preko 40 m, preko dva sigurnosna stepeništa koja vode direktno do nivoa prizemlja, odnosno do krajnjeg izlaza iz objekta. Za objekte visine od 40 m do 75 m jedno od dva sigurnosna stepeništa mora ispunjavati uslove za potrebe intervencije gašenja požara i spasavanja.
 
     </div>
     <div class="ru" markdown>
@@ -105,7 +105,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *en · CPR 305/2011, прил. I, п. 2:* <small class="actual">актуально на момент публикации 07.10.26</small> The construction works must be designed and built in such a way that in the event of an outbreak of fire: (a) the load-bearing capacity of the construction can be assumed for a specific period of time; (b) the generation and spread of fire and smoke within the construction works are limited; (c) the spread of fire to neighbouring construction works is limited; (d) occupants can leave the construction works or be rescued by other means; (e) the safety of rescue teams is taken into consideration.
+    *en · CPR 305/2011, прил. I, п. 2:* <small class="actual">актуально на момент публикации 08.10.26</small> The construction works must be designed and built in such a way that in the event of an outbreak of fire: (a) the load-bearing capacity of the construction can be assumed for a specific period of time; (b) the generation and spread of fire and smoke within the construction works are limited; (c) the spread of fire to neighbouring construction works is limited; (d) occupants can leave the construction works or be rescued by other means; (e) the safety of rescue teams is taken into consideration.
 
     </div>
     <div class="ru" markdown>
@@ -120,7 +120,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *de · MBO § 33 Abs. 1:* <small class="actual">актуально на момент публикации 07.10.26</small> Für Nutzungseinheiten mit mindestens einem Aufenthaltsraum wie Wohnungen, Praxen, selbstständige Betriebsstätten müssen in jedem Geschoss mindestens zwei voneinander unabhängige Rettungswege ins Freie vorhanden sein; beide Rettungswege dürfen jedoch innerhalb des Geschosses über denselben notwendigen Flur führen.
+    *de · MBO § 33 Abs. 1:* <small class="actual">актуально на момент публикации 08.10.26</small> Für Nutzungseinheiten mit mindestens einem Aufenthaltsraum wie Wohnungen, Praxen, selbstständige Betriebsstätten müssen in jedem Geschoss mindestens zwei voneinander unabhängige Rettungswege ins Freie vorhanden sein; beide Rettungswege dürfen jedoch innerhalb des Geschosses über denselben notwendigen Flur führen.
 
     </div>
     <div class="ru" markdown>
@@ -133,7 +133,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *de · MBO § 33 Abs. 2:* <small class="actual">актуально на момент публикации 07.10.26</small> Für Nutzungseinheiten nach Absatz 1, die nicht zu ebener Erde liegen, muss der erste Rettungsweg über eine notwendige Treppe führen. Der zweite Rettungsweg kann eine weitere notwendige Treppe oder eine mit Rettungsgeräten der Feuerwehr erreichbare Stelle der Nutzungseinheit sein. Ein zweiter Rettungsweg ist nicht erforderlich, wenn die Rettung über einen sicher erreichbaren Treppenraum möglich ist, in den Feuer und Rauch nicht eindringen können (Sicherheitstreppenraum).
+    *de · MBO § 33 Abs. 2:* <small class="actual">актуально на момент публикации 08.10.26</small> Für Nutzungseinheiten nach Absatz 1, die nicht zu ebener Erde liegen, muss der erste Rettungsweg über eine notwendige Treppe führen. Der zweite Rettungsweg kann eine weitere notwendige Treppe oder eine mit Rettungsgeräten der Feuerwehr erreichbare Stelle der Nutzungseinheit sein. Ein zweiter Rettungsweg ist nicht erforderlich, wenn die Rettung über einen sicher erreichbaren Treppenraum möglich ist, in den Feuer und Rauch nicht eindringen können (Sicherheitstreppenraum).
 
     </div>
     <div class="ru" markdown>
@@ -148,7 +148,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *fr · Arrêté 1986, ст. 26–27:* <small class="actual">актуально на момент публикации 07.10.26</small> Art. 26. Dans les habitations de la troisième famille B, l'escalier doit être un escalier « protégé » soit « à l'air libre », soit « à l'abri des fumées » répondant aux définitions ci-après. Art. 27. L'escalier « protégé » doit : - être desservi à chaque niveau par une circulation horizontale protégée, avec laquelle il ne communique que par une seule issue;
+    *fr · Arrêté 1986, ст. 26–27:* <small class="actual">актуально на момент публикации 08.10.26</small> Art. 26. Dans les habitations de la troisième famille B, l'escalier doit être un escalier « protégé » soit « à l'air libre », soit « à l'abri des fumées » répondant aux définitions ci-après. Art. 27. L'escalier « protégé » doit : - être desservi à chaque niveau par une circulation horizontale protégée, avec laquelle il ne communique que par une seule issue;
 
     </div>
     <div class="ru" markdown>
@@ -163,7 +163,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *de · OIB-RL 2, п. 5.1.4:* <small class="actual">актуально на момент публикации 07.10.26</small> 5.1.4 Im Falle von Punkt 5.1.1 c) muss in jedem Geschoß mit Aufenthaltsräumen zusätzlich a) ein Rettungsweg gemäß Punkt 5.2 vorhanden sein, oder b) ein unabhängiger Fluchtweg zu einem weiteren Treppenhaus oder einer weiteren Außentreppe jeweils gemäß Tabelle 3 erreichbar sein, wobei die Gehweglänge nicht begrenzt ist, oder c) ein unabhängiger Fluchtweg zu einem benachbarten Brandabschnitt erreichbar sein, der über einen direkten Ausgang zu einem sicheren Ort des angrenzenden Geländes im Freien oder ein Treppenhaus bzw. eine Außentreppe verfügt, wobei die Gehweglänge zum benachbarten Brandabschnitt nicht begrenzt ist.
+    *de · OIB-RL 2, п. 5.1.4:* <small class="actual">актуально на момент публикации 08.10.26</small> 5.1.4 Im Falle von Punkt 5.1.1 c) muss in jedem Geschoß mit Aufenthaltsräumen zusätzlich a) ein Rettungsweg gemäß Punkt 5.2 vorhanden sein, oder b) ein unabhängiger Fluchtweg zu einem weiteren Treppenhaus oder einer weiteren Außentreppe jeweils gemäß Tabelle 3 erreichbar sein, wobei die Gehweglänge nicht begrenzt ist, oder c) ein unabhängiger Fluchtweg zu einem benachbarten Brandabschnitt erreichbar sein, der über einen direkten Ausgang zu einem sicheren Ort des angrenzenden Geländes im Freien oder ein Treppenhaus bzw. eine Außentreppe verfügt, wobei die Gehweglänge zum benachbarten Brandabschnitt nicht begrenzt ist.
 
     </div>
     <div class="ru" markdown>
@@ -178,7 +178,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *es · CTE DB-SI, Tabla 3.1:* <small class="actual">актуально на момент публикации 07.10.26</small> La ocupación no excede de 100 personas, excepto en los casos que se indican a continuación: - 500 personas en el conjunto del edificio, en el caso de salida de un edificio de viviendas; - 50 personas en zonas desde las que la evacuación hasta una salida de planta deba salvar una altura mayor que 2 m en sentido ascendente; - 50 alumnos en escuelas infantiles, o de enseñanza primaria o secundaria.
+    *es · CTE DB-SI, Tabla 3.1:* <small class="actual">актуально на момент публикации 08.10.26</small> La ocupación no excede de 100 personas, excepto en los casos que se indican a continuación: - 500 personas en el conjunto del edificio, en el caso de salida de un edificio de viviendas; - 50 personas en zonas desde las que la evacuación hasta una salida de planta deba salvar una altura mayor que 2 m en sentido ascendente; - 50 alumnos en escuelas infantiles, o de enseñanza primaria o secundaria.
 
     </div>
     <div class="ru" markdown>
@@ -193,7 +193,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *en · Approved Document B Vol 1, п. 3.30:* <small class="actual">актуально на момент публикации 07.10.26</small> Flats should be served by more than one common stair if either of the following applies. a. The flat is on a storey that does not meet the criteria for a single escape route or a small single stair building (see paragraphs 3.27 and 3.32). b. The building has a top storey of 18m or more in height (see Diagram D6 in Appendix D).
+    *en · Approved Document B Vol 1, п. 3.30:* <small class="actual">актуально на момент публикации 08.10.26</small> Flats should be served by more than one common stair if either of the following applies. a. The flat is on a storey that does not meet the criteria for a single escape route or a small single stair building (see paragraphs 3.27 and 3.32). b. The building has a top storey of 18m or more in height (see Diagram D6 in Appendix D).
 
     </div>
     <div class="ru" markdown>
@@ -206,7 +206,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *en · Approved Document B Vol 1, п. 3.32:* <small class="actual">актуально на момент публикации 07.10.26</small> For some low rise buildings, the provisions in paragraphs 3.26 and 3.27 may be modified and the use of a single stair, protected in accordance with Diagram 3.9, may be permitted where all of the following apply. a. The top storey of the building is a maximum of 11m above ground level. b. No more than three storeys are above the ground storey.
+    *en · Approved Document B Vol 1, п. 3.32:* <small class="actual">актуально на момент публикации 08.10.26</small> For some low rise buildings, the provisions in paragraphs 3.26 and 3.27 may be modified and the use of a single stair, protected in accordance with Diagram 3.9, may be permitted where all of the following apply. a. The top storey of the building is a maximum of 11m above ground level. b. No more than three storeys are above the ground storey.
 
     </div>
     <div class="ru" markdown>

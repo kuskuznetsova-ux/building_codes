@@ -10,7 +10,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *ru · ФЗ-123, ст. 6, ч. 1:* <small class="actual">актуально на момент публикации 07.10.26</small> 1. Пожарная безопасность объекта защиты считается обеспеченной при выполнении в полном объеме требований пожарной безопасности, установленных настоящим Федеральным законом, а также одного из следующих условий: 1) выполнены требования пожарной безопасности, содержащиеся в нормативных документах по пожарной безопасности, указанных в пункте 1 части 3 статьи 4 настоящего Федерального закона; 2) пожарный риск не превышает допустимых значений, установленных настоящим Федеральным законом; 3) выполнены требования пожарной безопасности, содержащиеся в специальных технических условиях, отражающих специфику обеспечения пожарной безопасности зданий и сооружений и содержащих комплекс необходимых инженерно-технических и организационных мероприятий по обеспечению пожарной безопасности, согласованных в порядке, установленном федеральным органом исполнительной власти, уполномоченным на решение задач в области пожарной безопасности; 4) выполнены требования пожарной безопасности, содержащиеся в стандарте организации, который согласован в порядке, установленном федеральным органом исполнительной власти, уполномоченным на решение задач в области пожарной безопасности; 5) результаты исследований, расчетов и (или) испытаний подтверждают обеспечение пожарной безопасности объекта защиты в соответствии с частью 7 настоящей статьи.
+    *ru · ФЗ-123, ст. 6, ч. 1:* <small class="actual">актуально на момент публикации 08.10.26</small> 1. Пожарная безопасность объекта защиты считается обеспеченной при выполнении в полном объеме требований пожарной безопасности, установленных настоящим Федеральным законом, а также одного из следующих условий: 1) выполнены требования пожарной безопасности, содержащиеся в нормативных документах по пожарной безопасности, указанных в пункте 1 части 3 статьи 4 настоящего Федерального закона; 2) пожарный риск не превышает допустимых значений, установленных настоящим Федеральным законом; 3) выполнены требования пожарной безопасности, содержащиеся в специальных технических условиях, отражающих специфику обеспечения пожарной безопасности зданий и сооружений и содержащих комплекс необходимых инженерно-технических и организационных мероприятий по обеспечению пожарной безопасности, согласованных в порядке, установленном федеральным органом исполнительной власти, уполномоченным на решение задач в области пожарной безопасности; 4) выполнены требования пожарной безопасности, содержащиеся в стандарте организации, который согласован в порядке, установленном федеральным органом исполнительной власти, уполномоченным на решение задач в области пожарной безопасности; 5) результаты исследований, расчетов и (или) испытаний подтверждают обеспечение пожарной безопасности объекта защиты в соответствии с частью 7 настоящей статьи.
 
     </div>
     <div class="ru" markdown>
@@ -31,7 +31,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *sr · Pravilnik 22/2019, čl. 17 (ст. 3):* <small class="actual">актуально на момент публикации 07.10.26</small> Izuzetno od st. 1. i 2. ovog člana prekidno rastojanje može se odrediti i proračunom prema SRPS EN 1991-1-2.
+    *sr · Pravilnik 22/2019, čl. 17 (ст. 3):* <small class="actual">актуально на момент публикации 08.10.26</small> Izuzetno od st. 1. i 2. ovog člana prekidno rastojanje može se odrediti i proračunom prema SRPS EN 1991-1-2.
 
     </div>
     <div class="ru" markdown>
@@ -44,7 +44,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *sr · Pravilnik 22/2019, čl. 26 (ст. 2):* <small class="actual">актуально на момент публикации 07.10.26</small> 2) raspored sedenja u sportskoj hali mora ispunjavati uslove definisane članom 28. ovog pravilnika ili može biti primenjeno drugo tehničko rešenje kojim je obezbeđena efikasna evakuacija lica na način utvrđen posebnim propisima kojima je uređena izgradnja ove vrste objekata.
+    *sr · Pravilnik 22/2019, čl. 26 (ст. 2):* <small class="actual">актуально на момент публикации 08.10.26</small> 2) raspored sedenja u sportskoj hali mora ispunjavati uslove definisane članom 28. ovog pravilnika ili može biti primenjeno drugo tehničko rešenje kojim je obezbeđena efikasna evakuacija lica na način utvrđen posebnim propisima kojima je uređena izgradnja ove vrste objekata.
 
     </div>
     <div class="ru" markdown>
@@ -78,7 +78,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *de · MBO § 67 Abs. 1 Satz 1:* <small class="actual">актуально на момент публикации 07.10.26</small> Die Bauaufsichtsbehörde kann Abweichungen von Anforderungen dieses Gesetzes und aufgrund dieses Gesetzes erlassener Vorschriften zulassen, wenn sie unter Berücksichtigung des Zwecks der jeweiligen Anforderung und unter Würdigung der öffentlich-rechtlich geschützten nachbarlichen Belange mit den öffentlichen Belangen, insbesondere den Anforderungen des § 3 Satz 1 vereinbar ist.
+    *de · MBO § 67 Abs. 1 Satz 1:* <small class="actual">актуально на момент публикации 08.10.26</small> Die Bauaufsichtsbehörde kann Abweichungen von Anforderungen dieses Gesetzes und aufgrund dieses Gesetzes erlassener Vorschriften zulassen, wenn sie unter Berücksichtigung des Zwecks der jeweiligen Anforderung und unter Würdigung der öffentlich-rechtlich geschützten nachbarlichen Belange mit den öffentlichen Belangen, insbesondere den Anforderungen des § 3 Satz 1 vereinbar ist.
 
     </div>
     <div class="ru" markdown>
@@ -93,7 +93,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *de · OIB-RL 2, Vorbemerkungen:* <small class="actual">актуально на момент публикации 07.10.26</small> Von den Anforderungen dieser OIB-Richtlinie kann entsprechend den jeweiligen landesrechtlichen Bestimmungen abgewichen werden, wenn vom Bauwerber nachgewiesen wird, dass das gleiche Schutzniveau wie bei Anwendung der Richtlinie erreicht wird. Hierbei ist der OIB-Leitfaden „Abweichungen im Brandschutz und Brandschutzkonzepte“anzuwenden.
+    *de · OIB-RL 2, Vorbemerkungen:* <small class="actual">актуально на момент публикации 08.10.26</small> Von den Anforderungen dieser OIB-Richtlinie kann entsprechend den jeweiligen landesrechtlichen Bestimmungen abgewichen werden, wenn vom Bauwerber nachgewiesen wird, dass das gleiche Schutzniveau wie bei Anwendung der Richtlinie erreicht wird. Hierbei ist der OIB-Leitfaden „Abweichungen im Brandschutz und Brandschutzkonzepte“anzuwenden.
 
     </div>
     <div class="ru" markdown>
@@ -108,7 +108,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *es · CTE DB-SI, Criterios generales de aplicación:* <small class="actual">актуально на момент публикации 07.10.26</small> Pueden utilizarse otras soluciones diferentes a las contenidas en este DB, en cuyo caso deberá seguirse el procedimiento establecido en el artículo 5 del CTE y deberá documentarse en el proyecto el cumplimiento de las exigencias básicas.
+    *es · CTE DB-SI, Criterios generales de aplicación:* <small class="actual">актуально на момент публикации 08.10.26</small> Pueden utilizarse otras soluciones diferentes a las contenidas en este DB, en cuyo caso deberá seguirse el procedimiento establecido en el artículo 5 del CTE y deberá documentarse en el proyecto el cumplimiento de las exigencias básicas.
 
     </div>
     <div class="ru" markdown>
@@ -123,7 +123,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *en · Building Act 1984, s. 7(1):* <small class="actual">актуально на момент публикации 07.10.26</small> (1) A failure on the part of a person to comply with an approved document does not of itself render him liable to any civil or criminal proceedings; but if, in any proceedings whether civil or criminal, it is alleged that a person has at any time contravened a provision of building regulations— (a) a failure to comply with a relevant approved document may be relied upon as tending to establish liability, and (b) proof of compliance with such a document may be relied on as tending to negative liability.
+    *en · Building Act 1984, s. 7(1):* <small class="actual">актуально на момент публикации 08.10.26</small> (1) A failure on the part of a person to comply with an approved document does not of itself render him liable to any civil or criminal proceedings; but if, in any proceedings whether civil or criminal, it is alleged that a person has at any time contravened a provision of building regulations— (a) a failure to comply with a relevant approved document may be relied upon as tending to establish liability, and (b) proof of compliance with such a document may be relied on as tending to negative liability.
 
     </div>
     <div class="ru" markdown>
@@ -136,7 +136,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *en · Approved Document B Vol 1, п. 0.9:* <small class="actual">актуально на момент публикации 07.10.26</small> The fire safety requirements of the Building Regulations will probably be satisfied by following the relevant guidance in this approved document. However, approved documents provide guidance for some common building situations, and there may be alternative methods of complying with the Building Regulation requirements. If alternative methods are adopted, the overall level of safety should not be lower than the approved document provides. It is the responsibility of those undertaking the work to demonstrate compliance.
+    *en · Approved Document B Vol 1, п. 0.9:* <small class="actual">актуально на момент публикации 08.10.26</small> The fire safety requirements of the Building Regulations will probably be satisfied by following the relevant guidance in this approved document. However, approved documents provide guidance for some common building situations, and there may be alternative methods of complying with the Building Regulation requirements. If alternative methods are adopted, the overall level of safety should not be lower than the approved document provides. It is the responsibility of those undertaking the work to demonstrate compliance.
 
     </div>
     <div class="ru" markdown>

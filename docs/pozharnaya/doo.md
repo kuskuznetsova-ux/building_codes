@@ -10,7 +10,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *ru · СП 1.13130.2020, п. 5.2.2:* <small class="actual">актуально на момент публикации 07.10.26</small> 5.2.2. Расстояние по путям эвакуации от выхода из групповой ячейки или иных помещений с возможным пребыванием детей, а в школах-интернатах от спальных помещений до выхода наружу или на лестничную клетку (в воздушную зону лестничной клетки типа Н1 или тамбур- шлюз лестничной клетки типа Н3) должно быть не более, указанного в таблице 1.
+    *ru · СП 1.13130.2020, п. 5.2.2:* <small class="actual">актуально на момент публикации 08.10.26</small> 5.2.2. Расстояние по путям эвакуации от выхода из групповой ячейки или иных помещений с возможным пребыванием детей, а в школах-интернатах от спальных помещений до выхода наружу или на лестничную клетку (в воздушную зону лестничной клетки типа Н1 или тамбур- шлюз лестничной клетки типа Н3) должно быть не более, указанного в таблице 1.
 
     </div>
     <div class="ru" markdown>
@@ -23,7 +23,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *ru · СП 1.13130.2020, раздел 5.2, табл. 1:* <small class="actual">актуально на момент публикации 07.10.26</small>
+    *ru · СП 1.13130.2020, раздел 5.2, табл. 1:* <small class="actual">актуально на момент публикации 08.10.26</small>
 
     | Класс конструктивной пожарной опасности / степень огнестойкости | Между лестничными клетками или выходами, м | В тупиковый коридор или холл, м |
     |---|---|---|
@@ -42,7 +42,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *ru · СП 1.13130.2020, п. 5.2.3:* <small class="actual">актуально на момент публикации 07.10.26</small> 5.2.3. Двери эвакуационных выходов из групповых ячеек в поэтажные коридоры и на лестничные клетки должны предусматриваться противопожарными с пределом огнестойкости не менее EI 15.
+    *ru · СП 1.13130.2020, п. 5.2.3:* <small class="actual">актуально на момент публикации 08.10.26</small> 5.2.3. Двери эвакуационных выходов из групповых ячеек в поэтажные коридоры и на лестничные клетки должны предусматриваться противопожарными с пределом огнестойкости не менее EI 15.
 
     </div>
     <div class="ru" markdown>
@@ -61,7 +61,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *sr · Pravilnik 22/2019, čl. 27 (т. 1–4):* <small class="actual">актуально на момент публикации 07.10.26</small> 1) objekti predškolske ustanove mogu se graditi sa najviše jednim spratom, a ukoliko se prostor za decu u jaslicama smešta na sprat objekta moraju se predvideti dodatne mere bezbednosti od požara i sigurne evakuacije; 2) osnovne škole se grade sa najviše dva sprata, srednje škole sa najviše tri sprata, a fakulteti visine ne veće od 30 m; 3) učionice, kabineti i slične prostorije u kojima borave učenici osnovnih i srednjih škola ne mogu biti u podzemnim etažama; 4) škole i fakulteti sa više od dva sprata, dužine stranice veće od 35 m moraju imati najmanje dva stepeništa međusobno udaljena najmanje 25 m;
+    *sr · Pravilnik 22/2019, čl. 27 (т. 1–4):* <small class="actual">актуально на момент публикации 08.10.26</small> 1) objekti predškolske ustanove mogu se graditi sa najviše jednim spratom, a ukoliko se prostor za decu u jaslicama smešta na sprat objekta moraju se predvideti dodatne mere bezbednosti od požara i sigurne evakuacije; 2) osnovne škole se grade sa najviše dva sprata, srednje škole sa najviše tri sprata, a fakulteti visine ne veće od 30 m; 3) učionice, kabineti i slične prostorije u kojima borave učenici osnovnih i srednjih škola ne mogu biti u podzemnim etažama; 4) škole i fakulteti sa više od dva sprata, dužine stranice veće od 35 m moraju imati najmanje dva stepeništa međusobno udaljena najmanje 25 m;
 
     </div>
     <div class="ru" markdown>
@@ -97,7 +97,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *de · MBO § 2 Abs. 4 Nr. 12–13:* <small class="actual">актуально на момент публикации 07.10.26</small> Tageseinrichtungen für Kinder, Menschen mit Behinderung und alte Menschen, ausgenommen Tageseinrichtungen1 einschließlich Tagespflege für nicht mehr als zehn Kinder, 13. Schulen, Hochschulen und ähnliche Einrichtungen,
+    *de · MBO § 2 Abs. 4 Nr. 12–13:* <small class="actual">актуально на момент публикации 08.10.26</small> Tageseinrichtungen für Kinder, Menschen mit Behinderung und alte Menschen, ausgenommen Tageseinrichtungen1 einschließlich Tagespflege für nicht mehr als zehn Kinder, 13. Schulen, Hochschulen und ähnliche Einrichtungen,
 
     </div>
     <div class="ru" markdown>
@@ -110,7 +110,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *en · MSchulbauR, п. 3.1 и 3.3:* <small class="actual">актуально на момент публикации 07.10.26</small> Für jeden Unterrichtsraum müssen in demselben Geschoss mindestens zwei voneinander unabhängige Rettungswege zu Ausgängen ins Freie oder zu notwendigen Treppenräumen i vorhanden sein . Anstelle eines dieser Rettungswege darf ein Rettungsweg über Außentreppen ohne Treppenräume, Rettungsbalkone, Terrassen und begehbare Dächer auf das Grundstück führen, wenn dieser Rettungsweg im Brandfall nicht gefährdet ist; dieser Rettungsweg gilt als Ausgang ins Freie. Notwendige Flure mit nur einer Fluchtrichtung (Stichflure) dürfen nicht länger als 10 m sein.
+    *en · MSchulbauR, п. 3.1 и 3.3:* <small class="actual">актуально на момент публикации 08.10.26</small> Für jeden Unterrichtsraum müssen in demselben Geschoss mindestens zwei voneinander unabhängige Rettungswege zu Ausgängen ins Freie oder zu notwendigen Treppenräumen i vorhanden sein . Anstelle eines dieser Rettungswege darf ein Rettungsweg über Außentreppen ohne Treppenräume, Rettungsbalkone, Terrassen und begehbare Dächer auf das Grundstück führen, wenn dieser Rettungsweg im Brandfall nicht gefährdet ist; dieser Rettungsweg gilt als Ausgang ins Freie. Notwendige Flure mit nur einer Fluchtrichtung (Stichflure) dürfen nicht länger als 10 m sein.
 
     </div>
     <div class="ru" markdown>
@@ -123,7 +123,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *en · MSchulbauR, п. 3.4:* <small class="actual">актуально на момент публикации 07.10.26</small> Die nutzbare Breite der Ausgänge von Unterrichtsräumen und sonstigen Aufenthaltsräumen sowie der notwendigen Flure und notwendigen Treppen muss mindestens 1,20 m je 200 darauf angewiesener Benutzer betragen. Staffelungen sind nur in Schritten von 0,60 m zulässig. Es muss jedoch mindestens folgende nutzbare Breite vorhanden sein bei a) Ausgängen von Unterrichtsräumen und sonstigen Aufenthaltsräumen 0,90 m b) notwendigen Fluren 1,50 m c) notwendigen Treppen 1,20 m.
+    *en · MSchulbauR, п. 3.4:* <small class="actual">актуально на момент публикации 08.10.26</small> Die nutzbare Breite der Ausgänge von Unterrichtsräumen und sonstigen Aufenthaltsräumen sowie der notwendigen Flure und notwendigen Treppen muss mindestens 1,20 m je 200 darauf angewiesener Benutzer betragen. Staffelungen sind nur in Schritten von 0,60 m zulässig. Es muss jedoch mindestens folgende nutzbare Breite vorhanden sein bei a) Ausgängen von Unterrichtsräumen und sonstigen Aufenthaltsräumen 0,90 m b) notwendigen Fluren 1,50 m c) notwendigen Treppen 1,20 m.
 
     </div>
     <div class="ru" markdown>
@@ -138,7 +138,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *es · CTE DB-SI, Tabla 3.1:* <small class="actual">актуально на момент публикации 07.10.26</small> 50 alumnos en escuelas infantiles, o de enseñanza primaria o secundaria.
+    *es · CTE DB-SI, Tabla 3.1:* <small class="actual">актуально на момент публикации 08.10.26</small> 50 alumnos en escuelas infantiles, o de enseñanza primaria o secundaria.
 
     </div>
     <div class="ru" markdown>
@@ -153,7 +153,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *en · Approved Document B Vol 2, п. 0.14:* <small class="actual">актуально на момент публикации 07.10.26</small> The design of fire safety in schools is covered by Building Bulletin 100, which should be used. Building Bulletin 100 contains fire safety provisions that are outside the scope of the Building Regulations.
+    *en · Approved Document B Vol 2, п. 0.14:* <small class="actual">актуально на момент публикации 08.10.26</small> The design of fire safety in schools is covered by Building Bulletin 100, which should be used. Building Bulletin 100 contains fire safety provisions that are outside the scope of the Building Regulations.
 
     </div>
     <div class="ru" markdown>
@@ -166,7 +166,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *en · Building Bulletin 100, табл. 1 (расстояния):* <small class="actual">актуально на момент публикации 07.10.26</small>
+    *en · Building Bulletin 100, табл. 1 (расстояния):* <small class="actual">актуально на момент публикации 08.10.26</small>
 
     | Location | One direction only, m | More than one direction, m |
     |---|---|---|
@@ -193,7 +193,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *en · Building Bulletin 100, разд. 4.3.2:* <small class="actual">актуально на момент публикации 07.10.26</small> Very young children (infants/nursery school age) will move more slowly than older children or adults, and also require constant supervision and direction during egress. Consideration should be given to providing direct access to an external place of safety from their classrooms.
+    *en · Building Bulletin 100, разд. 4.3.2:* <small class="actual">актуально на момент публикации 08.10.26</small> Very young children (infants/nursery school age) will move more slowly than older children or adults, and also require constant supervision and direction during egress. Consideration should be given to providing direct access to an external place of safety from their classrooms.
 
     </div>
     <div class="ru" markdown>
@@ -206,7 +206,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *en · Building Bulletin 100, разд. 1.6 (спринклеры):* <small class="actual">актуально на момент публикации 07.10.26</small> Although the provision of sprinklers is not a requirement of the Building Regulations, DCSF expects that the Education Authority, Funding Body or overall ‘client’ of the scheme, should request, as part of the Employer's Requirements, that a risk assessment be undertaken to assess the validity of providing sprinklers in the scheme.
+    *en · Building Bulletin 100, разд. 1.6 (спринклеры):* <small class="actual">актуально на момент публикации 08.10.26</small> Although the provision of sprinklers is not a requirement of the Building Regulations, DCSF expects that the Education Authority, Funding Body or overall ‘client’ of the scheme, should request, as part of the Employer's Requirements, that a risk assessment be undertaken to assess the validity of providing sprinklers in the scheme.
 
     </div>
     <div class="ru" markdown>
