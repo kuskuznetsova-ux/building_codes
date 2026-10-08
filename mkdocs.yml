@@ -78,17 +78,18 @@ nav:
           - "2.12 Автоматическое пожаротушение (спринклеры) в жилых домах": pozharnaya/sprinklery.md
           - "2.13 Детские дошкольные учреждения и школы": pozharnaya/doo.md
           - "2.14 Автостоянки и гаражи": pozharnaya/avtostoyanki.md
-          - "2.15 Высотные здания (матрица)":
+          - "2.15 Противодымная защита: дымоудаление и подпор воздуха": pozharnaya/dymoudalenie.md
+          - "2.16 Высотные здания (матрица)":
               - pozharnaya/vysotnye/index.md
-              - "2.15.1 Порог «высотного здания» и способ измерения высоты": pozharnaya/vysotnye/porog.md
-              - "2.15.2 Эвакуационные лестницы и выходы": pozharnaya/vysotnye/lestnitsy.md
-              - "2.15.3 Длина путей эвакуации в высотных зданиях": pozharnaya/vysotnye/puti.md
-              - "2.15.4 Пожарные лифты и доступ пожарных": pozharnaya/vysotnye/lifty.md
-              - "2.15.5 Огнестойкость и пожарные отсеки": pozharnaya/vysotnye/ognestojkost.md
-              - "2.15.6 Фасады и наружные стены": pozharnaya/vysotnye/fasady.md
-              - "2.15.7 Автоматическое пожаротушение и водопровод": pozharnaya/vysotnye/sprinklery.md
-          - "2.16 Прежняя таблица — эвакуация (СП 1)": pozharnaya/sp1-evakuaciya.md
-          - "2.17 Прежняя таблица — распространение пожара (СП 4)": pozharnaya/sp4-ogranichenie-rasprostraneniya.md
+              - "2.16.1 Порог «высотного здания» и способ измерения высоты": pozharnaya/vysotnye/porog.md
+              - "2.16.2 Эвакуационные лестницы и выходы": pozharnaya/vysotnye/lestnitsy.md
+              - "2.16.3 Длина путей эвакуации в высотных зданиях": pozharnaya/vysotnye/puti.md
+              - "2.16.4 Пожарные лифты и доступ пожарных": pozharnaya/vysotnye/lifty.md
+              - "2.16.5 Огнестойкость и пожарные отсеки": pozharnaya/vysotnye/ognestojkost.md
+              - "2.16.6 Фасады и наружные стены": pozharnaya/vysotnye/fasady.md
+              - "2.16.7 Автоматическое пожаротушение и водопровод": pozharnaya/vysotnye/sprinklery.md
+          - "2.17 Прежняя таблица — эвакуация (СП 1)": pozharnaya/sp1-evakuaciya.md
+          - "2.18 Прежняя таблица — распространение пожара (СП 4)": pozharnaya/sp4-ogranichenie-rasprostraneniya.md
   - "3. Градостроительство":
       - "3. Матрица (инсоляция и расстояния)":
           - gradostroitelstvo/index.md

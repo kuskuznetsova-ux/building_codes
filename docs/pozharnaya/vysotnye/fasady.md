@@ -1,4 +1,4 @@
-# 2.15.6 Фасады и наружные стены
+# 2.16.6 Фасады и наружные стены
 
 [← К матрице](index.md) · Горючесть фасадных систем и меры против распространения огня по фасаду.
 
@@ -10,7 +10,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *ru · СП 477.1325800.2020, п. 6.4:* <small class="actual">актуально на момент публикации 07.10.26</small> 6.4 Наружные стены с внешней стороны с фасадными системами должны иметь класс пожарной опасности К0, с применением негорючих материалов облицовки, отделки и теплоизоляции, ветровлагозащиты (не должны относиться к группе слабогорючих материалов).
+    *ru · СП 477.1325800.2020, п. 6.4:* <small class="actual">актуально на момент публикации 08.10.26</small> 6.4 Наружные стены с внешней стороны с фасадными системами должны иметь класс пожарной опасности К0, с применением негорючих материалов облицовки, отделки и теплоизоляции, ветровлагозащиты (не должны относиться к группе слабогорючих материалов).
 
     </div>
     <div class="ru" markdown>
@@ -29,7 +29,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *sr · Pravilnik 80/2015, čl. 22, Tabela 1:* <small class="actual">актуально на момент публикации 07.10.26</small>
+    *sr · Pravilnik 80/2015, čl. 22, Tabela 1:* <small class="actual">актуально на момент публикации 08.10.26</small>
 
     | Klasa reakcije na požar | A2-s1,d0 |
     |---|---|
@@ -56,7 +56,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *sr · Pravilnik 80/2015, čl. 17:* <small class="actual">актуально на момент публикации 07.10.26</small> Fasadni (spoljni) zid objekta mora biti izveden tako da se spreči put plamena između dve susedne etaže izvođenjem vertikalnog građevinskog elementa čija je otpornost prema požaru 1,5 h (EI 90), ispitan prema posebnom standardu za spoljne zidove odnosno zid zavese.
+    *sr · Pravilnik 80/2015, čl. 17:* <small class="actual">актуально на момент публикации 08.10.26</small> Fasadni (spoljni) zid objekta mora biti izveden tako da se spreči put plamena između dve susedne etaže izvođenjem vertikalnog građevinskog elementa čija je otpornost prema požaru 1,5 h (EI 90), ispitan prema posebnom standardu za spoljne zidove odnosno zid zavese.
 
     </div>
     <div class="ru" markdown>
@@ -90,7 +90,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *de · MHHR, п. 3.4:* <small class="actual">актуально на момент публикации 07.10.26</small> Nichttragende Außenwände und nichttragende Teile tragender Außenwände müssen in allen ihren Teilen aus nichtbrennbaren Baustoffen bestehen. Dies gilt nicht für 1. Fensterprofile, 2. Dämmstoffe in nichtbrennbaren geschlossenen Profilen, 3. Dichtstoffe zur Abdichtung der Fugen zwischen Verglasungen und Traggerippen, 4. Kleinteile ohne tragende Funktion, die nicht zur Brandausbreitung beitragen.
+    *de · MHHR, п. 3.4:* <small class="actual">актуально на момент публикации 08.10.26</small> Nichttragende Außenwände und nichttragende Teile tragender Außenwände müssen in allen ihren Teilen aus nichtbrennbaren Baustoffen bestehen. Dies gilt nicht für 1. Fensterprofile, 2. Dämmstoffe in nichtbrennbaren geschlossenen Profilen, 3. Dichtstoffe zur Abdichtung der Fugen zwischen Verglasungen und Traggerippen, 4. Kleinteile ohne tragende Funktion, die nicht zur Brandausbreitung beitragen.
 
     </div>
     <div class="ru" markdown>
@@ -105,7 +105,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *de · OIB-RL 2.3, п. 2.3.1:* <small class="actual">актуально на момент публикации 07.10.26</small> 2.3.1 Fassaden (z.B. Außenwand-Wärmedämmverbundsysteme, vorgehängte hinterlüftete, belüftete oder nicht hinterlüftete Fassaden) sind so auszuführen, dass bezogen auf das zweite über dem Brandherd liegende Geschoß eine Brandweiterleitung über die Fassade und das Herabfallen großer Fassadenteile wirksam eingeschränkt wird.
+    *de · OIB-RL 2.3, п. 2.3.1:* <small class="actual">актуально на момент публикации 08.10.26</small> 2.3.1 Fassaden (z.B. Außenwand-Wärmedämmverbundsysteme, vorgehängte hinterlüftete, belüftete oder nicht hinterlüftete Fassaden) sind so auszuführen, dass bezogen auf das zweite über dem Brandherd liegende Geschoß eine Brandweiterleitung über die Fassade und das Herabfallen großer Fassadenteile wirksam eingeschränkt wird.
 
     </div>
     <div class="ru" markdown>
@@ -120,7 +120,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *en · Approved Document B Vol 1, п. 10.14:* <small class="actual">актуально на момент публикации 07.10.26</small> Regulation 7(2) applies to any building with a storey at least 18m above ground level (as measured in accordance with Diagram D6 in Appendix D) and which contains one or more dwellings; an institution; or a room for residential purposes. It requires that all materials which become part of an external wall or specifed attachment achieve class A2-s1, d0 or class A1 in accordance with BS EN 13501-1, other than those exempted by regulation 7(3).
+    *en · Approved Document B Vol 1, п. 10.14:* <small class="actual">актуально на момент публикации 08.10.26</small> Regulation 7(2) applies to any building with a storey at least 18m above ground level (as measured in accordance with Diagram D6 in Appendix D) and which contains one or more dwellings; an institution; or a room for residential purposes. It requires that all materials which become part of an external wall or specifed attachment achieve class A2-s1, d0 or class A1 in accordance with BS EN 13501-1, other than those exempted by regulation 7(3).
 
     </div>
     <div class="ru" markdown>

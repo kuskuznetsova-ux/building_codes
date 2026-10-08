@@ -51,3 +51,8 @@
 | sua | acc/sua.txt | https://www.codigotecnico.org/pdf/Documentos/SUA/DBSUA.pdf |
 | rsa | acc/rs.txt | https://www.paragraf.rs/propisi_download/pravilnik_o_tehnickim_standardima_planiranja_projektovanja_i_izgradnje_objekata_kojima_se_osigurava_nesmetano_kretanje_i_pristup_osobama_sa_invaliditetom_deci_i_starim_osobama.pdf |
 | uae | ae/ud.txt | https://dmpmedia.dm.gov.ae/uploads/2025/12/DUBAI-GUIDE-for-build-environment-Universal-Design.pdf |
+
+## СП 7.13130.2013 (sp7data.py)
+| key | file | URL |
+|---|---|---|
+| sp7 | sp7/sp7.txt | PDF «Техэксперт» (с изм. 1–3), предоставлен пользователем; публичную ссылку не подтверждали. СП 59 — копия https://tiflocentre.ru/documents/sp59-13330-2020.php (с изм. 1–4), текст читался по PDF пользователя |

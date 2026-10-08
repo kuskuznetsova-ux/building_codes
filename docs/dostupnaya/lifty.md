@@ -10,7 +10,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *ru · СП 59.13330.2020, п. 6.2.15:* <small class="actual">актуально на момент публикации 07.10.26</small> 6.2.15 Для жилых многоквартирных зданий выбор грузоподъемности и скорости лифтов следует осуществлять в соответствии с СП 54.13330. При этом лифты грузоподъемностью 630 и 1000 кг рекомендуется применять с размерами кабины 1100х2100 мм (ширина глубина) или 2100х1100 мм.
+    *ru · СП 59.13330.2020, п. 6.2.15:* <small class="actual">актуально на момент публикации 08.10.26</small> 6.2.15 Для жилых многоквартирных зданий выбор грузоподъемности и скорости лифтов следует осуществлять в соответствии с СП 54.13330. При этом лифты грузоподъемностью 630 и 1000 кг рекомендуется применять с размерами кабины 1100х2100 мм (ширина глубина) или 2100х1100 мм.
 
     </div>
     <div class="ru" markdown>
@@ -22,14 +22,14 @@
 
     **Источники**
 
-    - [СП 59, п. 6.2.15, 5.1.14](https://www.consultant.ru/document/cons_doc_LAW_142099/)
+    - [СП 59, п. 6.2.15, 5.1.14](https://tiflocentre.ru/documents/sp59-13330-2020.php)
 
 === "🇷🇸 Сербия"
 
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *sr · Правилник 22/2015, чл. 9:* <small class="actual">актуально на момент публикации 07.10.26</small> Savladavanje etažnih visinskih razlika u stambenim zgradama gde postoji mogućnost za projektovanje jednostavno prilagodljivih stanova i objektima za javno korišćenje, vrši se putem liftova, tako da: 1) prilaz liftu na nivou ulaza u zgradu ima slobodan prostor dimenzija najmanje 150 x 200 cm, pri čemu je podna površina na udaljenosti od najmanje 50 cm od vrata lifta različite taktilne i vizuelne obrade u odnosu na okolnu podnu površinu; 2) unutrašnje dimenzije kabine lifta iznose najmanje 110 x 140 cm; 3) vrata kabine lifta, koja su smičuća ili se otvaraju prema spoljnoj strani, imaju širinu čistog otvora najmanje 80 cm
+    *sr · Правилник 22/2015, чл. 9:* <small class="actual">актуально на момент публикации 08.10.26</small> Savladavanje etažnih visinskih razlika u stambenim zgradama gde postoji mogućnost za projektovanje jednostavno prilagodljivih stanova i objektima za javno korišćenje, vrši se putem liftova, tako da: 1) prilaz liftu na nivou ulaza u zgradu ima slobodan prostor dimenzija najmanje 150 x 200 cm, pri čemu je podna površina na udaljenosti od najmanje 50 cm od vrata lifta različite taktilne i vizuelne obrade u odnosu na okolnu podnu površinu; 2) unutrašnje dimenzije kabine lifta iznose najmanje 110 x 140 cm; 3) vrata kabine lifta, koja su smičuća ili se otvaraju prema spoljnoj strani, imaju širinu čistog otvora najmanje 80 cm
 
     </div>
     <div class="ru" markdown>
@@ -63,7 +63,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *de · OIB-RL 4, п. 2.3.1:* <small class="actual">актуально на момент публикации 07.10.26</small> 2.3.1 Sind Personenaufzüge oder vertikale Hebeeinrichtungen für Personen erforderlich, sind alle Geschoße, einschließlich Eingangsniveau, Keller- und Garagengeschoße, miteinander zu verbinden. Bei Wohnungen, die sich über mehrere Ebenen erstrecken, muss zumindest die Eingangsebene angefahren werden, • muss die Grundfläche des Fahrkorbes oder Lastträgers eine Breite von mindestens 1,10 m und eine Tiefe von mindestens 1,40 m aufweisen, wobei die Tür an der Schmalseite anzuordnen ist, • sind die Fahrkorb- oder Lastträgertüren sowie Schachttüren als waagrecht bewegte, selbsttätig kraftbetätigte Schiebetüren mit einer lichten Durchgangsbreite von mindestens 90 cm auszuführen, • muss vor den Schachttüren eine Bewegungsfläche (Wendekreis) mit einem Durchmesser von mindestens 1,50 m vorhanden sein.
+    *de · OIB-RL 4, п. 2.3.1:* <small class="actual">актуально на момент публикации 08.10.26</small> 2.3.1 Sind Personenaufzüge oder vertikale Hebeeinrichtungen für Personen erforderlich, sind alle Geschoße, einschließlich Eingangsniveau, Keller- und Garagengeschoße, miteinander zu verbinden. Bei Wohnungen, die sich über mehrere Ebenen erstrecken, muss zumindest die Eingangsebene angefahren werden, • muss die Grundfläche des Fahrkorbes oder Lastträgers eine Breite von mindestens 1,10 m und eine Tiefe von mindestens 1,40 m aufweisen, wobei die Tür an der Schmalseite anzuordnen ist, • sind die Fahrkorb- oder Lastträgertüren sowie Schachttüren als waagrecht bewegte, selbsttätig kraftbetätigte Schiebetüren mit einer lichten Durchgangsbreite von mindestens 90 cm auszuführen, • muss vor den Schachttüren eine Bewegungsfläche (Wendekreis) mit einem Durchmesser von mindestens 1,50 m vorhanden sein.
 
     </div>
     <div class="ru" markdown>
@@ -76,7 +76,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *es · CTE DB-SI, Anejo A: Ascensor accesible:* <small class="actual">актуально на момент публикации 07.10.26</small> Dimensiones mínimas, anchura x profundidad (m) En edificios de uso Residencial Vivienda sin viviendas accesibles para con viviendas accesibles para usuarios de silla de ruedas usuarios de silla de ruedas En otros edificios, con superficie útil en plantas distintas a las de acceso ≤ 1.000 m2 > 1.000 m2 - Con una puerta o con dos 1,00 x 1,25 1,10 x 1,40 puertas enfrentadas - Con dos puertas en ángulo 1,40 x 1,40 1,40 x 1,40
+    *es · CTE DB-SI, Anejo A: Ascensor accesible:* <small class="actual">актуально на момент публикации 08.10.26</small> Dimensiones mínimas, anchura x profundidad (m) En edificios de uso Residencial Vivienda sin viviendas accesibles para con viviendas accesibles para usuarios de silla de ruedas usuarios de silla de ruedas En otros edificios, con superficie útil en plantas distintas a las de acceso ≤ 1.000 m2 > 1.000 m2 - Con una puerta o con dos 1,00 x 1,25 1,10 x 1,40 puertas enfrentadas - Con dos puertas en ángulo 1,40 x 1,40 1,40 x 1,40
 
     </div>
     <div class="ru" markdown>
@@ -91,7 +91,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *en · AD M Vol 2, п. 3.28–3.29:* <small class="actual">актуально на момент публикации 07.10.26</small> c. the minimum dimensions of the lift cars are 1100mm wide and 1400mm deep (see Diagram 11);
+    *en · AD M Vol 2, п. 3.28–3.29:* <small class="actual">актуально на момент публикации 08.10.26</small> c. the minimum dimensions of the lift cars are 1100mm wide and 1400mm deep (see Diagram 11);
 
     </div>
     <div class="ru" markdown>
@@ -110,7 +110,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *en · Dubai Guide, LCE3:* <small class="actual">актуально на момент публикации 07.10.26</small> LCE3 Dimensions shall comply: One door ≥1200 x 1500mm - Two opposing doors ≥1200 x 1500mm - Two doors in 90° ≥1500 x 1500mm
+    *en · Dubai Guide, LCE3:* <small class="actual">актуально на момент публикации 08.10.26</small> LCE3 Dimensions shall comply: One door ≥1200 x 1500mm - Two opposing doors ≥1200 x 1500mm - Two doors in 90° ≥1500 x 1500mm
 
     </div>
     <div class="ru" markdown>
@@ -123,7 +123,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *en · Dubai Guide, LCE4–LCE5:* <small class="actual">актуально на момент публикации 07.10.26</small> LCE4 Automatic doors with a width of 900 mm and colour contrast against walls Level Changes 121 LCE Level Changes - Elevators LCE5 1500mm 1500mm LCE5 Maneuvering space of 1500 x 1500mm in front the elevator access
+    *en · Dubai Guide, LCE4–LCE5:* <small class="actual">актуально на момент публикации 08.10.26</small> LCE4 Automatic doors with a width of 900 mm and colour contrast against walls Level Changes 121 LCE Level Changes - Elevators LCE5 1500mm 1500mm LCE5 Maneuvering space of 1500 x 1500mm in front the elevator access
 
     </div>
     <div class="ru" markdown>

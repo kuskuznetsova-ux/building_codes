@@ -24,7 +24,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *ru · СП 1.13130.2020, п. 8.4.3:* <small class="actual">актуально на момент публикации 07.10.26</small> 8.4.3. С каждого этажа пожарного отсека автостоянок (кроме механизированных) должно быть предусмотрено не менее двух рассредоточенных эвакуационных выходов непосредственно наружу, в лестничные клетки или на лестницу 3-го типа. Допускается один из эвакуационных выходов предусматривать на изолированную рампу с уклоном не более 1:6, оборудованную с одной стороны тротуаром шириной не менее 0,8 м, или в смежный пожарный отсек автостоянки.
+    *ru · СП 1.13130.2020, п. 8.4.3:* <small class="actual">актуально на момент публикации 08.10.26</small> 8.4.3. С каждого этажа пожарного отсека автостоянок (кроме механизированных) должно быть предусмотрено не менее двух рассредоточенных эвакуационных выходов непосредственно наружу, в лестничные клетки или на лестницу 3-го типа. Допускается один из эвакуационных выходов предусматривать на изолированную рампу с уклоном не более 1:6, оборудованную с одной стороны тротуаром шириной не менее 0,8 м, или в смежный пожарный отсек автостоянки.
 
     </div>
     <div class="ru" markdown>
@@ -37,7 +37,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *ru · СП 1.13130.2020, табл. 19:* <small class="actual">актуально на момент публикации 07.10.26</small>
+    *ru · СП 1.13130.2020, табл. 19:* <small class="actual">актуально на момент публикации 08.10.26</small>
 
     | Тип автостоянки | Между эвакуационными выходами, м | В тупиковой части помещения, м |
     |---|---|---|
@@ -55,7 +55,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *ru · СП 2.13130.2020, п. 6.3.1:* <small class="actual">актуально на момент публикации 07.10.26</small> 6.3.1 Требуемую степень огнестойкости, допустимые этажность и площадь этажа в пределах пожарного отсека для подземных автостоянок следует принимать по таблице 6.5.
+    *ru · СП 2.13130.2020, п. 6.3.1:* <small class="actual">актуально на момент публикации 08.10.26</small> 6.3.1 Требуемую степень огнестойкости, допустимые этажность и площадь этажа в пределах пожарного отсека для подземных автостоянок следует принимать по таблице 6.5.
 
     </div>
     <div class="ru" markdown>
@@ -68,7 +68,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *ru · СП 2.13130.2020, табл. 6.5 (подземные):* <small class="actual">актуально на момент публикации 07.10.26</small>
+    *ru · СП 2.13130.2020, табл. 6.5 (подземные):* <small class="actual">актуально на момент публикации 08.10.26</small>
 
     | Степень огнестойкости | Класс конструктивной пожарной опасности | Допустимое число этажей | Площадь этажа в отсеке, м² |
     |---|---|---|---|
@@ -86,7 +86,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *ru · СП 2.13130.2020, п. 6.3.2:* <small class="actual">актуально на момент публикации 07.10.26</small> 6.3.2 Требуемую степень огнестойкости, допустимые этажность и площадь этажа надземной автостоянки закрытого типа в пределах пожарного отсека следует принимать по таблице 6.6.
+    *ru · СП 2.13130.2020, п. 6.3.2:* <small class="actual">актуально на момент публикации 08.10.26</small> 6.3.2 Требуемую степень огнестойкости, допустимые этажность и площадь этажа надземной автостоянки закрытого типа в пределах пожарного отсека следует принимать по таблице 6.6.
 
     </div>
     <div class="ru" markdown>
@@ -99,7 +99,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *ru · СП 2.13130.2020, табл. 6.6 (надземные закрытые):* <small class="actual">актуально на момент публикации 07.10.26</small>
+    *ru · СП 2.13130.2020, табл. 6.6 (надземные закрытые):* <small class="actual">актуально на момент публикации 08.10.26</small>
 
     | Степень огнестойкости | Класс | Число этажей | Площадь этажа в отсеке, м² (одноэтажные) | Площадь этажа в отсеке, м² (многоэтажные) |
     |---|---|---|---|---|
@@ -123,7 +123,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *ru · СП 1.13130.2020, п. 8.4.5:* <small class="actual">актуально на момент публикации 07.10.26</small> 8.4.5. В зданиях стоянок автомобилей при двух подземных этажах и более, эвакуационные выходы из подземных этажей в лестничные клетки должны предусматриваться через поэтажные тамбур-шлюзы 1-го типа. При этом подпор воздуха при пожаре следует предусмотреть либо в указанные тамбур-шлюзы, либо в объем лестничных клеток. В одноэтажных подземных стоянках для эвакуации допускается предусматривать обычные лестничные клетки с выходом непосредственно наружу.
+    *ru · СП 1.13130.2020, п. 8.4.5:* <small class="actual">актуально на момент публикации 08.10.26</small> 8.4.5. В зданиях стоянок автомобилей при двух подземных этажах и более, эвакуационные выходы из подземных этажей в лестничные клетки должны предусматриваться через поэтажные тамбур-шлюзы 1-го типа. При этом подпор воздуха при пожаре следует предусмотреть либо в указанные тамбур-шлюзы, либо в объем лестничных клеток. В одноэтажных подземных стоянках для эвакуации допускается предусматривать обычные лестничные клетки с выходом непосредственно наружу.
 
     </div>
     <div class="ru" markdown>
@@ -136,7 +136,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *ru · СП 486.1311500.2020, табл. 1, п. 4.1.1:* <small class="actual">актуально на момент публикации 07.10.26</small> 4.1.1 Подземные, надземные высотой 2 этажа и более Независимо от площади
+    *ru · СП 486.1311500.2020, табл. 1, п. 4.1.1:* <small class="actual">актуально на момент публикации 08.10.26</small> 4.1.1 Подземные, надземные высотой 2 этажа и более Независимо от площади
 
     </div>
     <div class="ru" markdown>
@@ -156,7 +156,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *sr · Pravilnik 22/2019, čl. 12:* <small class="actual">актуально на момент публикации 07.10.26</small> Izdvajanje pratećih sadržaja (garaže, ugostiteljski objekti za ishranu i piće, skladišta i sl.), koji se nalaze u sastavu stambenog, poslovnog i javnog objekta, u posebne požarne sektore, vrši se u skladu sa posebnim propisima kojima je uređena oblast izgradnje tih objekata, pri čemu elementi građevinske konstrukcije na granici požarnog sektora moraju ispunjavati zahteve iz strožijeg propisa.
+    *sr · Pravilnik 22/2019, čl. 12:* <small class="actual">актуально на момент публикации 08.10.26</small> Izdvajanje pratećih sadržaja (garaže, ugostiteljski objekti za ishranu i piće, skladišta i sl.), koji se nalaze u sastavu stambenog, poslovnog i javnog objekta, u posebne požarne sektore, vrši se u skladu sa posebnim propisima kojima je uređena oblast izgradnje tih objekata, pri čemu elementi građevinske konstrukcije na granici požarnog sektora moraju ispunjavati zahteve iz strožijeg propisa.
 
     </div>
     <div class="ru" markdown>
@@ -169,7 +169,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *sr · Pravilnik 80/2015, čl. 15 (ст. 2):* <small class="actual">актуально на момент публикации 07.10.26</small> Maksimalna površina požarnog sektora definisana članom 13. ovog pravilnika može biti veća u delu objekta namenjenom za parkiranje putničkih vozila.
+    *sr · Pravilnik 80/2015, čl. 15 (ст. 2):* <small class="actual">актуально на момент публикации 08.10.26</small> Maksimalna površina požarnog sektora definisana članom 13. ovog pravilnika može biti veća u delu objekta namenjenom za parkiranje putničkih vozila.
 
     </div>
     <div class="ru" markdown>
@@ -206,7 +206,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *de · M-GarStVO § 2 Abs. 8:* <small class="actual">актуально на момент публикации 07.10.26</small> Es sind Garagen mit einer Nutzfläche 1. bis 100 m² Kleingaragen, 2. über 100 m² bis 1000 m² Mittelgaragen, 3. über 1000 m² Großgaragen.
+    *de · M-GarStVO § 2 Abs. 8:* <small class="actual">актуально на момент публикации 08.10.26</small> Es sind Garagen mit einer Nutzfläche 1. bis 100 m² Kleingaragen, 2. über 100 m² bis 1000 m² Mittelgaragen, 3. über 1000 m² Großgaragen.
 
     </div>
     <div class="ru" markdown>
@@ -219,7 +219,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *de · M-GarStVO § 14 Abs. 1–2:* <small class="actual">актуально на момент публикации 07.10.26</small> Jede Mittel- und Großgarage muss in jedem Geschoss und Brandabschnitt mindestens zwei voneinander unabhängige bauliche Rettungswege haben, die unmittelbar oder über notwendige Treppenräume ins Freie führen. Es ist zulässig, einen der nach Satz 1 erforderlichen Rettungswege über den benachbarten Brandabschnitt derselben Garage zu führen. In oberirdischen Mittel- und Großgaragen genügt ein Rettungsweg, wenn ein Ausgang ins Freie in höchstens 10 m Entfernung erreichbar ist. Der zweite Rettungsweg darf auch über eine Rampe führen. Bei oberirdischen Mittel- und Großgaragen, deren Einstellplätze im Mittel nicht mehr als 3 m über der Geländeoberfläche liegen, sind Treppenräume für notwendige Treppen nicht erforderlich. (2) Von jeder Stelle einer Mittel- und Großgarage muss in demselben Geschoß mindestens ein notwendiger Treppenraum oder, wenn ein Treppenraum nicht erforderlich ist, mindestens eine notwendige Treppe oder ein Ausgang ins Freie 1. bei offenen Mittel- und Großgaragen in einer Entfernung von höchstens 50 m, 2. bei geschlossenen Mittel- und Großgaragen in einer Entfernung von höchstens 35 m erreichbar sein. Die Entfernung ist in der Lauflinie, jedoch nicht über Einstellplätze zu messen.
+    *de · M-GarStVO § 14 Abs. 1–2:* <small class="actual">актуально на момент публикации 08.10.26</small> Jede Mittel- und Großgarage muss in jedem Geschoss und Brandabschnitt mindestens zwei voneinander unabhängige bauliche Rettungswege haben, die unmittelbar oder über notwendige Treppenräume ins Freie führen. Es ist zulässig, einen der nach Satz 1 erforderlichen Rettungswege über den benachbarten Brandabschnitt derselben Garage zu führen. In oberirdischen Mittel- und Großgaragen genügt ein Rettungsweg, wenn ein Ausgang ins Freie in höchstens 10 m Entfernung erreichbar ist. Der zweite Rettungsweg darf auch über eine Rampe führen. Bei oberirdischen Mittel- und Großgaragen, deren Einstellplätze im Mittel nicht mehr als 3 m über der Geländeoberfläche liegen, sind Treppenräume für notwendige Treppen nicht erforderlich. (2) Von jeder Stelle einer Mittel- und Großgarage muss in demselben Geschoß mindestens ein notwendiger Treppenraum oder, wenn ein Treppenraum nicht erforderlich ist, mindestens eine notwendige Treppe oder ein Ausgang ins Freie 1. bei offenen Mittel- und Großgaragen in einer Entfernung von höchstens 50 m, 2. bei geschlossenen Mittel- und Großgaragen in einer Entfernung von höchstens 35 m erreichbar sein. Die Entfernung ist in der Lauflinie, jedoch nicht über Einstellplätze zu messen.
 
     </div>
     <div class="ru" markdown>
@@ -232,7 +232,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *de · M-GarStVO § 12 Abs. 1:* <small class="actual">актуально на момент публикации 07.10.26</small> Geschlossene Garagen, ausgenommen automatische Garagen, müssen durch Brandwände nach § 30 Abs. 3 Satz 1 MBO in Brandabschnitte mit Nutzflächen 1. in oberirdischen geschlossenen Garagen bis höchstens 5.000 m², 2. in sonstigen geschlossenen Garagen bis höchstens 2.500 m² unterteilt sein. Die Nutzfläche darf höchstens doppelt so groß sein, wenn die Garagen selbsttätige Feuerlöschanlagen haben.
+    *de · M-GarStVO § 12 Abs. 1:* <small class="actual">актуально на момент публикации 08.10.26</small> Geschlossene Garagen, ausgenommen automatische Garagen, müssen durch Brandwände nach § 30 Abs. 3 Satz 1 MBO in Brandabschnitte mit Nutzflächen 1. in oberirdischen geschlossenen Garagen bis höchstens 5.000 m², 2. in sonstigen geschlossenen Garagen bis höchstens 2.500 m² unterteilt sein. Die Nutzfläche darf höchstens doppelt so groß sein, wenn die Garagen selbsttätige Feuerlöschanlagen haben.
 
     </div>
     <div class="ru" markdown>
@@ -247,7 +247,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *fr · Arrêté 1986, ст. 1:* <small class="actual">актуально на момент публикации 07.10.26</small> aux parcs de stationnement couverts annexes des bâtiments ci-dessus, ayant une surface de plus de 100 mètres carrés et de 6 000 mètres carrés au plus.
+    *fr · Arrêté 1986, ст. 1:* <small class="actual">актуально на момент публикации 08.10.26</small> aux parcs de stationnement couverts annexes des bâtiments ci-dessus, ayant une surface de plus de 100 mètres carrés et de 6 000 mètres carrés au plus.
 
     </div>
     <div class="ru" markdown>
@@ -262,7 +262,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *de · OIB-RL 2.2, п. 5.5.1:* <small class="actual">актуально на момент публикации 07.10.26</small> 5.5.1 Von jeder Stelle einer Garage müssen in höchstens 40 m Gehweglänge erreichbar sein: a) ein direkter Ausgang zu einem sicheren Ort des angrenzenden Geländes im Freien, oder b) ein Treppenhaus oder eine Außentreppe jeweils gemäß Tabelle 3 der OIB-Richtlinie 2 jeweils mit einer vorgelagerten Schleuse gemäß Punkt 5.4.3 bei Garagen mit nicht mehr als zwei unterirdischen Geschoßen und einer Nutzfläche von nicht mehr als 600 m², oder c) ein Treppenhaus oder eine Außentreppe jeweils gemäß Tabelle 3 der OIB-Richtlinie 2, wobei zusätzlich Punkt 5.5.2 gilt.
+    *de · OIB-RL 2.2, п. 5.5.1:* <small class="actual">актуально на момент публикации 08.10.26</small> 5.5.1 Von jeder Stelle einer Garage müssen in höchstens 40 m Gehweglänge erreichbar sein: a) ein direkter Ausgang zu einem sicheren Ort des angrenzenden Geländes im Freien, oder b) ein Treppenhaus oder eine Außentreppe jeweils gemäß Tabelle 3 der OIB-Richtlinie 2 jeweils mit einer vorgelagerten Schleuse gemäß Punkt 5.4.3 bei Garagen mit nicht mehr als zwei unterirdischen Geschoßen und einer Nutzfläche von nicht mehr als 600 m², oder c) ein Treppenhaus oder eine Außentreppe jeweils gemäß Tabelle 3 der OIB-Richtlinie 2, wobei zusätzlich Punkt 5.5.2 gilt.
 
     </div>
     <div class="ru" markdown>
@@ -277,7 +277,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *es · CTE DB-SI, Tabla 3.1:* <small class="actual">актуально на момент публикации 07.10.26</small> 35 m en uso Aparcamiento;
+    *es · CTE DB-SI, Tabla 3.1:* <small class="actual">актуально на момент публикации 08.10.26</small> 35 m en uso Aparcamiento;
 
     </div>
     <div class="ru" markdown>
@@ -292,7 +292,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *en · Approved Document B Vol 2, п. 11.2:* <small class="actual">актуально на момент публикации 07.10.26</small> For the purposes of assessing fire resistance, a building, compartment or separated part containing a car park may be regarded as open-sided when it complies with all of the following. a. There are no basement storeys. b. Each storey is naturally ventilated by permanent openings at each car parking level. The aggregate vent area is a minimum of 1/20 of that level’s floor area, at least half of which is provided equally by two opposite walls (1/80 on each side).
+    *en · Approved Document B Vol 2, п. 11.2:* <small class="actual">актуально на момент публикации 08.10.26</small> For the purposes of assessing fire resistance, a building, compartment or separated part containing a car park may be regarded as open-sided when it complies with all of the following. a. There are no basement storeys. b. Each storey is naturally ventilated by permanent openings at each car parking level. The aggregate vent area is a minimum of 1/20 of that level’s floor area, at least half of which is provided equally by two opposite walls (1/80 on each side).
 
     </div>
     <div class="ru" markdown>
@@ -305,7 +305,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *en · Approved Document B Vol 2, п. 18 (спринклеры):* <small class="actual">актуально на момент публикации 07.10.26</small> Car parks are not normally expected to be fitted with sprinklers (see Section 11 for guidance on car parks).
+    *en · Approved Document B Vol 2, п. 18 (спринклеры):* <small class="actual">актуально на момент публикации 08.10.26</small> Car parks are not normally expected to be fitted with sprinklers (see Section 11 for guidance on car parks).
 
     </div>
     <div class="ru" markdown>
@@ -318,7 +318,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *en · Approved Document B Vol 2, прил. B, табл. B2 (стоянки):* <small class="actual">актуально на момент публикации 07.10.26</small>
+    *en · Approved Document B Vol 2, прил. B, табл. B2 (стоянки):* <small class="actual">актуально на момент публикации 08.10.26</small>
 
     | Car park for light vehicles | Basement >10 m | Basement ≤10 m | Up to 5 m | Up to 11 m | Up to 18 m | Up to 30 m | More than 30 m |
     |---|---|---|---|---|---|---|---|
@@ -346,4 +346,4 @@
 
     ⏳ Не сверено: Dubai Building Code и UAE Fire and Life Safety Code (Civil Defence) недоступны для скачивания; по пожарной безопасности и градостроительству ОАЭ в портал пока ничего не вошло. Раздел «Доступная среда» по Дубаю — см. [7. Доступная среда](../dostupnaya/index.md).
 
-[← Детские дошкольные учреждения и школы](doo.md)
+[← Детские дошкольные учреждения и школы](doo.md) · [Противодымная защита: дымоудаление и подпор воздуха →](dymoudalenie.md)
