@@ -3,6 +3,8 @@ import os,sys,re
 sys.path.insert(0,os.path.dirname(__file__))
 from qlib import pair,LANG
 from firedata import TOP
+import sp7data
+import aedata
 from hrdata import HT
 from gdata import GT
 from eudata import EU,SRC
@@ -79,15 +81,17 @@ def matrix(topics,first,pref='',grp=None):
     return '\n'.join(rows)
 STAT_F='Первый срез — многоквартирные жилые дома (плюс автостоянки). Цитаты взяты программно из текстов документов; перевод — рабочий, неофициальный. **⏳** — не сверено. Тексты ФЗ-123, СП 486, СП 2.13130 и СП 42.13330.2026 сверены по официальным редакциям; английский текст CPR — с legislation.gov.uk (сохранённая копия акта).'
 STAT_H='Цитаты взяты программно из текстов документов; перевод — рабочий, неофициальный. **⏳** — не сверено; для ЕС есть только пример Германии (МВО и Muster-Hochhaus-Richtlinie — типовые акты земель).'
-AE_NOTE='⏳ Не сверено: Dubai Building Code и UAE Fire and Life Safety Code (Civil Defence) недоступны для скачивания; по пожарной безопасности и градостроительству ОАЭ в портал пока ничего не вошло. Раздел «Доступная среда» по Дубаю — см. [7. Доступная среда](../dostupnaya/index.md).'
+AE_NOTE='⏳ Не сверено: UAE Fire and Life Safety Code (Civil Defence) недоступен для скачивания; Dubai Building Code (DBC 2021) по этой теме только отсылает к нему. См. также [7. Доступная среда](../dostupnaya/index.md).'
+aedata.apply(TOP,HT,GT,ACC)
 for _L,_rel in ((TOP,'../dostupnaya/index.md'),(HT,'../../dostupnaya/index.md'),(GT,'../dostupnaya/index.md')):
     for _t in _L:
         _t['keys']=['ru','rs','eu','uk','ae']
-        _t['cells']['ae']=('⏳ не сверено (документы ОАЭ недоступны)',[])
-        _t['tabs']['ae']=[('n',AE_NOTE.replace('../dostupnaya/index.md',_rel))]
+        if 'ae' not in _t['cells']: _t['cells']['ae']=('⏳ не сверено (документы ОАЭ недоступны)',[])
+        if not _t['tabs'].get('ae'): _t['tabs']['ae']=[('n',AE_NOTE.replace('../dostupnaya/index.md',_rel))]
+        elif _t['cells']['ae'][0].startswith('⏳') or True: _t['tabs']['ae']=list(_t['tabs']['ae'])
 os.makedirs(OUT+'/vysotnye',exist_ok=True)
 for i,t in enumerate(TOP): open(f'{OUT}/{t["slug"]}.md','w').write(page(TOP,i,'index.md','2.',STAT_F,'F'))
-for i,t in enumerate(HT): open(f'{OUT}/vysotnye/{t["slug"]}.md','w').write(page(HT,i,'index.md','2.15.',STAT_H,'H'))
+for i,t in enumerate(HT): open(f'{OUT}/vysotnye/{t["slug"]}.md','w').write(page(HT,i,'index.md','2.16.',STAT_H,'H'))
 # --- index.md (матрица основных правил)
 idx=f'''---
 hide:
@@ -109,6 +113,7 @@ hide:
 
 - Документы **нельзя сравнивать «число к числу»**: у стран разные классы зданий, методики измерения расстояний и разная юридическая сила. Поэтому первыми в матрице стоят три «основы сравнения»: [классы зданий](klassy.md), [методики измерения высоты и расстояний](metodiki.md) и [юридическая сила документов и допустимые отклонения](pravovaya-sila.md) (СП, правилник, Approved Document, возможность СТУ).
 - **ЕС** не имеет единых норм пожарной безопасности зданий: Регламент (ЕС) № 305/2011 (CPR) задаёт лишь общие требования к строительным работам (прил. I, п. 2). В колонке ЕС поэтому — CPR и, где есть, пример национальной нормы **Германии** (Musterbauordnung, МВО). МВО — типовой кодекс; в каждой федеральной земле действует собственный закон.
+- **ОАЭ (Дубай)**: Dubai Building Code 2021 (копия DDA) даёт архитектурные и некоторые пожарные требования, а основную часть пожарных норм отсылает в UAE Fire and Life Safety Code (Civil Defence), который недоступен ⏳ — поэтому у многих строк ячейка ОАЭ — «не сверено».
 - Россия: СП 1.13130.2020 (эвакуация), СП 4.13130.2013 (ограничение распространения пожара), ФЗ-123 (общие требования). Сербия: Правилник о технических нормативах по защите от пожара жилых, деловых и общественных объектов («Сл. гласник РС», 22/2019). Англия: Approved Document B, Volume 1 (жильё).
 
 ## Аналоги российских сводов правил
@@ -145,7 +150,7 @@ hide:
   - toc
 ---
 
-# 2.15 Высотные здания: пороги и основные требования
+# 2.16 Высотные здания: пороги и основные требования
 
 !!! warning "Статус: черновик"
     В России высотным считается здание **выше 75 м**. Таблица сравнивает порог в других странах; ниже — матрица основных требований. Каждая ячейка ведёт на страницу темы: **слева** оригинал (чёрным), **справа** русский перевод (серым). **⏳** — не сверено.
@@ -162,7 +167,7 @@ hide:
 
 <div class="matrix fire" markdown>
 
-{matrix(HT,True,'2.15.','H')}
+{matrix(HT,True,'2.16.','H')}
 
 </div>
 
@@ -223,7 +228,7 @@ print('gradostroitelstvo',len(GT))
 # --- доступная среда
 AOUT=os.path.join(os.path.dirname(os.path.abspath(__file__)),'..','..','docs','dostupnaya')
 os.makedirs(AOUT,exist_ok=True)
-STAT_A='Первый срез — жилые и общественные здания. Цитаты взяты программно из текстов документов; перевод — рабочий, неофициальный. **⏳** — не сверено. СП 59.13330.2020 прочитан по редакции из «Техэксперт» (предоставлена пользователем); Approved Document M Vol 2 — копия gov.uk (ред. 2024); для Дубая использовано руководство «Dubai Universal Design Audit Guide» (Dubai Municipality) — оно ссылается на «Dubai Universal Design Code», сам код не прочитан.'
+STAT_A='Первый срез — жилые и общественные здания. Цитаты взяты программно из текстов документов; перевод — рабочий, неофициальный. **⏳** — не сверено. СП 59.13330.2020 прочитан по редакции из «Техэксперт» (предоставлена пользователем); Approved Document M Vol 2 — копия gov.uk (ред. 2024); ОАЭ: Dubai Building Code 2021 (копия DDA) и руководство «Dubai Universal Design Audit Guide»; «Dubai Universal Design Code» не прочитан.'
 for i,t in enumerate(ACC): open(f'{AOUT}/{t["slug"]}.md','w').write(page(ACC,i,'index.md','7.',STAT_A,'A'))
 aidx=f'''---
 hide:
@@ -243,7 +248,7 @@ hide:
 
 ## Как читать
 
-- **Россия**: СП 59.13330.2020 (свод правил, переработанный СНиП 35-01-2001). **Сербия**: Правилник 22/2015 (в ред. 10/2026). **Англия**: Part M Building Regulations и Approved Document M (Vol 1 — жильё, Vol 2 — прочие здания; здесь только Vol 2). **ОАЭ**: в портал вошло руководство Dubai Municipality — аудит-справочник с чек-листами; требования самого «Dubai Universal Design Code» ⏳ не читались.
+- **Россия**: СП 59.13330.2020 (свод правил, переработанный СНиП 35-01-2001). **Сербия**: Правилник 22/2015 (в ред. 10/2026). **Англия**: Part M Building Regulations и Approved Document M (Vol 1 — жильё, Vol 2 — прочие здания; здесь только Vol 2). **ОАЭ (Дубай)**: Dubai Building Code 2021, Part C «Accessibility» (единый код для Дубая) и руководство Dubai Municipality (аудит-чеклисты); сам «Dubai Universal Design Code» ⏳ не читался. Абу-Даби и другие эмираты ⏳ не вошли.
 - **ЕС**: единой строительной нормы нет. Европейский закон о доступности (EAA) относится к продуктам и услугам, а не к зданиям. По странам: Германия — МВО § 50 (DIN 18040 платный ⏳), Австрия — OIB-RL 4, Испания — CTE DB-SUA, Франция ⏳.
 
 ## Что осталось сверить

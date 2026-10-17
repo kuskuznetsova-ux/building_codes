@@ -3,7 +3,7 @@
 from qlib import Q
 from eudata import EU,e,fq,aq,sq
 U=dict(
- sp59='https://www.consultant.ru/document/cons_doc_LAW_142099/',
+ sp59='https://tiflocentre.ru/documents/sp59-13330-2020.php',
  rsa='https://www.paragraf.rs/propisi_download/pravilnik_o_tehnickim_standardima_planiranja_projektovanja_i_izgradnje_objekata_kojima_se_osigurava_nesmetano_kretanje_i_pristup_osobama_sa_invaliditetom_deci_i_starim_osobama.pdf',
  adm2='https://assets.publishing.service.gov.uk/media/66f6c5eec71e42688b65ee11/ADM__V2_with_2024_amendments.pdf',
  uae='https://dmpmedia.dm.gov.ae/uploads/2025/12/DUBAI-GUIDE-for-build-environment-Universal-Design.pdf',

@@ -3,14 +3,14 @@
 [← К матрице](index.md) · Доля мест для инвалидов, размеры места, удалённость от входа.
 
 !!! warning "Статус: черновик"
-    Первый срез — жилые и общественные здания. Цитаты взяты программно из текстов документов; перевод — рабочий, неофициальный. **⏳** — не сверено. СП 59.13330.2020 прочитан по редакции из «Техэксперт» (предоставлена пользователем); Approved Document M Vol 2 — копия gov.uk (ред. 2024); для Дубая использовано руководство «Dubai Universal Design Audit Guide» (Dubai Municipality) — оно ссылается на «Dubai Universal Design Code», сам код не прочитан.
+    Первый срез — жилые и общественные здания. Цитаты взяты программно из текстов документов; перевод — рабочий, неофициальный. **⏳** — не сверено. СП 59.13330.2020 прочитан по редакции из «Техэксперт» (предоставлена пользователем); Approved Document M Vol 2 — копия gov.uk (ред. 2024); ОАЭ: Dubai Building Code 2021 (копия DDA) и руководство «Dubai Universal Design Audit Guide»; «Dubai Universal Design Code» не прочитан.
 
 === "🇷🇺 Россия"
 
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *ru · СП 59.13330.2020, п. 5.2.4:* <small class="actual">актуально на момент публикации 07.10.26</small> 5.2.4 Габариты специализированного места для стоянки (парковки) транспортных средств инвалида на кресле-коляске следует предусматривать размерами 6,0х3,6 м, что дает возможность создать безопасную зону сбоку и сзади машины. В случае расположения парковочного места вдоль проезжей части его длина должна составлять 6,8 м.
+    *ru · СП 59.13330.2020, п. 5.2.4:* <small class="actual">актуально на момент публикации 17.10.26</small> 5.2.4 Габариты специализированного места для стоянки (парковки) транспортных средств инвалида на кресле-коляске следует предусматривать размерами 6,0х3,6 м, что дает возможность создать безопасную зону сбоку и сзади машины. В случае расположения парковочного места вдоль проезжей части его длина должна составлять 6,8 м.
 
     </div>
     <div class="ru" markdown>
@@ -23,7 +23,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *ru · СП 59.13330.2020, п. 5.2.3:* <small class="actual">актуально на момент публикации 07.10.26</small> при числе мест от общего числа: - до 100 включительно 5%, но не менее одного места; - от 101 до 200 включительно 5 мест и дополнительно 3% числа мест свыше 100; - от 201 до 500 включительно 8 мест и дополнительно 2% числа мест свыше 200; - 501 и более 14 мест и дополнительно 1% числа мест свыше 500.
+    *ru · СП 59.13330.2020, п. 5.2.3:* <small class="actual">актуально на момент публикации 17.10.26</small> при числе мест от общего числа: - до 100 включительно 5%, но не менее одного места; - от 101 до 200 включительно 5 мест и дополнительно 3% числа мест свыше 100; - от 201 до 500 включительно 8 мест и дополнительно 2% числа мест свыше 200; - 501 и более 14 мест и дополнительно 1% числа мест свыше 500.
 
     </div>
     <div class="ru" markdown>
@@ -35,14 +35,14 @@
 
     **Источники**
 
-    - [СП 59, п. 5.2.3–5.2.4](https://www.consultant.ru/document/cons_doc_LAW_142099/)
+    - [СП 59, п. 5.2.3–5.2.4](https://tiflocentre.ru/documents/sp59-13330-2020.php)
 
 === "🇷🇸 Сербия"
 
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *sr · Правилник 22/2015, чл. 36:* <small class="actual">актуально на момент публикации 07.10.26</small> za javne garaže, javna parkirališta, kao i parkirališta uz objekte za javno korišćenje i stambene i stambeno poslovne zgrade sa deset i više stanova, najmanje 5% mesta od ukupnog broja mesta za parkiranje, a najmanje jedno mesto za parkiranje vozila osoba sa invaliditetom;
+    *sr · Правилник 22/2015, чл. 36:* <small class="actual">актуально на момент публикации 17.10.26</small> za javne garaže, javna parkirališta, kao i parkirališta uz objekte za javno korišćenje i stambene i stambeno poslovne zgrade sa deset i više stanova, najmanje 5% mesta od ukupnog broja mesta za parkiranje, a najmanje jedno mesto za parkiranje vozila osoba sa invaliditetom;
 
     </div>
     <div class="ru" markdown>
@@ -76,7 +76,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *es · CTE DB-SI, SUA 9, п. 1.2.3:* <small class="actual">актуально на момент публикации 07.10.26</small> Comercial, Pública Concurrencia o Aparcamiento de uso público, una plaza accesible por cada 33 plazas de aparcamiento o fracción. c) En cualquier otro uso, una plaza accesible por cada 50 plazas de aparcamiento o fracción, hasta 200 plazas y una plaza accesible más por cada 100 plazas adicionales o fracción.
+    *es · CTE DB-SI, SUA 9, п. 1.2.3:* <small class="actual">актуально на момент публикации 17.10.26</small> Comercial, Pública Concurrencia o Aparcamiento de uso público, una plaza accesible por cada 33 plazas de aparcamiento o fracción. c) En cualquier otro uso, una plaza accesible por cada 50 plazas de aparcamiento o fracción, hasta 200 plazas y una plaza accesible más por cada 100 plazas adicionales o fracción.
 
     </div>
     <div class="ru" markdown>
@@ -89,7 +89,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *es · CTE DB-SI, Anejo A: Plaza de aparcamiento accesible:* <small class="actual">актуально на момент публикации 07.10.26</small> Plaza de aparcamiento accesible Es la que cumple las siguientes condiciones: - Está situada próxima al acceso peatonal al aparcamiento y comunicada con él mediante un itinerario accesible. - Dispone de un espacio anejo de aproximación y transferencia, lateral de anchura ≥ 1,20 m si la plaza es en batería, pudiendo compartirse por dos plazas contiguas, y trasero de longitud ≥ 3,00 m si la plaza es en línea.
+    *es · CTE DB-SI, Anejo A: Plaza de aparcamiento accesible:* <small class="actual">актуально на момент публикации 17.10.26</small> Plaza de aparcamiento accesible Es la que cumple las siguientes condiciones: - Está situada próxima al acceso peatonal al aparcamiento y comunicada con él mediante un itinerario accesible. - Dispone de un espacio anejo de aproximación y transferencia, lateral de anchura ≥ 1,20 m si la plaza es en batería, pudiendo compartirse por dos plazas contiguas, y trasero de longitud ≥ 3,00 m si la plaza es en línea.
 
     </div>
     <div class="ru" markdown>
@@ -104,7 +104,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *en · AD M Vol 2, п. 1.15:* <small class="actual">актуально на момент публикации 07.10.26</small> 1.15 The surface of a parking bay designated for disabled people, in particular the area surrounding the bay, should allow the safe transfer of a passenger or driver to a wheelchair and transfer from the parking bay to the access route to the building without undue effort
+    *en · AD M Vol 2, п. 1.15:* <small class="actual">актуально на момент публикации 17.10.26</small> 1.15 The surface of a parking bay designated for disabled people, in particular the area surrounding the bay, should allow the safe transfer of a passenger or driver to a wheelchair and transfer from the parking bay to the access route to the building without undue effort
 
     </div>
     <div class="ru" markdown>
@@ -123,7 +123,20 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *en · Dubai Guide, PA2–PA3:* <small class="actual">актуально на момент публикации 07.10.26</small> Number of accessible parking lots: 2% of the Total Parking, max 10 spots PA3 Accessible spaces as close as possible to the entrance of the building and no more than 50m
+    *en · DBC 2021, C.6.4.1, табл. C.17–C.18:* <small class="actual">актуально на момент публикации 17.10.26</small> Public or private parking areas associated with a public street, open space or building shall have accessible parking spaces. These parking spaces shall be reserved for holders of accessible parking stickers issued by any authorized jurisdiction. The number of accessible parking spaces shall be obtained from Table C.17. For hospitals and healthcare facilities, 10% of the overall parking capacity should be accessible. Accessible van parking should be provided at a rate of 10% of overall accessible parking count. At least one accessible van parking space should be provided for each building or facility. Accessible parking spaces shall conform to the minimum dimensions in Table C.18. Part C: Accessibility Use of the building, establishment or area Minimum number of accessible spaces All buildings except private housing 25 to 500 total parking spaces 2% of the total, and a minimum of one More than 500 total parking spaces 1% for additional parking spaces over 500 Buildings with reserved seating space for wheelchair users, such as cinemas and sport facilities One for every two reserved seating spaces for wheelchair users Buildings and open spaces without parking facilities but with the following uses: Two bays in the public areas, as close as possible to the building entrance (maximum 50 m) a) b) c) d) e) f) g) administration headquarters; hospitals; education buildings; sport facilities; beaches with accessible routes; rehabilitation and day care centres; and clinics. Table C.17 Minimum number of accessible parking spaces Parking type Parking space dimensions (m) Car – angled and perpendicular 2.5 m × 5.5 m Car – parallel – along the sidewalk 2.5 m × 6.0 m Accessible van 3.35 m × 5.5 m Table C.18 Parking dimensions
+
+    </div>
+    <div class="ru" markdown>
+
+    Общественные и частные парковки при улице, открытом пространстве или здании должны иметь доступные места, зарезервированные для обладателей соответствующих стикеров. Число мест — по табл. C.17: все здания, кроме частного жилья, при 25–500 местах — 2 % (минимум одно место), свыше 500 — 1 % от добавочных; для больниц рекомендуется 10 %; микроавтобусные места — 10 % от числа доступных. Размеры (табл. C.18): легковой автомобиль под углом и перпендикулярно — 2,5 × 5,5 м; вдоль тротуара — 2,5 × 6,0 м; микроавтобус — 3,35 × 5,5 м.
+
+    </div>
+    </div>
+
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    *en · Dubai Guide, PA2–PA3:* <small class="actual">актуально на момент публикации 17.10.26</small> Number of accessible parking lots: 2% of the Total Parking, max 10 spots PA3 Accessible spaces as close as possible to the entrance of the building and no more than 50m
 
     </div>
     <div class="ru" markdown>
@@ -136,7 +149,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *en · Dubai Guide, PA4–PA7:* <small class="actual">актуально на момент публикации 07.10.26</small> Dimensions of accessible parking spaces: PA6 Signs mounted at 2200mm with international symbol 2500 x 5500mm for angled parking, 2600 x 6000mm for parking along the sidewalk PA7 Marked with international symbols PA5 With lateral access aisle ≥1200mm
+    *en · Dubai Guide, PA4–PA7:* <small class="actual">актуально на момент публикации 17.10.26</small> Dimensions of accessible parking spaces: PA6 Signs mounted at 2200mm with international symbol 2500 x 5500mm for angled parking, 2600 x 6000mm for parking along the sidewalk PA7 Marked with international symbols PA5 With lateral access aisle ≥1200mm
 
     </div>
     <div class="ru" markdown>
@@ -148,6 +161,6 @@
 
     **Источники**
 
-    - [Dubai Guide, PA1–PA8](https://dmpmedia.dm.gov.ae/uploads/2025/12/DUBAI-GUIDE-for-build-environment-Universal-Design.pdf)
+    - [DBC 2021, C.6.4](https://dda.gov.ae/-/media/DC97EA219133466D908BDEC8A462A2A8.pdf)
 
 [← Лифты для МГН](lifty.md) · [Уборные и санузлы для МГН →](ubornye.md)

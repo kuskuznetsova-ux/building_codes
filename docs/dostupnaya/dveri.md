@@ -3,14 +3,14 @@
 [← К матрице](index.md) · Свободная ширина дверных проёмов и коридоров на путях МГН, зоны разворота.
 
 !!! warning "Статус: черновик"
-    Первый срез — жилые и общественные здания. Цитаты взяты программно из текстов документов; перевод — рабочий, неофициальный. **⏳** — не сверено. СП 59.13330.2020 прочитан по редакции из «Техэксперт» (предоставлена пользователем); Approved Document M Vol 2 — копия gov.uk (ред. 2024); для Дубая использовано руководство «Dubai Universal Design Audit Guide» (Dubai Municipality) — оно ссылается на «Dubai Universal Design Code», сам код не прочитан.
+    Первый срез — жилые и общественные здания. Цитаты взяты программно из текстов документов; перевод — рабочий, неофициальный. **⏳** — не сверено. СП 59.13330.2020 прочитан по редакции из «Техэксперт» (предоставлена пользователем); Approved Document M Vol 2 — копия gov.uk (ред. 2024); ОАЭ: Dubai Building Code 2021 (копия DDA) и руководство «Dubai Universal Design Audit Guide»; «Dubai Universal Design Code» не прочитан.
 
 === "🇷🇺 Россия"
 
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *ru · СП 59.13330.2020, п. 6.2.4:* <small class="actual">актуально на момент публикации 07.10.26</small> 6.2.4 Ширина дверных полотен и открытых проемов в стене, а также выходов из помещений и коридоров на лестничную клетку должна быть не менее 0,9 м. При глубине откоса в стене открытого и дверного проема более 1,0 м ширину проема следует принимать по ширине коммуникационного прохода, но не менее 1,2 м. Дверные проемы не должны иметь порогов и перепадов высот пола. При необходимости устройства порогов (при входе в жилой дом, общежитие, дом-интернат, выходе на балкон, лоджию и т.п.) их высота или перепад высот не должны превышать 0,014 м.
+    *ru · СП 59.13330.2020, п. 6.2.4:* <small class="actual">актуально на момент публикации 17.10.26</small> 6.2.4 Ширина дверных полотен и открытых проемов в стене, а также выходов из помещений и коридоров на лестничную клетку должна быть не менее 0,9 м. При глубине откоса в стене открытого и дверного проема более 1,0 м ширину проема следует принимать по ширине коммуникационного прохода, но не менее 1,2 м. Дверные проемы не должны иметь порогов и перепадов высот пола. При необходимости устройства порогов (при входе в жилой дом, общежитие, дом-интернат, выходе на балкон, лоджию и т.п.) их высота или перепад высот не должны превышать 0,014 м.
 
     </div>
     <div class="ru" markdown>
@@ -23,7 +23,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *ru · СП 59.13330.2020, п. 6.2.1:* <small class="actual">актуально на момент публикации 07.10.26</small> 6.2.1 Пути движении к помещениям, зонам и местам обслуживания внутри здания следует проектировать в соответствии с нормативными требованиями к путям эвакуации людей из здания. Ширина путей движения (в коридорах, галереях и т.п.) должна быть не менее 1,8 м, допускается ширина коридора 1,5-1,2 м с организацией разъездов (карманов) для кресел-колясок длиной не менее 2 м при общей с коридором ширине не менее 1,8 м в пределах прямой видимости следующего кармана.
+    *ru · СП 59.13330.2020, п. 6.2.1:* <small class="actual">актуально на момент публикации 17.10.26</small> 6.2.1 Пути движении к помещениям, зонам и местам обслуживания внутри здания следует проектировать в соответствии с нормативными требованиями к путям эвакуации людей из здания. Ширина путей движения (в коридорах, галереях и т.п.) должна быть не менее 1,8 м, допускается ширина коридора 1,5-1,2 м с организацией разъездов (карманов) для кресел-колясок длиной не менее 2 м при общей с коридором ширине не менее 1,8 м в пределах прямой видимости следующего кармана.
 
     </div>
     <div class="ru" markdown>
@@ -35,14 +35,14 @@
 
     **Источники**
 
-    - [СП 59, п. 6.2.1–6.2.4](https://www.consultant.ru/document/cons_doc_LAW_142099/)
+    - [СП 59, п. 6.2.1–6.2.4](https://tiflocentre.ru/documents/sp59-13330-2020.php)
 
 === "🇷🇸 Сербия"
 
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *sr · Правилник 22/2015, чл. 13:* <small class="actual">актуально на момент публикации 07.10.26</small> Pristupačan ulaz u zgradu projektuje se i izvodi tako da: 1) ispred ulaznih vrata bude ravan pešački plato dimenzija najmanje 150 x 150 cm; 2) svetla širina ulaznih vrata najmanje 90 do 210 cm, a kod javnih objekata najmanje 183 cm;
+    *sr · Правилник 22/2015, чл. 13:* <small class="actual">актуально на момент публикации 17.10.26</small> Pristupačan ulaz u zgradu projektuje se i izvodi tako da: 1) ispred ulaznih vrata bude ravan pešački plato dimenzija najmanje 150 x 150 cm; 2) svetla širina ulaznih vrata najmanje 90 do 210 cm, a kod javnih objekata najmanje 183 cm;
 
     </div>
     <div class="ru" markdown>
@@ -76,7 +76,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *es · CTE DB-SI, Anejo A: Itinerario accesible:* <small class="actual">актуально на момент публикации 07.10.26</small> Pasillos y pasos - Anchura libre de paso ≥ 1,20 m. En zonas comunes de edificios de uso Residencial Vivien- da se admite 1,10 m - Estrechamientos puntuales de anchura ≥ 1,00 m, de longitud ≤ 0,50 m, y con separación ≥ 0,65 m a huecos de paso o a cambios de dirección - Puertas - Anchura libre de paso ≥ 0,80 m medida en el marco y aportada por no más de una hoja.
+    *es · CTE DB-SI, Anejo A: Itinerario accesible:* <small class="actual">актуально на момент публикации 17.10.26</small> Pasillos y pasos - Anchura libre de paso ≥ 1,20 m. En zonas comunes de edificios de uso Residencial Vivien- da se admite 1,10 m - Estrechamientos puntuales de anchura ≥ 1,00 m, de longitud ≤ 0,50 m, y con separación ≥ 0,65 m a huecos de paso o a cambios de dirección - Puertas - Anchura libre de paso ≥ 0,80 m medida en el marco y aportada por no más de una hoja.
 
     </div>
     <div class="ru" markdown>
@@ -89,7 +89,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *de · OIB-RL 4, п. 2.4.1–2.4.2:* <small class="actual">актуально на момент публикации 07.10.26</small> 2.4.1 Hauptgänge müssen eine lichte Durchgangsbreite von mindestens 1,20 m aufweisen. Eine lichte Durchgangsbreite von 1,00 m genügt • bei Gebäuden oder Gebäudeteilen mit nicht mehr als drei Wohnungen, • bei Reihenhäusern, • in Wohnungen von nicht barrierefrei zu gestaltenden Gebäuden oder Gebäudeteilen, • in anpassbaren Wohnungen gemäß Punkt 7.4.2, wenn sichergestellt ist, dass bei Bedarf eine lichte Durchgangsbreite von 1,20 m herstellbar ist, • in anpassbaren Wohnungen gemäß Punkt 7.4.2, die sich über mehr als eine Ebene erstrecken, für jenen Teil, der gemäß Punkt 2.4.3 nicht barrierefrei erreichbar sein muss, sowie • bei Nebengängen. 2.4.2 In allgemein zugänglichen Bereichen von Gebäuden oder Gebäudeteilen, die barrierefrei zu gestalten sind, muss in Hauptgängen, die durch Türen abgetrennt werden, eine Bewegungsfläche (Wendekreis) mit einem Durchmesser von mindestens 1,50 m vorhanden sein.
+    *de · OIB-RL 4, п. 2.4.1–2.4.2:* <small class="actual">актуально на момент публикации 17.10.26</small> 2.4.1 Hauptgänge müssen eine lichte Durchgangsbreite von mindestens 1,20 m aufweisen. Eine lichte Durchgangsbreite von 1,00 m genügt • bei Gebäuden oder Gebäudeteilen mit nicht mehr als drei Wohnungen, • bei Reihenhäusern, • in Wohnungen von nicht barrierefrei zu gestaltenden Gebäuden oder Gebäudeteilen, • in anpassbaren Wohnungen gemäß Punkt 7.4.2, wenn sichergestellt ist, dass bei Bedarf eine lichte Durchgangsbreite von 1,20 m herstellbar ist, • in anpassbaren Wohnungen gemäß Punkt 7.4.2, die sich über mehr als eine Ebene erstrecken, für jenen Teil, der gemäß Punkt 2.4.3 nicht barrierefrei erreichbar sein muss, sowie • bei Nebengängen. 2.4.2 In allgemein zugänglichen Bereichen von Gebäuden oder Gebäudeteilen, die barrierefrei zu gestalten sind, muss in Hauptgängen, die durch Türen abgetrennt werden, eine Bewegungsfläche (Wendekreis) mit einem Durchmesser von mindestens 1,50 m vorhanden sein.
 
     </div>
     <div class="ru" markdown>
@@ -104,7 +104,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *en · AD M Vol 2, табл. 2:* <small class="actual">актуально на момент публикации 07.10.26</small> Table 2 Minimum effective clear widths of doors Direction and width of approach New buildings (mm) Existing buildings (mm) Straight-on (without a turn or oblique approach) 800 750 At right angles to an access route at least 1500mm wide 800 750 At right angles to an access route at least 1200mm wide 825 775 External doors to buildings used by the general public 1000 775
+    *en · AD M Vol 2, табл. 2:* <small class="actual">актуально на момент публикации 17.10.26</small> Table 2 Minimum effective clear widths of doors Direction and width of approach New buildings (mm) Existing buildings (mm) Straight-on (without a turn or oblique approach) 800 750 At right angles to an access route at least 1500mm wide 800 750 At right angles to an access route at least 1200mm wide 825 775 External doors to buildings used by the general public 1000 775
 
     </div>
     <div class="ru" markdown>
@@ -123,7 +123,33 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *en · Dubai Guide, E6–E7:* <small class="actual">актуально на момент публикации 07.10.26</small> E7 ≥ 900mm 2200mm E6 E6 Dimensions of the doors ≥900mm width x 2100mm height
+    *en · DBC 2021, C.5.8.1:* <small class="actual">актуально на момент публикации 17.10.26</small> c) Single doors, except toilet doors, shall have a minimum clear width of 915 mm, measured between the face of the door and the face of the doorstop, with the door open 90° (see Figure C.24).
+
+    </div>
+    <div class="ru" markdown>
+
+    c) Одностворчатые двери, кроме дверей туалетов, имеют минимальную свободную ширину 915 мм, измеряемую между плоскостью двери и упором при открытии на 90°.
+
+    </div>
+    </div>
+
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    *en · DBC 2021, C.5.8.1:* <small class="actual">актуально на момент публикации 17.10.26</small> e) Floor surfaces at doors should be levelled to the floor. When levelling is not achievable, a raised threshold shall have a maximum height of 13 mm and be bevelled down to a height of 6 mm chamfered (see Figure C.25). The threshold shall have a maximum slope gradient of 50%. f) The force required to open a door shall not exceed 25 N, unless the door is automatic/power-assisted.
+
+    </div>
+    <div class="ru" markdown>
+
+    Полы у дверей должны быть выровнены; если это невозможно, порог — не выше 13 мм со скосом до 6 мм (уклон ≤50 %). Усилие открывания двери — не более 25 Н, если она не автоматическая/с приводом.
+
+    </div>
+    </div>
+
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    *en · Dubai Guide, E6–E7:* <small class="actual">актуально на момент публикации 17.10.26</small> E7 ≥ 900mm 2200mm E6 E6 Dimensions of the doors ≥900mm width x 2100mm height
 
     </div>
     <div class="ru" markdown>
@@ -136,7 +162,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *en · Dubai Guide, E8:* <small class="actual">актуально на момент публикации 07.10.26</small> E8 ≥5 seconds remaining open <66N ≥3 seconds to fully open ≥3 seconds to fully closed E8 3 seconds or more to move from closed to fully open position - Remain fully open for a minimum 5 seconds - Force not more than 66N
+    *en · Dubai Guide, E8:* <small class="actual">актуально на момент публикации 17.10.26</small> E8 ≥5 seconds remaining open <66N ≥3 seconds to fully open ≥3 seconds to fully closed E8 3 seconds or more to move from closed to fully open position - Remain fully open for a minimum 5 seconds - Force not more than 66N
 
     </div>
     <div class="ru" markdown>
@@ -148,6 +174,6 @@
 
     **Источники**
 
-    - [Dubai Guide, E6–E8](https://dmpmedia.dm.gov.ae/uploads/2025/12/DUBAI-GUIDE-for-build-environment-Universal-Design.pdf)
+    - [DBC 2021, C.5.8.1](https://dda.gov.ae/-/media/DC97EA219133466D908BDEC8A462A2A8.pdf)
 
 [← Входы и пандусы](pandusy.md) · [Лифты для МГН →](lifty.md)
