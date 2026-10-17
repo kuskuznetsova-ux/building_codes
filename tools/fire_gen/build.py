@@ -228,7 +228,7 @@ print('gradostroitelstvo',len(GT))
 # --- доступная среда
 AOUT=os.path.join(os.path.dirname(os.path.abspath(__file__)),'..','..','docs','dostupnaya')
 os.makedirs(AOUT,exist_ok=True)
-STAT_A='Первый срез — жилые и общественные здания. Цитаты взяты программно из текстов документов; перевод — рабочий, неофициальный. **⏳** — не сверено. СП 59.13330.2020 прочитан по редакции из «Техэксперт» (предоставлена пользователем); Approved Document M Vol 2 — копия gov.uk (ред. 2024); ОАЭ: Dubai Building Code 2021 (копия DDA) и руководство «Dubai Universal Design Audit Guide»; «Dubai Universal Design Code» не прочитан.'
+STAT_A='Первый срез — жилые и общественные здания. Цитаты взяты программно из текстов документов; перевод — рабочий, неофициальный. **⏳** — не сверено. СП 59.13330.2020 прочитан по редакции из «Техэксперт» (предоставлена пользователем); Approved Document M Vol 1 (жильё, ред. 2015/2016) и Vol 2 (прочие здания, ред. 2024), Approved Document T (2024) — копии gov.uk; ОАЭ: Dubai Building Code 2021 (копия DDA) и руководство «Dubai Universal Design Audit Guide»; «Dubai Universal Design Code» не прочитан.'
 for i,t in enumerate(ACC): open(f'{AOUT}/{t["slug"]}.md','w').write(page(ACC,i,'index.md','7.',STAT_A,'A'))
 aidx=f'''---
 hide:
@@ -248,14 +248,14 @@ hide:
 
 ## Как читать
 
-- **Россия**: СП 59.13330.2020 (свод правил, переработанный СНиП 35-01-2001). **Сербия**: Правилник 22/2015 (в ред. 10/2026). **Англия**: Part M Building Regulations и Approved Document M (Vol 1 — жильё, Vol 2 — прочие здания; здесь только Vol 2). **ОАЭ (Дубай)**: Dubai Building Code 2021, Part C «Accessibility» (единый код для Дубая) и руководство Dubai Municipality (аудит-чеклисты); сам «Dubai Universal Design Code» ⏳ не читался. Абу-Даби и другие эмираты ⏳ не вошли.
+- **Россия**: СП 59.13330.2020 (свод правил, переработанный СНиП 35-01-2001). **Сербия**: Правилник 22/2015 (в ред. 10/2026). **Англия**: Part M Building Regulations и Approved Document M (Vol 1 — жильё, Vol 2 — прочие здания), Approved Document T (туалеты). **ОАЭ (Дубай)**: Dubai Building Code 2021, Part C «Accessibility» (единый код для Дубая) и руководство Dubai Municipality (аудит-чеклисты); сам «Dubai Universal Design Code» ⏳ не читался. Абу-Даби и другие эмираты ⏳ не вошли.
 - **ЕС**: единой строительной нормы нет. Европейский закон о доступности (EAA) относится к продуктам и услугам, а не к зданиям. По странам: Германия — МВО § 50 (DIN 18040 платный ⏳), Австрия — OIB-RL 4, Испания — CTE DB-SUA, Франция ⏳.
 
 ## Что осталось сверить
 
 - [ ] Россия: СП 59, раздел 7 (места проживания инвалидов), раздел 8 (специальные требования к зданиям), зоны безопасности МГН при пожаре (связь с СП 1.13130 п. 9).
 - [ ] Сербия: рабочая копия правилника — Paragraf (с изменениями 10/2026); нумерация статей по копии.
-- [ ] Англия: Approved Document M Vol 1 (жильё: M4(1)–M4(3)), Approved Document T (туалеты), BS 8300.
+- [ ] Англия: размеры по Vol 1 (M4(1)–M4(3)) и разделам 3–6 Approved Document T (типы туалетов A–D) не вынесены; BS 8300.
 - [ ] ЕС: DIN 18040 (Германия), Франция (arrêté 2015/2017 и др.), EN 17210.
 - [ ] ОАЭ: Dubai Universal Design Code, UAE Fire and Life Safety Code (эвакуация МГН).
 '''

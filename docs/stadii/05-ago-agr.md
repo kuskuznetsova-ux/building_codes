@@ -249,4 +249,29 @@
     </div>
 
 
+=== "🇦🇪 ОАЭ (Дубай)"
+
+    ◐ SOS и FMP — «Sign-off Sheet» и «Final Master Plan» (DDA): согласование мастер-плана и участков, не архитектурного облика здания
+
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    *en · DDA MPG, гл. ii.1, стадии 2–3:* Stage 2: Sign-Off Sheet (SOS) Following the approval of the PMP, a sheet showing the final subdivision of a project must be developed. It must consist of a plan of the project and the different sub-plots and a table showing each plot’s number, land use, area, gross floor area (GFA), number of buildings, number of dwelling units and maximum building height. … Stage 3: Final Master Plan (FMP) The Final Master Plan (FMP) forms the final stage in the master plan approval process. Similar to the PMP, the FMP provides a comprehensive report of the overall strategy to develop a particular project/area. However, it provides some additional requirements to the previous stages including plot development guidelines and authority approvals.
+
+    </div>
+    <div class="ru" markdown>
+
+    Стадия 2 — Sign-Off Sheet (SOS): после утверждения PMP составляется лист с окончательным делением проекта: план и таблица по участкам (номер, назначение, площадь, GFA, число зданий, число квартир, максимальная высота здания). Стадия 3 — Final Master Plan (FMP): итоговая стадия; добавляет к предыдущим руководства по застройке участков и согласования органов.
+
+    </div>
+    </div>
+
+    **Источники**
+
+    - [DDA MPG](https://dda.gov.ae/-/media/0CDFF6B21C134DD793DA846C3525C17A.pdf)
+
+    **Какие документы нужно найти**
+
+    - Правила согласования «архитектурного облика» здания в Дубае (Architectural Review / Design Guidelines застройщика) ⏳
+
 [← Эскиз / предварительный проект](04-eskiz.md) · [Проект для разрешения →](06-proekt-razresheniya.md)

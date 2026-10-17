@@ -3,7 +3,7 @@
 [← К матрице](index.md) · Доступная кабина: размеры, оснащение, количество.
 
 !!! warning "Статус: черновик"
-    Первый срез — жилые и общественные здания. Цитаты взяты программно из текстов документов; перевод — рабочий, неофициальный. **⏳** — не сверено. СП 59.13330.2020 прочитан по редакции из «Техэксперт» (предоставлена пользователем); Approved Document M Vol 2 — копия gov.uk (ред. 2024); ОАЭ: Dubai Building Code 2021 (копия DDA) и руководство «Dubai Universal Design Audit Guide»; «Dubai Universal Design Code» не прочитан.
+    Первый срез — жилые и общественные здания. Цитаты взяты программно из текстов документов; перевод — рабочий, неофициальный. **⏳** — не сверено. СП 59.13330.2020 прочитан по редакции из «Техэксперт» (предоставлена пользователем); Approved Document M Vol 1 (жильё, ред. 2015/2016) и Vol 2 (прочие здания, ред. 2024), Approved Document T (2024) — копии gov.uk; ОАЭ: Dubai Building Code 2021 (копия DDA) и руководство «Dubai Universal Design Audit Guide»; «Dubai Universal Design Code» не прочитан.
 
 === "🇷🇺 Россия"
 
@@ -65,7 +65,7 @@
     | Страна | Нормативный документ | Что установлено |
     |---|---|---|
     | 🇩🇪 Германия (и общее по ЕС) | МВО, МХР и др. (типовые акты земель) | ⏳ не сверено (DIN 18040; MBO § 50(2): туалеты — в нужном числе безбарьерные) |
-    | 🇫🇷 Франция | Франция: [Arrêté 31.01.1986](https://medias.amf.asso.fr/docs/DOCUMENTS/AMF_20070607_arrete_31_01_86_incendie.pdf) (жилые дома, копия AMF; консолидированная редакция Légifrance не сверена ⏳) | ⏳ не сверено |
+    | 🇫🇷 Франция | Франция: [Arrêté 31.01.1986](https://medias.amf.asso.fr/docs/DOCUMENTS/AMF_20070607_arrete_31_01_86_incendie.pdf) (жилые дома, копия AMF; консолидированная редакция Légifrance не сверена ⏳) | ⏳ не сверено: по данным поисковой выдачи — жильё: arrêté du 24.12.2015, общественные здания (ERP): arrêté du 20.04.2017; тексты получить не удалось (Légifrance недоступен) |
     | 🇦🇹 Австрия | Австрия: OIB-Richtlinien, ред. май 2023 ([RL 2](https://www.propellets.at/assets/upload/pelletlagerung/oib-rl-2-ausgabe-mai-2023.pdf), [RL 2.2](https://din-notlicht.com/wp-content/uploads/oib-rl-2.2-ausgabe-mai-2023.pdf), [RL 2.3](https://din-notlicht.com/wp-content/uploads/oib-rl-2.3-ausgabe-mai-2023.pdf), [RL 4](https://glas-gasperlmair.at/wp-content/uploads/2023/10/oib-rl_4_ausgabe_mai_2023.pdf), [Begriffsbestimmungen](https://din-notlicht.com/wp-content/uploads/oib-rl-begriffsbestimmungen-ausgabe-mai-2023.pdf)) | Безбарьерные санузлы: разворот ⌀1,50 м, умывальник с подъездом; в общедоступных зданиях — тревожная система (RL 4, п. 7.1–7.2) |
     | 🇪🇸 Испания | Испания: [CTE DB-SI](https://www.codigotecnico.org/pdf/Documentos/SI/DBSI.pdf) | Один доступный туалет на каждые 10 унитазов (SUA 9, п. 1.2.6) |
 
@@ -101,11 +101,23 @@
 
 === "🇬🇧 Англия"
 
-    ⏳ Размеры универсальных туалетов — в Approved Document T (введён отдельно; не читался). AD M Vol 2 только отсылает к нему и к BS 8300.
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    *en · Approved Document T, п. 1.1–1.2:* <small class="actual">актуально на момент публикации 17.10.26</small> 1.1 The guidance in this approved document applies to buildings other than dwellings. 1.2 Requirement T1 does not apply to schools, to premises used for early years provision, to cellular accommodation in custodial facilities or to en-suite toilets provided in individual rooms for residential purposes, such as in hotels and care homes.
+
+    </div>
+    <div class="ru" markdown>
+
+    Руководство применяется к зданиям, кроме жилых. Требование T1 не применяется к школам, помещениям для дошкольного ухода, камерным помещениям в местах заключения и к туалетам при отдельных жилых комнатах (гостиницы, дома престарелых). Типы туалетов: A — закрытый самостоятельный универсальный для «амбулаторных»; B — закрытый самостоятельный универсальный; C — раздельный для «амбулаторных» (кабина); D — раздельная кабина. Размеры по типам — разделы 3–6 документа ⏳ не вынесены.
+
+    </div>
+    </div>
 
     **Источники**
 
     - [AD M Vol 2](https://assets.publishing.service.gov.uk/media/66f6c5eec71e42688b65ee11/ADM__V2_with_2024_amendments.pdf)
+    - [AD T, 2024](https://assets.publishing.service.gov.uk/media/6901feb971b575684c3cf7c4/ADT_2024_rev16Jun25.pdf)
 
 === "🇦🇪 ОАЭ (Дубай)"
 
@@ -139,4 +151,4 @@
 
     - [DBC 2021, C.8.3](https://dda.gov.ae/-/media/DC97EA219133466D908BDEC8A462A2A8.pdf)
 
-[← Парковка для МГН](parkovka.md)
+[← Парковка для МГН](parkovka.md) · [Жильё: доступные и адаптируемые квартиры →](zhile.md)

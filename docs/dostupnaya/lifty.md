@@ -3,7 +3,7 @@
 [← К матрице](index.md) · Когда нужен лифт и минимальные размеры кабины.
 
 !!! warning "Статус: черновик"
-    Первый срез — жилые и общественные здания. Цитаты взяты программно из текстов документов; перевод — рабочий, неофициальный. **⏳** — не сверено. СП 59.13330.2020 прочитан по редакции из «Техэксперт» (предоставлена пользователем); Approved Document M Vol 2 — копия gov.uk (ред. 2024); ОАЭ: Dubai Building Code 2021 (копия DDA) и руководство «Dubai Universal Design Audit Guide»; «Dubai Universal Design Code» не прочитан.
+    Первый срез — жилые и общественные здания. Цитаты взяты программно из текстов документов; перевод — рабочий, неофициальный. **⏳** — не сверено. СП 59.13330.2020 прочитан по редакции из «Техэксперт» (предоставлена пользователем); Approved Document M Vol 1 (жильё, ред. 2015/2016) и Vol 2 (прочие здания, ред. 2024), Approved Document T (2024) — копии gov.uk; ОАЭ: Dubai Building Code 2021 (копия DDA) и руководство «Dubai Universal Design Audit Guide»; «Dubai Universal Design Code» не прочитан.
 
 === "🇷🇺 Россия"
 
@@ -52,7 +52,7 @@
     | Страна | Нормативный документ | Что установлено |
     |---|---|---|
     | 🇩🇪 Германия (и общее по ЕС) | МВО, МХР и др. (типовые акты земель) | ⏳ не сверено (DIN 18040) |
-    | 🇫🇷 Франция | Франция: [Arrêté 31.01.1986](https://medias.amf.asso.fr/docs/DOCUMENTS/AMF_20070607_arrete_31_01_86_incendie.pdf) (жилые дома, копия AMF; консолидированная редакция Légifrance не сверена ⏳) | ⏳ не сверено |
+    | 🇫🇷 Франция | Франция: [Arrêté 31.01.1986](https://medias.amf.asso.fr/docs/DOCUMENTS/AMF_20070607_arrete_31_01_86_incendie.pdf) (жилые дома, копия AMF; консолидированная редакция Légifrance не сверена ⏳) | ⏳ не сверено: по данным поисковой выдачи — жильё: arrêté du 24.12.2015, общественные здания (ERP): arrêté du 20.04.2017; тексты получить не удалось (Légifrance недоступен) |
     | 🇦🇹 Австрия | Австрия: OIB-Richtlinien, ред. май 2023 ([RL 2](https://www.propellets.at/assets/upload/pelletlagerung/oib-rl-2-ausgabe-mai-2023.pdf), [RL 2.2](https://din-notlicht.com/wp-content/uploads/oib-rl-2.2-ausgabe-mai-2023.pdf), [RL 2.3](https://din-notlicht.com/wp-content/uploads/oib-rl-2.3-ausgabe-mai-2023.pdf), [RL 4](https://glas-gasperlmair.at/wp-content/uploads/2023/10/oib-rl_4_ausgabe_mai_2023.pdf), [Begriffsbestimmungen](https://din-notlicht.com/wp-content/uploads/oib-rl-begriffsbestimmungen-ausgabe-mai-2023.pdf)) | Кабина ≥1,10 × 1,40 м, двери ≥90 см, площадка ⌀1,50 м (RL 4, п. 2.3.1) |
     | 🇪🇸 Испания | Испания: [CTE DB-SI](https://www.codigotecnico.org/pdf/Documentos/SI/DBSI.pdf) | Кабина 1,00 × 1,25 м (жильё без доступных квартир) / 1,10 × 1,40 м (прочие, >1 000 м²) (Anejo A) |
 

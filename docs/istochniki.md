@@ -8,6 +8,7 @@
 | 🇷🇺 RU | publication.pravo.gov.ru, docs.cntd.ru, Минстрой России, ФГИС Росстандарта |
 | 🇪🇺 EU | EUR-Lex (CPR — Регламент (ЕС) 305/2011), CEN/CENELEC |
 | 🇬🇧 UK | legislation.gov.uk, gov.uk (Approved Documents), RIBA Plan of Work |
+| 🇦🇪 AE | [DDA: Codes and Guidelines](https://dda.gov.ae/en/planning-development/codes-and-guidelines) (Dubai Building Code, Master Planning Guidelines), Dubai Municipality (dm.gov.ae), Civil Defence ⏳ |
 
 ## Вторичные работы, на которые опираемся
 

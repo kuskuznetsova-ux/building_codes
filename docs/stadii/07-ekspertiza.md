@@ -442,4 +442,17 @@
     </div>
 
 
+=== "🇦🇪 ОАЭ (Дубай)"
+
+    ⏳ не сверено: в MPG — согласования «Service Authorities» (NOC); сроки, состав и порядок — ⏳
+
+    **Источники**
+
+    - [DDA MPG](https://dda.gov.ae/-/media/0CDFF6B21C134DD793DA846C3525C17A.pdf)
+
+    **Какие документы нужно найти**
+
+    - Порядок согласования с Civil Defence (UAE Fire and Life Safety Code), DEWA и другими «Service Authorities» ⏳
+    - Dubai Municipality / DDA: процедура технической экспертизы проекта ⏳
+
 [← Проект для разрешения](06-proekt-razresheniya.md) · [Разрешение на строительство →](08-razreshenie.md)

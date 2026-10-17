@@ -63,3 +63,10 @@
 | dbc | ae2/dbc_r.txt | https://dda.gov.ae/-/media/DC97EA219133466D908BDEC8A462A2A8.pdf (Dubai Building Code 2021; `pdftotext` БЕЗ -layout; 32 МБ) |
 | mpg | ae2/mpg_r.txt | https://dda.gov.ae/-/media/0CDFF6B21C134DD793DA846C3525C17A.pdf (DDA Master Planning Guidelines) |
 Страница со списком кодов DDA: https://dda.gov.ae/en/planning-development/codes-and-guidelines. ADIBC 2013 (Абу-Даби, dmt.gov.ae) блокируется сетевой политикой сессии (502) — нужен от пользователя.
+
+## Доступная среда: дополнения
+| key | file | URL |
+|---|---|---|
+| adm1 | acc/adm1_r.txt | https://assets.publishing.service.gov.uk/media/5a7f8a82ed915d74e622b17b/BR_PDF_AD_M1_2015_with_2016_amendments_V3.pdf (pdftotext без -layout) |
+| adt | acc/adt.txt | https://assets.publishing.service.gov.uk/media/6901feb971b575684c3cf7c4/ADT_2024_rev16Jun25.pdf |
+Не получены: Франция (arrêté 24.12.2015 жильё, arrêté 20.04.2017 ERP — Légifrance недоступен, префектурные копии отдают rate-limit), Германия DIN 18040 (платный), EN 17210 (платный), ADIBC Абу-Даби (блок сети).
