@@ -607,4 +607,31 @@
     </div>
 
 
+=== "🇦🇪 ОАЭ (Дубай)"
+
+    ⏳ не сверено: DBC задаёт требования к проекту, но не состав документации для подачи
+
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    *en · DBC 2021, A.7:* Projects in design or construction that have a final approved design from the Authority do not need to conform to the DBC. Projects in design without a final approved design shall conform to the DBC.
+
+    </div>
+    <div class="ru" markdown>
+
+    Проекты в стадии проектирования или строительства, имеющие окончательно утверждённый проект от уполномоченного органа, не обязаны соответствовать DBC. Проекты в стадии проектирования без окончательно утверждённого проекта обязаны соответствовать DBC.
+
+    </div>
+    </div>
+
+    **Источники**
+
+    - [DBC 2021](https://dda.gov.ae/-/media/DC97EA219133466D908BDEC8A462A2A8.pdf)
+
+    **Какие документы нужно найти**
+
+    - Правила и процедура выдачи разрешения на строительство в Дубае (Dubai Municipality / DDA / Trakhees / DSOA — по зоне участка)
+    - Development Control Regulations (DCR) и «план привязки» (affection plan) участка — на них DBC B.4.2 ссылается как на приоритетные
+    - Перечень чертежей и разделов, подаваемых на разрешение (по каждому органу) ⏳
+
 [← Согласование архитектурного облика](05-ago-agr.md) · [Проверка / экспертиза проекта →](07-ekspertiza.md)

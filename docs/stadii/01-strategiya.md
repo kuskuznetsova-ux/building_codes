@@ -392,4 +392,29 @@
     </div>
 
 
+=== "🇦🇪 ОАЭ (Дубай)"
+
+    ◐ PMP — Preliminary Master Plan (общее видение и стратегия освоения территории; уровень мастер-плана, не здания)
+
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    *en · DDA MPG, гл. ii.1:* The Preliminary Master Plan (PMP) is the first stage in the master plan approval process. It describes the general vision of a project, its goals and objectives. The master planning process consists of three stages: The PMP must provide a comprehensive report of the overall strategy to develop a particular project/area including all proposals for the development land use and the design approach for relevant elements of the built environment. These should reflect the outcomes of a complete and comprehensive assessment of the development potential and constraints. 1) Preliminary Master Plan (PMP); 2) Sign off Sheet (SOS); and 3) Final Master Plan (FMP).
+
+    </div>
+    <div class="ru" markdown>
+
+    Мастер-планирование состоит из трёх стадий: 1) Preliminary Master Plan (PMP); 2) Sign-off Sheet (SOS); 3) Final Master Plan (FMP). PMP — первая стадия согласования: описывает общее видение проекта, цели и задачи; это комплексный отчёт об общей стратегии освоения территории (землепользование, подход к застройке).
+
+    </div>
+    </div>
+
+    **Источники**
+
+    - [DDA MPG](https://dda.gov.ae/-/media/0CDFF6B21C134DD793DA846C3525C17A.pdf)
+
+    **Какие документы нужно найти**
+
+    - Dubai Municipality / DDA: порядок оценки целесообразности и «Initial NOC» для отдельного здания (вне мастер-плана) ⏳
+
 [Подготовка задания →](02-zadanie.md)

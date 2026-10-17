@@ -22,15 +22,34 @@ for (_slug,_c),(_secs,_srcs) in EXT.items():
         _lst.append(('Источники',list(_srcs)))
 OUT=os.path.join(os.path.dirname(os.path.abspath(__file__)),'..','..','docs')
 os.makedirs(OUT+'/stadii',exist_ok=True)
-FLAG={'ru':'🇷🇺 Россия','rs':'🇷🇸 Сербия','eu':'🇪🇺 ЕС (EN 16310)','uk':'🇬🇧 Англия (RIBA 2020)'}
+FLAG={'ru':'🇷🇺 Россия','rs':'🇷🇸 Сербия','eu':'🇪🇺 ЕС (EN 16310)','uk':'🇬🇧 Англия (RIBA 2020)','ae':'🇦🇪 ОАЭ (Дубай)'}
+from ae_stages import AE as AE_ST
 
 # --- страницы стадий
 for n,(slug,name,cells) in enumerate(STAGES,1):
     d=P[slug]
-    md=[f'# {n}. {name}','',f'[← К матрице стадий](../sravnenie/stadii.md) · {d["intro"]}','',
+    md=[f'# 1.{n} {name}','',f'[← К матрице стадий](../sravnenie/stadii.md) · {d["intro"]}','',
         '!!! warning "Статус: черновик"','    Источник каждого раздела указан в конце вкладки. Пометка **⏳** — не сверено. Сербия: по Правилнику 96/2023 (заменил 73/2019) и Закону о планировании и строительстве (ред. до 80/2026).','']
-    for k in ['ru','rs','eu','uk']:
+    for k in ['ru','rs','eu','uk','ae']:
         md.append(f'=== "{FLAG[k]}"'); md.append('')
+        if k=='ae':
+            _t,_src,_items,_need=AE_ST[slug]
+            md.append(f'    {_t}'); md.append('')
+            for _it in _items:
+                md.append('    <div class="pair" markdown>'); md.append('    <div class="orig" markdown>'); md.append('')
+                md.append(f'    *en · {_it[1]}:* {_it[2]}'); md.append('')
+                md.append('    </div>'); md.append('    <div class="ru" markdown>'); md.append('')
+                md.append(f'    {_it[3]}'); md.append('')
+                md.append('    </div>'); md.append('    </div>'); md.append('')
+            if _src:
+                md.append('    **Источники**'); md.append('')
+                for _s in _src: md.append(f'    - {_s}')
+                md.append('')
+            if _need:
+                md.append('    **Какие документы нужно найти**'); md.append('')
+                for _n in _need: md.append(f'    - {_n}')
+                md.append('')
+            continue
         if (slug,k) in TERMS:
             md.append('    **Термины**'); md.append('')
             md.append(f'    | Язык страны ({LANG[k]}) | Русский |'); md.append('    |---|---|')
@@ -72,12 +91,12 @@ for n,(slug,name,cells) in enumerate(STAGES,1):
 rows=[]
 for n,(slug,name,cells) in enumerate(STAGES,1):
     cs=[]
-    for k in ['ru','rs','eu','uk']:
-        t,src=cells[k]
+    for k in ['ru','rs','eu','uk','ae']:
+        t,src=(cells[k] if k!='ae' else (AE_ST[slug][0],AE_ST[slug][1]))
         s=f'[{t}](../stadii/{slug}.md#{k})'+(('<br><small>'+'; '.join(src)+'</small>') if src else '')
         cs.append(s)
     rows.append(f'| {n} | [{name}](../stadii/{slug}.md) | '+' | '.join(cs)+' |')
-matrix='\n'.join(['| № | Сквозная стадия | 🇷🇺 Россия | 🇷🇸 Сербия | 🇪🇺 ЕС (EN 16310) | 🇬🇧 Англия (RIBA 2020) |','|--:|---|---|---|---|---|']+rows)
+matrix='\n'.join(['| № | Сквозная стадия | 🇷🇺 Россия | 🇷🇸 Сербия | 🇪🇺 ЕС (EN 16310) | 🇬🇧 Англия (RIBA 2020) | 🇦🇪 ОАЭ (Дубай) |','|--:|---|---|---|---|---|---|']+rows)
 p=OUT+'/sravnenie/stadii.md'; s=open(p).read()
 i=s.index('<div class="matrix" markdown>'); j=s.index('</div>',i)
 s=s[:i]+'<div class="matrix" markdown>\n\n'+matrix+'\n\n'+s[j:]
