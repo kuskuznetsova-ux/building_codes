@@ -10,7 +10,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *ru · СанПиН 1.2.3685-21, табл. 5.58 (жилые здания):* <small class="actual">актуально на момент публикации 08.10.26</small>
+    *ru · СанПиН 1.2.3685-21, табл. 5.58 (жилые здания):* <small class="actual">актуально на момент публикации 17.10.26</small>
 
     | Помещения | Зона | Продолжительность, не менее | Период |
     |---|---|---|---|
@@ -32,7 +32,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *ru · СанПиН 1.2.3685-21, п. 165–166:* <small class="actual">актуально на момент публикации 08.10.26</small> 165. Расчет продолжительности инсоляции выполняется по инсоляционным графикам или по солнечным картам. 166. Допускается прерывистость инсоляции, при которой один из периодов должен быть не менее 1 ч. При этом суммарная продолжительность нормируемой инсоляции должна увеличиваться на 0,5 ч соответственно для каждой зоны (табл. 5.58).
+    *ru · СанПиН 1.2.3685-21, п. 165–166:* <small class="actual">актуально на момент публикации 17.10.26</small> 165. Расчет продолжительности инсоляции выполняется по инсоляционным графикам или по солнечным картам. 166. Допускается прерывистость инсоляции, при которой один из периодов должен быть не менее 1 ч. При этом суммарная продолжительность нормируемой инсоляции должна увеличиваться на 0,5 ч соответственно для каждой зоны (табл. 5.58).
 
     </div>
     <div class="ru" markdown>
@@ -45,7 +45,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *ru · СанПиН 1.2.3685-21, табл. 5.59 (общественные здания):* <small class="actual">актуально на момент публикации 08.10.26</small>
+    *ru · СанПиН 1.2.3685-21, табл. 5.59 (общественные здания):* <small class="actual">актуально на момент публикации 17.10.26</small>
 
     | Помещения | Зона | Продолжительность, не менее | Период |
     |---|---|---|---|
@@ -64,7 +64,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *ru · СанПиН 1.2.3685-21, п. 168:* <small class="actual">актуально на момент публикации 08.10.26</small> 168. Допускается отсутствие инсоляции в учебных кабинетах информатики, физики, химии, рисования и черчения.
+    *ru · СанПиН 1.2.3685-21, п. 168:* <small class="actual">актуально на момент публикации 17.10.26</small> 168. Допускается отсутствие инсоляции в учебных кабинетах информатики, физики, химии, рисования и черчения.
 
     </div>
     <div class="ru" markdown>
@@ -77,7 +77,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *ru · СанПиН 1.2.3685-21, табл. 5.60 (территории):* <small class="actual">актуально на момент публикации 08.10.26</small>
+    *ru · СанПиН 1.2.3685-21, табл. 5.60 (территории):* <small class="actual">актуально на момент публикации 17.10.26</small>
 
     | Территории | Зона | Совокупная продолжительность, не менее | Период |
     |---|---|---|---|
@@ -96,7 +96,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *ru · СП 42.13330.2026, п. 16.15:* <small class="actual">актуально на момент публикации 08.10.26</small> 16.15 Размещение жилых и общественных зданий должно обеспечивать продолжительность инсоляции помещений и территорий в соответствии с требованиями, приведенными в [17] , [18] .
+    *ru · СП 42.13330.2026, п. 16.15:* <small class="actual">актуально на момент публикации 17.10.26</small> 16.15 Размещение жилых и общественных зданий должно обеспечивать продолжительность инсоляции помещений и территорий в соответствии с требованиями, приведенными в [17] , [18] .
 
     </div>
     <div class="ru" markdown>
@@ -118,7 +118,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *sr · Pravilnik 22/2015, čl. 55 (ст. 5):* <small class="actual">актуально на момент публикации 08.10.26</small> Višespratni slobodnostojeći objekat ne može zaklanjati direktno osunčanje drugom objektu više od polovine trajanja direktnog osunčanja.
+    *sr · Pravilnik 22/2015, čl. 55 (ст. 5):* <small class="actual">актуально на момент публикации 17.10.26</small> Višespratni slobodnostojeći objekat ne može zaklanjati direktno osunčanje drugom objektu više od polovine trajanja direktnog osunčanja.
 
     </div>
     <div class="ru" markdown>
@@ -154,7 +154,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *en · Lichfields о BS EN 17037 (солнечный свет):* <small class="actual">актуально на момент публикации 08.10.26</small> Under the BS EN 17037 guidance, sunlight amenity is tested on any date between February 1 st and March 21 st for spaces receiving sun beams (i.e. those facing within 90 degrees of due south). The test determines the possible sunlight duration for that day: minimum being 1.5 hours, medium being 3.0 hours, and high exposure being 4.0 hours.
+    *en · Lichfields о BS EN 17037 (солнечный свет):* <small class="actual">актуально на момент публикации 17.10.26</small> Under the BS EN 17037 guidance, sunlight amenity is tested on any date between February 1 st and March 21 st for spaces receiving sun beams (i.e. those facing within 90 degrees of due south). The test determines the possible sunlight duration for that day: minimum being 1.5 hours, medium being 3.0 hours, and high exposure being 4.0 hours.
 
     </div>
     <div class="ru" markdown>
@@ -167,7 +167,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *en · Lichfields о BS EN 17037 (дневной свет):* <small class="actual">актуально на момент публикации 08.10.26</small> For the United Kingdom the target minimum, medium and high daylight factor (D) values are set at 2.1%, 3.5% and 5.0% respectively.
+    *en · Lichfields о BS EN 17037 (дневной свет):* <small class="actual">актуально на момент публикации 17.10.26</small> For the United Kingdom the target minimum, medium and high daylight factor (D) values are set at 2.1%, 3.5% and 5.0% respectively.
 
     </div>
     <div class="ru" markdown>
@@ -182,7 +182,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *en · Lichfields о BRE 209 (редакция 2022):* <small class="actual">актуально на момент публикации 08.10.26</small> The revised BRE Report is a guidance document giving advice on the interpretation of the recommendations given in both British Standard BS EN 17037 and CIBSE guide LG10.
+    *en · Lichfields о BRE 209 (редакция 2022):* <small class="actual">актуально на момент публикации 17.10.26</small> The revised BRE Report is a guidance document giving advice on the interpretation of the recommendations given in both British Standard BS EN 17037 and CIBSE guide LG10.
 
     </div>
     <div class="ru" markdown>
@@ -195,7 +195,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *en · Lichfields о BS EN 17037 (солнечный свет):* <small class="actual">актуально на момент публикации 08.10.26</small> Under the BS EN 17037 guidance, sunlight amenity is tested on any date between February 1 st and March 21 st for spaces receiving sun beams (i.e. those facing within 90 degrees of due south). The test determines the possible sunlight duration for that day: minimum being 1.5 hours, medium being 3.0 hours, and high exposure being 4.0 hours.
+    *en · Lichfields о BS EN 17037 (солнечный свет):* <small class="actual">актуально на момент публикации 17.10.26</small> Under the BS EN 17037 guidance, sunlight amenity is tested on any date between February 1 st and March 21 st for spaces receiving sun beams (i.e. those facing within 90 degrees of due south). The test determines the possible sunlight duration for that day: minimum being 1.5 hours, medium being 3.0 hours, and high exposure being 4.0 hours.
 
     </div>
     <div class="ru" markdown>
@@ -211,6 +211,47 @@
 
 === "🇦🇪 ОАЭ (Дубай)"
 
-    ⏳ Не сверено: Dubai Building Code и UAE Fire and Life Safety Code (Civil Defence) недоступны для скачивания; по пожарной безопасности и градостроительству ОАЭ в портал пока ничего не вошло. Раздел «Доступная среда» по Дубаю — см. [7. Доступная среда](../dostupnaya/index.md).
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    *en · DBC 2021, B.6.5.2.1:* <small class="actual">актуально на момент публикации 17.10.26</small> Residential and hotel Living, bedroom spaces (excluding kitchen area) 10% Educational Schools, nurseries and kindergartens – classrooms 10% Assembly Mosques 10% (percentage of window net glazing area to room area) Table B.8 Minimum percentage of window to floor area
+
+    </div>
+    <div class="ru" markdown>
+
+    Residential and hotel: жилые комнаты и спальни (кроме кухни) — минимальная площадь остекления 10 % (отношение чистой площади остекления окна к площади комнаты). Табл. B.8.
+
+    </div>
+    </div>
+
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    *en · DBC 2021, B.6.5.2.1:* <small class="actual">актуально на момент публикации 17.10.26</small> Lux levels from daylight shall achieve a minimum of 150 lux in bedrooms and living rooms.
+
+    </div>
+    <div class="ru" markdown>
+
+    Освещённость от дневного света — не менее 150 лк в спальнях и жилых комнатах (при обосновании моделированием допускается уменьшать минимальный процент проёмов).
+
+    </div>
+    </div>
+
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    *en · DBC 2021, B.6.5.2.2:* <small class="actual">актуально на момент публикации 17.10.26</small> For habitable spaces to receive adequate natural light through windows, the room depth should not exceed three times the width of the wall in which the window is located
+
+    </div>
+    <div class="ru" markdown>
+
+    Чтобы жилые помещения получали достаточно естественного света через окна, глубина комнаты не должна превышать трёх ширин стены, в которой расположено окно.
+
+    </div>
+    </div>
+
+    **Источники**
+
+    - [DBC 2021, B.6.5.2](https://dda.gov.ae/-/media/DC97EA219133466D908BDEC8A462A2A8.pdf)
 
 [Расстояния между зданиями (генплан и планировка) →](razryvy-genplan.md)

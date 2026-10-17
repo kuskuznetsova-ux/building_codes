@@ -56,3 +56,10 @@
 | key | file | URL |
 |---|---|---|
 | sp7 | sp7/sp7.txt | PDF «Техэксперт» (с изм. 1–3), предоставлен пользователем; публичную ссылку не подтверждали. СП 59 — копия https://tiflocentre.ru/documents/sp59-13330-2020.php (с изм. 1–4), текст читался по PDF пользователя |
+
+## ОАЭ (Дубай) — aedata.py
+| key | file | URL |
+|---|---|---|
+| dbc | ae2/dbc_r.txt | https://dda.gov.ae/-/media/DC97EA219133466D908BDEC8A462A2A8.pdf (Dubai Building Code 2021; `pdftotext` БЕЗ -layout; 32 МБ) |
+| mpg | ae2/mpg_r.txt | https://dda.gov.ae/-/media/0CDFF6B21C134DD793DA846C3525C17A.pdf (DDA Master Planning Guidelines) |
+Страница со списком кодов DDA: https://dda.gov.ae/en/planning-development/codes-and-guidelines. ADIBC 2013 (Абу-Даби, dmt.gov.ae) блокируется сетевой политикой сессии (502) — нужен от пользователя.
