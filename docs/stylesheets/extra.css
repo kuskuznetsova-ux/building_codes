@@ -71,3 +71,13 @@
 .col-toggle input { vertical-align: middle; margin-right: .15em; }
 /* приписка об актуальности нормы */
 .md-typeset .actual { color: #c62828; font-size: .58rem; font-weight: 400; font-style: normal; margin-left: .25em; white-space: nowrap; }
+
+/* серые «плашки»: ячейка матрицы целиком кликабельна, внизу подсказка «Далее →» */
+.matrix table:not([class]) { border-collapse: separate; border-spacing: 5px; border: 0; }
+.matrix table:not([class]) th { border: 0; }
+.matrix table:not([class]) td { border: 0; }
+.matrix table:not([class]) td:has(a.more) { background: var(--md-code-bg-color); border-radius: .45rem; position: relative; padding: .6em .7em; vertical-align: top; transition: background .15s; }
+.matrix table:not([class]) td:has(a.more):hover { background: var(--md-accent-fg-color--transparent); }
+.matrix table:not([class]) td:has(a.more) small a { position: relative; z-index: 1; color: var(--md-default-fg-color--light); }
+.matrix table:not([class]) td:has(a.more) a.more { display: inline-block; margin-top: .45em; font-size: .9em; font-weight: 600; color: var(--md-typeset-a-color); text-decoration: none; }
+.matrix table:not([class]) td:has(a.more) a.more::after { content: ""; position: absolute; inset: 0; border-radius: .45rem; }

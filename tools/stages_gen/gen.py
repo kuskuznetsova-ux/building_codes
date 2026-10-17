@@ -93,7 +93,7 @@ for n,(slug,name,cells) in enumerate(STAGES,1):
     cs=[]
     for k in ['ru','rs','eu','uk','ae']:
         t,src=(cells[k] if k!='ae' else (AE_ST[slug][0],AE_ST[slug][1]))
-        s=f'[{t}](../stadii/{slug}.md#{k})'+(('<br><small>'+'; '.join(src)+'</small>') if src else '')
+        s=t+(('<br><small>'+'; '.join(src)+'</small>') if src else '')+f'<br>[Далее →](../stadii/{slug}.md#{k}){{ .more }}'
         cs.append(s)
     rows.append(f'| {n} | [{name}](../stadii/{slug}.md) | '+' | '.join(cs)+' |')
 matrix='\n'.join(['| № | Сквозная стадия | 🇷🇺 Россия | 🇷🇸 Сербия | 🇪🇺 ЕС (EN 16310) | 🇬🇧 Англия (RIBA 2020) | 🇦🇪 ОАЭ (Дубай) |','|--:|---|---|---|---|---|---|']+rows)
