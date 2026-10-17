@@ -72,12 +72,13 @@
 /* приписка об актуальности нормы */
 .md-typeset .actual { color: #c62828; font-size: .58rem; font-weight: 400; font-style: normal; margin-left: .25em; white-space: nowrap; }
 
-/* серые «плашки»: ячейка матрицы целиком кликабельна, внизу подсказка «Далее →» */
+/* серые «плашки»: ячейка матрицы кликабельна, внизу справа — «Далее» со стрелкой */
 .matrix table:not([class]) { border-collapse: separate; border-spacing: 5px; border: 0; }
-.matrix table:not([class]) th { border: 0; }
-.matrix table:not([class]) td { border: 0; }
-.matrix table:not([class]) td:has(a.more) { background: var(--md-code-bg-color); border-radius: .45rem; position: relative; padding: .6em .7em; vertical-align: top; transition: background .15s; }
+.matrix table:not([class]) th, .matrix table:not([class]) td { border: 0; }
+.matrix table:not([class]) td:has(a.more) { background: var(--md-code-bg-color); border-radius: .45rem; position: relative; padding: .6em .7em 2.3em; vertical-align: top; cursor: pointer; transition: background .15s; }
 .matrix table:not([class]) td:has(a.more):hover { background: var(--md-accent-fg-color--transparent); }
-.matrix table:not([class]) td:has(a.more) small a { position: relative; z-index: 1; color: var(--md-default-fg-color--light); }
-.matrix table:not([class]) td:has(a.more) a.more { display: inline-block; margin-top: .45em; font-size: .9em; font-weight: 600; color: var(--md-typeset-a-color); text-decoration: none; }
-.matrix table:not([class]) td:has(a.more) a.more::after { content: ""; position: absolute; inset: 0; border-radius: .45rem; }
+.matrix table:not([class]) td:has(a.more) small a { color: var(--md-default-fg-color--light); }
+.matrix table:not([class]) td a.more { position: absolute; right: .8em; bottom: .55em; display: inline-flex; align-items: center; flex-direction: row-reverse; font-size: .95em; font-weight: 700; color: var(--md-typeset-a-color); text-decoration: none; }
+.matrix table:not([class]) td a.more::before { content: ""; width: 1.25em; height: 1em; margin-left: .35em; background: currentColor;
+  -webkit-mask: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 16'><path d='M1 8h20M14 1.5L21.5 8L14 14.5' fill='none' stroke='black' stroke-width='3' stroke-linecap='round' stroke-linejoin='round'/></svg>") center/contain no-repeat;
+          mask: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 16'><path d='M1 8h20M14 1.5L21.5 8L14 14.5' fill='none' stroke='black' stroke-width='3' stroke-linecap='round' stroke-linejoin='round'/></svg>") center/contain no-repeat; }

@@ -73,10 +73,10 @@ def matrix(topics,first,pref='',grp=None):
             eud=EU.get((grp,t['slug'])) if k=='eu' else None
             if eud:
                 txt='<br>'.join(f'**{cc}** {short(x)}' for cc,x in [('DE',txt)]+[(c,eud[c][0]) for c in ('FR','AT','ES')])
-                cs.append(txt+f'<br>[Далее →]({t["slug"]}.md#{k}){{ .more }}'); continue
+                cs.append(txt+f'<br>[Далее]({t["slug"]}.md#{k}){{ .more }}'); continue
             s=txt
             if src: s+='<br><small>'+'; '.join(src)+'</small>'
-            s+=f'<br>[Далее →]({t["slug"]}.md#{k}){{ .more }}'
+            s+=f'<br>[Далее]({t["slug"]}.md#{k}){{ .more }}'
             cs.append(s)
         rows.append(f'| [**{pref}{ti+1} {t["title"]}**]({t["slug"]}.md) | '+' | '.join(cs)+' |')
     return '\n'.join(rows)
