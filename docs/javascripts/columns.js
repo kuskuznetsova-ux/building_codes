@@ -66,5 +66,12 @@
     });
     apply(hidden);
   }
+  // клик по плашке ведёт по ссылке «Далее»
+  document.addEventListener('click', function (ev) {
+    if (ev.target.closest('a')) return;
+    var td = ev.target.closest('td');
+    var more = td && td.querySelector('a.more');
+    if (more) window.location.href = more.href;
+  });
   if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', init); else init();
 })();
