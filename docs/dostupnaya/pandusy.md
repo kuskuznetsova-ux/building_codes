@@ -75,12 +75,10 @@
 
     <div class="matrix fire eu" markdown>
 
-    | Страна | Нормативный документ | Что установлено |
-    |---|---|---|
-    | 🇩🇪 Германия (и общее по ЕС) | МВО, МХР и др. (типовые акты земель) | ⏳ не сверено (DIN 18040 — платный стандарт, не читался) |
-    | 🇫🇷 Франция | Франция: [Arrêté 31.01.1986](https://medias.amf.asso.fr/docs/DOCUMENTS/AMF_20070607_arrete_31_01_86_incendie.pdf) (жилые дома, копия AMF; консолидированная редакция Légifrance не сверена ⏳) | ⏳ не сверено: по данным поисковой выдачи — жильё: arrêté du 24.12.2015, общественные здания (ERP): arrêté du 20.04.2017; тексты получить не удалось (Légifrance недоступен) |
-    | 🇦🇹 Австрия | Австрия: OIB-Richtlinien, ред. май 2023 ([RL 2](https://www.propellets.at/assets/upload/pelletlagerung/oib-rl-2-ausgabe-mai-2023.pdf), [RL 2.2](https://din-notlicht.com/wp-content/uploads/oib-rl-2.2-ausgabe-mai-2023.pdf), [RL 2.3](https://din-notlicht.com/wp-content/uploads/oib-rl-2.3-ausgabe-mai-2023.pdf), [RL 4](https://glas-gasperlmair.at/wp-content/uploads/2023/10/oib-rl_4_ausgabe_mai_2023.pdf), [Begriffsbestimmungen](https://din-notlicht.com/wp-content/uploads/oib-rl-begriffsbestimmungen-ausgabe-mai-2023.pdf)) | Пандус ≤10 %; для безбарьерных зданий ≤6 %, поперечный уклон не допускается, площадки ≥1,20 м (RL 4, п. 2.2) |
-    | 🇪🇸 Испания | Испания: [CTE DB-SI](https://www.codigotecnico.org/pdf/Documentos/SI/DBSI.pdf) | Пандусы на доступных маршрутах: ≤10 % при длине <3 м, ≤8 % при <6 м, ≤6 % — в остальных случаях (SUA 1, п. 4.3.1) |
+    | | 🇩🇪 Германия | 🇫🇷 Франция | 🇦🇹 Австрия | 🇪🇸 Испания |
+    |---|---|---|---|---|
+    | **Нормативный документ** | МВО, МХР и др. (типовые акты земель) | Франция: [Arrêté 31.01.1986](https://medias.amf.asso.fr/docs/DOCUMENTS/AMF_20070607_arrete_31_01_86_incendie.pdf) (жилые дома, копия AMF; консолидированная редакция Légifrance не сверена ⏳) | Австрия: OIB-Richtlinien, ред. май 2023 ([RL 2](https://www.propellets.at/assets/upload/pelletlagerung/oib-rl-2-ausgabe-mai-2023.pdf), [RL 2.2](https://din-notlicht.com/wp-content/uploads/oib-rl-2.2-ausgabe-mai-2023.pdf), [RL 2.3](https://din-notlicht.com/wp-content/uploads/oib-rl-2.3-ausgabe-mai-2023.pdf), [RL 4](https://glas-gasperlmair.at/wp-content/uploads/2023/10/oib-rl_4_ausgabe_mai_2023.pdf), [Begriffsbestimmungen](https://din-notlicht.com/wp-content/uploads/oib-rl-begriffsbestimmungen-ausgabe-mai-2023.pdf)) | Испания: [CTE DB-SI](https://www.codigotecnico.org/pdf/Documentos/SI/DBSI.pdf) |
+    | **Что установлено** | ⏳ не сверено (DIN 18040 — платный стандарт, не читался) | ⏳ не сверено: по данным поисковой выдачи — жильё: arrêté du 24.12.2015, общественные здания (ERP): arrêté du 20.04.2017; тексты получить не удалось (Légifrance недоступен) | Пандус ≤10 %; для безбарьерных зданий ≤6 %, поперечный уклон не допускается, площадки ≥1,20 м (RL 4, п. 2.2) | Пандусы на доступных маршрутах: ≤10 % при длине <3 м, ≤8 % при <6 м, ≤6 % — в остальных случаях (SUA 1, п. 4.3.1) |
 
     </div>
 

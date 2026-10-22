@@ -82,3 +82,9 @@
 .matrix table:not([class]) td a.more::before { content: ""; width: 1.25em; height: 1em; margin-left: .35em; background: currentColor;
   -webkit-mask: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 16'><path d='M1 8h20M14 1.5L21.5 8L14 14.5' fill='none' stroke='black' stroke-width='3' stroke-linecap='round' stroke-linejoin='round'/></svg>") center/contain no-repeat;
           mask: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 16'><path d='M1 8h20M14 1.5L21.5 8L14 14.5' fill='none' stroke='black' stroke-width='3' stroke-linecap='round' stroke-linejoin='round'/></svg>") center/contain no-repeat; }
+
+/* таблица стран ЕС: страны — столбцы */
+.matrix.eu table:not([class]) { table-layout: fixed; }
+.matrix.eu table:not([class]) th:first-child, .matrix.eu table:not([class]) td:first-child { width: 7rem; text-align: left; }
+.matrix.eu table:not([class]) td { vertical-align: top; }
+.md-typeset .matrix.eu table td { color: var(--md-default-fg-color); }

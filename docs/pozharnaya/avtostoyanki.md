@@ -190,12 +190,10 @@
 
     <div class="matrix fire eu" markdown>
 
-    | Страна | Нормативный документ | Что установлено |
-    |---|---|---|
-    | 🇩🇪 Германия (и общее по ЕС) | [M-GarStVO §§ 2, 12, 14, 17](https://bauministerkonferenz.de/Dokumente/42323132.pdf) | Пример — Германия (M-GarStVO): малые ≤100 м², средние до 1000 м², большие >1000 м²; 2 пути спасения; до выхода 50 м (открытые) / 35 м (закрытые); отсеки 5000 / 2500 м² (§§ 1, 12, 14) |
-    | 🇫🇷 Франция | Франция: [Arrêté 31.01.1986](https://medias.amf.asso.fr/docs/DOCUMENTS/AMF_20070607_arrete_31_01_86_incendie.pdf) (жилые дома, копия AMF; консолидированная редакция Légifrance не сверена ⏳) | Закрытые стоянки при жилых домах площадью от 100 до 6 000 м² — в рамках arrêté (ст. 1); детали ⏳ |
-    | 🇦🇹 Австрия | Австрия: OIB-Richtlinien, ред. май 2023 ([RL 2](https://www.propellets.at/assets/upload/pelletlagerung/oib-rl-2-ausgabe-mai-2023.pdf), [RL 2.2](https://din-notlicht.com/wp-content/uploads/oib-rl-2.2-ausgabe-mai-2023.pdf), [RL 2.3](https://din-notlicht.com/wp-content/uploads/oib-rl-2.3-ausgabe-mai-2023.pdf), [RL 4](https://glas-gasperlmair.at/wp-content/uploads/2023/10/oib-rl_4_ausgabe_mai_2023.pdf), [Begriffsbestimmungen](https://din-notlicht.com/wp-content/uploads/oib-rl-begriffsbestimmungen-ausgabe-mai-2023.pdf)) | Гаражи — OIB-RL 2.2: путь до выхода ≤40 м; доп. независимый путь на каждом этаже (п. 5.5) |
-    | 🇪🇸 Испания | Испания: [CTE DB-SI](https://www.codigotecnico.org/pdf/Documentos/SI/DBSI.pdf) | Стоянка — отдельный сектор при >100 м²; путь до выхода ≤35 м (SI 1, SI 3) |
+    | | 🇩🇪 Германия | 🇫🇷 Франция | 🇦🇹 Австрия | 🇪🇸 Испания |
+    |---|---|---|---|---|
+    | **Нормативный документ** | [M-GarStVO §§ 2, 12, 14, 17](https://bauministerkonferenz.de/Dokumente/42323132.pdf) | Франция: [Arrêté 31.01.1986](https://medias.amf.asso.fr/docs/DOCUMENTS/AMF_20070607_arrete_31_01_86_incendie.pdf) (жилые дома, копия AMF; консолидированная редакция Légifrance не сверена ⏳) | Австрия: OIB-Richtlinien, ред. май 2023 ([RL 2](https://www.propellets.at/assets/upload/pelletlagerung/oib-rl-2-ausgabe-mai-2023.pdf), [RL 2.2](https://din-notlicht.com/wp-content/uploads/oib-rl-2.2-ausgabe-mai-2023.pdf), [RL 2.3](https://din-notlicht.com/wp-content/uploads/oib-rl-2.3-ausgabe-mai-2023.pdf), [RL 4](https://glas-gasperlmair.at/wp-content/uploads/2023/10/oib-rl_4_ausgabe_mai_2023.pdf), [Begriffsbestimmungen](https://din-notlicht.com/wp-content/uploads/oib-rl-begriffsbestimmungen-ausgabe-mai-2023.pdf)) | Испания: [CTE DB-SI](https://www.codigotecnico.org/pdf/Documentos/SI/DBSI.pdf) |
+    | **Что установлено** | Пример — Германия (M-GarStVO): малые ≤100 м², средние до 1000 м², большие >1000 м²; 2 пути спасения; до выхода 50 м (открытые) / 35 м (закрытые); отсеки 5000 / 2500 м² (§§ 1, 12, 14) | Закрытые стоянки при жилых домах площадью от 100 до 6 000 м² — в рамках arrêté (ст. 1); детали ⏳ | Гаражи — OIB-RL 2.2: путь до выхода ≤40 м; доп. независимый путь на каждом этаже (п. 5.5) | Стоянка — отдельный сектор при >100 м²; путь до выхода ≤35 м (SI 1, SI 3) |
 
     </div>
 

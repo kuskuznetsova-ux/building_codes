@@ -93,12 +93,10 @@
 
     <div class="matrix fire eu" markdown>
 
-    | Страна | Нормативный документ | Что установлено |
-    |---|---|---|
-    | 🇩🇪 Германия (и общее по ЕС) | [МВО § 2](https://bvpi.de/bvpi/downloads/MBO.pdf?m=1749800306) | Нет единой системы. Пример — Германия: классы зданий 1–5 по высоте (до 7 / 13 м) и числу единиц использования; «особые здания» (Sonderbauten) — отдельно (МВО § 2(3), (4)) |
-    | 🇫🇷 Франция | Франция: [Arrêté 31.01.1986](https://medias.amf.asso.fr/docs/DOCUMENTS/AMF_20070607_arrete_31_01_86_incendie.pdf) (жилые дома, копия AMF; консолидированная редакция Légifrance не сверена ⏳) | 1–4 «семьи» жилых зданий по этажности и высоте пола верхней квартиры: 3-я — до 28 м, 4-я — 28–50 м; выше 50 м — особые правила (IGH) |
-    | 🇦🇹 Австрия | Австрия: OIB-Richtlinien, ред. май 2023 ([RL 2](https://www.propellets.at/assets/upload/pelletlagerung/oib-rl-2-ausgabe-mai-2023.pdf), [RL 2.2](https://din-notlicht.com/wp-content/uploads/oib-rl-2.2-ausgabe-mai-2023.pdf), [RL 2.3](https://din-notlicht.com/wp-content/uploads/oib-rl-2.3-ausgabe-mai-2023.pdf), [RL 4](https://glas-gasperlmair.at/wp-content/uploads/2023/10/oib-rl_4_ausgabe_mai_2023.pdf), [Begriffsbestimmungen](https://din-notlicht.com/wp-content/uploads/oib-rl-begriffsbestimmungen-ausgabe-mai-2023.pdf)) | Классы GK1–GK5 по числу надземных этажей и «Fluchtniveau» (≤7 / ≤11 / ≤22 м), площади и числу квартир; выше 22 м — отдельная RL 2.3 |
-    | 🇪🇸 Испания | Испания: [CTE DB-SI](https://www.codigotecnico.org/pdf/Documentos/SI/DBSI.pdf) | Классов зданий нет: требования зависят от назначения (uso, напр. Residencial Vivienda) и «высоты эвакуации» (ступени 15 / 28 / 50 / 80 м) |
+    | | 🇩🇪 Германия | 🇫🇷 Франция | 🇦🇹 Австрия | 🇪🇸 Испания |
+    |---|---|---|---|---|
+    | **Нормативный документ** | [МВО § 2](https://bvpi.de/bvpi/downloads/MBO.pdf?m=1749800306) | Франция: [Arrêté 31.01.1986](https://medias.amf.asso.fr/docs/DOCUMENTS/AMF_20070607_arrete_31_01_86_incendie.pdf) (жилые дома, копия AMF; консолидированная редакция Légifrance не сверена ⏳) | Австрия: OIB-Richtlinien, ред. май 2023 ([RL 2](https://www.propellets.at/assets/upload/pelletlagerung/oib-rl-2-ausgabe-mai-2023.pdf), [RL 2.2](https://din-notlicht.com/wp-content/uploads/oib-rl-2.2-ausgabe-mai-2023.pdf), [RL 2.3](https://din-notlicht.com/wp-content/uploads/oib-rl-2.3-ausgabe-mai-2023.pdf), [RL 4](https://glas-gasperlmair.at/wp-content/uploads/2023/10/oib-rl_4_ausgabe_mai_2023.pdf), [Begriffsbestimmungen](https://din-notlicht.com/wp-content/uploads/oib-rl-begriffsbestimmungen-ausgabe-mai-2023.pdf)) | Испания: [CTE DB-SI](https://www.codigotecnico.org/pdf/Documentos/SI/DBSI.pdf) |
+    | **Что установлено** | Нет единой системы. Пример — Германия: классы зданий 1–5 по высоте (до 7 / 13 м) и числу единиц использования; «особые здания» (Sonderbauten) — отдельно (МВО § 2(3), (4)) | 1–4 «семьи» жилых зданий по этажности и высоте пола верхней квартиры: 3-я — до 28 м, 4-я — 28–50 м; выше 50 м — особые правила (IGH) | Классы GK1–GK5 по числу надземных этажей и «Fluchtniveau» (≤7 / ≤11 / ≤22 м), площади и числу квартир; выше 22 м — отдельная RL 2.3 | Классов зданий нет: требования зависят от назначения (uso, напр. Residencial Vivienda) и «высоты эвакуации» (ступени 15 / 28 / 50 / 80 м) |
 
     </div>
 

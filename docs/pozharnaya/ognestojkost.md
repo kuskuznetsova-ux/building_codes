@@ -138,12 +138,10 @@
 
     <div class="matrix fire eu" markdown>
 
-    | Страна | Нормативный документ | Что установлено |
-    |---|---|---|
-    | 🇩🇪 Германия (и общее по ЕС) | [CPR 305/2011, прил. I](https://www.legislation.gov.uk/eur/2011/305/annex/I) | CPR: несущая способность сохраняется заданное время (прил. I, п. 2(a)); периоды — национальное право; классы по EN 13501-2 |
-    | 🇫🇷 Франция | Франция: [Arrêté 31.01.1986](https://medias.amf.asso.fr/docs/DOCUMENTS/AMF_20070607_arrete_31_01_86_incendie.pdf) (жилые дома, копия AMF; консолидированная редакция Légifrance не сверена ⏳) | Несущие вертикальные элементы: 1-я семья — ¼ ч, 2-я — ½ ч, 3-я — 1 ч, 4-я — 1½ ч (ст. 5) |
-    | 🇦🇹 Австрия | Австрия: OIB-Richtlinien, ред. май 2023 ([RL 2](https://www.propellets.at/assets/upload/pelletlagerung/oib-rl-2-ausgabe-mai-2023.pdf), [RL 2.2](https://din-notlicht.com/wp-content/uploads/oib-rl-2.2-ausgabe-mai-2023.pdf), [RL 2.3](https://din-notlicht.com/wp-content/uploads/oib-rl-2.3-ausgabe-mai-2023.pdf), [RL 4](https://glas-gasperlmair.at/wp-content/uploads/2023/10/oib-rl_4_ausgabe_mai_2023.pdf), [Begriffsbestimmungen](https://din-notlicht.com/wp-content/uploads/oib-rl-begriffsbestimmungen-ausgabe-mai-2023.pdf)) | Табл. 1b: R 30 … R 90 по классам GK1–GK5; для GK5 выше 6 этажей — R 90 и A2 ⏳ значения таблицы — по тексту PDF |
-    | 🇪🇸 Испания | Испания: [CTE DB-SI](https://www.codigotecnico.org/pdf/Documentos/SI/DBSI.pdf) | Жильё (Residencial Vivienda): R 60 при высоте эвакуации ≤15 м, R 90 при ≤28 м, R 120 выше; подвалы — R 120 (Tabla 3.1 SI 6) |
+    | | 🇩🇪 Германия | 🇫🇷 Франция | 🇦🇹 Австрия | 🇪🇸 Испания |
+    |---|---|---|---|---|
+    | **Нормативный документ** | [CPR 305/2011, прил. I](https://www.legislation.gov.uk/eur/2011/305/annex/I) | Франция: [Arrêté 31.01.1986](https://medias.amf.asso.fr/docs/DOCUMENTS/AMF_20070607_arrete_31_01_86_incendie.pdf) (жилые дома, копия AMF; консолидированная редакция Légifrance не сверена ⏳) | Австрия: OIB-Richtlinien, ред. май 2023 ([RL 2](https://www.propellets.at/assets/upload/pelletlagerung/oib-rl-2-ausgabe-mai-2023.pdf), [RL 2.2](https://din-notlicht.com/wp-content/uploads/oib-rl-2.2-ausgabe-mai-2023.pdf), [RL 2.3](https://din-notlicht.com/wp-content/uploads/oib-rl-2.3-ausgabe-mai-2023.pdf), [RL 4](https://glas-gasperlmair.at/wp-content/uploads/2023/10/oib-rl_4_ausgabe_mai_2023.pdf), [Begriffsbestimmungen](https://din-notlicht.com/wp-content/uploads/oib-rl-begriffsbestimmungen-ausgabe-mai-2023.pdf)) | Испания: [CTE DB-SI](https://www.codigotecnico.org/pdf/Documentos/SI/DBSI.pdf) |
+    | **Что установлено** | CPR: несущая способность сохраняется заданное время (прил. I, п. 2(a)); периоды — национальное право; классы по EN 13501-2 | Несущие вертикальные элементы: 1-я семья — ¼ ч, 2-я — ½ ч, 3-я — 1 ч, 4-я — 1½ ч (ст. 5) | Табл. 1b: R 30 … R 90 по классам GK1–GK5; для GK5 выше 6 этажей — R 90 и A2 ⏳ значения таблицы — по тексту PDF | Жильё (Residencial Vivienda): R 60 при высоте эвакуации ≤15 м, R 90 при ≤28 м, R 120 выше; подвалы — R 120 (Tabla 3.1 SI 6) |
 
     </div>
 

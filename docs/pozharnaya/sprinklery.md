@@ -83,12 +83,10 @@
 
     <div class="matrix fire eu" markdown>
 
-    | Страна | Нормативный документ | Что установлено |
-    |---|---|---|
-    | 🇩🇪 Германия (и общее по ЕС) | [МХР, п. 6.3](https://bau.bremen.de/sixcms/media.php/13/MHHR.pdf); [M-GarStVO § 17](https://bauministerkonferenz.de/Dokumente/42323132.pdf) | Общей нормы нет. Германия: в высотных домах АУП обязательны (МХР 6.3.1.1); в больших подземных гаражах — (M-GarStVO § 17(3)); для обычных жилых домов ⏳ |
-    | 🇫🇷 Франция | Франция: [Arrêté 31.01.1986](https://medias.amf.asso.fr/docs/DOCUMENTS/AMF_20070607_arrete_31_01_86_incendie.pdf) (жилые дома, копия AMF; консолидированная редакция Légifrance не сверена ⏳) | В arrêté 1986 для обычного жилья АУП не найдены ⏳ |
-    | 🇦🇹 Австрия | Австрия: OIB-Richtlinien, ред. май 2023 ([RL 2](https://www.propellets.at/assets/upload/pelletlagerung/oib-rl-2-ausgabe-mai-2023.pdf), [RL 2.2](https://din-notlicht.com/wp-content/uploads/oib-rl-2.2-ausgabe-mai-2023.pdf), [RL 2.3](https://din-notlicht.com/wp-content/uploads/oib-rl-2.3-ausgabe-mai-2023.pdf), [RL 4](https://glas-gasperlmair.at/wp-content/uploads/2023/10/oib-rl_4_ausgabe_mai_2023.pdf), [Begriffsbestimmungen](https://din-notlicht.com/wp-content/uploads/oib-rl-begriffsbestimmungen-ausgabe-mai-2023.pdf)) | RL 2.3 (выше 22 м): требования к АУП и водоснабжению (60 мин; для жилья до 32 м — 30 мин) — но где АУП обязательны ⏳ не выяснено |
-    | 🇪🇸 Испания | Испания: [CTE DB-SI](https://www.codigotecnico.org/pdf/Documentos/SI/DBSI.pdf) | АУП обязательна при высоте эвакуации >80 м; при АУП площади секторов можно удвоить, пути — увеличить на 25 % (SI 1, SI 3, SI 4) |
+    | | 🇩🇪 Германия | 🇫🇷 Франция | 🇦🇹 Австрия | 🇪🇸 Испания |
+    |---|---|---|---|---|
+    | **Нормативный документ** | [МХР, п. 6.3](https://bau.bremen.de/sixcms/media.php/13/MHHR.pdf); [M-GarStVO § 17](https://bauministerkonferenz.de/Dokumente/42323132.pdf) | Франция: [Arrêté 31.01.1986](https://medias.amf.asso.fr/docs/DOCUMENTS/AMF_20070607_arrete_31_01_86_incendie.pdf) (жилые дома, копия AMF; консолидированная редакция Légifrance не сверена ⏳) | Австрия: OIB-Richtlinien, ред. май 2023 ([RL 2](https://www.propellets.at/assets/upload/pelletlagerung/oib-rl-2-ausgabe-mai-2023.pdf), [RL 2.2](https://din-notlicht.com/wp-content/uploads/oib-rl-2.2-ausgabe-mai-2023.pdf), [RL 2.3](https://din-notlicht.com/wp-content/uploads/oib-rl-2.3-ausgabe-mai-2023.pdf), [RL 4](https://glas-gasperlmair.at/wp-content/uploads/2023/10/oib-rl_4_ausgabe_mai_2023.pdf), [Begriffsbestimmungen](https://din-notlicht.com/wp-content/uploads/oib-rl-begriffsbestimmungen-ausgabe-mai-2023.pdf)) | Испания: [CTE DB-SI](https://www.codigotecnico.org/pdf/Documentos/SI/DBSI.pdf) |
+    | **Что установлено** | Общей нормы нет. Германия: в высотных домах АУП обязательны (МХР 6.3.1.1); в больших подземных гаражах — (M-GarStVO § 17(3)); для обычных жилых домов ⏳ | В arrêté 1986 для обычного жилья АУП не найдены ⏳ | RL 2.3 (выше 22 м): требования к АУП и водоснабжению (60 мин; для жилья до 32 м — 30 мин) — но где АУП обязательны ⏳ не выяснено | АУП обязательна при высоте эвакуации >80 м; при АУП площади секторов можно удвоить, пути — увеличить на 25 % (SI 1, SI 3, SI 4) |
 
     </div>
 
