@@ -111,6 +111,23 @@ nav:
           - "7.5 Парковка для МГН": dostupnaya/parkovka.md
           - "7.6 Уборные и санузлы для МГН": dostupnaya/ubornye.md
           - "7.7 Жильё: доступные и адаптируемые квартиры": dostupnaya/zhile.md
+  - "8. Общественные здания (СП 118)":
+      - "8. Матрица общественных зданий":
+          - obshchestvennye/index.md
+          - "8.1 Область применения, этажность и классификация": obshchestvennye/oblast.md
+          - "8.2 Высота помещений": obshchestvennye/vysota.md
+          - "8.3 Лестницы в общественных зданиях": obshchestvennye/lestnitsy.md
+          - "8.4 Лифты в общественных зданиях": obshchestvennye/lifty.md
+  - "9. Парковки (СП 113)":
+      - "9. Матрица парковок":
+          - parkovki/index.md
+          - "9.1 Область применения и типы стоянок": parkovki/oblast.md
+          - "9.2 Размеры машино-мест, проездов и площадок": parkovki/razmery.md
+          - "9.3 Высота помещений, рампы и уклоны": parkovki/vysota-rampy.md
+          - "9.4 Встроенные и пристроенные стоянки": parkovki/vstroennye.md
+          - "9.5 Эвакуация из стоянок": parkovki/evakuaciya.md
+          - "9.6 Огнестойкость, этажность и пожарные отсеки": parkovki/ognestojkost.md
+          - "9.7 Противопожарная защита стоянок": parkovki/zashchita.md
   - Как вести портал: contributing.md
 
 validation:
