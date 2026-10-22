@@ -76,3 +76,4 @@
 |---|---|---|
 | sp118 | sp118/sp118.txt | https://tiflocentre.ru/download/sp-118-13330-2022.pdf (изм. 1–5, на 12.12.2024; pdftotext без -layout; в тексте рекламные строки — фильтруются NOISE в qlib.py) |
 | sp113 | sp118/sp113.txt | https://tiflocentre.ru/download/sp_113.13330.2023.pdf (изм. 1, 2, на 18.12.2024) |
+| sp54 | hr2/sp54_c.txt | https://tiflocentre.ru/documents/sp_54.13330.2022.php (СП 54.13330.2022, копия неполная: нет разд. 5.3+) |
