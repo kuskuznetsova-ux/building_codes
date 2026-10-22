@@ -70,3 +70,9 @@
 | adm1 | acc/adm1_r.txt | https://assets.publishing.service.gov.uk/media/5a7f8a82ed915d74e622b17b/BR_PDF_AD_M1_2015_with_2016_amendments_V3.pdf (pdftotext без -layout) |
 | adt | acc/adt.txt | https://assets.publishing.service.gov.uk/media/6901feb971b575684c3cf7c4/ADT_2024_rev16Jun25.pdf |
 Не получены: Франция (arrêté 24.12.2015 жильё, arrêté 20.04.2017 ERP — Légifrance недоступен, префектурные копии отдают rate-limit), Германия DIN 18040 (платный), EN 17210 (платный), ADIBC Абу-Даби (блок сети).
+
+## СП 118 и СП 113 (bdata.py, pkdata.py)
+| key | file | URL |
+|---|---|---|
+| sp118 | sp118/sp118.txt | https://tiflocentre.ru/download/sp-118-13330-2022.pdf (изм. 1–5, на 12.12.2024; pdftotext без -layout; в тексте рекламные строки — фильтруются NOISE в qlib.py) |
+| sp113 | sp118/sp113.txt | https://tiflocentre.ru/download/sp_113.13330.2023.pdf (изм. 1, 2, на 18.12.2024) |

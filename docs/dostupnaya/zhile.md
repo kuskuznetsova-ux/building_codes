@@ -10,7 +10,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *ru · СП 59.13330.2020, п. 7.1.1:* <small class="actual">актуально на момент публикации 17.10.26</small> 7.1.1 При проектировании жилых многоквартирных зданий кроме требований настоящего свода правил следует учитывать требования СП 54.13330. В гостиницах* и общежитиях (кроме общежитий квартирного типа) следует обеспечивать номера и жилые комнаты, доступные для людей группы мобильности М4, и номера, доступные для людей групп мобильности М2, М3; их расчетное число принимают по таблице Б.2 приложения Б, но не менее одного номера (жилой комнаты) для инвалида на кресле-коляске.
+    *ru · СП 59.13330.2020, п. 7.1.1:* <small class="actual">актуально на момент публикации 22.10.26</small> 7.1.1 При проектировании жилых многоквартирных зданий кроме требований настоящего свода правил следует учитывать требования СП 54.13330. В гостиницах* и общежитиях (кроме общежитий квартирного типа) следует обеспечивать номера и жилые комнаты, доступные для людей группы мобильности М4, и номера, доступные для людей групп мобильности М2, М3; их расчетное число принимают по таблице Б.2 приложения Б, но не менее одного номера (жилой комнаты) для инвалида на кресле-коляске.
 
     </div>
     <div class="ru" markdown>
@@ -23,7 +23,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *ru · СП 59.13330.2020, п. 7.1.4:* <small class="actual">актуально на момент публикации 17.10.26</small> 7.1.4 Расстояние от наружной стены до ограждения балкона, лоджии должно быть не менее 1,4 м, высота ограждения в квартирах для инвалидов на кресле-коляске - в пределах от 1,15 до 1,2 м с прозрачным заполнением части ограждения.
+    *ru · СП 59.13330.2020, п. 7.1.4:* <small class="actual">актуально на момент публикации 22.10.26</small> 7.1.4 Расстояние от наружной стены до ограждения балкона, лоджии должно быть не менее 1,4 м, высота ограждения в квартирах для инвалидов на кресле-коляске - в пределах от 1,15 до 1,2 м с прозрачным заполнением части ограждения.
 
     </div>
     <div class="ru" markdown>
@@ -42,7 +42,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *sr · Правилник 22/2015, чл. 19:* <small class="actual">актуально на момент публикации 17.10.26</small> Hodnici, predsoblja i druge pomoćne prostorije su širine najmanje 150 cm i dužine 200 cm bez opreme (jednostavno prilagodljivi stan). Svi prolazi između soba su bez pragova odnosno drugih visinskih razlika. Spavaće, dnevne sobe i prostor za obedovanje i rad u dnevnoj sobi u stanovima su najmanje površine od 9 m , a dužina kraće 2 stranice je najmanje 240 cm.
+    *sr · Правилник 22/2015, чл. 19:* <small class="actual">актуально на момент публикации 22.10.26</small> Hodnici, predsoblja i druge pomoćne prostorije su širine najmanje 150 cm i dužine 200 cm bez opreme (jednostavno prilagodljivi stan). Svi prolazi između soba su bez pragova odnosno drugih visinskih razlika. Spavaće, dnevne sobe i prostor za obedovanje i rad u dnevnoj sobi u stanovima su najmanje površine od 9 m , a dužina kraće 2 stranice je najmanje 240 cm.
 
     </div>
     <div class="ru" markdown>
@@ -76,7 +76,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *de · OIB-RL 4, п. 7.4.1–7.4.2:* <small class="actual">актуально на момент публикации 17.10.26</small> 7.4.1 Allgemein zugängliche Bereiche von barrierefreien Wohngebäuden oder Teilen davon müssen barrierefrei und die Wohnungen anpassbar ausgeführt werden. 7.4.2 Anpassbare Wohnungen müssen so errichtet werden, dass die Anforderungen an die Barrierefreiheit (z.B. Raumeinteilung und Ausstattung der Sanitärräume, Breite der Gänge, Anfahrbereiche oder Türen, die automatisch geöffnet werden können, Errichtung eines Treppenschrägaufzuges mit Rollstuhlplattform in mehrgeschoßigen Wohnungen, Zugang zu Freibereichen, Freilauftürschließer oder kraftunterstützende Antriebe bei Wohnungseingangstüren) bei Bedarf durch bauliche Änderungen leicht erfüllt werden können. Tragende Bauteile sowie Absturzsicherungen bei Freibereichen sind so auszuführen, dass diese bei einer Anpassung nicht verändert werden müssen. Eine Änderung der Elektro- und Sanitärinstallationen darf nur in einem geringfügigen Ausmaß erforderlich sein.
+    *de · OIB-RL 4, п. 7.4.1–7.4.2:* <small class="actual">актуально на момент публикации 22.10.26</small> 7.4.1 Allgemein zugängliche Bereiche von barrierefreien Wohngebäuden oder Teilen davon müssen barrierefrei und die Wohnungen anpassbar ausgeführt werden. 7.4.2 Anpassbare Wohnungen müssen so errichtet werden, dass die Anforderungen an die Barrierefreiheit (z.B. Raumeinteilung und Ausstattung der Sanitärräume, Breite der Gänge, Anfahrbereiche oder Türen, die automatisch geöffnet werden können, Errichtung eines Treppenschrägaufzuges mit Rollstuhlplattform in mehrgeschoßigen Wohnungen, Zugang zu Freibereichen, Freilauftürschließer oder kraftunterstützende Antriebe bei Wohnungseingangstüren) bei Bedarf durch bauliche Änderungen leicht erfüllt werden können. Tragende Bauteile sowie Absturzsicherungen bei Freibereichen sind so auszuführen, dass diese bei einer Anpassung nicht verändert werden müssen. Eine Änderung der Elektro- und Sanitärinstallationen darf nur in einem geringfügigen Ausmaß erforderlich sein.
 
     </div>
     <div class="ru" markdown>
@@ -89,7 +89,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *es · CTE DB-SI, SUA 9, п. 1.2.1:* <small class="actual">актуально на момент публикации 17.10.26</small> 1.2.1 Viviendas accesibles 1 Los edificios de uso Residencial Vivienda dispondrán del número de viviendas accesibles para usua- rios de silla de ruedas y para personas con discapacidad auditiva según la reglamentación aplicable.
+    *es · CTE DB-SI, SUA 9, п. 1.2.1:* <small class="actual">актуально на момент публикации 22.10.26</small> 1.2.1 Viviendas accesibles 1 Los edificios de uso Residencial Vivienda dispondrán del número de viviendas accesibles para usua- rios de silla de ruedas y para personas con discapacidad auditiva según la reglamentación aplicable.
 
     </div>
     <div class="ru" markdown>
@@ -104,7 +104,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *en · AD M Vol 1, п. 0.3:* <small class="actual">актуально на момент публикации 17.10.26</small> Requirements M4(2) and M4(3) are ‘optional requirements’ as defined in the Building Regulations. An optional requirement only applies where a condition that one or more dwellings should meet the relevant optional requirement is imposed on new development as part of the process of granting planning permission. Where no condition is imposed, dwellings only need to meet requirements M4(1).
+    *en · AD M Vol 1, п. 0.3:* <small class="actual">актуально на момент публикации 22.10.26</small> Requirements M4(2) and M4(3) are ‘optional requirements’ as defined in the Building Regulations. An optional requirement only applies where a condition that one or more dwellings should meet the relevant optional requirement is imposed on new development as part of the process of granting planning permission. Where no condition is imposed, dwellings only need to meet requirements M4(1).
 
     </div>
     <div class="ru" markdown>
@@ -123,7 +123,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *en · DBC 2021, C.10.3.2:* <small class="actual">актуально на момент публикации 17.10.26</small> For new housing developments with more than ten units, a minimum of 2% of the total units and all common spaces in the building should be adaptable to meet the accessibility needs and conform to the accessibility requirements of this Part. This allows low-cost conversion of a house to meet the accessibility needs of any future residents who are persons of determination.
+    *en · DBC 2021, C.10.3.2:* <small class="actual">актуально на момент публикации 22.10.26</small> For new housing developments with more than ten units, a minimum of 2% of the total units and all common spaces in the building should be adaptable to meet the accessibility needs and conform to the accessibility requirements of this Part. This allows low-cost conversion of a house to meet the accessibility needs of any future residents who are persons of determination.
 
     </div>
     <div class="ru" markdown>
