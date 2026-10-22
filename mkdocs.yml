@@ -60,7 +60,6 @@ nav:
           - "1.13 Передача заказчику": stadii/13-peredacha.md
           - "1.14 Эксплуатация": stadii/14-ekspluatatsiya.md
       - Проектирование: sravnenie/proektirovanie.md
-      - Архитектура: sravnenie/arhitektura.md
   - "2. Пожарная безопасность":
       - "2. Матрица основных правил":
           - pozharnaya/index.md
@@ -101,43 +100,42 @@ nav:
           - "4.1 Англия — правовая основа": normy/uk.md
   - "5. Глоссарий": glossary.md
   - "6. Источники": istochniki.md
-  - "7. Доступная среда (МГН)":
-      - "7. Матрица доступности":
+  - "7. Архитектура":
+      - sravnenie/arhitektura.md
+      - "7.1 Доступная среда (МГН)":
           - dostupnaya/index.md
-          - "7.1 Область применения и юридическая сила": dostupnaya/oblast.md
-          - "7.2 Входы и пандусы": dostupnaya/pandusy.md
-          - "7.3 Ширина дверей и проходов": dostupnaya/dveri.md
-          - "7.4 Лифты для МГН": dostupnaya/lifty.md
-          - "7.5 Парковка для МГН": dostupnaya/parkovka.md
-          - "7.6 Уборные и санузлы для МГН": dostupnaya/ubornye.md
-          - "7.7 Жильё: доступные и адаптируемые квартиры": dostupnaya/zhile.md
-  - "8. Общественные здания (СП 118)":
-      - "8. Матрица общественных зданий":
+          - "7.1.1 Область применения и юридическая сила": dostupnaya/oblast.md
+          - "7.1.2 Входы и пандусы": dostupnaya/pandusy.md
+          - "7.1.3 Ширина дверей и проходов": dostupnaya/dveri.md
+          - "7.1.4 Лифты для МГН": dostupnaya/lifty.md
+          - "7.1.5 Парковка для МГН": dostupnaya/parkovka.md
+          - "7.1.6 Уборные и санузлы для МГН": dostupnaya/ubornye.md
+          - "7.1.7 Жильё: доступные и адаптируемые квартиры": dostupnaya/zhile.md
+      - "7.2 Общественные здания (СП 118)":
           - obshchestvennye/index.md
-          - "8.1 Область применения, этажность и классификация": obshchestvennye/oblast.md
-          - "8.2 Высота помещений": obshchestvennye/vysota.md
-          - "8.3 Лестницы в общественных зданиях": obshchestvennye/lestnitsy.md
-          - "8.4 Лифты в общественных зданиях": obshchestvennye/lifty.md
-          - "8.5 Входы, тамбуры, вестибюли и гардеробы": obshchestvennye/vhody.md
-          - "8.6 Рабочие места и административные помещения": obshchestvennye/rabochie.md
-          - "8.7 Зрительные залы и фойе": obshchestvennye/zaly.md
-          - "8.8 Учебные помещения и рекреации": obshchestvennye/obuchenie.md
-          - "8.9 Сквозные проезды и проходы": obshchestvennye/proezdy.md
-          - "8.10 Атриумы и пассажи": obshchestvennye/atrium.md
-  - "9. Парковки (СП 113)":
-      - "9. Матрица парковок":
+          - "7.2.1 Область применения, этажность и классификация": obshchestvennye/oblast.md
+          - "7.2.2 Высота помещений": obshchestvennye/vysota.md
+          - "7.2.3 Лестницы в общественных зданиях": obshchestvennye/lestnitsy.md
+          - "7.2.4 Лифты в общественных зданиях": obshchestvennye/lifty.md
+          - "7.2.5 Входы, тамбуры, вестибюли и гардеробы": obshchestvennye/vhody.md
+          - "7.2.6 Рабочие места и административные помещения": obshchestvennye/rabochie.md
+          - "7.2.7 Зрительные залы и фойе": obshchestvennye/zaly.md
+          - "7.2.8 Учебные помещения и рекреации": obshchestvennye/obuchenie.md
+          - "7.2.9 Сквозные проезды и проходы": obshchestvennye/proezdy.md
+          - "7.2.10 Атриумы и пассажи": obshchestvennye/atrium.md
+      - "7.3 Парковки (СП 113)":
           - parkovki/index.md
-          - "9.1 Область применения и типы стоянок": parkovki/oblast.md
-          - "9.2 Размеры машино-мест, проездов и площадок": parkovki/razmery.md
-          - "9.3 Высота помещений, рампы и уклоны": parkovki/vysota-rampy.md
-          - "9.4 Встроенные и пристроенные стоянки": parkovki/vstroennye.md
-          - "9.5 Эвакуация из стоянок": parkovki/evakuaciya.md
-          - "9.6 Огнестойкость, этажность и пожарные отсеки": parkovki/ognestojkost.md
-          - "9.7 Противопожарная защита стоянок": parkovki/zashchita.md
-          - "9.8 Рампы: число, ширина, радиусы": parkovki/rampy.md
-          - "9.9 Лифты, лестницы и выходы на кровлю в стоянках": parkovki/lifty-lestnitsy.md
-          - "9.10 Зарядные станции для электромобилей": parkovki/zaryadka.md
-          - "9.11 Газобаллонные автомобили и категории помещений": parkovki/gaz-kategorii.md
+          - "7.3.1 Область применения и типы стоянок": parkovki/oblast.md
+          - "7.3.2 Размеры машино-мест, проездов и площадок": parkovki/razmery.md
+          - "7.3.3 Высота помещений, рампы и уклоны": parkovki/vysota-rampy.md
+          - "7.3.4 Встроенные и пристроенные стоянки": parkovki/vstroennye.md
+          - "7.3.5 Эвакуация из стоянок": parkovki/evakuaciya.md
+          - "7.3.6 Огнестойкость, этажность и пожарные отсеки": parkovki/ognestojkost.md
+          - "7.3.7 Противопожарная защита стоянок": parkovki/zashchita.md
+          - "7.3.8 Рампы: число, ширина, радиусы": parkovki/rampy.md
+          - "7.3.9 Лифты, лестницы и выходы на кровлю в стоянках": parkovki/lifty-lestnitsy.md
+          - "7.3.10 Зарядные станции для электромобилей": parkovki/zaryadka.md
+          - "7.3.11 Газобаллонные автомобили и категории помещений": parkovki/gaz-kategorii.md
   - Как вести портал: contributing.md
 
 validation:

@@ -106,6 +106,6 @@
 
 === "🇦🇪 ОАЭ (Дубай)"
 
-    ⏳ Не сверено: UAE Fire and Life Safety Code (Civil Defence) недоступен для скачивания; Dubai Building Code (DBC 2021) по этой теме только отсылает к нему. См. также [7. Доступная среда](../../dostupnaya/index.md).
+    ⏳ Не сверено: UAE Fire and Life Safety Code (Civil Defence) недоступен для скачивания; Dubai Building Code (DBC 2021) по этой теме только отсылает к нему. См. также [7.1 Доступная среда](../../dostupnaya/index.md).
 
 [← Эвакуационные лестницы и выходы](lestnitsy.md) · [Пожарные лифты и доступ пожарных →](lifty.md)
