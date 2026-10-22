@@ -86,12 +86,10 @@
 
     <div class="matrix fire eu" markdown>
 
-    | Страна | Нормативный документ | Что установлено |
-    |---|---|---|
-    | 🇩🇪 Германия (и общее по ЕС) | МВО, МХР и др. (типовые акты земель) | См. таблицу стран: лестницы — Германия: окно ≥0,50 м² на этаже или верхний люк ≥1 м²; Австрия: подпор (RL 2.3), люк 1,00 м²; Испания: система только для стоянок, торговли >1000 чел., атриумов |
-    | 🇫🇷 Франция | Франция: [Arrêté 31.01.1986](https://medias.amf.asso.fr/docs/DOCUMENTS/AMF_20070607_arrete_31_01_86_incendie.pdf) (жилые дома, копия AMF; консолидированная редакция Légifrance не сверена ⏳) | Дымоудаление защищённых горизонтальных ходов — естественной тягой или механически (ст. 33–36) |
-    | 🇦🇹 Австрия | Австрия: OIB-Richtlinien, ред. май 2023 ([RL 2](https://www.propellets.at/assets/upload/pelletlagerung/oib-rl-2-ausgabe-mai-2023.pdf), [RL 2.2](https://din-notlicht.com/wp-content/uploads/oib-rl-2.2-ausgabe-mai-2023.pdf), [RL 2.3](https://din-notlicht.com/wp-content/uploads/oib-rl-2.3-ausgabe-mai-2023.pdf), [RL 4](https://glas-gasperlmair.at/wp-content/uploads/2023/10/oib-rl_4_ausgabe_mai_2023.pdf), [Begriffsbestimmungen](https://din-notlicht.com/wp-content/uploads/oib-rl-begriffsbestimmungen-ausgabe-mai-2023.pdf)) | Лестничная клетка (GK 2–4, один путь): дымовой люк вверху, сечение 1,00 м² (RL 2, табл. 2a); выше 22 м — подпор в «безопасной лестнице» (RL 2.3, п. 3.2.1) |
-    | 🇪🇸 Испания | Испания: [CTE DB-SI](https://www.codigotecnico.org/pdf/Documentos/SI/DBSI.pdf) | Система управления дымом нужна для стоянок (кроме открытых), торговли и общественных мест >1000 чел., атриумов; для жилых — не предусмотрена (SI 3, п. 8) |
+    | | 🇩🇪 Германия | 🇫🇷 Франция | 🇦🇹 Австрия | 🇪🇸 Испания |
+    |---|---|---|---|---|
+    | **Нормативный документ** | МВО, МХР и др. (типовые акты земель) | Франция: [Arrêté 31.01.1986](https://medias.amf.asso.fr/docs/DOCUMENTS/AMF_20070607_arrete_31_01_86_incendie.pdf) (жилые дома, копия AMF; консолидированная редакция Légifrance не сверена ⏳) | Австрия: OIB-Richtlinien, ред. май 2023 ([RL 2](https://www.propellets.at/assets/upload/pelletlagerung/oib-rl-2-ausgabe-mai-2023.pdf), [RL 2.2](https://din-notlicht.com/wp-content/uploads/oib-rl-2.2-ausgabe-mai-2023.pdf), [RL 2.3](https://din-notlicht.com/wp-content/uploads/oib-rl-2.3-ausgabe-mai-2023.pdf), [RL 4](https://glas-gasperlmair.at/wp-content/uploads/2023/10/oib-rl_4_ausgabe_mai_2023.pdf), [Begriffsbestimmungen](https://din-notlicht.com/wp-content/uploads/oib-rl-begriffsbestimmungen-ausgabe-mai-2023.pdf)) | Испания: [CTE DB-SI](https://www.codigotecnico.org/pdf/Documentos/SI/DBSI.pdf) |
+    | **Что установлено** | См. таблицу стран: лестницы — Германия: окно ≥0,50 м² на этаже или верхний люк ≥1 м²; Австрия: подпор (RL 2.3), люк 1,00 м²; Испания: система только для стоянок, торговли >1000 чел., атриумов | Дымоудаление защищённых горизонтальных ходов — естественной тягой или механически (ст. 33–36) | Лестничная клетка (GK 2–4, один путь): дымовой люк вверху, сечение 1,00 м² (RL 2, табл. 2a); выше 22 м — подпор в «безопасной лестнице» (RL 2.3, п. 3.2.1) | Система управления дымом нужна для стоянок (кроме открытых), торговли и общественных мест >1000 чел., атриумов; для жилых — не предусмотрена (SI 3, п. 8) |
 
     </div>
 

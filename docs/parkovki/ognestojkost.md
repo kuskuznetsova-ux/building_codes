@@ -49,12 +49,10 @@
 
     <div class="matrix fire eu" markdown>
 
-    | Страна | Нормативный документ | Что установлено |
-    |---|---|---|
-    | 🇩🇪 Германия (и общее по ЕС) | [M-GarStVO](https://bauministerkonferenz.de/Dokumente/42323132.pdf) | Отсеки до 5 000 м² (надземные) и 2 500 м² (прочие), вдвое больше с АУП; несущие — огнестойкие (M-GarStVO § 12, § 7) |
-    | 🇫🇷 Франция | Франция: [Arrêté 31.01.1986](https://medias.amf.asso.fr/docs/DOCUMENTS/AMF_20070607_arrete_31_01_86_incendie.pdf) (жилые дома, копия AMF; консолидированная редакция Légifrance не сверена ⏳) | ⏳ не сверено |
-    | 🇦🇹 Австрия | Австрия: OIB-Richtlinien, ред. май 2023 ([RL 2](https://www.propellets.at/assets/upload/pelletlagerung/oib-rl-2-ausgabe-mai-2023.pdf), [RL 2.2](https://din-notlicht.com/wp-content/uploads/oib-rl-2.2-ausgabe-mai-2023.pdf), [RL 2.3](https://din-notlicht.com/wp-content/uploads/oib-rl-2.3-ausgabe-mai-2023.pdf), [RL 4](https://glas-gasperlmair.at/wp-content/uploads/2023/10/oib-rl_4_ausgabe_mai_2023.pdf), [Begriffsbestimmungen](https://din-notlicht.com/wp-content/uploads/oib-rl-begriffsbestimmungen-ausgabe-mai-2023.pdf)) | Отсек по табл. 2 RL 2.2; ≤80 м длины; этаж — отсек при >600 м² |
-    | 🇪🇸 Испания | Испания: [CTE DB-SI](https://www.codigotecnico.org/pdf/Documentos/SI/DBSI.pdf) | Несущие: стоянка R 90 (отдельное здание/над другим), R 120 (под другим); сектор >100 м² (SI 6, SI 1) |
+    | | 🇩🇪 Германия | 🇫🇷 Франция | 🇦🇹 Австрия | 🇪🇸 Испания |
+    |---|---|---|---|---|
+    | **Нормативный документ** | [M-GarStVO](https://bauministerkonferenz.de/Dokumente/42323132.pdf) | Франция: [Arrêté 31.01.1986](https://medias.amf.asso.fr/docs/DOCUMENTS/AMF_20070607_arrete_31_01_86_incendie.pdf) (жилые дома, копия AMF; консолидированная редакция Légifrance не сверена ⏳) | Австрия: OIB-Richtlinien, ред. май 2023 ([RL 2](https://www.propellets.at/assets/upload/pelletlagerung/oib-rl-2-ausgabe-mai-2023.pdf), [RL 2.2](https://din-notlicht.com/wp-content/uploads/oib-rl-2.2-ausgabe-mai-2023.pdf), [RL 2.3](https://din-notlicht.com/wp-content/uploads/oib-rl-2.3-ausgabe-mai-2023.pdf), [RL 4](https://glas-gasperlmair.at/wp-content/uploads/2023/10/oib-rl_4_ausgabe_mai_2023.pdf), [Begriffsbestimmungen](https://din-notlicht.com/wp-content/uploads/oib-rl-begriffsbestimmungen-ausgabe-mai-2023.pdf)) | Испания: [CTE DB-SI](https://www.codigotecnico.org/pdf/Documentos/SI/DBSI.pdf) |
+    | **Что установлено** | Отсеки до 5 000 м² (надземные) и 2 500 м² (прочие), вдвое больше с АУП; несущие — огнестойкие (M-GarStVO § 12, § 7) | ⏳ не сверено | Отсек по табл. 2 RL 2.2; ≤80 м длины; этаж — отсек при >600 м² | Несущие: стоянка R 90 (отдельное здание/над другим), R 120 (под другим); сектор >100 м² (SI 6, SI 1) |
 
     </div>
 

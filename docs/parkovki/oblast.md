@@ -62,12 +62,10 @@
 
     <div class="matrix fire eu" markdown>
 
-    | Страна | Нормативный документ | Что установлено |
-    |---|---|---|
-    | 🇩🇪 Германия (и общее по ЕС) | [M-GarStVO](https://bauministerkonferenz.de/Dokumente/42323132.pdf) | Открытые средние и большие гаражи: проёмы ≥⅓ площади стен, противоположные стены ≤70 м, сквозное проветривание; закрытые — остальные (M-GarStVO § 2) |
-    | 🇫🇷 Франция | Франция: [Arrêté 31.01.1986](https://medias.amf.asso.fr/docs/DOCUMENTS/AMF_20070607_arrete_31_01_86_incendie.pdf) (жилые дома, копия AMF; консолидированная редакция Légifrance не сверена ⏳) | Закрытые стоянки при жилых домах площадью 100–6 000 м² — по arrêté 1986 (ст. 1); остальные — ⏳ |
-    | 🇦🇹 Австрия | Австрия: OIB-Richtlinien, ред. май 2023 ([RL 2](https://www.propellets.at/assets/upload/pelletlagerung/oib-rl-2-ausgabe-mai-2023.pdf), [RL 2.2](https://din-notlicht.com/wp-content/uploads/oib-rl-2.2-ausgabe-mai-2023.pdf), [RL 2.3](https://din-notlicht.com/wp-content/uploads/oib-rl-2.3-ausgabe-mai-2023.pdf), [RL 4](https://glas-gasperlmair.at/wp-content/uploads/2023/10/oib-rl_4_ausgabe_mai_2023.pdf), [Begriffsbestimmungen](https://din-notlicht.com/wp-content/uploads/oib-rl-begriffsbestimmungen-ausgabe-mai-2023.pdf)) | OIB-RL 2.2 «Garagen, überdachte Stellplätze und Parkdecks»: применяется к гаражам, крытым стоянкам и паркингам |
-    | 🇪🇸 Испания | Испания: [CTE DB-SI](https://www.codigotecnico.org/pdf/Documentos/SI/DBSI.pdf) | «Открытая» стоянка (aparcamiento abierto): проёмы ≥1/20 площади фасадов на этаже, из них ≥1/40 равномерно в двух противоположных стенах (DB-SI, Anejo A) |
+    | | 🇩🇪 Германия | 🇫🇷 Франция | 🇦🇹 Австрия | 🇪🇸 Испания |
+    |---|---|---|---|---|
+    | **Нормативный документ** | [M-GarStVO](https://bauministerkonferenz.de/Dokumente/42323132.pdf) | Франция: [Arrêté 31.01.1986](https://medias.amf.asso.fr/docs/DOCUMENTS/AMF_20070607_arrete_31_01_86_incendie.pdf) (жилые дома, копия AMF; консолидированная редакция Légifrance не сверена ⏳) | Австрия: OIB-Richtlinien, ред. май 2023 ([RL 2](https://www.propellets.at/assets/upload/pelletlagerung/oib-rl-2-ausgabe-mai-2023.pdf), [RL 2.2](https://din-notlicht.com/wp-content/uploads/oib-rl-2.2-ausgabe-mai-2023.pdf), [RL 2.3](https://din-notlicht.com/wp-content/uploads/oib-rl-2.3-ausgabe-mai-2023.pdf), [RL 4](https://glas-gasperlmair.at/wp-content/uploads/2023/10/oib-rl_4_ausgabe_mai_2023.pdf), [Begriffsbestimmungen](https://din-notlicht.com/wp-content/uploads/oib-rl-begriffsbestimmungen-ausgabe-mai-2023.pdf)) | Испания: [CTE DB-SI](https://www.codigotecnico.org/pdf/Documentos/SI/DBSI.pdf) |
+    | **Что установлено** | Открытые средние и большие гаражи: проёмы ≥⅓ площади стен, противоположные стены ≤70 м, сквозное проветривание; закрытые — остальные (M-GarStVO § 2) | Закрытые стоянки при жилых домах площадью 100–6 000 м² — по arrêté 1986 (ст. 1); остальные — ⏳ | OIB-RL 2.2 «Garagen, überdachte Stellplätze und Parkdecks»: применяется к гаражам, крытым стоянкам и паркингам | «Открытая» стоянка (aparcamiento abierto): проёмы ≥1/20 площади фасадов на этаже, из них ≥1/40 равномерно в двух противоположных стенах (DB-SI, Anejo A) |
 
     </div>
 
