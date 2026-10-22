@@ -118,6 +118,12 @@ nav:
           - "8.2 Высота помещений": obshchestvennye/vysota.md
           - "8.3 Лестницы в общественных зданиях": obshchestvennye/lestnitsy.md
           - "8.4 Лифты в общественных зданиях": obshchestvennye/lifty.md
+          - "8.5 Входы, тамбуры, вестибюли и гардеробы": obshchestvennye/vhody.md
+          - "8.6 Рабочие места и административные помещения": obshchestvennye/rabochie.md
+          - "8.7 Зрительные залы и фойе": obshchestvennye/zaly.md
+          - "8.8 Учебные помещения и рекреации": obshchestvennye/obuchenie.md
+          - "8.9 Сквозные проезды и проходы": obshchestvennye/proezdy.md
+          - "8.10 Атриумы и пассажи": obshchestvennye/atrium.md
   - "9. Парковки (СП 113)":
       - "9. Матрица парковок":
           - parkovki/index.md
@@ -128,6 +134,10 @@ nav:
           - "9.5 Эвакуация из стоянок": parkovki/evakuaciya.md
           - "9.6 Огнестойкость, этажность и пожарные отсеки": parkovki/ognestojkost.md
           - "9.7 Противопожарная защита стоянок": parkovki/zashchita.md
+          - "9.8 Рампы: число, ширина, радиусы": parkovki/rampy.md
+          - "9.9 Лифты, лестницы и выходы на кровлю в стоянках": parkovki/lifty-lestnitsy.md
+          - "9.10 Зарядные станции для электромобилей": parkovki/zaryadka.md
+          - "9.11 Газобаллонные автомобили и категории помещений": parkovki/gaz-kategorii.md
   - Как вести портал: contributing.md
 
 validation:
