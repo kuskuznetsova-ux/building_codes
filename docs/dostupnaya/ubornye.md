@@ -10,7 +10,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *ru · СП 59.13330.2020, п. 3.30:* <small class="actual">актуально на момент публикации 22.10.26</small> 3.30 универсальная кабина уборной: Кабина уборной (для мужчин и женщин) с автономным входом из общих путей движения, доступная по габаритам для инвалида на кресле-коляске с сопровождающим, а по оборудованию - для всех групп инвалидов. Примечание - Вход в универсальную кабину из тамбур-шлюза блока других уборных не допускается.
+    *ru · СП 59.13330.2020, п. 3.30:* <small class="actual">актуально на момент публикации 23.10.26</small> 3.30 универсальная кабина уборной: Кабина уборной (для мужчин и женщин) с автономным входом из общих путей движения, доступная по габаритам для инвалида на кресле-коляске с сопровождающим, а по оборудованию - для всех групп инвалидов. Примечание - Вход в универсальную кабину из тамбур-шлюза блока других уборных не допускается.
 
     </div>
     <div class="ru" markdown>
@@ -23,7 +23,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *ru · СП 59.13330.2020, п. 6.3:* <small class="actual">актуально на момент публикации 22.10.26</small> Универсальные кабины уборных следует предусматривать на расстоянии не более 40 м от основной зоны оказания услуг на объекте или расположения рабочих мест инвалидов.
+    *ru · СП 59.13330.2020, п. 6.3:* <small class="actual">актуально на момент публикации 23.10.26</small> Универсальные кабины уборных следует предусматривать на расстоянии не более 40 м от основной зоны оказания услуг на объекте или расположения рабочих мест инвалидов.
 
     </div>
     <div class="ru" markdown>
@@ -42,7 +42,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *sr · Правилник 22/2015, чл. 20:* <small class="actual">актуально на момент публикации 22.10.26</small> WC mora mora biti projektovan tako da omogući ispunjenje sledećih uslova: 1) vrata širine svetlog otvora najmanje 90 cm, koja se otvaraju prema spolja; 2) pristupačnu kvaku na vratima prema odredbama člana 23. ovoga pravilnika; 3) ugrađen mehanizam za otvaranje vrata spolja u slučaju poziva u pomoć, odgovarajuće električne instalacije; 4) WC šolju konzolnog tipa
+    *sr · Правилник 22/2015, чл. 20:* <small class="actual">актуально на момент публикации 23.10.26</small> WC mora mora biti projektovan tako da omogući ispunjenje sledećih uslova: 1) vrata širine svetlog otvora najmanje 90 cm, koja se otvaraju prema spolja; 2) pristupačnu kvaku na vratima prema odredbama člana 23. ovoga pravilnika; 3) ugrađen mehanizam za otvaranje vrata spolja u slučaju poziva u pomoć, odgovarajuće električne instalacije; 4) WC šolju konzolnog tipa
 
     </div>
     <div class="ru" markdown>
@@ -74,7 +74,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *de · OIB-RL 4, п. 7.1.4, 7.2.1:* <small class="actual">актуально на момент публикации 22.10.26</small> 7.1.4 In öffentlich zugänglichen Gebäuden müssen barrierefreie Toilettenräume mit einer Notrufanlage ausgestattet sein.
+    *de · OIB-RL 4, п. 7.1.4, 7.2.1:* <small class="actual">актуально на момент публикации 23.10.26</small> 7.1.4 In öffentlich zugänglichen Gebäuden müssen barrierefreie Toilettenräume mit einer Notrufanlage ausgestattet sein.
 
     </div>
     <div class="ru" markdown>
@@ -87,7 +87,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *es · CTE DB-SI, SUA 9, п. 1.2.6:* <small class="actual">актуально на момент публикации 22.10.26</small> 1.2.6 Servicios higiénicos accesibles 1 Siempre que sea exigible la existencia de aseos o de vestuarios por alguna disposición legal de obli- gado cumplimento, existirá al menos: a) Un aseo accesible por cada 10 unidades o fracción de inodoros instalados, pudiendo ser de uso compartido para ambos sexos.
+    *es · CTE DB-SI, SUA 9, п. 1.2.6:* <small class="actual">актуально на момент публикации 23.10.26</small> 1.2.6 Servicios higiénicos accesibles 1 Siempre que sea exigible la existencia de aseos o de vestuarios por alguna disposición legal de obli- gado cumplimento, existirá al menos: a) Un aseo accesible por cada 10 unidades o fracción de inodoros instalados, pudiendo ser de uso compartido para ambos sexos.
 
     </div>
     <div class="ru" markdown>
@@ -102,7 +102,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *en · Approved Document T, п. 1.1–1.2:* <small class="actual">актуально на момент публикации 22.10.26</small> 1.1 The guidance in this approved document applies to buildings other than dwellings. 1.2 Requirement T1 does not apply to schools, to premises used for early years provision, to cellular accommodation in custodial facilities or to en-suite toilets provided in individual rooms for residential purposes, such as in hotels and care homes.
+    *en · Approved Document T, п. 1.1–1.2:* <small class="actual">актуально на момент публикации 23.10.26</small> 1.1 The guidance in this approved document applies to buildings other than dwellings. 1.2 Requirement T1 does not apply to schools, to premises used for early years provision, to cellular accommodation in custodial facilities or to en-suite toilets provided in individual rooms for residential purposes, such as in hotels and care homes.
 
     </div>
     <div class="ru" markdown>
@@ -122,7 +122,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *en · DBC 2021, C.8.3.1–C.8.3.2:* <small class="actual">актуально на момент публикации 22.10.26</small> Minimum dimensions for accessible toilets shall be in accordance with Table C.22. Circulation spaces Dimension or provision Corridor widths in toilets, showers, lockers spaces, etc. 1,050 mm Manoeuvring space diameter 1,500 mm … Both male and female toilet facilities shall include at least one baby changing table, clearly identified with English and Arabic text. The maximum distance between baby changing stations in a building shall be 150 m.
+    *en · DBC 2021, C.8.3.1–C.8.3.2:* <small class="actual">актуально на момент публикации 23.10.26</small> Minimum dimensions for accessible toilets shall be in accordance with Table C.22. Circulation spaces Dimension or provision Corridor widths in toilets, showers, lockers spaces, etc. 1,050 mm Manoeuvring space diameter 1,500 mm … Both male and female toilet facilities shall include at least one baby changing table, clearly identified with English and Arabic text. The maximum distance between baby changing stations in a building shall be 150 m.
 
     </div>
     <div class="ru" markdown>
@@ -135,7 +135,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *en · Dubai Guide, SPat1–SPat4:* <small class="actual">актуально на момент публикации 22.10.26</small> SPat1 One accessible toilet for each gender in every foor or 1 independent accessible toilet for both genders 150 Sanitary Provisions SPat Sanitary Provisions - Accessible Toilet Accessible Toilet Accessible Toilet 150m SPat2 SPat2 One accessible toilet within a 150m distance from any part of the building Sanitary Provisions 151 SPat Sanitary Provisions - Accessible Toilet SPat4 1200mm Min 1500mm SPat3 SPat3 Corridors width in toilets, showers, lockers spaces of 1200mm SPat4 Maneuvering turning space diameter of 1500mm in circulations
+    *en · Dubai Guide, SPat1–SPat4:* <small class="actual">актуально на момент публикации 23.10.26</small> SPat1 One accessible toilet for each gender in every foor or 1 independent accessible toilet for both genders 150 Sanitary Provisions SPat Sanitary Provisions - Accessible Toilet Accessible Toilet Accessible Toilet 150m SPat2 SPat2 One accessible toilet within a 150m distance from any part of the building Sanitary Provisions 151 SPat Sanitary Provisions - Accessible Toilet SPat4 1200mm Min 1500mm SPat3 SPat3 Corridors width in toilets, showers, lockers spaces of 1200mm SPat4 Maneuvering turning space diameter of 1500mm in circulations
 
     </div>
     <div class="ru" markdown>

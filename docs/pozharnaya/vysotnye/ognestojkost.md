@@ -10,7 +10,33 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *ru · СП 477.1325800.2020, п. 5.2:* <small class="actual">актуально на момент публикации 22.10.26</small> 5.2 Наибольшая площадь надземного этажа в пределах пожарного отсека в зависимости от класса функциональной пожарной опасности помещений (кроме стилобатной части) должна быть: - до 1500 м² - для класса Ф1.2 (гостиниц, общежитий); - до 2000 м² - для класса Ф1.3 (жилых помещений, в т.ч. общежитий квартирного типа); - до 2500 м² - в остальных случаях.
+    *ru · СП 550.1311500.2026, п. 5.1 (площадь этажа в отсеке):* <small class="actual">актуально на момент публикации 23.10.26</small> Наибольшая площадь надземного этажа в пределах пожарного отсека в зависимости от класса функциональной пожарной опасности помещений должна быть: до 1500 м² - для класса функциональной пожарной опасности Ф1.2 (гостиниц, общежитий); до 2000 м² - для класса функциональной пожарной опасности Ф1.3; до 2500 м² - в остальных случаях.
+
+    </div>
+    <div class="ru" markdown>
+
+    *Пояснение:* Наибольшая площадь надземного этажа в пределах пожарного отсека: до 1500 м² — для Ф1.2 (гостиницы, общежития); до 2000 м² — для Ф1.3; до 2500 м² — в остальных случаях.
+
+    </div>
+    </div>
+
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    *ru · СП 550.1311500.2026, п. 5.2:* <small class="actual">актуально на момент публикации 23.10.26</small> 5.2 Высота пожарного отсека надземной части здания должна приниматься не более 50 м. Для высотных зданий класса функциональной пожарной опасности Ф1.3 высоту нижнего пожарного отсека надземной части допускается предусматривать не более 75 м.
+
+    </div>
+    <div class="ru" markdown>
+
+    *Пояснение:* Высота пожарного отсека надземной части — не более 50 м. Для жилых высотных зданий (Ф1.3) высоту нижнего пожарного отсека надземной части допускается принимать не более 75 м.
+
+    </div>
+    </div>
+
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    *ru · СП 477.1325800.2020 (прежний документ), п. 5.2:* <small class="actual">актуально на момент публикации 23.10.26</small> 5.2 Наибольшая площадь надземного этажа в пределах пожарного отсека в зависимости от класса функциональной пожарной опасности помещений (кроме стилобатной части) должна быть: - до 1500 м² - для класса Ф1.2 (гостиниц, общежитий); - до 2000 м² - для класса Ф1.3 (жилых помещений, в т.ч. общежитий квартирного типа); - до 2500 м² - в остальных случаях.
 
     </div>
     <div class="ru" markdown>
@@ -23,7 +49,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *ru · СП 477.1325800.2020, п. 5.3:* <small class="actual">актуально на момент публикации 22.10.26</small> 5.3 Высота нижнего пожарного отсека надземной части здания, комплекса не должна превышать: предназначенного для размещения жилых помещений класса функциональной пожарной опасности Ф1.3 - 75 м, для размещения общественных помещений других классов функциональной пожарной опасности - 50 м. Высоту каждого из вышерасположенных пожарных отсеков следует принимать не более 50 м.
+    *ru · СП 477.1325800.2020 (прежний документ), п. 5.3:* <small class="actual">актуально на момент публикации 23.10.26</small> 5.3 Высота нижнего пожарного отсека надземной части здания, комплекса не должна превышать: предназначенного для размещения жилых помещений класса функциональной пожарной опасности Ф1.3 - 75 м, для размещения общественных помещений других классов функциональной пожарной опасности - 50 м. Высоту каждого из вышерасположенных пожарных отсеков следует принимать не более 50 м.
 
     </div>
     <div class="ru" markdown>
@@ -36,7 +62,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *ru · СП 477.1325800.2020, табл. 6.1 (выборка):* <small class="actual">актуально на момент публикации 22.10.26</small>
+    *ru · СП 550.1311500.2026, табл. 6.1 (выборка):* <small class="actual">актуально на момент публикации 23.10.26</small>
 
     | Конструкции (по табл. 6.1) | до 100 м | 100–150 м | более 150 м |
     |---|---|---|---|
@@ -56,6 +82,7 @@
 
     **Источники**
 
+    - СП 550.1311500.2026 (приказ МЧС России от 26.02.2026 № 137, введён с 01.06.2026; текст — файл пользователя из «Гарант» на 18.05.2026, там отмечено «документ не вступил в силу»)
     - [СП 477, пп. 5.2, 5.3, табл. 6.1](https://meganorm.ru/mega_doc/norm/pravila/0/sp_477_1325800_2020_svod_pravil_zdaniya_i_kompleksy_vysotnye.html)
 
 === "🇷🇸 Сербия"
@@ -63,7 +90,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *sr · Pravilnik 80/2015, čl. 9:* <small class="actual">актуально на момент публикации 22.10.26</small> Noseći elementi građevinske konstrukcije (zid, stub, međuspratna konstrukcija, greda, krovna konstrukcija i dr.) moraju biti otporni prema požaru 2 h (RE-M 120) izvedeni od građevinskih proizvoda karakteristike reakcije na požar najmanje klase A2s1d0 prema standardu SRPS EN 13501-1.
+    *sr · Pravilnik 80/2015, čl. 9:* <small class="actual">актуально на момент публикации 23.10.26</small> Noseći elementi građevinske konstrukcije (zid, stub, međuspratna konstrukcija, greda, krovna konstrukcija i dr.) moraju biti otporni prema požaru 2 h (RE-M 120) izvedeni od građevinskih proizvoda karakteristike reakcije na požar najmanje klase A2s1d0 prema standardu SRPS EN 13501-1.
 
     </div>
     <div class="ru" markdown>
@@ -76,7 +103,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *sr · Pravilnik 80/2015, čl. 13, таблица:* <small class="actual">актуально на момент публикации 22.10.26</small>
+    *sr · Pravilnik 80/2015, čl. 13, таблица:* <small class="actual">актуально на момент публикации 23.10.26</small>
 
     | Visina na kojoj se sektor nalazi [m] | Maksimalna površina požarnog sektora [m²] |
     |---|---|
@@ -120,7 +147,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *de · MHHR, п. 3.1.1–3.1.2:* <small class="actual">актуально на момент публикации 22.10.26</small> 3.1.1 Tragende und aussteifende Bauteile müssen feuerbeständig sein und aus nichtbrennbaren Baustoffen bestehen. 3.1.2 Die Feuerwiderstandsfähigkeit tragender und aussteifender Bauteile von Gebäuden mit mehr als 60 m Höhe muss 120 Minuten betragen.
+    *de · MHHR, п. 3.1.1–3.1.2:* <small class="actual">актуально на момент публикации 23.10.26</small> 3.1.1 Tragende und aussteifende Bauteile müssen feuerbeständig sein und aus nichtbrennbaren Baustoffen bestehen. 3.1.2 Die Feuerwiderstandsfähigkeit tragender und aussteifender Bauteile von Gebäuden mit mehr als 60 m Höhe muss 120 Minuten betragen.
 
     </div>
     <div class="ru" markdown>
@@ -135,7 +162,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *de · OIB-RL 2.3, п. 2.2.1:* <small class="actual">актуально на момент публикации 22.10.26</small> 2.2.1 Tragende und aussteifende Bauteile sowie Läufe und Podeste von Sicherheitstreppenhäusern müssen R 90 und A2 entsprechen.
+    *de · OIB-RL 2.3, п. 2.2.1:* <small class="actual">актуально на момент публикации 23.10.26</small> 2.2.1 Tragende und aussteifende Bauteile sowie Läufe und Podeste von Sicherheitstreppenhäusern müssen R 90 und A2 entsprechen.
 
     </div>
     <div class="ru" markdown>
@@ -150,7 +177,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *en · Approved Document B Vol 1, прил. B, табл. B2 (строка «блок квартир»):* <small class="actual">актуально на момент публикации 22.10.26</small>
+    *en · Approved Document B Vol 1, прил. B, табл. B2 (строка «блок квартир»):* <small class="actual">актуально на момент публикации 23.10.26</small>
 
     | Block of flats | Basement >10 m | Basement ≤10 m | Up to 5 m | Up to 11 m | Up to 18 m | Up to 30 m | More than 30 m |
     |---|---|---|---|---|---|---|---|

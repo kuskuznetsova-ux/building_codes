@@ -10,7 +10,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *ru · СП 113.13330.2023, прил. А:* <small class="actual">актуально на момент публикации 22.10.26</small> Класс (тип) автомобиля Минимальный наружный радиус, мм аааааа Длина L Ширина B Высота H Малый 3700 1600 1700 5500 Средний 4300 1700 1800 6000 Большой 5160 1995 1970 6200 Микроавтобусы 5500 2380 2300 6900
+    *ru · СП 113.13330.2023, прил. А:* <small class="actual">актуально на момент публикации 23.10.26</small> Класс (тип) автомобиля Минимальный наружный радиус, мм аааааа Длина L Ширина B Высота H Малый 3700 1600 1700 5500 Средний 4300 1700 1800 6000 Большой 5160 1995 1970 6200 Микроавтобусы 5500 2380 2300 6900
 
     </div>
     <div class="ru" markdown>
@@ -23,7 +23,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *ru · СП 113.13330.2023, прил. А, примечание 4:* <small class="actual">актуально на момент публикации 22.10.26</small> 4 Минимальный размер машино-места для автомобиля на паркингах составляет 5,3 x 2,5 м.
+    *ru · СП 113.13330.2023, прил. А, примечание 4:* <small class="actual">актуально на момент публикации 23.10.26</small> 4 Минимальный размер машино-места для автомобиля на паркингах составляет 5,3 x 2,5 м.
 
     </div>
     <div class="ru" markdown>
@@ -36,7 +36,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *ru · СП 113.13330.2023, п. 5.6:* <small class="actual">актуально на момент публикации 22.10.26</small> 5.6 Габариты машино-места для автомобилей инвалидов, пользующихся креслами-колясками, следует принимать (с учетом минимально допустимых зазоров безопасности) 6,0 x 3,6 м
+    *ru · СП 113.13330.2023, п. 5.6:* <small class="actual">актуально на момент публикации 23.10.26</small> 5.6 Габариты машино-места для автомобилей инвалидов, пользующихся креслами-колясками, следует принимать (с учетом минимально допустимых зазоров безопасности) 6,0 x 3,6 м
 
     </div>
     <div class="ru" markdown>
@@ -72,7 +72,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *de · M-GarStVO, § 5 (1):* <small class="actual">актуально на момент публикации 22.10.26</small> § 5 Einstellplätze und Fahrgassen (1) Ein notwendiger Einstellplatz muss mindestens 5 m lang sein. Die Breite eines Einstellplatzes muss mindestens betragen 1. 2,30 m, wenn keine Längsseite, 2. 2,40 m, wenn eine Längsseite, 3. 2,50 m, wenn jede Längsseite des Einstellplatzes im Abstand bis zu 0,10 m durch Wände, Stützen, andere Bauteile oder Einrichtungen begrenzt ist. 4. 3,50 m, wenn er als barrierefreier Einstellplatz bestimmt ist.
+    *de · M-GarStVO, § 5 (1):* <small class="actual">актуально на момент публикации 23.10.26</small> § 5 Einstellplätze und Fahrgassen (1) Ein notwendiger Einstellplatz muss mindestens 5 m lang sein. Die Breite eines Einstellplatzes muss mindestens betragen 1. 2,30 m, wenn keine Längsseite, 2. 2,40 m, wenn eine Längsseite, 3. 2,50 m, wenn jede Längsseite des Einstellplatzes im Abstand bis zu 0,10 m durch Wände, Stützen, andere Bauteile oder Einrichtungen begrenzt ist. 4. 3,50 m, wenn er als barrierefreier Einstellplatz bestimmt ist.
 
     </div>
     <div class="ru" markdown>
@@ -85,7 +85,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *de · OIB-RL 4, п. 2.10.1:* <small class="actual">актуально на момент публикации 22.10.26</small> 2.10.1 Garagen, überdachte und nicht überdachte Stellplätze sowie Parkdecks müssen so angelegt sein, dass eine sichere Zu- und Abfahrt gewährleistet ist, wobei die Fahrbahnbreite mindestens 3,00 m betragen muss. Im Bereich von Garagentoren oder technischen Einrichtungen (z.B. Schrankenanlagen, Kartengeber) ist eine Einschränkung zulässig, wobei eine lichte Breite von mindestens 2,50 m verbleiben muss.
+    *de · OIB-RL 4, п. 2.10.1:* <small class="actual">актуально на момент публикации 23.10.26</small> 2.10.1 Garagen, überdachte und nicht überdachte Stellplätze sowie Parkdecks müssen so angelegt sein, dass eine sichere Zu- und Abfahrt gewährleistet ist, wobei die Fahrbahnbreite mindestens 3,00 m betragen muss. Im Bereich von Garagentoren oder technischen Einrichtungen (z.B. Schrankenanlagen, Kartengeber) ist eine Einschränkung zulässig, wobei eine lichte Breite von mindestens 2,50 m verbleiben muss.
 
     </div>
     <div class="ru" markdown>
@@ -104,7 +104,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *en · DBC 2021, B.7.2.4, табл. B.11:* <small class="actual">актуально на момент публикации 22.10.26</small> The dimension of car parking bays and driveways shall be not less than the minimum values given in Table B.11. Parking type Driveway type Bay width (m) Bay length (m) Driveway width (m) Parallel One way 2.5 6 3 45° One way 2.5 5.5 3.3 60° One way 2.5 5.5 3.8 75° One way 2.5 5.5 5.5 90° One way 2.5 5.5 5.5 90° Two way 2.5 5.5* 6
+    *en · DBC 2021, B.7.2.4, табл. B.11:* <small class="actual">актуально на момент публикации 23.10.26</small> The dimension of car parking bays and driveways shall be not less than the minimum values given in Table B.11. Parking type Driveway type Bay width (m) Bay length (m) Driveway width (m) Parallel One way 2.5 6 3 45° One way 2.5 5.5 3.3 60° One way 2.5 5.5 3.8 75° One way 2.5 5.5 5.5 90° One way 2.5 5.5 5.5 90° Two way 2.5 5.5* 6
 
     </div>
     <div class="ru" markdown>

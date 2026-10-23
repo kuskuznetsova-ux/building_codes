@@ -10,7 +10,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *ru · СП 113.13330.2023, п. 6.2.16, табл. 6.1:* <small class="actual">актуально на момент публикации 22.10.26</small> 6.2.16 В стоянках автомобилей закрытого типа общие для двух и более этажей рампы должны отделяться (быть изолированы) на каждом этаже от помещений для хранения автомобилей, ТО и ТР, противопожарными преградами, воротами (дверями) и тамбур-шлюзами с подачей воздуха при пожаре согласно таблице 6.1. Таблица 6.1 Тип этажа стоянок автомобилей Предел огнестойкости ограждающих конструкций рампы (противопожарных преград), мин, не менее Требования по необходимости устройства тамбур-шлюза Стен (перегородок) Ворот (дверей) Подземный REI (EI) 45 EI 30 Тамбур-шлюз глубиной, обеспечивающей открывание ворот, но не менее 1,5 м Надземный REI(EI) 15 EI 15 Не требуется
+    *ru · СП 113.13330.2023, п. 6.2.16, табл. 6.1:* <small class="actual">актуально на момент публикации 23.10.26</small> 6.2.16 В стоянках автомобилей закрытого типа общие для двух и более этажей рампы должны отделяться (быть изолированы) на каждом этаже от помещений для хранения автомобилей, ТО и ТР, противопожарными преградами, воротами (дверями) и тамбур-шлюзами с подачей воздуха при пожаре согласно таблице 6.1. Таблица 6.1 Тип этажа стоянок автомобилей Предел огнестойкости ограждающих конструкций рампы (противопожарных преград), мин, не менее Требования по необходимости устройства тамбур-шлюза Стен (перегородок) Ворот (дверей) Подземный REI (EI) 45 EI 30 Тамбур-шлюз глубиной, обеспечивающей открывание ворот, но не менее 1,5 м Надземный REI(EI) 15 EI 15 Не требуется
 
     </div>
     <div class="ru" markdown>
@@ -23,7 +23,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *ru · СП 113.13330.2023, п. 6.2.19–6.2.20:* <small class="actual">актуально на момент публикации 22.10.26</small> 6.2.19 В зданиях подземных стоянок автомобилей при двух подземных этажах и более выходы из подземных этажей в лестничные клетки и лифты должны предусматриваться через поэтажные тамбур-шлюзы 1-го типа с подпором воздуха при пожаре. При организации подпора воздуха при пожаре в объем указанных лестничных клеток и лифтов при входе в них допускается предусматривать тамбур, конструктивно соответствующий тамбур-шлюзу 1-го типа без подпора воздуха. 6.2.20 Отделка стен и потолков подземной стоянки автомобилей должна быть выполнена из материалов группы горючести не ниже Г1.
+    *ru · СП 113.13330.2023, п. 6.2.19–6.2.20:* <small class="actual">актуально на момент публикации 23.10.26</small> 6.2.19 В зданиях подземных стоянок автомобилей при двух подземных этажах и более выходы из подземных этажей в лестничные клетки и лифты должны предусматриваться через поэтажные тамбур-шлюзы 1-го типа с подпором воздуха при пожаре. При организации подпора воздуха при пожаре в объем указанных лестничных клеток и лифтов при входе в них допускается предусматривать тамбур, конструктивно соответствующий тамбур-шлюзу 1-го типа без подпора воздуха. 6.2.20 Отделка стен и потолков подземной стоянки автомобилей должна быть выполнена из материалов группы горючести не ниже Г1.
 
     </div>
     <div class="ru" markdown>
@@ -59,7 +59,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *de · M-GarStVO, § 16 (1), § 17 (1):* <small class="actual">актуально на момент публикации 22.10.26</small> § 16 Lüftung (1) Geschlossene Mittel- und Großgaragen müssen maschinelle Abluftanlagen und so große und so verteilte Zuluftöffnungen haben, dass alle Teile der Garage ausreichend gelüftet werden. Bei nicht ausreichenden Zuluftöffnungen muss eine maschinelle Zuluftanlage vorhanden sein.
+    *de · M-GarStVO, § 16 (1), § 17 (1):* <small class="actual">актуально на момент публикации 23.10.26</small> § 16 Lüftung (1) Geschlossene Mittel- und Großgaragen müssen maschinelle Abluftanlagen und so große und so verteilte Zuluftöffnungen haben, dass alle Teile der Garage ausreichend gelüftet werden. Bei nicht ausreichenden Zuluftöffnungen muss eine maschinelle Zuluftanlage vorhanden sein.
 
     </div>
     <div class="ru" markdown>
@@ -72,7 +72,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *de · OIB-RL 2.2, RL 2.2, п. 5.6.2:* <small class="actual">актуально на момент публикации 22.10.26</small> 5.6.2 Unabhängig von der Größe des Brandabschnittes darf eine Längsausdehnung von 80 m nicht überschritten werden. Dies gilt nicht bei Vorhandensein einer erweiterten automatischen Löschhilfeanlage oder einer Sprinkleranlage.
+    *de · OIB-RL 2.2, RL 2.2, п. 5.6.2:* <small class="actual">актуально на момент публикации 23.10.26</small> 5.6.2 Unabhängig von der Größe des Brandabschnittes darf eine Längsausdehnung von 80 m nicht überschritten werden. Dies gilt nicht bei Vorhandensein einer erweiterten automatischen Löschhilfeanlage oder einer Sprinkleranlage.
 
     </div>
     <div class="ru" markdown>
@@ -85,7 +85,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *es · CTE DB-SI, SI 3, п. 8.1.2:* <small class="actual">актуально на момент публикации 22.10.26</small> a) Zonas de uso Aparcamiento que no tengan la consideración de aparcamiento abierto; b) Establecimientos
+    *es · CTE DB-SI, SI 3, п. 8.1.2:* <small class="actual">актуально на момент публикации 23.10.26</small> a) Zonas de uso Aparcamiento que no tengan la consideración de aparcamiento abierto; b) Establecimientos
 
     </div>
     <div class="ru" markdown>
@@ -100,7 +100,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *en · AD B Vol 2, п. 11.4–11.5:* <small class="actual">актуально на момент публикации 22.10.26</small> 11.4 Each storey should be ventilated by permanent openings at each car parking level. The openings can be at ceiling level. The aggregate free vent area should be a minimum of 1/40 of that level’s floor area, at least half of which should be provided equally by two opposite walls (1/160 on each side). The remaining free area can be distributed wherever possible. Mechanical ventilation 11.5 If the minimum standard of natural ventilation is not possible, a system of mechanical ventilation should be provided that complies with all of the following. a. The system should be both of the following. i. Independent of any other ventilating system (other than any system that provides day to day ventilation to the car park). ii. Designed to operate at 10 air changes per hour during a fire.
+    *en · AD B Vol 2, п. 11.4–11.5:* <small class="actual">актуально на момент публикации 23.10.26</small> 11.4 Each storey should be ventilated by permanent openings at each car parking level. The openings can be at ceiling level. The aggregate free vent area should be a minimum of 1/40 of that level’s floor area, at least half of which should be provided equally by two opposite walls (1/160 on each side). The remaining free area can be distributed wherever possible. Mechanical ventilation 11.5 If the minimum standard of natural ventilation is not possible, a system of mechanical ventilation should be provided that complies with all of the following. a. The system should be both of the following. i. Independent of any other ventilating system (other than any system that provides day to day ventilation to the car park). ii. Designed to operate at 10 air changes per hour during a fire.
 
     </div>
     <div class="ru" markdown>
@@ -119,7 +119,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *en · DBC 2021, B.7.2.3.2:* <small class="actual">актуально на момент публикации 22.10.26</small> Parking facilities that do not meet the definition of open parking shall be designed as enclosed parking with mechanical ventilation as required by H.4.12.11.
+    *en · DBC 2021, B.7.2.3.2:* <small class="actual">актуально на момент публикации 23.10.26</small> Parking facilities that do not meet the definition of open parking shall be designed as enclosed parking with mechanical ventilation as required by H.4.12.11.
 
     </div>
     <div class="ru" markdown>

@@ -10,7 +10,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *ru · СП 118.13330.2022, п. 5.13–5.14:* <small class="actual">актуально на момент публикации 22.10.26</small> 5.13 Пассажирские лифты предусматривают во всех проектируемых общественных зданиях при отметке пола верхнего этажа 9,9 м и более от уровня пола первого этажа. Допускается не предусматривать установку лифта при надстройке существующего общественного здания мансардным этажом. При расположении помещений для МГН на этажах выше или ниже этажа основного входа в общественное здание выбор средств вертикального транспорта, необходимость их сочетания устанавливаются в задании на проектирование на основании требований СП 59.13330. Вместо пассажирскнх лифтов, необходимых для функционирования общественных зданий, также применяются другие типы лифтов (грузовые, больничные, для перевозки пожарных подразделений и т. д.), конструкции и системы которых приспособлены для трансвортирования посетителей. 5.14 Число пассажирских лифтов определяют расчетом с учетом требований СП 1.13130.2020 и СП 59.13330. 20/60 СП 118.13330.2022 Общественные здания и сооружения (с изменениями № 1-5) В организациях со стационаром не менее чем у одного лифта в общественном здании размеры кабины и ширина дверного проема должны обеспечивать возможность транспортирования человека на носилках.
+    *ru · СП 118.13330.2022, п. 5.13–5.14:* <small class="actual">актуально на момент публикации 23.10.26</small> 5.13 Пассажирские лифты предусматривают во всех проектируемых общественных зданиях при отметке пола верхнего этажа 9,9 м и более от уровня пола первого этажа. Допускается не предусматривать установку лифта при надстройке существующего общественного здания мансардным этажом. При расположении помещений для МГН на этажах выше или ниже этажа основного входа в общественное здание выбор средств вертикального транспорта, необходимость их сочетания устанавливаются в задании на проектирование на основании требований СП 59.13330. Вместо пассажирскнх лифтов, необходимых для функционирования общественных зданий, также применяются другие типы лифтов (грузовые, больничные, для перевозки пожарных подразделений и т. д.), конструкции и системы которых приспособлены для трансвортирования посетителей. 5.14 Число пассажирских лифтов определяют расчетом с учетом требований СП 1.13130.2020 и СП 59.13330. 20/60 СП 118.13330.2022 Общественные здания и сооружения (с изменениями № 1-5) В организациях со стационаром не менее чем у одного лифта в общественном здании размеры кабины и ширина дверного проема должны обеспечивать возможность транспортирования человека на носилках.
 
     </div>
     <div class="ru" markdown>
@@ -23,7 +23,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *ru · СП 118.13330.2022, п. 5.16:* <small class="actual">актуально на момент публикации 22.10.26</small> 5.16 Ширина лифтового холла пассажирских лифтов должна быть не менее: при одинарном расположении лифтов: 2,0 м - при глубине кабины лифта до 1,5м. 2,5 м - при глубине кабины лифта до 1,5 до 2.0 м. 1,3 глубины лифта - при глубине кабины лифта свыше 2.0 м.
+    *ru · СП 118.13330.2022, п. 5.16:* <small class="actual">актуально на момент публикации 23.10.26</small> 5.16 Ширина лифтового холла пассажирских лифтов должна быть не менее: при одинарном расположении лифтов: 2,0 м - при глубине кабины лифта до 1,5м. 2,5 м - при глубине кабины лифта до 1,5 до 2.0 м. 1,3 глубины лифта - при глубине кабины лифта свыше 2.0 м.
 
     </div>
     <div class="ru" markdown>
@@ -42,7 +42,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *sr · Правилник 22/2015, чл. 9:* <small class="actual">актуально на момент публикации 22.10.26</small> 2) unutrašnje dimenzije kabine lifta iznose najmanje 110 x 140 cm; 3) vrata kabine lifta, koja su smičuća ili se otvaraju prema spoljnoj strani, imaju širinu čistog otvora najmanje 80 cm
+    *sr · Правилник 22/2015, чл. 9:* <small class="actual">актуально на момент публикации 23.10.26</small> 2) unutrašnje dimenzije kabine lifta iznose najmanje 110 x 140 cm; 3) vrata kabine lifta, koja su smičuća ili se otvaraju prema spoljnoj strani, imaju širinu čistog otvora najmanje 80 cm
 
     </div>
     <div class="ru" markdown>
@@ -74,7 +74,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *de · MBO § 39 (1):* <small class="actual">актуально на момент публикации 22.10.26</small> § 39 Aufzüge (1) Aufzüge im Innern von Gebäuden müssen eigene Fahrschächte haben, um eine Brandausbreitung in andere Geschosse ausreichend lang zu verhindern. In einem Fahrschacht dürfen bis zu drei Aufzüge liegen. Aufzüge ohne eigene Fahrschächte sind zulässig 1. innerhalb eines notwendigen Treppenraumes, ausgenommen in Hochhäusern, 2. innerhalb von Räumen, die Geschosse überbrücken, 3. zur Verbindung von Geschossen, die offen miteinander in Verbindung stehen dürfen, 4. in Gebäuden der Gebäudeklassen 1 und 2; sie müssen sicher umkleidet sein.
+    *de · MBO § 39 (1):* <small class="actual">актуально на момент публикации 23.10.26</small> § 39 Aufzüge (1) Aufzüge im Innern von Gebäuden müssen eigene Fahrschächte haben, um eine Brandausbreitung in andere Geschosse ausreichend lang zu verhindern. In einem Fahrschacht dürfen bis zu drei Aufzüge liegen. Aufzüge ohne eigene Fahrschächte sind zulässig 1. innerhalb eines notwendigen Treppenraumes, ausgenommen in Hochhäusern, 2. innerhalb von Räumen, die Geschosse überbrücken, 3. zur Verbindung von Geschossen, die offen miteinander in Verbindung stehen dürfen, 4. in Gebäuden der Gebäudeklassen 1 und 2; sie müssen sicher umkleidet sein.
 
     </div>
     <div class="ru" markdown>
@@ -87,7 +87,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *de · OIB-RL 4, п. 2.3.1:* <small class="actual">актуально на момент публикации 22.10.26</small> 2.3.1 Sind Personenaufzüge oder vertikale Hebeeinrichtungen für Personen erforderlich, sind alle Geschoße, einschließlich Eingangsniveau, Keller- und Garagengeschoße, miteinander zu verbinden. Bei Wohnungen, die sich über mehrere Ebenen erstrecken, muss zumindest die Eingangsebene angefahren werden, • muss die Grundfläche des Fahrkorbes oder Lastträgers eine Breite von mindestens 1,10 m und eine Tiefe von mindestens 1,40 m aufweisen, wobei die Tür an der Schmalseite anzuordnen ist, • sind die Fahrkorb- oder Lastträgertüren sowie Schachttüren als waagrecht bewegte, selbsttätig kraftbetätigte Schiebetüren mit einer lichten Durchgangsbreite von mindestens 90 cm auszuführen, • muss vor den Schachttüren eine Bewegungsfläche (Wendekreis) mit einem Durchmesser von mindestens 1,50 m vorhanden sein.
+    *de · OIB-RL 4, п. 2.3.1:* <small class="actual">актуально на момент публикации 23.10.26</small> 2.3.1 Sind Personenaufzüge oder vertikale Hebeeinrichtungen für Personen erforderlich, sind alle Geschoße, einschließlich Eingangsniveau, Keller- und Garagengeschoße, miteinander zu verbinden. Bei Wohnungen, die sich über mehrere Ebenen erstrecken, muss zumindest die Eingangsebene angefahren werden, • muss die Grundfläche des Fahrkorbes oder Lastträgers eine Breite von mindestens 1,10 m und eine Tiefe von mindestens 1,40 m aufweisen, wobei die Tür an der Schmalseite anzuordnen ist, • sind die Fahrkorb- oder Lastträgertüren sowie Schachttüren als waagrecht bewegte, selbsttätig kraftbetätigte Schiebetüren mit einer lichten Durchgangsbreite von mindestens 90 cm auszuführen, • muss vor den Schachttüren eine Bewegungsfläche (Wendekreis) mit einem Durchmesser von mindestens 1,50 m vorhanden sein.
 
     </div>
     <div class="ru" markdown>
@@ -100,7 +100,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *es · CTE DB-SI, SUA 9, п. 1.1.1:* <small class="actual">актуально на момент публикации 22.10.26</small> Los edificios de otros usos en los que haya que salvar más de dos plantas desde alguna entrada principal accesible al edificio hasta alguna planta que no sea de ocupación nula, o cuando en total existan más de 200 m 2 de superficie útil (ver definición en el anejo SI A del DB SI) excluida la super- ficie de zonas de ocupación nula en plantas sin entrada accesible al edificio, dispondrán de ascensor accesible o rampa accesib
+    *es · CTE DB-SI, SUA 9, п. 1.1.1:* <small class="actual">актуально на момент публикации 23.10.26</small> Los edificios de otros usos en los que haya que salvar más de dos plantas desde alguna entrada principal accesible al edificio hasta alguna planta que no sea de ocupación nula, o cuando en total existan más de 200 m 2 de superficie útil (ver definición en el anejo SI A del DB SI) excluida la super- ficie de zonas de ocupación nula en plantas sin entrada accesible al edificio, dispondrán de ascensor accesible o rampa accesib
 
     </div>
     <div class="ru" markdown>
@@ -115,7 +115,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *en · AD M Vol 2, п. 3.28–3.29:* <small class="actual">актуально на момент публикации 22.10.26</small> c. the minimum dimensions of the lift cars are 1100mm wide and 1400mm deep (see Diagram 11);
+    *en · AD M Vol 2, п. 3.28–3.29:* <small class="actual">актуально на момент публикации 23.10.26</small> c. the minimum dimensions of the lift cars are 1100mm wide and 1400mm deep (see Diagram 11);
 
     </div>
     <div class="ru" markdown>
@@ -134,7 +134,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *en · DBC 2021, C.5.9.3.1:* <small class="actual">актуально на момент публикации 22.10.26</small> at least one accessible elevator (or lift platform as described in C.5.9.4) shall be provided in every building with more than one floor, with the following exemptions:
+    *en · DBC 2021, C.5.9.3.1:* <small class="actual">актуально на момент публикации 23.10.26</small> at least one accessible elevator (or lift platform as described in C.5.9.4) shall be provided in every building with more than one floor, with the following exemptions:
 
     </div>
     <div class="ru" markdown>

@@ -10,7 +10,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *ru · СП 113.13330.2023, п. 6.2.23, 5.16, 5.24:* <small class="actual">актуально на момент публикации 22.10.26</small> 5.16 Многоэтажные стоянки автомобилей высотой более 10 м должны иметь не менее двух выходов на кровлю. Выходы на кровлю должны отвечать требованиям СП 4.13130.
+    *ru · СП 113.13330.2023, п. 6.2.23, 5.16, 5.24:* <small class="actual">актуально на момент публикации 23.10.26</small> 5.16 Многоэтажные стоянки автомобилей высотой более 10 м должны иметь не менее двух выходов на кровлю. Выходы на кровлю должны отвечать требованиям СП 4.13130.
 
     </div>
     <div class="ru" markdown>
@@ -46,7 +46,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *de · M-GarStVO, § 14 (1):* <small class="actual">актуально на момент публикации 22.10.26</small> § 14 Rettungswege (1) Jede Mittel- und Großgarage muss in jedem Geschoss und Brandabschnitt mindestens zwei voneinander unabhängige bauliche Rettungswege haben, die unmittelbar oder über notwendige Treppenräume ins Freie führen. Es ist zulässig, einen der nach Satz 1 erforderlichen Rettungswege über den benachbarten Brandabschnitt derselben Garage zu führen. In oberirdischen Mittel- und Großgaragen genügt ein Rettungsweg, wenn ein Ausgang ins Freie in höchstens 10 m Entfernung erreichbar ist.
+    *de · M-GarStVO, § 14 (1):* <small class="actual">актуально на момент публикации 23.10.26</small> § 14 Rettungswege (1) Jede Mittel- und Großgarage muss in jedem Geschoss und Brandabschnitt mindestens zwei voneinander unabhängige bauliche Rettungswege haben, die unmittelbar oder über notwendige Treppenräume ins Freie führen. Es ist zulässig, einen der nach Satz 1 erforderlichen Rettungswege über den benachbarten Brandabschnitt derselben Garage zu führen. In oberirdischen Mittel- und Großgaragen genügt ein Rettungsweg, wenn ein Ausgang ins Freie in höchstens 10 m Entfernung erreichbar ist.
 
     </div>
     <div class="ru" markdown>
@@ -59,7 +59,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *de · OIB-RL 2.2, RL 2.2, п. 5.5.1:* <small class="actual">актуально на момент публикации 22.10.26</small> 5.5.1 Von jeder Stelle einer Garage müssen in höchstens 40 m Gehweglänge erreichbar sein: a) ein direkter Ausgang zu einem sicheren Ort des angrenzenden Geländes im Freien, oder b) ein Treppenhaus oder eine Außentreppe jeweils gemäß Tabelle 3 der OIB-Richtlinie 2 jeweils mit einer vorgelagerten Schleuse gemäß Punkt 5.4.3 bei Garagen mit nicht mehr als zwei unterirdischen Geschoßen und einer Nutzfläche von nicht mehr als 600 m², oder c) ein Treppenhaus oder eine Außentreppe jeweils gemäß Tabelle 3 der OIB-Richtlinie 2, wobei zusätzlich Punkt 5.5.2 gilt.
+    *de · OIB-RL 2.2, RL 2.2, п. 5.5.1:* <small class="actual">актуально на момент публикации 23.10.26</small> 5.5.1 Von jeder Stelle einer Garage müssen in höchstens 40 m Gehweglänge erreichbar sein: a) ein direkter Ausgang zu einem sicheren Ort des angrenzenden Geländes im Freien, oder b) ein Treppenhaus oder eine Außentreppe jeweils gemäß Tabelle 3 der OIB-Richtlinie 2 jeweils mit einer vorgelagerten Schleuse gemäß Punkt 5.4.3 bei Garagen mit nicht mehr als zwei unterirdischen Geschoßen und einer Nutzfläche von nicht mehr als 600 m², oder c) ein Treppenhaus oder eine Außentreppe jeweils gemäß Tabelle 3 der OIB-Richtlinie 2, wobei zusätzlich Punkt 5.5.2 gilt.
 
     </div>
     <div class="ru" markdown>
@@ -74,7 +74,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *es · CTE DB-SI, SI 3, Tabla 3.1:* <small class="actual">актуально на момент публикации 22.10.26</small> La longitud de los recorridos de evacuación hasta una salida de planta no excede de 25 m, excepto en los casos que se indican a continuación: - 35 m en uso Aparcamiento;
+    *es · CTE DB-SI, SI 3, Tabla 3.1:* <small class="actual">актуально на момент публикации 23.10.26</small> La longitud de los recorridos de evacuación hasta una salida de planta no excede de 25 m, excepto en los casos que se indican a continuación: - 35 m en uso Aparcamiento;
 
     </div>
     <div class="ru" markdown>
@@ -93,7 +93,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *en · DBC 2021, B.7.2.3.3:* <small class="actual">актуально на момент публикации 22.10.26</small> Parking shall not impede fire exit doors, their access and exit discharge path.
+    *en · DBC 2021, B.7.2.3.3:* <small class="actual">актуально на момент публикации 23.10.26</small> Parking shall not impede fire exit doors, their access and exit discharge path.
 
     </div>
     <div class="ru" markdown>

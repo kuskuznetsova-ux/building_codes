@@ -10,7 +10,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *ru · СП 113.13330.2023, п. 5.20:* <small class="actual">актуально на момент публикации 22.10.26</small> 5.20 В зданиях многоэтажных стоянок автомобилей лифты должны соответствовать требованиям ГОСТ 34756. Количество пассажирских лифтов принимается из расчета один стационарный лифт на каждые 100 автомобилей, расположенных на всех этажах, кроме первого, с учетом требований раздела 6 и ГОСТ 34758. Размеры кабины и шахты, двери шахты и кабины грузового лифта следует предусматривать согласно ГОСТ 8823. Размеры кабины пассажирского лифта (одного из пассажирских лифтов) должны обеспечивать транспортирование МГН, пользующихся креслами-колясками, в соответствии с ГОСТ 33652.
+    *ru · СП 113.13330.2023, п. 5.20:* <small class="actual">актуально на момент публикации 23.10.26</small> 5.20 В зданиях многоэтажных стоянок автомобилей лифты должны соответствовать требованиям ГОСТ 34756. Количество пассажирских лифтов принимается из расчета один стационарный лифт на каждые 100 автомобилей, расположенных на всех этажах, кроме первого, с учетом требований раздела 6 и ГОСТ 34758. Размеры кабины и шахты, двери шахты и кабины грузового лифта следует предусматривать согласно ГОСТ 8823. Размеры кабины пассажирского лифта (одного из пассажирских лифтов) должны обеспечивать транспортирование МГН, пользующихся креслами-колясками, в соответствии с ГОСТ 33652.
 
     </div>
     <div class="ru" markdown>
@@ -23,7 +23,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *ru · СП 113.13330.2023, п. 6.2.10:* <small class="actual">актуально на момент публикации 22.10.26</small> 6.2.10 В наземных закрытых стоянках автомобилей высотой более 15 м и подземных стоянках, имеющих три подземных этажа и более, следует предусматривать в каждом пожарном отсеке, за исключением пожарных отсеков, содержащих только рампы без хранения автомобилей, лифт для транспортирования пожарных подразделений, соответствующий требованиям ГОСТ Р 53296.
+    *ru · СП 113.13330.2023, п. 6.2.10:* <small class="actual">актуально на момент публикации 23.10.26</small> 6.2.10 В наземных закрытых стоянках автомобилей высотой более 15 м и подземных стоянках, имеющих три подземных этажа и более, следует предусматривать в каждом пожарном отсеке, за исключением пожарных отсеков, содержащих только рампы без хранения автомобилей, лифт для транспортирования пожарных подразделений, соответствующий требованиям ГОСТ Р 53296.
 
     </div>
     <div class="ru" markdown>
@@ -59,7 +59,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *de · M-GarStVO, § 17 (1):* <small class="actual">актуально на момент публикации 22.10.26</small> § 17 Feuerlöschanlagen, Rauch- und Wärmeabzug (1) In Mittel- und Großgaragen sind in Geschossen, deren Fußboden im Mittel 1. entweder mehr als 4 m unter oder 2. mehr als 15 m über der Geländeoberfläche liegen, in unmittelbarer Nähe für jeden notwendigen Treppenraum in Abstimmung mit der Brandschutzdienststelle trockene Löschwasserleitungen vorzusehen. Die Einspeisestellen sind im Benehmen mit der Bandschutzdienststelle festzulegen. An Einspeisestellen müssen Bewegungsflächen für Fahrzeuge der Feuerwehr vorgesehen werden, die nicht mehr als 15 m von der Einspeisestelle entfernt sein dürfen.
+    *de · M-GarStVO, § 17 (1):* <small class="actual">актуально на момент публикации 23.10.26</small> § 17 Feuerlöschanlagen, Rauch- und Wärmeabzug (1) In Mittel- und Großgaragen sind in Geschossen, deren Fußboden im Mittel 1. entweder mehr als 4 m unter oder 2. mehr als 15 m über der Geländeoberfläche liegen, in unmittelbarer Nähe für jeden notwendigen Treppenraum in Abstimmung mit der Brandschutzdienststelle trockene Löschwasserleitungen vorzusehen. Die Einspeisestellen sind im Benehmen mit der Bandschutzdienststelle festzulegen. An Einspeisestellen müssen Bewegungsflächen für Fahrzeuge der Feuerwehr vorgesehen werden, die nicht mehr als 15 m von der Einspeisestelle entfernt sein dürfen.
 
     </div>
     <div class="ru" markdown>
@@ -78,7 +78,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *en · DBC 2021, D.8.3.1:* <small class="actual">актуально на момент публикации 22.10.26</small> Section 2.9, Ch. 2 of UAE FLSC requires at least one firefighting elevator in a mall, a multi-storey amusement park and any building which is high-rise, super high-rise or high depth.
+    *en · DBC 2021, D.8.3.1:* <small class="actual">актуально на момент публикации 23.10.26</small> Section 2.9, Ch. 2 of UAE FLSC requires at least one firefighting elevator in a mall, a multi-storey amusement park and any building which is high-rise, super high-rise or high depth.
 
     </div>
     <div class="ru" markdown>

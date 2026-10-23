@@ -10,7 +10,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *ru · СП 113.13330.2023, п. 6.2.3–6.2.5:* <small class="actual">актуально на момент публикации 22.10.26</small> 6.2.3 Стоянки автомобилей допускается встраивать в здания других классов функциональной пожарной опасности (кроме Ф1.1 и Ф4.1, а также Ф5 категорий А и Б по взрывопожарной опасности), степеней огнестойкости I и II классов конструктивной пожарной опасности С0 и С1. При этом стоянки автомобилей (включая механизированные) должны выделяться в отдельный пожарный отсек противопожарными преградами в соответствии с СП 2.13130, имеющий степень огнестойкости не менее степени огнестойкости здания, в которое они встраиваются. 6.2.4 Пристроенные стоянки автомобилей (включая механизированные) к зданиям других классов функциональной пожарной опасности должны отделяться от этих зданий противопожарными стенами 1-го типа. В зданиях класса функциональной пожарной опасности Ф1.4 пристроенные стоянки автомобилей владельцев дома следует отделять противопожарными стенами 2-го типа или перегородками 1-го типа. 6.2.5 В зданиях класса Ф1.4 всех степеней огнестойкости встроенная стоянка автомобилей должна отделяться конструкциями с пределом огнестойкости не ниже (R)EI 45. Дверь между стоянкой автомобилей и жилыми помещениями должна быть противопожарной с пределом огнестойкости не ниже EI 30 (с уплотнением в притворах и устройством для самозакрывания) и не должна выходить непосредственно в спальное помещение.
+    *ru · СП 113.13330.2023, п. 6.2.3–6.2.5:* <small class="actual">актуально на момент публикации 23.10.26</small> 6.2.3 Стоянки автомобилей допускается встраивать в здания других классов функциональной пожарной опасности (кроме Ф1.1 и Ф4.1, а также Ф5 категорий А и Б по взрывопожарной опасности), степеней огнестойкости I и II классов конструктивной пожарной опасности С0 и С1. При этом стоянки автомобилей (включая механизированные) должны выделяться в отдельный пожарный отсек противопожарными преградами в соответствии с СП 2.13130, имеющий степень огнестойкости не менее степени огнестойкости здания, в которое они встраиваются. 6.2.4 Пристроенные стоянки автомобилей (включая механизированные) к зданиям других классов функциональной пожарной опасности должны отделяться от этих зданий противопожарными стенами 1-го типа. В зданиях класса функциональной пожарной опасности Ф1.4 пристроенные стоянки автомобилей владельцев дома следует отделять противопожарными стенами 2-го типа или перегородками 1-го типа. 6.2.5 В зданиях класса Ф1.4 всех степеней огнестойкости встроенная стоянка автомобилей должна отделяться конструкциями с пределом огнестойкости не ниже (R)EI 45. Дверь между стоянкой автомобилей и жилыми помещениями должна быть противопожарной с пределом огнестойкости не ниже EI 30 (с уплотнением в притворах и устройством для самозакрывания) и не должна выходить непосредственно в спальное помещение.
 
     </div>
     <div class="ru" markdown>
@@ -23,7 +23,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *ru · СП 113.13330.2023, п. 6.2.7:* <small class="actual">актуально на момент публикации 22.10.26</small> 6.2.7 Для встроенных или пристроенных стоянок автомобилей сообщение с частью здания общественного назначения в пределах этажа следует предусматривать с устройством тамбуршлюзов 1-го типа с подпором воздуха при пожаре.
+    *ru · СП 113.13330.2023, п. 6.2.7:* <small class="actual">актуально на момент публикации 23.10.26</small> 6.2.7 Для встроенных или пристроенных стоянок автомобилей сообщение с частью здания общественного назначения в пределах этажа следует предусматривать с устройством тамбуршлюзов 1-го типа с подпором воздуха при пожаре.
 
     </div>
     <div class="ru" markdown>
@@ -42,7 +42,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *sr · Правилник 22/2019, чл. 12:* <small class="actual">актуально на момент публикации 22.10.26</small> Izdvajanje pratećih sadržaja (garaže, ugostiteljski objekti za ishranu i piće, skladišta i sl.), koji se nalaze u sastavu stambenog, poslovnog i javnog objekta, u posebne požarne sektore, vrši se u skladu sa posebnim propisima kojima je uređena oblast izgradnje tih objekata, pri čemu elementi građevinske konstrukcije na granici požarnog sektora moraju ispunjavati zahteve iz strožijeg propisa.
+    *sr · Правилник 22/2019, чл. 12:* <small class="actual">актуально на момент публикации 23.10.26</small> Izdvajanje pratećih sadržaja (garaže, ugostiteljski objekti za ishranu i piće, skladišta i sl.), koji se nalaze u sastavu stambenog, poslovnog i javnog objekta, u posebne požarne sektore, vrši se u skladu sa posebnim propisima kojima je uređena oblast izgradnje tih objekata, pri čemu elementi građevinske konstrukcije na granici požarnog sektora moraju ispunjavati zahteve iz strožijeg propisa.
 
     </div>
     <div class="ru" markdown>
@@ -74,7 +74,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *de · M-GarStVO, § 13 (1):* <small class="actual">актуально на момент публикации 22.10.26</small> § 13 Verbindungen zu Garagen und zwischen Garagengeschossen (1) Flure, Treppenräume und Aufzugsvorräume, die nicht nur den Benutzern der Garagen dienen, dürfen verbunden sein 1. mit geschlossenen Mittel- und Großgaragen nur durch Räume mit feuerbeständigen Wänden und Decken sowie feuerhemmenden, dicht- und selbstschließenden Türen, die in Fluchtrichtung aufschlagen (Sicherheitsschleusen); zwischen Sicherheitsschleusen und Fluren oder Treppenräumen genügen rauchdicht und selbstschließende Türen. Abweichend davon darf die Sicherheitsschleuse direkt mit einem Aufzug verbunden sein, wenn der Aufzug in einem eigenen, feuerbeständigen Schacht liegt oder direkt ins Freie führt. Der Abstand von der Tür zur Garage bis zur Tür zum notwendigen Treppenraum muss mindestens 3 m betragen.
+    *de · M-GarStVO, § 13 (1):* <small class="actual">актуально на момент публикации 23.10.26</small> § 13 Verbindungen zu Garagen und zwischen Garagengeschossen (1) Flure, Treppenräume und Aufzugsvorräume, die nicht nur den Benutzern der Garagen dienen, dürfen verbunden sein 1. mit geschlossenen Mittel- und Großgaragen nur durch Räume mit feuerbeständigen Wänden und Decken sowie feuerhemmenden, dicht- und selbstschließenden Türen, die in Fluchtrichtung aufschlagen (Sicherheitsschleusen); zwischen Sicherheitsschleusen und Fluren oder Treppenräumen genügen rauchdicht und selbstschließende Türen. Abweichend davon darf die Sicherheitsschleuse direkt mit einem Aufzug verbunden sein, wenn der Aufzug in einem eigenen, feuerbeständigen Schacht liegt oder direkt ins Freie führt. Der Abstand von der Tür zur Garage bis zur Tür zum notwendigen Treppenraum muss mindestens 3 m betragen.
 
     </div>
     <div class="ru" markdown>
@@ -87,7 +87,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *es · CTE DB-SI, SI 1, Tabla 1.1:* <small class="actual">актуально на момент публикации 22.10.26</small> Zona de uso Aparcamiento cuya superficie construida exceda de 100 m 2.(2) Cualquier comunicación con zonas de otro uso se debe hacer a través de vestíbulos de independencia.
+    *es · CTE DB-SI, SI 1, Tabla 1.1:* <small class="actual">актуально на момент публикации 23.10.26</small> Zona de uso Aparcamiento cuya superficie construida exceda de 100 m 2.(2) Cualquier comunicación con zonas de otro uso se debe hacer a través de vestíbulos de independencia.
 
     </div>
     <div class="ru" markdown>
@@ -106,7 +106,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *en · DBC 2021, B.7.2.3.1:* <small class="actual">актуально на момент публикации 22.10.26</small> Parking areas within a building shall be separated from other occupancies. Occupiable spaces adjacent to or within parking areas shall be provided with thermal and acoustic treatment. Ventilation separation conforming to Part H, and fire separation conforming to Table 1.9, Ch. 1 of UAE FLSC
+    *en · DBC 2021, B.7.2.3.1:* <small class="actual">актуально на момент публикации 23.10.26</small> Parking areas within a building shall be separated from other occupancies. Occupiable spaces adjacent to or within parking areas shall be provided with thermal and acoustic treatment. Ventilation separation conforming to Part H, and fire separation conforming to Table 1.9, Ch. 1 of UAE FLSC
 
     </div>
     <div class="ru" markdown>
