@@ -10,7 +10,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *ru · СП 118.13330.2022, п. 4.26:* <small class="actual">актуально на момент публикации 22.10.26</small> 4.26 Высоту помещений с постоянным и (или) массовым пребыванием людей в чистоте (от пола до потолка, в том числе подвесного) вновь проектируемых общественных зданий следует принимать не менее 3 м, если иное не предусмотрено настоящим пунктом.
+    *ru · СП 118.13330.2022, п. 4.26:* <small class="actual">актуально на момент публикации 23.10.26</small> 4.26 Высоту помещений с постоянным и (или) массовым пребыванием людей в чистоте (от пола до потолка, в том числе подвесного) вновь проектируемых общественных зданий следует принимать не менее 3 м, если иное не предусмотрено настоящим пунктом.
 
     </div>
     <div class="ru" markdown>
@@ -23,7 +23,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *ru · СП 118.13330.2022, п. 4.27:* <small class="actual">актуально на момент публикации 22.10.26</small> 4.27 В общественных зданит допускается принимать высоту в чистоте, м: 17/60 СП 118.13330.2022 Общественные здания и сооружения (с изменениями № 1-5) 2,7 – в административных и служебных помещениях; в общежитиях и домах-интернатах; в зданиях образовательных организаций в климатическом подрайоне строительства IA по СП 131.13330; 2,6 – в помещениях с постоянным пребыванием людей, включая рекреации зданий образовательных организаций, при условии размещения помещений с пониженной высотой на площади (суммарно), не превышающей 20 % общей площади помещений общественного здания; 2,4 – в коридорах (кроме коридоров образовательных организаций, выполняющих функцию рекреаций) и холлах для посетителей, а также в помещениях без постоянного пребывания людей; 2,2 – в коридорах и помещениях вспомогательного назначения.
+    *ru · СП 118.13330.2022, п. 4.27:* <small class="actual">актуально на момент публикации 23.10.26</small> 4.27 В общественных зданит допускается принимать высоту в чистоте, м: 17/60 СП 118.13330.2022 Общественные здания и сооружения (с изменениями № 1-5) 2,7 – в административных и служебных помещениях; в общежитиях и домах-интернатах; в зданиях образовательных организаций в климатическом подрайоне строительства IA по СП 131.13330; 2,6 – в помещениях с постоянным пребыванием людей, включая рекреации зданий образовательных организаций, при условии размещения помещений с пониженной высотой на площади (суммарно), не превышающей 20 % общей площади помещений общественного здания; 2,4 – в коридорах (кроме коридоров образовательных организаций, выполняющих функцию рекреаций) и холлах для посетителей, а также в помещениях без постоянного пребывания людей; 2,2 – в коридорах и помещениях вспомогательного назначения.
 
     </div>
     <div class="ru" markdown>
@@ -59,7 +59,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *de · MBO § 47 (1):* <small class="actual">актуально на момент публикации 22.10.26</small> § 47 Aufenthaltsräume (1) Aufenthaltsräume müssen eine lichte Raumhöhe von mindestens 2,40 m haben. Dies gilt nicht für Aufenthaltsräume in Wohngebäuden der Gebäudeklassen 1 und 2 sowie für Aufenthaltsräume im Dachraum.
+    *de · MBO § 47 (1):* <small class="actual">актуально на момент публикации 23.10.26</small> § 47 Aufenthaltsräume (1) Aufenthaltsräume müssen eine lichte Raumhöhe von mindestens 2,40 m haben. Dies gilt nicht für Aufenthaltsräume in Wohngebäuden der Gebäudeklassen 1 und 2 sowie für Aufenthaltsräume im Dachraum.
 
     </div>
     <div class="ru" markdown>
@@ -78,7 +78,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *en · DBC 2021, B.5.3, табл. B.4:* <small class="actual">актуально на момент публикации 22.10.26</small> The clear height of a space shall be not less than the minimum values given in Table B.4. The clear heights shall be calculated from FFL to any structural suspended element or ceiling soffits, as shown in Figure B.25. ≥1.2 m ≥1.2 m Figure B.24 Manoeuvring space within kitchen Occupancy Use Minimum clear heights (m) Assembly Awqat mosque prayer hall 3.8 Jumaa mosque prayer hall 5.0 Prayer rooms 2.7 Ballrooms, multipurpose assembly halls 2.7 Business Offices 2.5 Retail, mall Retail shops/stores, showrooms 2.5 Educational Schools, nurseries and kindergartens – classrooms 2.7
+    *en · DBC 2021, B.5.3, табл. B.4:* <small class="actual">актуально на момент публикации 23.10.26</small> The clear height of a space shall be not less than the minimum values given in Table B.4. The clear heights shall be calculated from FFL to any structural suspended element or ceiling soffits, as shown in Figure B.25. ≥1.2 m ≥1.2 m Figure B.24 Manoeuvring space within kitchen Occupancy Use Minimum clear heights (m) Assembly Awqat mosque prayer hall 3.8 Jumaa mosque prayer hall 5.0 Prayer rooms 2.7 Ballrooms, multipurpose assembly halls 2.7 Business Offices 2.5 Retail, mall Retail shops/stores, showrooms 2.5 Educational Schools, nurseries and kindergartens – classrooms 2.7
 
     </div>
     <div class="ru" markdown>

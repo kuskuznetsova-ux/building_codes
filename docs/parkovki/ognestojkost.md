@@ -10,7 +10,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *ru · СП 113.13330.2023, п. 5.15, 6.2.2:* <small class="actual">актуально на момент публикации 22.10.26</small> 6.2.2 Требуемую степень огнестойкости и класс конструктивной пожарной опасности, допустимые этажность и площадь этажа в пределах пожарного отсека для зданий или сооружений стоянок автомобилей следует принимать в соответствии с СП 2.13130 и с учетом 5.2. Если пожарный отсек включает в себя наземные и подземные этажи, площадь этажа в пределах пожарного отсека следует определять отдельно для подземных и наземных этажей.
+    *ru · СП 113.13330.2023, п. 5.15, 6.2.2:* <small class="actual">актуально на момент публикации 23.10.26</small> 6.2.2 Требуемую степень огнестойкости и класс конструктивной пожарной опасности, допустимые этажность и площадь этажа в пределах пожарного отсека для зданий или сооружений стоянок автомобилей следует принимать в соответствии с СП 2.13130 и с учетом 5.2. Если пожарный отсек включает в себя наземные и подземные этажи, площадь этажа в пределах пожарного отсека следует определять отдельно для подземных и наземных этажей.
 
     </div>
     <div class="ru" markdown>
@@ -29,7 +29,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *sr · Правилник 22/2019, чл. 12:* <small class="actual">актуально на момент публикации 22.10.26</small> Izdvajanje pratećih sadržaja (garaže, ugostiteljski objekti za ishranu i piće, skladišta i sl.), koji se nalaze u sastavu stambenog, poslovnog i javnog objekta, u posebne požarne sektore, vrši se u skladu sa posebnim propisima kojima je uređena oblast izgradnje tih objekata, pri čemu elementi građevinske konstrukcije na granici požarnog sektora moraju ispunjavati zahteve iz strožijeg propisa.
+    *sr · Правилник 22/2019, чл. 12:* <small class="actual">актуально на момент публикации 23.10.26</small> Izdvajanje pratećih sadržaja (garaže, ugostiteljski objekti za ishranu i piće, skladišta i sl.), koji se nalaze u sastavu stambenog, poslovnog i javnog objekta, u posebne požarne sektore, vrši se u skladu sa posebnim propisima kojima je uređena oblast izgradnje tih objekata, pri čemu elementi građevinske konstrukcije na granici požarnog sektora moraju ispunjavati zahteve iz strožijeg propisa.
 
     </div>
     <div class="ru" markdown>
@@ -61,7 +61,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *de · M-GarStVO, § 12 (1), § 7 (1)–(2):* <small class="actual">актуально на момент публикации 22.10.26</small> § 12 Brandabschnitte (1) Geschlossene Garagen, ausgenommen automatische Garagen, müssen durch Brandwände nach § 30 Abs. 3 Satz 1 MBO in Brandabschnitte mit Nutzflächen 1. in oberirdischen geschlossenen Garagen bis höchstens 5.000 m², 2. in sonstigen geschlossenen Garagen bis höchstens 2.500 m² unterteilt sein. Die Nutzfläche darf höchstens doppelt so groß sein, wenn die Garagen selbsttätige Feuerlöschanlagen haben.
+    *de · M-GarStVO, § 12 (1), § 7 (1)–(2):* <small class="actual">актуально на момент публикации 23.10.26</small> § 12 Brandabschnitte (1) Geschlossene Garagen, ausgenommen automatische Garagen, müssen durch Brandwände nach § 30 Abs. 3 Satz 1 MBO in Brandabschnitte mit Nutzflächen 1. in oberirdischen geschlossenen Garagen bis höchstens 5.000 m², 2. in sonstigen geschlossenen Garagen bis höchstens 2.500 m² unterteilt sein. Die Nutzfläche darf höchstens doppelt so groß sein, wenn die Garagen selbsttätige Feuerlöschanlagen haben.
 
     </div>
     <div class="ru" markdown>
@@ -74,7 +74,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *de · OIB-RL 2.2, RL 2.2, п. 5.6.1–5.6.3:* <small class="actual">актуально на момент публикации 22.10.26</small> 5.6.1 Für die maximal zulässigen Brandabschnittsflächen gelten die Anforderungen gemäß Tabelle 2 in Abhängigkeit von den vorhandenen Rauch- und Wärmeabzugseinrichtungen sowie den Brandschutzeinrichtungen. 5.6.2 Unabhängig von der Größe des Brandabschnittes darf eine Längsausdehnung von 80 m nicht überschritten werden. Dies gilt nicht bei Vorhandensein einer erweiterten automatischen Löschhilfeanlage oder einer Sprinkleranlage. 5.6.3 Bei mehrgeschoßigen Garagen mit einer Nutzfläche von insgesamt mehr als 600 m² ist jedes Geschoß als eigener Brandabschnitt auszubilden.
+    *de · OIB-RL 2.2, RL 2.2, п. 5.6.1–5.6.3:* <small class="actual">актуально на момент публикации 23.10.26</small> 5.6.1 Für die maximal zulässigen Brandabschnittsflächen gelten die Anforderungen gemäß Tabelle 2 in Abhängigkeit von den vorhandenen Rauch- und Wärmeabzugseinrichtungen sowie den Brandschutzeinrichtungen. 5.6.2 Unabhängig von der Größe des Brandabschnittes darf eine Längsausdehnung von 80 m nicht überschritten werden. Dies gilt nicht bei Vorhandensein einer erweiterten automatischen Löschhilfeanlage oder einer Sprinkleranlage. 5.6.3 Bei mehrgeschoßigen Garagen mit einer Nutzfläche von insgesamt mehr als 600 m² ist jedes Geschoß als eigener Brandabschnitt auszubilden.
 
     </div>
     <div class="ru" markdown>
@@ -87,7 +87,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *es · CTE DB-SI, SI 6, Tabla 3.1:* <small class="actual">актуально на момент публикации 22.10.26</small> Aparcamiento (edificio de uso exclusivo o situado sobre otro uso) R 90 Aparcamiento (situado bajo un uso distinto) R 120
+    *es · CTE DB-SI, SI 6, Tabla 3.1:* <small class="actual">актуально на момент публикации 23.10.26</small> Aparcamiento (edificio de uso exclusivo o situado sobre otro uso) R 90 Aparcamiento (situado bajo un uso distinto) R 120
 
     </div>
     <div class="ru" markdown>
@@ -102,7 +102,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *en · AD B Vol 2, п. 11.2 e, 11.3:* <small class="actual">актуально на момент публикации 22.10.26</small> 11.3 For car parks that do not have the ventilation set out in paragraph 11.2, the required fire resistance is given in Appendix B, Table B2.
+    *en · AD B Vol 2, п. 11.2 e, 11.3:* <small class="actual">актуально на момент публикации 23.10.26</small> 11.3 For car parks that do not have the ventilation set out in paragraph 11.2, the required fire resistance is given in Appendix B, Table B2.
 
     </div>
     <div class="ru" markdown>
@@ -121,7 +121,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *en · DBC 2021, B.7.2.3.1:* <small class="actual">актуально на момент публикации 22.10.26</small> Ventilation separation conforming to Part H, and fire separation conforming to Table 1.9, Ch. 1 of UAE FLSC
+    *en · DBC 2021, B.7.2.3.1:* <small class="actual">актуально на момент публикации 23.10.26</small> Ventilation separation conforming to Part H, and fire separation conforming to Table 1.9, Ch. 1 of UAE FLSC
 
     </div>
     <div class="ru" markdown>

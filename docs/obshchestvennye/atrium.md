@@ -10,7 +10,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *ru · СП 118.13330.2022, п. 4.23, 4.26:* <small class="actual">актуально на момент публикации 22.10.26</small> 4.23 Атриумы в общественных зданиях устраивают в соответствии с требованиями пункта 6.2.1 СП 456.1311500.2020.
+    *ru · СП 118.13330.2022, п. 4.23, 4.26:* <small class="actual">актуально на момент публикации 23.10.26</small> 4.23 Атриумы в общественных зданиях устраивают в соответствии с требованиями пункта 6.2.1 СП 456.1311500.2020.
 
     </div>
     <div class="ru" markdown>
@@ -48,7 +48,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *en · AD B Vol 2, п. 0.16:* <small class="actual">актуально на момент публикации 22.10.26</small> A building with an atrium that passes through compartment floors may need special fire safety measures. Guidance is given in Annexes B and C of BS 9999.
+    *en · AD B Vol 2, п. 0.16:* <small class="actual">актуально на момент публикации 23.10.26</small> A building with an atrium that passes through compartment floors may need special fire safety measures. Guidance is given in Annexes B and C of BS 9999.
 
     </div>
     <div class="ru" markdown>

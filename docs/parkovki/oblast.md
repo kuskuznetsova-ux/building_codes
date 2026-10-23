@@ -10,7 +10,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *ru · СП 113.13330.2023, п. 1.1–1.2:* <small class="actual">актуально на момент публикации 22.10.26</small> 1.1 Настоящий свод правил распространяется на проектирование зданий, сооружений, площадок и помещений на территориях городских и муниципальных округов, городских и сельских поселений, городских и сельских населенных пунктов, предназначенных для стоянки (хранения) автомобилей, микроавтобусов и других мототранспортных и велотранспортных средств, а также средств индивидуальной мобильности. 1.2 Настоящий свод правил не распространяется на гаражи, в которых предусмотрено проведение текущего ремонта и технического обслуживания автомобилей (за исключением мойки), на стоянки автомобилей с разрешенной максимальной массой более 3,5 т, на стоянки автомобилей, работающих на водороде и сжиженном природном газе, на стоянки автомобилей, использующихся для перевозки взрывчатых, ядовитых и радиоактивных веществ.
+    *ru · СП 113.13330.2023, п. 1.1–1.2:* <small class="actual">актуально на момент публикации 23.10.26</small> 1.1 Настоящий свод правил распространяется на проектирование зданий, сооружений, площадок и помещений на территориях городских и муниципальных округов, городских и сельских поселений, городских и сельских населенных пунктов, предназначенных для стоянки (хранения) автомобилей, микроавтобусов и других мототранспортных и велотранспортных средств, а также средств индивидуальной мобильности. 1.2 Настоящий свод правил не распространяется на гаражи, в которых предусмотрено проведение текущего ремонта и технического обслуживания автомобилей (за исключением мойки), на стоянки автомобилей с разрешенной максимальной массой более 3,5 т, на стоянки автомобилей, работающих на водороде и сжиженном природном газе, на стоянки автомобилей, использующихся для перевозки взрывчатых, ядовитых и радиоактивных веществ.
 
     </div>
     <div class="ru" markdown>
@@ -23,7 +23,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *ru · СП 113.13330.2023, п. 3.1.13–3.1.14:* <small class="actual">актуально на момент публикации 22.10.26</small> 3.1.13 наземная стоянка автомобилей закрытого типа: Стоянка автомобилей с наружными ограждающими конструкциями. 3.1.14 наземная стоянка автомобилей открытого типа: Стоянка автомобилей, в которой не менее 50% площади внешней поверхности наружных ограждений на каждом ярусе (этаже) составляют проемы, остальное - парапеты.
+    *ru · СП 113.13330.2023, п. 3.1.13–3.1.14:* <small class="actual">актуально на момент публикации 23.10.26</small> 3.1.13 наземная стоянка автомобилей закрытого типа: Стоянка автомобилей с наружными ограждающими конструкциями. 3.1.14 наземная стоянка автомобилей открытого типа: Стоянка автомобилей, в которой не менее 50% площади внешней поверхности наружных ограждений на каждом ярусе (этаже) составляют проемы, остальное - парапеты.
 
     </div>
     <div class="ru" markdown>
@@ -42,7 +42,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *sr · Правилник 22/2019, чл. 12:* <small class="actual">актуально на момент публикации 22.10.26</small> Izdvajanje pratećih sadržaja (garaže, ugostiteljski objekti za ishranu i piće, skladišta i sl.), koji se nalaze u sastavu stambenog, poslovnog i javnog objekta, u posebne požarne sektore, vrši se u skladu sa posebnim propisima kojima je uređena oblast izgradnje tih objekata, pri čemu elementi građevinske konstrukcije na granici požarnog sektora moraju ispunjavati zahteve iz strožijeg propisa.
+    *sr · Правилник 22/2019, чл. 12:* <small class="actual">актуально на момент публикации 23.10.26</small> Izdvajanje pratećih sadržaja (garaže, ugostiteljski objekti za ishranu i piće, skladišta i sl.), koji se nalaze u sastavu stambenog, poslovnog i javnog objekta, u posebne požarne sektore, vrši se u skladu sa posebnim propisima kojima je uređena oblast izgradnje tih objekata, pri čemu elementi građevinske konstrukcije na granici požarnog sektora moraju ispunjavati zahteve iz strožijeg propisa.
 
     </div>
     <div class="ru" markdown>
@@ -74,7 +74,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *de · M-GarStVO, § 2 (1)–(3):* <small class="actual">актуально на момент публикации 22.10.26</small> § 2 Begriffe und allgemeine Anforderungen (1) Offene Mittel- und Großgaragen sind Garagen, die unmittelbar ins Freie führende unverschließbare Öffnungen in einer Größe von insgesamt mindestens einem Drittel der Gesamtfläche der Umfassungswände haben, bei denen mindestens zwei sich gegenüberliegende Umfassungswände mit den ins Freie führenden Öffnungen nicht mehr als 70 m voneinander entfernt sind und bei denen eine ständige Querlüftung vorhanden ist (2) Offene Kleingaragen sind Kleingaragen, die unmittelbar ins Freie führende unverschließbare Öffnungen in einer Größe von insgesamt mindestens einem Drittel der Gesamtfläche der Umfassungswände haben. (3) Geschlossene Garagen sind Garagen, die die Voraussetzungen nach den Absätzen 1 und 2 nicht erfüllen.
+    *de · M-GarStVO, § 2 (1)–(3):* <small class="actual">актуально на момент публикации 23.10.26</small> § 2 Begriffe und allgemeine Anforderungen (1) Offene Mittel- und Großgaragen sind Garagen, die unmittelbar ins Freie führende unverschließbare Öffnungen in einer Größe von insgesamt mindestens einem Drittel der Gesamtfläche der Umfassungswände haben, bei denen mindestens zwei sich gegenüberliegende Umfassungswände mit den ins Freie führenden Öffnungen nicht mehr als 70 m voneinander entfernt sind und bei denen eine ständige Querlüftung vorhanden ist (2) Offene Kleingaragen sind Kleingaragen, die unmittelbar ins Freie führende unverschließbare Öffnungen in einer Größe von insgesamt mindestens einem Drittel der Gesamtfläche der Umfassungswände haben. (3) Geschlossene Garagen sind Garagen, die die Voraussetzungen nach den Absätzen 1 und 2 nicht erfüllen.
 
     </div>
     <div class="ru" markdown>
@@ -89,7 +89,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *fr · Arrêté 1986, ст. 1:* <small class="actual">актуально на момент публикации 22.10.26</small> aux parcs de stationnement couverts annexes des bâtiments ci-dessus, ayant une surface de plus de 100 mètres carrés et de 6 000 mètres carrés au plus.
+    *fr · Arrêté 1986, ст. 1:* <small class="actual">актуально на момент публикации 23.10.26</small> aux parcs de stationnement couverts annexes des bâtiments ci-dessus, ayant une surface de plus de 100 mètres carrés et de 6 000 mètres carrés au plus.
 
     </div>
     <div class="ru" markdown>
@@ -104,7 +104,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *es · CTE DB-SI, Anejo A: Aparcamiento abierto:* <small class="actual">актуально на момент публикации 22.10.26</small> Aparcamiento abierto Es aquel que cumple las siguientes condiciones: a) Sus fachadas presentan en cada planta un área total permanentemente abierta al exterior no inferior a 1/20 de su superficie construida, de la cual al menos 1/40 está distribuida de manera uniforme entre las dos paredes opuestas que se encuentren a menor distancia;
+    *es · CTE DB-SI, Anejo A: Aparcamiento abierto:* <small class="actual">актуально на момент публикации 23.10.26</small> Aparcamiento abierto Es aquel que cumple las siguientes condiciones: a) Sus fachadas presentan en cada planta un área total permanentemente abierta al exterior no inferior a 1/20 de su superficie construida, de la cual al menos 1/40 está distribuida de manera uniforme entre las dos paredes opuestas que se encuentren a menor distancia;
 
     </div>
     <div class="ru" markdown>
@@ -119,7 +119,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *en · AD B Vol 2, п. 11.2:* <small class="actual">актуально на момент публикации 22.10.26</small> 11.2 For the purposes of assessing fire resistance, a building, compartment or separated part containing a car park may be regarded as open-sided when it complies with all of the following. a. There are no basement storeys. b. Each storey is naturally ventilated by permanent openings at each car parking level. The aggregate vent area is a minimum of 1/20 of that level’s floor area, at least half of which is provided equally by two opposite walls (1/80 on each side).
+    *en · AD B Vol 2, п. 11.2:* <small class="actual">актуально на момент публикации 23.10.26</small> 11.2 For the purposes of assessing fire resistance, a building, compartment or separated part containing a car park may be regarded as open-sided when it complies with all of the following. a. There are no basement storeys. b. Each storey is naturally ventilated by permanent openings at each car parking level. The aggregate vent area is a minimum of 1/20 of that level’s floor area, at least half of which is provided equally by two opposite walls (1/80 on each side).
 
     </div>
     <div class="ru" markdown>
@@ -138,7 +138,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *en · DBC 2021, B.2 (определение):* <small class="actual">актуально на момент публикации 22.10.26</small> Open parking: Parking occupancy where each parking level has permanent wall openings for natural ventilation purposes. The exterior sides of the structure have uniformly distributed openings on two or more sides. The area of such openings in external walls on a level is not less than 20% of the total perimeter wall area of each level. The total width of all of the openings considered to be providing natural ventilation is not less than 40% of the perimeter of the level.
+    *en · DBC 2021, B.2 (определение):* <small class="actual">актуально на момент публикации 23.10.26</small> Open parking: Parking occupancy where each parking level has permanent wall openings for natural ventilation purposes. The exterior sides of the structure have uniformly distributed openings on two or more sides. The area of such openings in external walls on a level is not less than 20% of the total perimeter wall area of each level. The total width of all of the openings considered to be providing natural ventilation is not less than 40% of the perimeter of the level.
 
     </div>
     <div class="ru" markdown>

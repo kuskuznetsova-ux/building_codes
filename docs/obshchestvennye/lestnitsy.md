@@ -10,7 +10,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *ru · СП 118.13330.2022, п. 5.7–5.10:* <small class="actual">актуально на момент публикации 22.10.26</small> 5.7 Размер проступей лестниц, постоянно используемых посетителями, должен быть 0,3 м (допускается от 0,28 до 0,35 м), а размер подступенок – 0,15 м (допускается от 0,13 до 0,17 м). Ступени лестниц должны быть ровными, без выступов и с шероховатой поверхностью. Ребро ступени должно иметь закругление радиусом не более 0,05 м. Применение в пределах марша ступеней с разными параметрами высоты и глубины не допускается. Допускается изменять рисунок трех нижних ступеней главной лестницы. П р и м е ч а н и е – В проходах зрительных залов и на трибунах для зрителей допускаются иные размеры ступеней, определяемые по проекту с учетом безопасности передвижения зрителей. 5.8 Уклон маршей следует принимать: - для лестниц, предназначенных для посетителей, в надземных этажах – 1:2; - для лестниц, ведущих в подвальные и цокольные этажи, на чердак (технический чердак), а также для лестниц в надземных этажах, не предназначенных для использования посетителями, – не более 1:1,5; - для второй лестницы, не используемой постоянно посетителями, в общественных зданиях с лифтами – не более 1:1. 5.9 Уклон лестниц трибун для зрителей открытых или крытых объектов спорта определяется с учетом обеспечения видимости и пункта 7.3.9 СП 1.13130.2020. 5.10 Ширина лестничных площадок должна быть не менее ширины марша. Промежуточная площадка в прямом марше лестницы должна иметь длину не менее 1 м.
+    *ru · СП 118.13330.2022, п. 5.7–5.10:* <small class="actual">актуально на момент публикации 23.10.26</small> 5.7 Размер проступей лестниц, постоянно используемых посетителями, должен быть 0,3 м (допускается от 0,28 до 0,35 м), а размер подступенок – 0,15 м (допускается от 0,13 до 0,17 м). Ступени лестниц должны быть ровными, без выступов и с шероховатой поверхностью. Ребро ступени должно иметь закругление радиусом не более 0,05 м. Применение в пределах марша ступеней с разными параметрами высоты и глубины не допускается. Допускается изменять рисунок трех нижних ступеней главной лестницы. П р и м е ч а н и е – В проходах зрительных залов и на трибунах для зрителей допускаются иные размеры ступеней, определяемые по проекту с учетом безопасности передвижения зрителей. 5.8 Уклон маршей следует принимать: - для лестниц, предназначенных для посетителей, в надземных этажах – 1:2; - для лестниц, ведущих в подвальные и цокольные этажи, на чердак (технический чердак), а также для лестниц в надземных этажах, не предназначенных для использования посетителями, – не более 1:1,5; - для второй лестницы, не используемой постоянно посетителями, в общественных зданиях с лифтами – не более 1:1. 5.9 Уклон лестниц трибун для зрителей открытых или крытых объектов спорта определяется с учетом обеспечения видимости и пункта 7.3.9 СП 1.13130.2020. 5.10 Ширина лестничных площадок должна быть не менее ширины марша. Промежуточная площадка в прямом марше лестницы должна иметь длину не менее 1 м.
 
     </div>
     <div class="ru" markdown>
@@ -29,7 +29,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *sr · Правилник 22/2015, чл. 8:* <small class="actual">актуально на момент публикации 22.10.26</small> 1) najmanja širina stepenišnog kraka bude 120 cm; 2) najmanja širina gazišta bude 33 cm, a najveća dozvoljena visina stepenika bude 15 cm;
+    *sr · Правилник 22/2015, чл. 8:* <small class="actual">актуально на момент публикации 23.10.26</small> 1) najmanja širina stepenišnog kraka bude 120 cm; 2) najmanja širina gazišta bude 33 cm, a najveća dozvoljena visina stepenika bude 15 cm;
 
     </div>
     <div class="ru" markdown>
@@ -61,7 +61,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *de · OIB-RL 4, п. 3.2.1, табл. 3:* <small class="actual">актуально на момент публикации 22.10.26</small> 3.2.1 In einem Treppenlauf müssen die Stufen in dessen gesamten Verlauf gleich hoch und in der Lauflinie gleich tief sein. Die Stufenhöhe und der Stufenauftritt von Treppen müssen der Tabelle 3 entsprechen, wobei bei den Stufen die Steigungsverhältnisse der Schrittmaßregel (2 × Stufenhöhe + Stufenauftritt = 62 cm ± 3 cm) einzuhalten sind.
+    *de · OIB-RL 4, п. 3.2.1, табл. 3:* <small class="actual">актуально на момент публикации 23.10.26</small> 3.2.1 In einem Treppenlauf müssen die Stufen in dessen gesamten Verlauf gleich hoch und in der Lauflinie gleich tief sein. Die Stufenhöhe und der Stufenauftritt von Treppen müssen der Tabelle 3 entsprechen, wobei bei den Stufen die Steigungsverhältnisse der Schrittmaßregel (2 × Stufenhöhe + Stufenauftritt = 62 cm ± 3 cm) einzuhalten sind.
 
     </div>
     <div class="ru" markdown>
@@ -74,7 +74,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *es · CTE DB-SI, SUA 1, п. 4.2.1:* <small class="actual">актуально на момент публикации 22.10.26</small> 4.2.1 Peldaños 1 En tramos rectos, la huella medirá 28 cm como mínimo. En tramos rectos o curvos la contrahuella medirá 13 cm como mínimo y 18,5 cm como máximo, excepto en zonas de uso público, así como siempre que no se disponga ascensor como alternativa a la escalera, en cuyo caso la contrahuella medirá 17,5 cm, como máximo. La huella H y la contrahuella C cumplirán a lo largo de una misma escalera la relación siguiente: 54 cm ≤ 2C + H ≤ 70 cm
+    *es · CTE DB-SI, SUA 1, п. 4.2.1:* <small class="actual">актуально на момент публикации 23.10.26</small> 4.2.1 Peldaños 1 En tramos rectos, la huella medirá 28 cm como mínimo. En tramos rectos o curvos la contrahuella medirá 13 cm como mínimo y 18,5 cm como máximo, excepto en zonas de uso público, así como siempre que no se disponga ascensor como alternativa a la escalera, en cuyo caso la contrahuella medirá 17,5 cm, como máximo. La huella H y la contrahuella C cumplirán a lo largo de una misma escalera la relación siguiente: 54 cm ≤ 2C + H ≤ 70 cm
 
     </div>
     <div class="ru" markdown>
@@ -87,7 +87,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *de · MBO § 34 (1):* <small class="actual">актуально на момент публикации 22.10.26</small> § 34 Treppen (1) Jedes nicht zu ebener Erde liegende Geschoss und der benutzbare Dachraum eines Gebäudes müssen über mindestens eine Treppe zugänglich sein (not- wendige Treppe). Statt notwendiger Treppen sind Rampen mit flacher Neigung zu- lässig.
+    *de · MBO § 34 (1):* <small class="actual">актуально на момент публикации 23.10.26</small> § 34 Treppen (1) Jedes nicht zu ebener Erde liegende Geschoss und der benutzbare Dachraum eines Gebäudes müssen über mindestens eine Treppe zugänglich sein (not- wendige Treppe). Statt notwendiger Treppen sind Rampen mit flacher Neigung zu- lässig.
 
     </div>
     <div class="ru" markdown>
@@ -106,7 +106,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *en · DBC 2021, B.6.4.1.4:* <small class="actual">актуально на момент публикации 22.10.26</small> Stair riser height as measured in Figure B.29 shall be in the range 100 mm to 180 mm. Riser heights shall be as uniform as possible throughout each stair flight between landings. Where riser heights are adjusted to meet acceptable stair treads, flights and arrangements, there shall be no more than 10 mm difference in riser height within a single flight. Stair treads shall have a depth of not less than 280 mm. The tread slope shall not exceed 21 mm/m (2% slope).
+    *en · DBC 2021, B.6.4.1.4:* <small class="actual">актуально на момент публикации 23.10.26</small> Stair riser height as measured in Figure B.29 shall be in the range 100 mm to 180 mm. Riser heights shall be as uniform as possible throughout each stair flight between landings. Where riser heights are adjusted to meet acceptable stair treads, flights and arrangements, there shall be no more than 10 mm difference in riser height within a single flight. Stair treads shall have a depth of not less than 280 mm. The tread slope shall not exceed 21 mm/m (2% slope).
 
     </div>
     <div class="ru" markdown>

@@ -10,7 +10,33 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *ru · СП 477.1325800.2020, п. 7.5.8:* <small class="actual">актуально на момент публикации 22.10.26</small> 7.5.8 Высотные здания подлежат оборудованию АУП в соответствии с требованиями СП 486.1311500 и СП 253.1325800 . В целях исключения ложных срабатываний по заданию на проектирование применяются спринклерные АУП с контролем срабатывания.
+    *ru · СП 550.1311500.2026, п. 7.5.6:* <small class="actual">актуально на момент публикации 23.10.26</small> 7.5.6 Высотные здания подлежат оборудованию АУП в соответствии с требованиями СП 485.1311500, СП 486.1311500 и настоящего свода правил.
+
+    </div>
+    <div class="ru" markdown>
+
+    *Пояснение:* Высотные здания подлежат оборудованию автоматическими установками пожаротушения по СП 485.1311500, СП 486.1311500 и СП 550.
+
+    </div>
+    </div>
+
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    *ru · СП 550.1311500.2026, п. 7.5.3:* <small class="actual">актуально на момент публикации 23.10.26</small> 7.5.3 Минимальный расход воды на внутреннее пожаротушение должен составлять: в каждом пожарном отсеке класса функциональной пожарной опасности Ф1.2 и Ф1.3 не менее чем две струи по 2,5 л/с каждая; в каждом пожарном отсеке зданий общественного назначения не менее чем четыре струи по 2,5 л/с каждая, при этом количество стояков или опусков ВПВ, как и расстояние между пожарными шкафами, ПК определяется объемно-планировочными решениями из расчета обеспечения возможности орошения каждой точки помещения не менее чем двумя струями. В высотных зданиях для целей внутреннего пожаротушения следует предусматривать ПК в сочетании с водозаполненными пожарными стояками высокого давления, рассчитанными на расход воды не менее 20 л/с.
+
+    </div>
+    <div class="ru" markdown>
+
+    *Пояснение:* Расход воды на внутреннее пожаротушение — не менее двух струй по 2,5 л/с в каждом отсеке Ф1.2 и Ф1.3 и не менее четырёх струй по 2,5 л/с в каждом отсеке общественных зданий; в высотных зданиях — пожарные краны в сочетании с водозаполненными стояками высокого давления на расход не менее 20 л/с.
+
+    </div>
+    </div>
+
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    *ru · СП 477.1325800.2020 (прежний документ), п. 7.5.8:* <small class="actual">актуально на момент публикации 23.10.26</small> 7.5.8 Высотные здания подлежат оборудованию АУП в соответствии с требованиями СП 486.1311500 и СП 253.1325800 . В целях исключения ложных срабатываний по заданию на проектирование применяются спринклерные АУП с контролем срабатывания.
 
     </div>
     <div class="ru" markdown>
@@ -23,7 +49,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *ru · СП 477.1325800.2020, п. 7.5.2:* <small class="actual">актуально на момент публикации 22.10.26</small> 7.5.2 Внутренний противопожарный водопровод и системы автоматического пожаротушения должны проектироваться в соответствии с СП 485.1311500 , СП 253.1325800 .
+    *ru · СП 477.1325800.2020 (прежний документ), п. 7.5.2:* <small class="actual">актуально на момент публикации 23.10.26</small> 7.5.2 Внутренний противопожарный водопровод и системы автоматического пожаротушения должны проектироваться в соответствии с СП 485.1311500 , СП 253.1325800 .
 
     </div>
     <div class="ru" markdown>
@@ -35,6 +61,7 @@
 
     **Источники**
 
+    - СП 550.1311500.2026 (приказ МЧС России от 26.02.2026 № 137, введён с 01.06.2026; текст — файл пользователя из «Гарант» на 18.05.2026, там отмечено «документ не вступил в силу»)
     - [СП 477, пп. 7.5.2, 7.5.8](https://meganorm.ru/mega_doc/norm/pravila/0/sp_477_1325800_2020_svod_pravil_zdaniya_i_kompleksy_vysotnye.html)
 
 === "🇷🇸 Сербия"
@@ -42,7 +69,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *sr · Pravilnik 80/2015, čl. 78–79:* <small class="actual">актуально на момент публикации 22.10.26</small> Svaki visoki objekat mora biti obezbeđen spoljnom i unutrašnjom hidrantskom mrežom koja ispunjava uslove posebnog propisa. Član 79 U visokom objektu mora se nalaziti odgovarajući broj aparata za početno gašenje požara, u skladu sa tehničkim propisima i uputstvima proizvođača aparata i opreme.
+    *sr · Pravilnik 80/2015, čl. 78–79:* <small class="actual">актуально на момент публикации 23.10.26</small> Svaki visoki objekat mora biti obezbeđen spoljnom i unutrašnjom hidrantskom mrežom koja ispunjava uslove posebnog propisa. Član 79 U visokom objektu mora se nalaziti odgovarajući broj aparata za početno gašenje požara, u skladu sa tehničkim propisima i uputstvima proizvođača aparata i opreme.
 
     </div>
     <div class="ru" markdown>
@@ -74,7 +101,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *de · MHHR, п. 6.3.1.1:* <small class="actual">актуально на момент публикации 22.10.26</small> Hochhäuser müssen automatische Feuerlöschanlagen haben, die die Brandausbreitung in den Geschossen und den Brandüberschlag von Geschoss zu Geschoss ausreichend lang verhindern. Dies gilt nicht für Hochhäuser nach Nummer 8.
+    *de · MHHR, п. 6.3.1.1:* <small class="actual">актуально на момент публикации 23.10.26</small> Hochhäuser müssen automatische Feuerlöschanlagen haben, die die Brandausbreitung in den Geschossen und den Brandüberschlag von Geschoss zu Geschoss ausreichend lang verhindern. Dies gilt nicht für Hochhäuser nach Nummer 8.
 
     </div>
     <div class="ru" markdown>
@@ -87,7 +114,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *de · MHHR, п. 6.3.2.1:* <small class="actual">актуально на момент публикации 22.10.26</small> Hochhäuser müssen in jedem Geschoss nasse Steigleitungen mit Wandhydranten für die Feuerwehr haben
+    *de · MHHR, п. 6.3.2.1:* <small class="actual">актуально на момент публикации 23.10.26</small> Hochhäuser müssen in jedem Geschoss nasse Steigleitungen mit Wandhydranten für die Feuerwehr haben
 
     </div>
     <div class="ru" markdown>
@@ -102,7 +129,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *en · Approved Document B Vol 1, п. 7.4:* <small class="actual">актуально на момент публикации 22.10.26</small> Blocks of flats with a top storey more than 11m above ground level (see Diagram D6) should be fitted with a sprinkler system throughout the building in accordance with Appendix E.
+    *en · Approved Document B Vol 1, п. 7.4:* <small class="actual">актуально на момент публикации 23.10.26</small> Blocks of flats with a top storey more than 11m above ground level (see Diagram D6) should be fitted with a sprinkler system throughout the building in accordance with Appendix E.
 
     </div>
     <div class="ru" markdown>

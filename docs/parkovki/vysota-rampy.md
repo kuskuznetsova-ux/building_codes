@@ -10,7 +10,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *ru · СП 113.13330.2023, п. 5.17:* <small class="actual">актуально на момент публикации 22.10.26</small> 5.17 Высота помещений хранения автомобилей, а также расстояние от пола до низа выступающих строительных конструкций, инженерных коммуникаций или подвесного оборудования в местах проезда автомобилей, высота над рампами и воротами должны быть на 0,2 м больше высоты наиболее высокого автомобиля, но не менее 2 м. При этом классы размещаемых автомобилей указывают в задании на проектирование. Высота проходов на путях эвакуации людей должна быть не менее 2 м.
+    *ru · СП 113.13330.2023, п. 5.17:* <small class="actual">актуально на момент публикации 23.10.26</small> 5.17 Высота помещений хранения автомобилей, а также расстояние от пола до низа выступающих строительных конструкций, инженерных коммуникаций или подвесного оборудования в местах проезда автомобилей, высота над рампами и воротами должны быть на 0,2 м больше высоты наиболее высокого автомобиля, но не менее 2 м. При этом классы размещаемых автомобилей указывают в задании на проектирование. Высота проходов на путях эвакуации людей должна быть не менее 2 м.
 
     </div>
     <div class="ru" markdown>
@@ -23,7 +23,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *ru · СП 113.13330.2023, п. 5.19:* <small class="actual">актуально на момент публикации 22.10.26</small> 5.19 Уклон наклонных междуэтажных перекрытий должен быть не более 6%.
+    *ru · СП 113.13330.2023, п. 5.19:* <small class="actual">актуально на момент публикации 23.10.26</small> 5.19 Уклон наклонных междуэтажных перекрытий должен быть не более 6%.
 
     </div>
     <div class="ru" markdown>
@@ -36,7 +36,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *ru · СП 113.13330.2023, п. 5.26 а:* <small class="actual">актуально на момент публикации 22.10.26</small> 5.26 Рампы и пандусы в стоянках автомобилей должны соответствовать следующим требованиям: а) продольный уклон прямолинейных рамп по оси полосы движения в закрытых неотапливаемых и открытых стоянках должен быть не более 18%, криволинейных рамп - не более 13%, комбинированных рамп - прямолинейных участков с уклоном до 18% и криволинейных участков 15/50 СП 113.13330.2023 Стоянки автомобилей СНиП 21-02-99* (с изменениями № 1, 2) с уклоном до 13%, продольный уклон открытых (не защищенных от атмосферных осадков) рамп - не более 10%. При подогреве или других инженерных решениях, устраняющих обледенение проезжей части рампы, уклон открытых рамп должен быть, как для закрытых рамп;
+    *ru · СП 113.13330.2023, п. 5.26 а:* <small class="actual">актуально на момент публикации 23.10.26</small> 5.26 Рампы и пандусы в стоянках автомобилей должны соответствовать следующим требованиям: а) продольный уклон прямолинейных рамп по оси полосы движения в закрытых неотапливаемых и открытых стоянках должен быть не более 18%, криволинейных рамп - не более 13%, комбинированных рамп - прямолинейных участков с уклоном до 18% и криволинейных участков 15/50 СП 113.13330.2023 Стоянки автомобилей СНиП 21-02-99* (с изменениями № 1, 2) с уклоном до 13%, продольный уклон открытых (не защищенных от атмосферных осадков) рамп - не более 10%. При подогреве или других инженерных решениях, устраняющих обледенение проезжей части рампы, уклон открытых рамп должен быть, как для закрытых рамп;
 
     </div>
     <div class="ru" markdown>
@@ -72,7 +72,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *de · M-GarStVO, § 4, § 6:* <small class="actual">актуально на момент публикации 22.10.26</small> § 4 Rampen (1) Rampen von Mittel- und Großgaragen dürfen nicht mehr als 15 v. H. geneigt sein. Die Breite der Fahrbahnen auf diesen Rampen muss mindestens 2,75 m, in gewendelten Rampenbereichen mindestens 3,50 m betragen. Gewendelte Rampenteile müssen eine Querneigung von mindestens 3 v. H. haben. Der Halbmesser des inneren Fahrbahnrandes muss mindestens 5,0 m betragen.
+    *de · M-GarStVO, § 4, § 6:* <small class="actual">актуально на момент публикации 23.10.26</small> § 4 Rampen (1) Rampen von Mittel- und Großgaragen dürfen nicht mehr als 15 v. H. geneigt sein. Die Breite der Fahrbahnen auf diesen Rampen muss mindestens 2,75 m, in gewendelten Rampenbereichen mindestens 3,50 m betragen. Gewendelte Rampenteile müssen eine Querneigung von mindestens 3 v. H. haben. Der Halbmesser des inneren Fahrbahnrandes muss mindestens 5,0 m betragen.
 
     </div>
     <div class="ru" markdown>
@@ -85,7 +85,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *es · CTE DB-SI, SUA 1, п. 4.3.1:* <small class="actual">актуально на момент публикации 22.10.26</small> b) las de circulación de vehículos en aparcamientos que también estén previstas para la circulación de personas, y no pertenezcan a un itinerario accesible, cuya pendiente será, como máximo, del 16%.
+    *es · CTE DB-SI, SUA 1, п. 4.3.1:* <small class="actual">актуально на момент публикации 23.10.26</small> b) las de circulación de vehículos en aparcamientos que también estén previstas para la circulación de personas, y no pertenezcan a un itinerario accesible, cuya pendiente será, como máximo, del 16%.
 
     </div>
     <div class="ru" markdown>
@@ -104,7 +104,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *en · DBC 2021, B.7.2.3.2:* <small class="actual">актуально на момент публикации 22.10.26</small> Accessible parking slopes shall be limited to a maximum of 2%.
+    *en · DBC 2021, B.7.2.3.2:* <small class="actual">актуально на момент публикации 23.10.26</small> Accessible parking slopes shall be limited to a maximum of 2%.
 
     </div>
     <div class="ru" markdown>
