@@ -5,7 +5,7 @@
 !!! warning "Статус: черновик"
     Первый срез — многоквартирные жилые дома (плюс автостоянки). Цитаты взяты программно из текстов документов; перевод — рабочий, неофициальный. **⏳** — не сверено. Тексты ФЗ-123, СП 486, СП 2.13130 и СП 42.13330.2026 сверены по официальным редакциям; английский текст CPR — с legislation.gov.uk (сохранённая копия акта).
 
-=== "🇷🇺 Россия"
+=== "Россия"
 
     <div class="pair" markdown>
     <div class="orig" markdown>
@@ -56,7 +56,7 @@
 
     - [СП 1.13130, разд. 5.2](https://www.consultant.ru/document/cons_doc_LAW_351940/)
 
-=== "🇷🇸 Сербия"
+=== "Сербия"
 
     <div class="pair" markdown>
     <div class="orig" markdown>
@@ -75,20 +75,20 @@
 
     - [Правилник 22/2019, чл. 27](https://www.paragraf.rs/propisi/pravilnik-tehnickim-normativima-zastitu-pozara-stambenih-poslovnih-objekata-objekata.html)
 
-=== "🇪🇺 ЕС"
+=== "ЕС"
 
     **Страны ЕС: национальные нормы** (единой нормы ЕС нет; ниже — Германия, Франция, Австрия, Испания)
 
     <div class="matrix fire eu" markdown>
 
-    | | 🇩🇪 Германия | 🇫🇷 Франция | 🇦🇹 Австрия | 🇪🇸 Испания |
+    | | Германия | Франция | Австрия | Испания |
     |---|---|---|---|---|
     | **Нормативный документ** | [МВО § 2(4)](https://bvpi.de/bvpi/downloads/MBO.pdf?m=1749800306); [МШулбауР](https://wirtschaft.hessen.de/sites/wirtschaft.hessen.de/files/2022-01/Muster-Schulbau-Richtlinie%20(MSchulbauR).pdf) | Франция: [Arrêté 31.01.1986](https://medias.amf.asso.fr/docs/DOCUMENTS/AMF_20070607_arrete_31_01_86_incendie.pdf) (жилые дома, копия AMF; консолидированная редакция Légifrance не сверена ⏳) | Австрия: OIB-Richtlinien, ред. май 2023 ([RL 2](https://www.propellets.at/assets/upload/pelletlagerung/oib-rl-2-ausgabe-mai-2023.pdf), [RL 2.2](https://din-notlicht.com/wp-content/uploads/oib-rl-2.2-ausgabe-mai-2023.pdf), [RL 2.3](https://din-notlicht.com/wp-content/uploads/oib-rl-2.3-ausgabe-mai-2023.pdf), [RL 4](https://glas-gasperlmair.at/wp-content/uploads/2023/10/oib-rl_4_ausgabe_mai_2023.pdf), [Begriffsbestimmungen](https://din-notlicht.com/wp-content/uploads/oib-rl-begriffsbestimmungen-ausgabe-mai-2023.pdf)) | Испания: [CTE DB-SI](https://www.codigotecnico.org/pdf/Documentos/SI/DBSI.pdf) |
     | **Что установлено** | Пример — Германия: детские сады и школы — особые здания (МВО § 2(4) Nr. 12–13); для школ — два независимых пути из каждого класса, тупик ≤10 м, ширина 1,2 м на 200 человек (МШулбауР 3) | Школы и детсады — в ERP (отдельный регламент), в arrêté 1986 нет ⏳ | RL 2: особые правила для школ/детских учреждений ⏳ не найдены | Docente: сектор отдельный при >500 м² (в жилом здании); один выход допустим для ≤50 учеников; ширина — Tabla 4.1 (SI 1, SI 3) |
 
     </div>
 
-    **🇪🇺 ЕС и 🇩🇪 Германия — цитаты**
+    **ЕС и Германия — цитаты**
 
     Единых норм ЕС нет. Пример — Германия (типовые акты земель). Детские сады и школы относятся к «особым зданиям» (Sonderbauten); для детских садов отдельной федеральной типовой нормы не найдено ⏳, ниже — Muster-Schulbau-Richtlinie (МШулбауР, редакция апреля 2009 в версии земли Гессен) как ближайший аналог для детских учреждений.
 
@@ -131,7 +131,7 @@
     </div>
     </div>
 
-    **🇪🇸 Испания — цитаты**
+    **Испания — цитаты**
 
     <div class="pair" markdown>
     <div class="orig" markdown>
@@ -146,7 +146,7 @@
     </div>
     </div>
 
-=== "🇬🇧 Англия"
+=== "Англия"
 
     <div class="pair" markdown>
     <div class="orig" markdown>
@@ -219,11 +219,11 @@
     - [AD B Vol 2, п. 0.14](https://www.gov.uk/government/publications/fire-safety-approved-document-b)
     - [BB 100](https://www.gov.uk/government/publications/building-bulletin-100-design-for-fire-safety-in-schools)
 
-=== "🇦🇪 ОАЭ (Дубай)"
+=== "ОАЭ (Дубай)"
 
     ⏳ Не сверено: UAE Fire and Life Safety Code (Civil Defence) недоступен для скачивания; Dubai Building Code (DBC 2021) по этой теме только отсылает к нему. См. также [7.1 Доступная среда](../dostupnaya/index.md).
 
-=== "🇬🇪 Грузия"
+=== "Грузия"
 
     <div class="pair" markdown>
     <div class="orig" markdown>

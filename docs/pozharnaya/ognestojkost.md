@@ -5,7 +5,7 @@
 !!! warning "Статус: черновик"
     Первый срез — многоквартирные жилые дома (плюс автостоянки). Цитаты взяты программно из текстов документов; перевод — рабочий, неофициальный. **⏳** — не сверено. Тексты ФЗ-123, СП 486, СП 2.13130 и СП 42.13330.2026 сверены по официальным редакциям; английский текст CPR — с legislation.gov.uk (сохранённая копия акта).
 
-=== "🇷🇺 Россия"
+=== "Россия"
 
     <div class="pair" markdown>
     <div class="orig" markdown>
@@ -84,7 +84,7 @@
     - [СП 2.13130, п. 6.5.1](https://www.consultant.ru/document/cons_doc_LAW_362483/)
     - [ФЗ-123, ст. 87](https://sudact.ru/law/federalnyi-zakon-ot-22072008-n-123-fz-tekhnicheskii/)
 
-=== "🇷🇸 Сербия"
+=== "Сербия"
 
     <div class="pair" markdown>
     <div class="orig" markdown>
@@ -132,20 +132,20 @@
 
     - [Правилник 22/2019, чл. 10–11](https://www.paragraf.rs/propisi/pravilnik-tehnickim-normativima-zastitu-pozara-stambenih-poslovnih-objekata-objekata.html)
 
-=== "🇪🇺 ЕС"
+=== "ЕС"
 
     **Страны ЕС: национальные нормы** (единой нормы ЕС нет; ниже — Германия, Франция, Австрия, Испания)
 
     <div class="matrix fire eu" markdown>
 
-    | | 🇩🇪 Германия | 🇫🇷 Франция | 🇦🇹 Австрия | 🇪🇸 Испания |
+    | | Германия | Франция | Австрия | Испания |
     |---|---|---|---|---|
     | **Нормативный документ** | [CPR 305/2011, прил. I](https://www.legislation.gov.uk/eur/2011/305/annex/I) | Франция: [Arrêté 31.01.1986](https://medias.amf.asso.fr/docs/DOCUMENTS/AMF_20070607_arrete_31_01_86_incendie.pdf) (жилые дома, копия AMF; консолидированная редакция Légifrance не сверена ⏳) | Австрия: OIB-Richtlinien, ред. май 2023 ([RL 2](https://www.propellets.at/assets/upload/pelletlagerung/oib-rl-2-ausgabe-mai-2023.pdf), [RL 2.2](https://din-notlicht.com/wp-content/uploads/oib-rl-2.2-ausgabe-mai-2023.pdf), [RL 2.3](https://din-notlicht.com/wp-content/uploads/oib-rl-2.3-ausgabe-mai-2023.pdf), [RL 4](https://glas-gasperlmair.at/wp-content/uploads/2023/10/oib-rl_4_ausgabe_mai_2023.pdf), [Begriffsbestimmungen](https://din-notlicht.com/wp-content/uploads/oib-rl-begriffsbestimmungen-ausgabe-mai-2023.pdf)) | Испания: [CTE DB-SI](https://www.codigotecnico.org/pdf/Documentos/SI/DBSI.pdf) |
     | **Что установлено** | CPR: несущая способность сохраняется заданное время (прил. I, п. 2(a)); периоды — национальное право; классы по EN 13501-2 | Несущие вертикальные элементы: 1-я семья — ¼ ч, 2-я — ½ ч, 3-я — 1 ч, 4-я — 1½ ч (ст. 5) | Табл. 1b: R 30 … R 90 по классам GK1–GK5; для GK5 выше 6 этажей — R 90 и A2 ⏳ значения таблицы — по тексту PDF | Жильё (Residencial Vivienda): R 60 при высоте эвакуации ≤15 м, R 90 при ≤28 м, R 120 выше; подвалы — R 120 (Tabla 3.1 SI 6) |
 
     </div>
 
-    **🇪🇺 ЕС и 🇩🇪 Германия — цитаты**
+    **ЕС и Германия — цитаты**
 
     <div class="pair" markdown>
     <div class="orig" markdown>
@@ -160,7 +160,7 @@
     </div>
     </div>
 
-    **🇫🇷 Франция — цитаты**
+    **Франция — цитаты**
 
     <div class="pair" markdown>
     <div class="orig" markdown>
@@ -175,7 +175,7 @@
     </div>
     </div>
 
-    **🇪🇸 Испания — цитаты**
+    **Испания — цитаты**
 
     <div class="pair" markdown>
     <div class="orig" markdown>
@@ -190,7 +190,7 @@
     </div>
     </div>
 
-=== "🇬🇧 Англия"
+=== "Англия"
 
     <div class="pair" markdown>
     <div class="orig" markdown>
@@ -232,7 +232,7 @@
 
     - [AD B Vol 1, прил. B, табл. B2](https://www.gov.uk/government/publications/fire-safety-approved-document-b)
 
-=== "🇦🇪 ОАЭ (Дубай)"
+=== "ОАЭ (Дубай)"
 
     <div class="pair" markdown>
     <div class="orig" markdown>
@@ -264,7 +264,7 @@
 
     - [DBC 2021, B.9.2, B.6.4.1.2](https://dda.gov.ae/-/media/DC97EA219133466D908BDEC8A462A2A8.pdf)
 
-=== "🇬🇪 Грузия"
+=== "Грузия"
 
     <div class="pair" markdown>
     <div class="orig" markdown>

@@ -5,7 +5,7 @@
 !!! warning "Статус: черновик"
     Цитаты взяты программно из текстов документов; перевод — рабочий, неофициальный. **⏳** — не сверено. СП 42.13330.2026 сверен по официальной редакции (Техэксперт); текст СанПиН — с копии sudact.ru ⏳.
 
-=== "🇷🇺 Россия"
+=== "Россия"
 
     <div class="pair" markdown>
     <div class="orig" markdown>
@@ -111,7 +111,7 @@
     - [СанПиН 1.2.3685-21, табл. 5.58](https://www.consultant.ru/document/cons_doc_LAW_375839/b9ec1a76bba27a3332d31a98cf26f5029c4790b1/)
     - [СП 42.13330.2026, п. 16.15](https://meganorm.ru/mega_doc/norm_update_01092026/pravila/0/sp_42_13330_2026_svod_pravil_gradostroitelstvo_planirovka_i.html)
 
-=== "🇷🇸 Сербия"
+=== "Сербия"
 
     Требований по часам инсоляции, подобных СанПиН, в прочитанных правилниках не найдено ⏳ (возможны отраслевые нормы по санитарии и правила для детских учреждений). Ниже — общая норма градостроительных правил.
 
@@ -132,20 +132,20 @@
 
     - [Правилник 22/2015, чл. 55](https://www.paragraf.rs/propisi/pravilnik_o_opstim_pravilima_za_parcelaciju_regulaciju_i_izgradnju.html)
 
-=== "🇪🇺 ЕС"
+=== "ЕС"
 
     **Страны ЕС: национальные нормы** (единой нормы ЕС нет; ниже — Германия, Франция, Австрия, Испания)
 
     <div class="matrix fire eu" markdown>
 
-    | | 🇩🇪 Германия | 🇫🇷 Франция | 🇦🇹 Австрия | 🇪🇸 Испания |
+    | | Германия | Франция | Австрия | Испания |
     |---|---|---|---|---|
     | **Нормативный документ** | [Lichfields о BRE 209 и EN 17037](https://lichfields.uk/blog/2022/june/10/is-your-planning-application-at-risk-new-bre-report-209-guidance-fundamental-changes-to-daylight-and-sunlight-assessments) | Франция: [Arrêté 31.01.1986](https://medias.amf.asso.fr/docs/DOCUMENTS/AMF_20070607_arrete_31_01_86_incendie.pdf) (жилые дома, копия AMF; консолидированная редакция Légifrance не сверена ⏳) | Австрия: OIB-Richtlinien, ред. май 2023 ([RL 2](https://www.propellets.at/assets/upload/pelletlagerung/oib-rl-2-ausgabe-mai-2023.pdf), [RL 2.2](https://din-notlicht.com/wp-content/uploads/oib-rl-2.2-ausgabe-mai-2023.pdf), [RL 2.3](https://din-notlicht.com/wp-content/uploads/oib-rl-2.3-ausgabe-mai-2023.pdf), [RL 4](https://glas-gasperlmair.at/wp-content/uploads/2023/10/oib-rl_4_ausgabe_mai_2023.pdf), [Begriffsbestimmungen](https://din-notlicht.com/wp-content/uploads/oib-rl-begriffsbestimmungen-ausgabe-mai-2023.pdf)) | Испания: [CTE DB-SI](https://www.codigotecnico.org/pdf/Documentos/SI/DBSI.pdf) |
     | **Что установлено** | Стандарт EN 17037 «Daylight in buildings» (добровольный): солнечное освещение — минимум 1,5 / 3,0 / 4,0 ч на дату между 1 февраля и 21 марта; дневной свет — коэффициенты 2,1 / 3,5 / 5,0% (значения для Великобритании); национальные нормы — ⏳ (Германия: DIN 5034) | ⏳ не сверено (регулируется местными PLU; общенациональной нормы по часам инсоляции не найдено) | ⏳ не сверено (строительные законы земель; OIB-RL 3 «Гигиена, здоровье, охрана окружающей среды» не читалась) | ⏳ не сверено (CTE и местные ordenanzas; нормы по часам инсоляции не найдено) |
 
     </div>
 
-    **🇪🇺 ЕС и 🇩🇪 Германия — цитаты**
+    **ЕС и Германия — цитаты**
 
     Единого европейского закона об инсоляции нет. EN 17037:2018 «Daylight in buildings» — европейский стандарт (добровольный, пока на него не сослалось национальное право). Ниже — описание его требований по обзору английской консалтинговой фирмы Lichfields (вторичный источник; сам стандарт платный и здесь не читался ⏳). Для Германии нужно отдельно изучить DIN 5034 ⏳.
 
@@ -175,7 +175,7 @@
     </div>
     </div>
 
-=== "🇬🇧 Англия"
+=== "Англия"
 
     <div class="pair" markdown>
     <div class="orig" markdown>
@@ -207,7 +207,7 @@
 
     - [Lichfields о BRE 209](https://lichfields.uk/blog/2022/june/10/is-your-planning-application-at-risk-new-bre-report-209-guidance-fundamental-changes-to-daylight-and-sunlight-assessments)
 
-=== "🇦🇪 ОАЭ (Дубай)"
+=== "ОАЭ (Дубай)"
 
     <div class="pair" markdown>
     <div class="orig" markdown>
@@ -252,7 +252,7 @@
 
     - [DBC 2021, B.6.5.2](https://dda.gov.ae/-/media/DC97EA219133466D908BDEC8A462A2A8.pdf)
 
-=== "🇬🇪 Грузия"
+=== "Грузия"
 
     ⏳ не сверено: документы Грузии для этой темы пока не найдены.
 

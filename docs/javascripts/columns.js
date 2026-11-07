@@ -1,6 +1,6 @@
 /* Скрытие столбцов стран в матрицах: выбор запоминается в браузере */
 (function () {
-  var KEYS = [['Россия', '🇷🇺 Россия', 'Russia'], ['Сербия', '🇷🇸 Сербия', 'Serbia'], ['ЕС', '🇪🇺 ЕС', 'EU'], ['Англия', '🇬🇧 Англия', 'England'], ['ОАЭ', '🇦🇪 ОАЭ', 'UAE'], ['Грузия', '🇬🇪 Грузия', 'Georgia']];
+  var KEYS = [['Россия', 'Россия', 'Russia'], ['Сербия', 'Сербия', 'Serbia'], ['ЕС', 'ЕС', 'EU'], ['Англия', 'Англия', 'England'], ['ОАЭ', 'ОАЭ', 'UAE'], ['Грузия', 'Грузия', 'Georgia']];
   var EN = document.documentElement.lang === 'en';
   var LS = 'hidden-country-cols';
   function load() { try { return JSON.parse(localStorage.getItem(LS) || '[]'); } catch (e) { return []; } }
@@ -43,7 +43,7 @@
         document.querySelectorAll('.col-toggle input').forEach(function (o) { if (o.dataset.k === k[0]) o.checked = cb.checked; });
       });
       cb.dataset.k = k[0];
-      lab.appendChild(cb); lab.appendChild(document.createTextNode(' ' + (EN ? k[1].split(' ')[0] + ' ' + k[2] : k[1])));
+      lab.appendChild(cb); lab.appendChild(document.createTextNode(' ' + (EN ? k[2] : k[1])));
       box.appendChild(lab);
     });
     tables.forEach(function (tb) {
@@ -74,5 +74,20 @@
     var more = td && td.querySelector('a.more');
     if (more) window.location.href = more.href;
   });
+  // явный переключатель языка RU | EN в шапке (ссылки берём из выпадающего списка Material)
+  function langSwitch() {
+    var links = document.querySelectorAll('.md-header__option .md-select__link');
+    var inner = document.querySelector('.md-header__inner');
+    if (!links.length || !inner || document.querySelector('.lang-switch')) return;
+    var box = document.createElement('div'); box.className = 'lang-switch';
+    links.forEach(function (l) {
+      var a = document.createElement('a'); a.href = l.href; a.textContent = l.textContent.trim().toUpperCase();
+      if (l.getAttribute('hreflang') === document.documentElement.lang || (l.getAttribute('lang') === document.documentElement.lang)) a.className = 'active';
+      box.appendChild(a);
+    });
+    var search = inner.querySelector('.md-search') || inner.lastChild;
+    inner.insertBefore(box, search);
+  }
+  document.addEventListener('DOMContentLoaded', langSwitch);
   if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', init); else init();
 })();

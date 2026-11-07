@@ -5,7 +5,7 @@
 !!! warning "Статус: черновик"
     Первый срез — многоквартирные жилые дома (плюс автостоянки). Цитаты взяты программно из текстов документов; перевод — рабочий, неофициальный. **⏳** — не сверено. Тексты ФЗ-123, СП 486, СП 2.13130 и СП 42.13330.2026 сверены по официальным редакциям; английский текст CPR — с legislation.gov.uk (сохранённая копия акта).
 
-=== "🇷🇺 Россия"
+=== "Россия"
 
     <div class="pair" markdown>
     <div class="orig" markdown>
@@ -70,7 +70,7 @@
 
     - [СП 4.13130, пп. 4.3–4.6](https://base.garant.ru/70398302/)
 
-=== "🇷🇸 Сербия"
+=== "Сербия"
 
     <div class="pair" markdown>
     <div class="orig" markdown>
@@ -102,20 +102,20 @@
 
     - [Правилник 22/2019, чл. 19–20](https://www.paragraf.rs/propisi/pravilnik-tehnickim-normativima-zastitu-pozara-stambenih-poslovnih-objekata-objekata.html)
 
-=== "🇪🇺 ЕС"
+=== "ЕС"
 
     **Страны ЕС: национальные нормы** (единой нормы ЕС нет; ниже — Германия, Франция, Австрия, Испания)
 
     <div class="matrix fire eu" markdown>
 
-    | | 🇩🇪 Германия | 🇫🇷 Франция | 🇦🇹 Австрия | 🇪🇸 Испания |
+    | | Германия | Франция | Австрия | Испания |
     |---|---|---|---|---|
     | **Нормативный документ** | [CPR 305/2011, прил. I](https://www.legislation.gov.uk/eur/2011/305/annex/I) | Франция: [Arrêté 31.01.1986](https://medias.amf.asso.fr/docs/DOCUMENTS/AMF_20070607_arrete_31_01_86_incendie.pdf) (жилые дома, копия AMF; консолидированная редакция Légifrance не сверена ⏳) | Австрия: OIB-Richtlinien, ред. май 2023 ([RL 2](https://www.propellets.at/assets/upload/pelletlagerung/oib-rl-2-ausgabe-mai-2023.pdf), [RL 2.2](https://din-notlicht.com/wp-content/uploads/oib-rl-2.2-ausgabe-mai-2023.pdf), [RL 2.3](https://din-notlicht.com/wp-content/uploads/oib-rl-2.3-ausgabe-mai-2023.pdf), [RL 4](https://glas-gasperlmair.at/wp-content/uploads/2023/10/oib-rl_4_ausgabe_mai_2023.pdf), [Begriffsbestimmungen](https://din-notlicht.com/wp-content/uploads/oib-rl-begriffsbestimmungen-ausgabe-mai-2023.pdf)) | Испания: [CTE DB-SI](https://www.codigotecnico.org/pdf/Documentos/SI/DBSI.pdf) |
     | **Что установлено** | Нет единой нормы (CPR: ограничить распространение на соседние сооружения, п. 2(c)); пример — Германия: ⏳ не сверено | Нет таблицы разрывов между зданиями; для фасадов: отношение P/H (расстояние между остеклением / высота) 0,8 определяет класс отделки (ст. 13) | Не расстояния между зданиями, а размещение проёмов у брандмауэра: ≥50 см от середины стены, между проёмами ≥3 м при угле <135° (RL 2, п. 3.1.8) | Фасады разных секторов/зон: участки без EI 60 разнесены на d = 3,00 м (фасады параллельно) … 0,50 м (угол 180°); с соседним зданием — 50 % d (SI 2) |
 
     </div>
 
-    **🇪🇺 ЕС и 🇩🇪 Германия — цитаты**
+    **ЕС и Германия — цитаты**
 
     <div class="pair" markdown>
     <div class="orig" markdown>
@@ -130,7 +130,7 @@
     </div>
     </div>
 
-    **🇫🇷 Франция — цитаты**
+    **Франция — цитаты**
 
     <div class="pair" markdown>
     <div class="orig" markdown>
@@ -145,7 +145,7 @@
     </div>
     </div>
 
-    **🇦🇹 Австрия — цитаты**
+    **Австрия — цитаты**
 
     <div class="pair" markdown>
     <div class="orig" markdown>
@@ -160,7 +160,7 @@
     </div>
     </div>
 
-    **🇪🇸 Испания — цитаты**
+    **Испания — цитаты**
 
     <div class="pair" markdown>
     <div class="orig" markdown>
@@ -175,7 +175,7 @@
     </div>
     </div>
 
-=== "🇬🇧 Англия"
+=== "Англия"
 
     <div class="pair" markdown>
     <div class="orig" markdown>
@@ -258,7 +258,7 @@
 
     - [AD B Vol 1, п. 11.21, табл. 11.1](https://www.gov.uk/government/publications/fire-safety-approved-document-b)
 
-=== "🇦🇪 ОАЭ (Дубай)"
+=== "ОАЭ (Дубай)"
 
     <div class="pair" markdown>
     <div class="orig" markdown>
@@ -278,7 +278,7 @@
     - [DBC 2021, B.4.2.3, E.10.1](https://dda.gov.ae/-/media/DC97EA219133466D908BDEC8A462A2A8.pdf)
     - [DDA MPG, табл. 6.3](https://dda.gov.ae/-/media/0CDFF6B21C134DD793DA846C3525C17A.pdf)
 
-=== "🇬🇪 Грузия"
+=== "Грузия"
 
     <div class="pair" markdown>
     <div class="orig" markdown>

@@ -5,7 +5,7 @@
 !!! warning "Статус: черновик"
     Цитаты взяты программно из текстов документов; перевод — рабочий, неофициальный. **⏳** — не сверено; для ЕС есть только пример Германии (МВО и Muster-Hochhaus-Richtlinie — типовые акты земель).
 
-=== "🇷🇺 Россия"
+=== "Россия"
 
     <div class="pair" markdown>
     <div class="orig" markdown>
@@ -64,7 +64,7 @@
     - СП 550.1311500.2026 (приказ МЧС России от 26.02.2026 № 137, введён с 01.06.2026; текст — файл пользователя из «Гарант» на 18.05.2026, там отмечено «документ не вступил в силу»)
     - [СП 477, пп. 8.8, 8.10](https://meganorm.ru/mega_doc/norm/pravila/0/sp_477_1325800_2020_svod_pravil_zdaniya_i_kompleksy_vysotnye.html)
 
-=== "🇷🇸 Сербия"
+=== "Сербия"
 
     <div class="pair" markdown>
     <div class="orig" markdown>
@@ -83,24 +83,24 @@
 
     - [Правилник 80/2015, чл. 35](http://antiplam.rs/wp-content/uploads/2025/12/Pravilnik-o-tehnickim-normativima-za-zastitu-od-pozara-stambenih-i-poslovnih-objekata-i-objekata-javne-namene.pdf)
 
-=== "🇪🇺 ЕС"
+=== "ЕС"
 
     **Страны ЕС: национальные нормы** (единой нормы ЕС нет; ниже — Германия, Франция, Австрия, Испания)
 
     <div class="matrix fire eu" markdown>
 
-    | | 🇩🇪 Германия | 🇫🇷 Франция | 🇦🇹 Австрия | 🇪🇸 Испания |
+    | | Германия | Франция | Австрия | Испания |
     |---|---|---|---|---|
     | **Нормативный документ** | [МВО § 35](https://bvpi.de/bvpi/downloads/MBO.pdf?m=1749800306) | Франция: [Arrêté 31.01.1986](https://medias.amf.asso.fr/docs/DOCUMENTS/AMF_20070607_arrete_31_01_86_incendie.pdf) (жилые дома, копия AMF; консолидированная редакция Légifrance не сверена ⏳) | Австрия: OIB-Richtlinien, ред. май 2023 ([RL 2](https://www.propellets.at/assets/upload/pelletlagerung/oib-rl-2-ausgabe-mai-2023.pdf), [RL 2.2](https://din-notlicht.com/wp-content/uploads/oib-rl-2.2-ausgabe-mai-2023.pdf), [RL 2.3](https://din-notlicht.com/wp-content/uploads/oib-rl-2.3-ausgabe-mai-2023.pdf), [RL 4](https://glas-gasperlmair.at/wp-content/uploads/2023/10/oib-rl_4_ausgabe_mai_2023.pdf), [Begriffsbestimmungen](https://din-notlicht.com/wp-content/uploads/oib-rl-begriffsbestimmungen-ausgabe-mai-2023.pdf)) | Испания: [CTE DB-SI](https://www.codigotecnico.org/pdf/Documentos/SI/DBSI.pdf) |
     | **Что установлено** | ⏳ не сверено (в МХР отдельных длин путей нет; общие — МВО § 35: 35 м) | Ход до лестницы: ≤7 м (3A) или ≤15 м по защищённому ходу (ст. 3, 31) | ≤40 м до Sicherheitstreppenhaus (RL 2.3, п. 3.1.1) | ≤25 м (один выход) / ≤50 м (несколько выходов) до выхода с этажа (SI 3, Tabla 3.1) |
 
     </div>
 
-    **🇪🇺 ЕС и 🇩🇪 Германия — цитаты**
+    **ЕС и Германия — цитаты**
 
     В МХР отдельных значений длины путей не найдено ⏳; для Германии в целом — МВО § 35 Abs. 2: до выхода в лестничную клетку не более 35 м (см. [расстояние до выхода](../rasstoyanie.md#eu)).
 
-=== "🇬🇧 Англия"
+=== "Англия"
 
     <div class="pair" markdown>
     <div class="orig" markdown>
@@ -129,11 +129,11 @@
 
     - [AD B Vol 1, п. 3.27, табл. 3.1](https://www.gov.uk/government/publications/fire-safety-approved-document-b)
 
-=== "🇦🇪 ОАЭ (Дубай)"
+=== "ОАЭ (Дубай)"
 
     ⏳ Не сверено: UAE Fire and Life Safety Code (Civil Defence) недоступен для скачивания; Dubai Building Code (DBC 2021) по этой теме только отсылает к нему. См. также [7.1 Доступная среда](../../dostupnaya/index.md).
 
-=== "🇬🇪 Грузия"
+=== "Грузия"
 
     <div class="pair" markdown>
     <div class="orig" markdown>

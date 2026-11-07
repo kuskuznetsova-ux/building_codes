@@ -5,7 +5,7 @@
 !!! warning "Статус: черновик"
     Цитаты взяты программно из СП 267.1325800.2016 (ред. 30.12.2020) и СП 54.13330.2022 (с изм. 1, 2; сверено с «Гарант» на 24.06.2026, файл пользователя). **СП 477.1325800.2020 заменяется СП 550.1311500.2026: текст СП 550 в портал ещё не загружен ⏳.** Для Сербии, ЕС, Англии и ОАЭ документы ещё не найдены — стоит ⏳ и перечень того, что нужно найти.
 
-=== "🇷🇺 Россия"
+=== "Россия"
 
     <div class="pair" markdown>
     <div class="orig" markdown>
@@ -50,34 +50,34 @@
 
     - [СП 54.13330.2022 (с изм. 1, 2; сверено с «Гарант» на 24.06.2026)](https://tiflocentre.ru/documents/sp_54.13330.2022.php)
 
-=== "🇷🇸 Сербия"
+=== "Сербия"
 
     ⏳ Нужно найти: Сербия — правилник о стандартах планирования жилья; Англия — Approved Documents (Part K, Part M, Part B Vol 1); ЕС — земельные нормы (Германия), OIB-RL 3/4 (Австрия), CTE DB-SUA/HS (Испания), Франция (code de la construction); ОАЭ — Dubai Building Code
 
-=== "🇪🇺 ЕС"
+=== "ЕС"
 
     **Страны ЕС: национальные нормы** (единой нормы ЕС нет; ниже — Германия, Франция, Австрия, Испания)
 
     <div class="matrix fire eu" markdown>
 
-    | | 🇩🇪 Германия | 🇫🇷 Франция | 🇦🇹 Австрия | 🇪🇸 Испания |
+    | | Германия | Франция | Австрия | Испания |
     |---|---|---|---|---|
     | **Нормативный документ** | МВО, МХР и др. (типовые акты земель) | Франция: [Arrêté 31.01.1986](https://medias.amf.asso.fr/docs/DOCUMENTS/AMF_20070607_arrete_31_01_86_incendie.pdf) (жилые дома, копия AMF; консолидированная редакция Légifrance не сверена ⏳) | Австрия: OIB-Richtlinien, ред. май 2023 ([RL 2](https://www.propellets.at/assets/upload/pelletlagerung/oib-rl-2-ausgabe-mai-2023.pdf), [RL 2.2](https://din-notlicht.com/wp-content/uploads/oib-rl-2.2-ausgabe-mai-2023.pdf), [RL 2.3](https://din-notlicht.com/wp-content/uploads/oib-rl-2.3-ausgabe-mai-2023.pdf), [RL 4](https://glas-gasperlmair.at/wp-content/uploads/2023/10/oib-rl_4_ausgabe_mai_2023.pdf), [Begriffsbestimmungen](https://din-notlicht.com/wp-content/uploads/oib-rl-begriffsbestimmungen-ausgabe-mai-2023.pdf)) | Испания: [CTE DB-SI](https://www.codigotecnico.org/pdf/Documentos/SI/DBSI.pdf) |
     | **Что установлено** | Лестницы — MBO § 34, размеры ступеней в земельных нормах ⏳ | ⏳ не сверено | ⏳ не сверено | ⏳ не сверено |
 
     </div>
 
-    **🇪🇺 ЕС и 🇩🇪 Германия — цитаты**
+    **ЕС и Германия — цитаты**
 
-=== "🇬🇧 Англия"
-
-    ⏳ Нужно найти: Сербия — правилник о стандартах планирования жилья; Англия — Approved Documents (Part K, Part M, Part B Vol 1); ЕС — земельные нормы (Германия), OIB-RL 3/4 (Австрия), CTE DB-SUA/HS (Испания), Франция (code de la construction); ОАЭ — Dubai Building Code
-
-=== "🇦🇪 ОАЭ (Дубай)"
+=== "Англия"
 
     ⏳ Нужно найти: Сербия — правилник о стандартах планирования жилья; Англия — Approved Documents (Part K, Part M, Part B Vol 1); ЕС — земельные нормы (Германия), OIB-RL 3/4 (Австрия), CTE DB-SUA/HS (Испания), Франция (code de la construction); ОАЭ — Dubai Building Code
 
-=== "🇬🇪 Грузия"
+=== "ОАЭ (Дубай)"
+
+    ⏳ Нужно найти: Сербия — правилник о стандартах планирования жилья; Англия — Approved Documents (Part K, Part M, Part B Vol 1); ЕС — земельные нормы (Германия), OIB-RL 3/4 (Австрия), CTE DB-SUA/HS (Испания), Франция (code de la construction); ОАЭ — Dubai Building Code
+
+=== "Грузия"
 
     ⏳ не сверено: документы Грузии для этой темы пока не найдены.
 

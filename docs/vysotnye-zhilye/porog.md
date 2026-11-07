@@ -5,7 +5,7 @@
 !!! warning "Статус: черновик"
     Цитаты взяты программно из СП 267.1325800.2016 (ред. 30.12.2020) и СП 54.13330.2022 (с изм. 1, 2; сверено с «Гарант» на 24.06.2026, файл пользователя). **СП 477.1325800.2020 заменяется СП 550.1311500.2026: текст СП 550 в портал ещё не загружен ⏳.** Для Сербии, ЕС, Англии и ОАЭ документы ещё не найдены — стоит ⏳ и перечень того, что нужно найти.
 
-=== "🇷🇺 Россия"
+=== "Россия"
 
     <div class="pair" markdown>
     <div class="orig" markdown>
@@ -52,7 +52,7 @@
     - [СП 267, п. 3.5](https://meganorm.ru/mega_doc/norm/metodika/0/sp_267_1325800_2016_svod_pravil_zdaniya_i_kompleksy_vysotnye.html)
     - [СП 477, п. 1.1](https://meganorm.ru/mega_doc/norm/pravila/0/sp_477_1325800_2020_svod_pravil_zdaniya_i_kompleksy_vysotnye.html)
 
-=== "🇷🇸 Сербия"
+=== "Сербия"
 
     <div class="pair" markdown>
     <div class="orig" markdown>
@@ -84,20 +84,20 @@
 
     - [Правилник 80/2015, чл. 2](http://antiplam.rs/wp-content/uploads/2025/12/Pravilnik-o-tehnickim-normativima-za-zastitu-od-pozara-stambenih-i-poslovnih-objekata-i-objekata-javne-namene.pdf)
 
-=== "🇪🇺 ЕС"
+=== "ЕС"
 
     **Страны ЕС: национальные нормы** (единой нормы ЕС нет; ниже — Германия, Франция, Австрия, Испания)
 
     <div class="matrix fire eu" markdown>
 
-    | | 🇩🇪 Германия | 🇫🇷 Франция | 🇦🇹 Австрия | 🇪🇸 Испания |
+    | | Германия | Франция | Австрия | Испания |
     |---|---|---|---|---|
     | **Нормативный документ** | [МВО § 2(3)–(4)](https://bvpi.de/bvpi/downloads/MBO.pdf?m=1749800306); [МХР](https://bau.bremen.de/sixcms/media.php/13/MHHR.pdf) | Франция: [Arrêté 31.01.1986](https://medias.amf.asso.fr/docs/DOCUMENTS/AMF_20070607_arrete_31_01_86_incendie.pdf) (жилые дома, копия AMF; консолидированная редакция Légifrance не сверена ⏳) | Австрия: OIB-Richtlinien, ред. май 2023 ([RL 2](https://www.propellets.at/assets/upload/pelletlagerung/oib-rl-2-ausgabe-mai-2023.pdf), [RL 2.2](https://din-notlicht.com/wp-content/uploads/oib-rl-2.2-ausgabe-mai-2023.pdf), [RL 2.3](https://din-notlicht.com/wp-content/uploads/oib-rl-2.3-ausgabe-mai-2023.pdf), [RL 4](https://glas-gasperlmair.at/wp-content/uploads/2023/10/oib-rl_4_ausgabe_mai_2023.pdf), [Begriffsbestimmungen](https://din-notlicht.com/wp-content/uploads/oib-rl-begriffsbestimmungen-ausgabe-mai-2023.pdf)) | Испания: [CTE DB-SI](https://www.codigotecnico.org/pdf/Documentos/SI/DBSI.pdf) |
     | **Что установлено** | Единого порога в ЕС нет. Пример — Германия: Hochhaus — более 22 м (МВО § 2(4) Nr. 1); Требования к таким зданиям — Muster-Hochhaus-Richtlinie (МХР); Франция, Бельгия и др. ⏳ не сверены | IGH — жилые здания с полом верхней квартиры выше 50 м над уровнем, доступным пожарным (ст. 1); 28 м — граница 3-й и 4-й семей | Порог 22 м (GK5 — до 22 м); RL 2.3 — Fluchtniveau >22 м, с подразделами ≤32 м / 32–90 м / >90 м | Отдельного понятия «высотное здание» в DB-SI нет; ступени по высоте эвакуации: 28 м, 50 м, 80 м |
 
     </div>
 
-    **🇪🇺 ЕС и 🇩🇪 Германия — цитаты**
+    **ЕС и Германия — цитаты**
 
     Единого европейского порога высотного здания нет: каждая страна определяет его сама. Ниже — пример Германии (МВО — типовой кодекс; в каждой земле действует собственный закон). Франция (IGH), Бельгия и другие страны ⏳ по первоисточникам не проверялись.
 
@@ -127,7 +127,7 @@
     </div>
     </div>
 
-    **🇫🇷 Франция — цитаты**
+    **Франция — цитаты**
 
     <div class="pair" markdown>
     <div class="orig" markdown>
@@ -142,7 +142,7 @@
     </div>
     </div>
 
-    **🇦🇹 Австрия — цитаты**
+    **Австрия — цитаты**
 
     <div class="pair" markdown>
     <div class="orig" markdown>
@@ -157,7 +157,7 @@
     </div>
     </div>
 
-=== "🇬🇧 Англия"
+=== "Англия"
 
     <div class="pair" markdown>
     <div class="orig" markdown>
@@ -203,7 +203,7 @@
     - [BSA 2022, s. 65](https://www.legislation.gov.uk/ukpga/2022/30/section/65)
     - [SI 2023/275, рег. 5–6](https://www.legislation.gov.uk/uksi/2023/275/contents/made)
 
-=== "🇦🇪 ОАЭ (Дубай)"
+=== "ОАЭ (Дубай)"
 
     <div class="pair" markdown>
     <div class="orig" markdown>
@@ -235,7 +235,7 @@
 
     - [DBC 2021, B.2, D.2, E.2](https://dda.gov.ae/-/media/DC97EA219133466D908BDEC8A462A2A8.pdf)
 
-=== "🇬🇪 Грузия"
+=== "Грузия"
 
     <div class="pair" markdown>
     <div class="orig" markdown>

@@ -136,4 +136,4 @@ Decision on fitness for use: class II — 15 working days; class III up to 1500 
 - [ ] Stages “handover to the client” and “operation” — no documents found.
 - [ ] Urban planning norms (K1, K2, K3, building lines), insolation.
 
-See also the [design stages](../sravnenie/stadii.md) and [fire safety](../pozharnaya/index.md) pages (tab “🇬🇪 Georgia”).
+See also the [design stages](../sravnenie/stadii.md) and [fire safety](../pozharnaya/index.md) pages (tab “Georgia”).

@@ -52,7 +52,7 @@ L={'ru':dict(
   ('Пост. № 255, ст. 31, п. 3 (первичная редакция)',Q31,'ka','Решение о пригодности к эксплуатации: II класс — 15 раб. дней; III до 1500 м² — 15; свыше — 20; IV — 30.')],
  s5='## Что осталось',
  b5=['Прил. 1 к Пост. № 255 (пороги классов) — разобрать по PDF.','Консолидированные редакции Пост. № 41 и № 255; сроки по Кодексу для классов.','Стадии «передача заказчику» и «эксплуатация» — документы не найдены.','Градостроительные нормы (К1, К2, К3, линии регулирования), инсоляция.'],
- note='Тема связана со [стадиями проектирования](../sravnenie/stadii.md) и [пожарной безопасностью](../pozharnaya/index.md) (вкладки «🇬🇪 Грузия»).'),
+ note='Тема связана со [стадиями проектирования](../sravnenie/stadii.md) и [пожарной безопасностью](../pozharnaya/index.md) (вкладки «Грузия»).'),
  'en':dict(
  h='# 4.2 Georgia — legal framework and design stages',
  st='Status: draft',
@@ -90,7 +90,7 @@ L={'ru':dict(
   ('Res. 255, Art. 31(3) (original edition)',Q31,'ka','Decision on fitness for use: class II — 15 working days; class III up to 1500 m² — 15; above — 20; class IV — 30.')],
  s5='## Still to do',
  b5=['Annex 1 to Resolution No. 255 (class thresholds) — parse from the PDF.','Consolidated editions of Resolutions No. 41 and No. 255; Code time limits by class.','Stages “handover to the client” and “operation” — no documents found.','Urban planning norms (K1, K2, K3, building lines), insolation.'],
- note='See also the [design stages](../sravnenie/stadii.md) and [fire safety](../pozharnaya/index.md) pages (tab “🇬🇪 Georgia”).')}
+ note='See also the [design stages](../sravnenie/stadii.md) and [fire safety](../pozharnaya/index.md) pages (tab “Georgia”).')}
 def build(lang):
     d=L[lang]; o=[d['h'],'','!!! warning "'+d['st']+'"','    '+d['stt'],'',d['s1'],'']+d['t1']+['',d['s2'],'',d['p2'],'']+['- '+b for b in d['b2']]+['',d['s3'],'',d['p3'],'']+d['th']
     for r in d['rows']: o.append('| '+' | '.join(r)+' |')

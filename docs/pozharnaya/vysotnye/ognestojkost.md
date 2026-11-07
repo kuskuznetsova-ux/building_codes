@@ -5,7 +5,7 @@
 !!! warning "Статус: черновик"
     Цитаты взяты программно из текстов документов; перевод — рабочий, неофициальный. **⏳** — не сверено; для ЕС есть только пример Германии (МВО и Muster-Hochhaus-Richtlinie — типовые акты земель).
 
-=== "🇷🇺 Россия"
+=== "Россия"
 
     <div class="pair" markdown>
     <div class="orig" markdown>
@@ -85,7 +85,7 @@
     - СП 550.1311500.2026 (приказ МЧС России от 26.02.2026 № 137, введён с 01.06.2026; текст — файл пользователя из «Гарант» на 18.05.2026, там отмечено «документ не вступил в силу»)
     - [СП 477, пп. 5.2, 5.3, табл. 6.1](https://meganorm.ru/mega_doc/norm/pravila/0/sp_477_1325800_2020_svod_pravil_zdaniya_i_kompleksy_vysotnye.html)
 
-=== "🇷🇸 Сербия"
+=== "Сербия"
 
     <div class="pair" markdown>
     <div class="orig" markdown>
@@ -129,20 +129,20 @@
 
     - [Правилник 80/2015, чл. 9, 13](http://antiplam.rs/wp-content/uploads/2025/12/Pravilnik-o-tehnickim-normativima-za-zastitu-od-pozara-stambenih-i-poslovnih-objekata-i-objekata-javne-namene.pdf)
 
-=== "🇪🇺 ЕС"
+=== "ЕС"
 
     **Страны ЕС: национальные нормы** (единой нормы ЕС нет; ниже — Германия, Франция, Австрия, Испания)
 
     <div class="matrix fire eu" markdown>
 
-    | | 🇩🇪 Германия | 🇫🇷 Франция | 🇦🇹 Австрия | 🇪🇸 Испания |
+    | | Германия | Франция | Австрия | Испания |
     |---|---|---|---|---|
     | **Нормативный документ** | [МХР, п. 3.1](https://bau.bremen.de/sixcms/media.php/13/MHHR.pdf) | Франция: [Arrêté 31.01.1986](https://medias.amf.asso.fr/docs/DOCUMENTS/AMF_20070607_arrete_31_01_86_incendie.pdf) (жилые дома, копия AMF; консолидированная редакция Légifrance не сверена ⏳) | Австрия: OIB-Richtlinien, ред. май 2023 ([RL 2](https://www.propellets.at/assets/upload/pelletlagerung/oib-rl-2-ausgabe-mai-2023.pdf), [RL 2.2](https://din-notlicht.com/wp-content/uploads/oib-rl-2.2-ausgabe-mai-2023.pdf), [RL 2.3](https://din-notlicht.com/wp-content/uploads/oib-rl-2.3-ausgabe-mai-2023.pdf), [RL 4](https://glas-gasperlmair.at/wp-content/uploads/2023/10/oib-rl_4_ausgabe_mai_2023.pdf), [Begriffsbestimmungen](https://din-notlicht.com/wp-content/uploads/oib-rl-begriffsbestimmungen-ausgabe-mai-2023.pdf)) | Испания: [CTE DB-SI](https://www.codigotecnico.org/pdf/Documentos/SI/DBSI.pdf) |
     | **Что установлено** | Пример — Германия (МХР 3.1): несущие конструкции огнестойкие и негорючие; выше 60 м — 120 минут | 4-я семья (28–50 м): несущие вертикальные элементы — 1½ ч (ст. 5) | RL 2.3: несущие и жёсткости R 90 и A2; стены/перекрытия отсеков REI 90 и A2 (п. 2.2) | Высота эвакуации >28 м: стены/перекрытия секторов жилья EI 120; несущие — R 120 (SI 1, SI 6) |
 
     </div>
 
-    **🇪🇺 ЕС и 🇩🇪 Германия — цитаты**
+    **ЕС и Германия — цитаты**
 
     <div class="pair" markdown>
     <div class="orig" markdown>
@@ -157,7 +157,7 @@
     </div>
     </div>
 
-    **🇦🇹 Австрия — цитаты**
+    **Австрия — цитаты**
 
     <div class="pair" markdown>
     <div class="orig" markdown>
@@ -172,7 +172,7 @@
     </div>
     </div>
 
-=== "🇬🇧 Англия"
+=== "Англия"
 
     <div class="pair" markdown>
     <div class="orig" markdown>
@@ -201,7 +201,7 @@
 
     - [AD B Vol 1, прил. B, табл. B2](https://www.gov.uk/government/publications/fire-safety-approved-document-b)
 
-=== "🇦🇪 ОАЭ (Дубай)"
+=== "ОАЭ (Дубай)"
 
     ⏳ Не сверено: UAE Fire and Life Safety Code (Civil Defence) недоступен для скачивания; Dubai Building Code (DBC 2021) по этой теме только отсылает к нему. См. также [7.1 Доступная среда](../../dostupnaya/index.md).
 
@@ -209,7 +209,7 @@
 
     - [DBC 2021, B.9.2](https://dda.gov.ae/-/media/DC97EA219133466D908BDEC8A462A2A8.pdf)
 
-=== "🇬🇪 Грузия"
+=== "Грузия"
 
     <div class="pair" markdown>
     <div class="orig" markdown>
