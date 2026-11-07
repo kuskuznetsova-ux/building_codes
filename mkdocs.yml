@@ -20,6 +20,134 @@ theme:
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
       toggle: {icon: material/weather-sunny, name: Светлая тема}
+plugins:
+  - search
+  - i18n:
+      docs_structure: suffix
+      fallback_to_default: true
+      reconfigure_material: true
+      languages:
+        - locale: ru
+          default: true
+          name: RU
+          build: true
+        - locale: en
+          name: EN
+          build: true
+          site_name: "Building norms: RS · RU · EU · UK · AE · GE"
+          nav_translations:
+            'Главная': 'Home'
+            '1. Стадии проектирования': '1. Design stages'
+            '1. Матрица стадий': '1. Stage matrix'
+            '1.1 Стратегия и обоснование': '1.1 Strategy and justification'
+            '1.2 Подготовка задания': '1.2 Brief preparation'
+            '1.3 Концепция': '1.3 Concept'
+            '1.4 Эскиз / предварительный проект': '1.4 Sketch / preliminary design'
+            '1.5 Согласование архитектурного облика': '1.5 Approval of architectural appearance'
+            '1.6 Проект для разрешения': '1.6 Design for permit'
+            '1.7 Проверка / экспертиза': '1.7 Review / expert examination'
+            '1.8 Разрешение на строительство': '1.8 Building permit'
+            '1.9 Рабочая документация': '1.9 Working documentation'
+            '1.10 Строительство': '1.10 Construction'
+            '1.11 Исполнительная документация': '1.11 As-built documentation'
+            '1.12 Приёмка и ввод': '1.12 Acceptance and commissioning'
+            '1.13 Передача заказчику': '1.13 Handover to the client'
+            '1.14 Эксплуатация': '1.14 Operation'
+            '2. Пожарная безопасность': '2. Fire safety'
+            '2. Матрица основных правил': '2. Matrix of key rules'
+            '2.1 Классы зданий: как делят в разных странах': '2.1 Building classes: how countries classify'
+            '2.2 Методики измерения высоты и расстояний': '2.2 Measuring height and distances'
+            '2.3 Юридическая сила документов и допустимые отклонения': '2.3 Legal force of documents and permitted deviations'
+            '2.4 Число эвакуационных выходов и лестниц': '2.4 Number of exits and stairs'
+            '2.5 Расстояние от двери квартиры до выхода': '2.5 Distance from the flat door to the exit'
+            '2.6 Ширина путей эвакуации, лестниц и дверей': '2.6 Width of escape routes, stairs and doors'
+            '2.7 Огнестойкость строительных конструкций': '2.7 Fire resistance of structures'
+            '2.8 Секции, отсеки и отделение квартир': '2.8 Sections, compartments and separation of flats'
+            '2.9 Расстояния между зданиями и до границы участка': '2.9 Distances between buildings and to the plot boundary'
+            '2.10 Наружные стены и фасады': '2.10 External walls and façades'
+            '2.11 Отделка путей эвакуации': '2.11 Finishes of escape routes'
+            '2.12 Автоматическое пожаротушение (спринклеры) в жилых домах': '2.12 Automatic fire suppression (sprinklers) in residential buildings'
+            '2.13 Детские дошкольные учреждения и школы': '2.13 Kindergartens and schools'
+            '2.14 Автостоянки и гаражи': '2.14 Car parks and garages'
+            '2.15 Противодымная защита: дымоудаление и подпор воздуха': '2.15 Smoke control: extraction and pressurisation'
+            '2.16 Высотные здания (матрица)': '2.16 High-rise buildings (matrix)'
+            '2.16.1 Порог «высотного здания» и способ измерения высоты': '2.16.1 High-rise threshold and how height is measured'
+            '2.16.2 Эвакуационные лестницы и выходы': '2.16.2 Escape stairs and exits'
+            '2.16.3 Длина путей эвакуации в высотных зданиях': '2.16.3 Escape route length in high-rise buildings'
+            '2.16.4 Пожарные лифты и доступ пожарных': '2.16.4 Firefighting lifts and fire service access'
+            '2.16.5 Огнестойкость и пожарные отсеки': '2.16.5 Fire resistance and compartments'
+            '2.16.6 Фасады и наружные стены': '2.16.6 Façades and external walls'
+            '2.16.7 Автоматическое пожаротушение и водопровод': '2.16.7 Automatic suppression and water supply'
+            '2.17 Прежняя таблица — эвакуация (СП 1)': '2.17 Previous table — evacuation (SP 1)'
+            '2.18 Прежняя таблица — распространение пожара (СП 4)': '2.18 Previous table — fire spread (SP 4)'
+            '3. Градостроительство': '3. Urban planning'
+            '3. Матрица (инсоляция и расстояния)': '3. Matrix (insolation and distances)'
+            '3.1 Инсоляция зданий и территорий': '3.1 Insolation of buildings and sites'
+            '3.2 Расстояния между зданиями (генплан и планировка)': '3.2 Distances between buildings (master plan and layout)'
+            '4. Нормативы по странам': '4. Norms by country'
+            '4. Карта документов': '4. Map of documents'
+            '4.1 Англия — правовая основа': '4.1 England — legal framework'
+            '4.2 Грузия — правовая основа и стадии': '4.2 Georgia — legal framework and stages'
+            '5. Глоссарий': '5. Glossary'
+            '6. Источники': '6. Sources'
+            '7. Архитектура': '7. Architecture'
+            '7.1 Доступная среда (МГН)': '7.1 Accessible environment'
+            '7.1.1 Область применения и юридическая сила': '7.1.1 Scope and legal force'
+            '7.1.2 Входы и пандусы': '7.1.2 Entrances and ramps'
+            '7.1.3 Ширина дверей и проходов': '7.1.3 Width of doors and passages'
+            '7.1.4 Лифты для МГН': '7.1.4 Lifts for persons with reduced mobility'
+            '7.1.5 Парковка для МГН': '7.1.5 Accessible parking'
+            '7.1.6 Уборные и санузлы для МГН': '7.1.6 Accessible toilets and bathrooms'
+            '7.1.7 Жильё: доступные и адаптируемые квартиры': '7.1.7 Housing: accessible and adaptable flats'
+            '7.2 Общественные здания (СП 118)': '7.2 Public buildings (SP 118)'
+            '7.2.1 Область применения, этажность и классификация': '7.2.1 Scope, number of storeys and classification'
+            '7.2.2 Высота помещений': '7.2.2 Room height'
+            '7.2.3 Лестницы в общественных зданиях': '7.2.3 Stairs in public buildings'
+            '7.2.4 Лифты в общественных зданиях': '7.2.4 Lifts in public buildings'
+            '7.2.5 Входы, тамбуры, вестибюли и гардеробы': '7.2.5 Entrances, lobbies, vestibules and cloakrooms'
+            '7.2.6 Рабочие места и административные помещения': '7.2.6 Workplaces and offices'
+            '7.2.7 Зрительные залы и фойе': '7.2.7 Auditoriums and foyers'
+            '7.2.8 Учебные помещения и рекреации': '7.2.8 Classrooms and recreation areas'
+            '7.2.9 Сквозные проезды и проходы': '7.2.9 Through passages and driveways'
+            '7.2.10 Атриумы и пассажи': '7.2.10 Atriums and arcades'
+            '7.3 Парковки (СП 113)': '7.3 Parking (SP 113)'
+            '7.3.1 Область применения и типы стоянок': '7.3.1 Scope and types of car parks'
+            '7.3.2 Размеры машино-мест, проездов и площадок': '7.3.2 Sizes of bays, aisles and areas'
+            '7.3.3 Высота помещений, рампы и уклоны': '7.3.3 Clear height, ramps and gradients'
+            '7.3.4 Встроенные и пристроенные стоянки': '7.3.4 Built-in and attached car parks'
+            '7.3.5 Эвакуация из стоянок': '7.3.5 Evacuation from car parks'
+            '7.3.6 Огнестойкость, этажность и пожарные отсеки': '7.3.6 Fire resistance, height and compartments'
+            '7.3.7 Противопожарная защита стоянок': '7.3.7 Fire protection of car parks'
+            '7.3.8 Рампы: число, ширина, радиусы': '7.3.8 Ramps: number, width, radii'
+            '7.3.9 Лифты, лестницы и выходы на кровлю в стоянках': '7.3.9 Lifts, stairs and roof exits in car parks'
+            '7.3.10 Зарядные станции для электромобилей': '7.3.10 EV charging stations'
+            '7.3.11 Газобаллонные автомобили и категории помещений': '7.3.11 Gas-fuelled vehicles and room categories'
+            '7.4 Высотные жилые здания выше 75 м (СП 267, 477, 550)': '7.4 Residential high-rise above 75 m (SP 267, 477, 550)'
+            '7.4.1 Порог «высотного здания» (жилые — выше 75 м)': '7.4.1 High-rise threshold (residential — above 75 m)'
+            '7.4.2 Высота помещений и ограничения по размещению': '7.4.2 Room height and placement restrictions'
+            '7.4.3 Входы, тамбуры и лифтовые холлы': '7.4.3 Entrances, vestibules and lift lobbies'
+            '7.4.4 Ограждения лестниц, крыш и остекления от пола': '7.4.4 Guards for stairs, roofs and floor-to-ceiling glazing'
+            '7.4.5 Окна и остекление выше 75 м': '7.4.5 Windows and glazing above 75 m'
+            '7.4.6 Эксплуатируемая кровля и вертолётная площадка': '7.4.6 Roof terrace and helipad'
+            '7.4.7 Служебные помещения (СОС, мониторинг, ЦПУ)': '7.4.7 Service rooms (SOS, monitoring, control centres)'
+            '7.5 Высотные общественные здания выше 50 м (СП 267, 477, 550)': '7.5 Public high-rise above 50 m (SP 267, 477, 550)'
+            '7.5.1 Порог «высотного здания» (общественные — выше 50 м)': '7.5.1 High-rise threshold (public — above 50 m)'
+            '7.5.2 Функции, высота помещений и размещение школ/детсадов': '7.5.2 Functions, room height and placement of schools/kindergartens'
+            '7.5.3 Входы, тамбуры и лифтовые холлы': '7.5.3 Entrances, vestibules and lift lobbies'
+            '7.5.4 Ограждения и остекление': '7.5.4 Guards and glazing'
+            '7.5.5 Эксплуатируемая кровля и вертолётная площадка': '7.5.5 Roof terrace and helipad'
+            '7.5.6 Служебные помещения (СОС, мониторинг, ЦПУ)': '7.5.6 Service rooms (SOS, monitoring, control centres)'
+            '7.6 Жилые здания до 75 м (СП 54)': '7.6 Residential buildings up to 75 m (SP 54)'
+            '7.6.1 Область применения: жилые здания до 75 м': '7.6.1 Scope: residential buildings up to 75 m'
+            '7.6.2 Что нельзя встраивать в жилой дом': '7.6.2 What may not be built into a residential building'
+            '7.6.3 Площади квартир': '7.6.3 Flat areas'
+            '7.6.4 Состав и площади комнат, кухонь': '7.6.4 Rooms and kitchens: composition and areas'
+            '7.6.5 Высота помещений квартиры': '7.6.5 Room height in flats'
+            '7.6.6 Площадки перед лифтами': '7.6.6 Landings in front of lifts'
+            '7.6.7 Лестницы: число подъёмов, ограждения': '7.6.7 Stairs: number of risers, guards'
+            '7.6.8 Окна и панорамное остекление': '7.6.8 Windows and panoramic glazing'
+            '7.6.9 Доступность для маломобильных групп': '7.6.9 Accessibility for persons with reduced mobility'
+            'Как вести портал': 'How to maintain the portal'
 extra_css:
   - stylesheets/extra.css
 extra_javascript:
@@ -97,6 +225,7 @@ nav:
       - "4. Карта документов":
           - normy/index.md
           - "4.1 Англия — правовая основа": normy/uk.md
+          - "4.2 Грузия — правовая основа и стадии": normy/ge.md
   - "5. Глоссарий": glossary.md
   - "6. Источники": istochniki.md
   - "7. Архитектура":

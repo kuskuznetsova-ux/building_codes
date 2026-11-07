@@ -56,7 +56,7 @@ def do_matrix(path,txt):
         lines[i]=h.rstrip()+' '+HDR+' |'
         lines[i+1]=lines[i+1].rstrip()+'---|'
         for r in range(i+2,j):
-            row=lines[r]; m=re.search(r'\]\(([^)#\s]+\.md)\)',row.split('|')[1] if row.count('|')>2 else row)
+            row=lines[r]; m=re.search(r'\]\(([^)#\s:]+\.md)\)','|'.join(row.split('|')[1:3]))
             if m:
                 target=os.path.normpath(os.path.join(os.path.dirname(path),m.group(1)))
                 d=os.path.relpath(os.path.dirname(target),DOCS).replace('\\','/')
@@ -98,10 +98,30 @@ def do_tab(path,txt):
     while blk and blk[-1]=='': blk.pop()
     lines[e:e]=blk+['']
     return '\n'.join(lines),True
+def strip(txt):
+    """Убирает ранее добавленные колонку и вкладку Грузии (для обновления)."""
+    lines=txt.split('\n'); out=[]; i=0
+    while i<len(lines):
+        l=lines[i]
+        if l.startswith('=== "'+HDR):
+            i+=1
+            while i<len(lines) and (not lines[i].strip() or lines[i].startswith('    ')): i+=1
+            while out and out[-1]=='': out.pop()
+            out.append(''); continue
+        out.append(l); i+=1
+    lines=out
+    for a,b in reversed(list(table_blocks(lines))):
+        if 'Грузия' in lines[a] and lines[a].rstrip().endswith(HDR+' |'):
+            for r in range(a,b):
+                parts=lines[r].rstrip().split('|')
+                # '| a | b | c |' -> убираем последнюю ячейку (с учётом возможных '|' нет: ячейки без '|')
+                lines[r]='|'.join(parts[:-2])+'|'
+    return '\n'.join(lines)
 def main():
     n=[0,0]
     for p in sorted(glob.glob(DOCS+'/**/*.md',recursive=True)):
         t=open(p,encoding='utf-8').read(); o=t
+        if HDR in t: t=strip(t)
         t,c1=do_matrix(p,t); t,c2=do_tab(p,t)
         if t!=o: open(p,'w',encoding='utf-8').write(t); n[0]+=c1; n[1]+=c2
     print('матриц:',n[0],'вкладок:',n[1])
