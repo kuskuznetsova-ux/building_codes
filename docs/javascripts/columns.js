@@ -1,6 +1,6 @@
 /* Скрытие столбцов стран в матрицах: выбор запоминается в браузере */
 (function () {
-  var KEYS = [['Россия', '🇷🇺 Россия'], ['Сербия', '🇷🇸 Сербия'], ['ЕС', '🇪🇺 ЕС'], ['Англия', '🇬🇧 Англия'], ['ОАЭ', '🇦🇪 ОАЭ']];
+  var KEYS = [['Россия', '🇷🇺 Россия'], ['Сербия', '🇷🇸 Сербия'], ['ЕС', '🇪🇺 ЕС'], ['Англия', '🇬🇧 Англия'], ['ОАЭ', '🇦🇪 ОАЭ'], ['Грузия', '🇬🇪 Грузия']];
   var LS = 'hidden-country-cols';
   function load() { try { return JSON.parse(localStorage.getItem(LS) || '[]'); } catch (e) { return []; } }
   function save(v) { try { localStorage.setItem(LS, JSON.stringify(v)); } catch (e) {} }
