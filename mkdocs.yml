@@ -1,5 +1,5 @@
-site_name: Строительные нормы RS · RU · EU · UK
-site_description: Сравнение нормативов проектирования, архитектуры и пожарной безопасности Сербии, России, ЕС и Англии
+site_name: Строительные нормы
+site_description: Сравнение нормативов проектирования, архитектуры и пожарной безопасности Сербии, России, ЕС, Англии, ОАЭ и Грузии
 docs_dir: docs
 theme:
   name: material
@@ -34,7 +34,7 @@ plugins:
         - locale: en
           name: EN
           build: true
-          site_name: "Building norms: RS · RU · EU · UK · AE · GE"
+          site_name: "Building norms"
           nav_translations:
             'Главная': 'Home'
             '1. Стадии проектирования': '1. Design stages'

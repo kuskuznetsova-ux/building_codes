@@ -5,7 +5,7 @@
 !!! warning "Статус: черновик"
     Первый срез — многоквартирные жилые дома (плюс автостоянки). Цитаты взяты программно из текстов документов; перевод — рабочий, неофициальный. **⏳** — не сверено. Тексты ФЗ-123, СП 486, СП 2.13130 и СП 42.13330.2026 сверены по официальным редакциям; английский текст CPR — с legislation.gov.uk (сохранённая копия акта).
 
-=== "🇷🇺 Россия"
+=== "Россия"
 
     <div class="pair" markdown>
     <div class="orig" markdown>
@@ -76,24 +76,24 @@
 
     - СП 7.13130.2013, разд. 7 (PDF «Техэксперт», предоставлен пользователем)
 
-=== "🇷🇸 Сербия"
+=== "Сербия"
 
     ⏳ Для жилых домов в статьях Правилника 22/2019 требований к дымоудалению не найдено; проверить правилник по защите от пожара высоких объектов (80/2015) и нормы по лестницам.
 
-=== "🇪🇺 ЕС"
+=== "ЕС"
 
     **Страны ЕС: национальные нормы** (единой нормы ЕС нет; ниже — Германия, Франция, Австрия, Испания)
 
     <div class="matrix fire eu" markdown>
 
-    | | 🇩🇪 Германия | 🇫🇷 Франция | 🇦🇹 Австрия | 🇪🇸 Испания |
+    | | Германия | Франция | Австрия | Испания |
     |---|---|---|---|---|
     | **Нормативный документ** | МВО, МХР и др. (типовые акты земель) | Франция: [Arrêté 31.01.1986](https://medias.amf.asso.fr/docs/DOCUMENTS/AMF_20070607_arrete_31_01_86_incendie.pdf) (жилые дома, копия AMF; консолидированная редакция Légifrance не сверена ⏳) | Австрия: OIB-Richtlinien, ред. май 2023 ([RL 2](https://www.propellets.at/assets/upload/pelletlagerung/oib-rl-2-ausgabe-mai-2023.pdf), [RL 2.2](https://din-notlicht.com/wp-content/uploads/oib-rl-2.2-ausgabe-mai-2023.pdf), [RL 2.3](https://din-notlicht.com/wp-content/uploads/oib-rl-2.3-ausgabe-mai-2023.pdf), [RL 4](https://glas-gasperlmair.at/wp-content/uploads/2023/10/oib-rl_4_ausgabe_mai_2023.pdf), [Begriffsbestimmungen](https://din-notlicht.com/wp-content/uploads/oib-rl-begriffsbestimmungen-ausgabe-mai-2023.pdf)) | Испания: [CTE DB-SI](https://www.codigotecnico.org/pdf/Documentos/SI/DBSI.pdf) |
     | **Что установлено** | См. таблицу стран: лестницы — Германия: окно ≥0,50 м² на этаже или верхний люк ≥1 м²; Австрия: подпор (RL 2.3), люк 1,00 м²; Испания: система только для стоянок, торговли >1000 чел., атриумов | Дымоудаление защищённых горизонтальных ходов — естественной тягой или механически (ст. 33–36) | Лестничная клетка (GK 2–4, один путь): дымовой люк вверху, сечение 1,00 м² (RL 2, табл. 2a); выше 22 м — подпор в «безопасной лестнице» (RL 2.3, п. 3.2.1) | Система управления дымом нужна для стоянок (кроме открытых), торговли и общественных мест >1000 чел., атриумов; для жилых — не предусмотрена (SI 3, п. 8) |
 
     </div>
 
-    **🇪🇺 ЕС и 🇩🇪 Германия — цитаты**
+    **ЕС и Германия — цитаты**
 
     <div class="pair" markdown>
     <div class="orig" markdown>
@@ -108,7 +108,7 @@
     </div>
     </div>
 
-    **🇫🇷 Франция — цитаты**
+    **Франция — цитаты**
 
     <div class="pair" markdown>
     <div class="orig" markdown>
@@ -123,7 +123,7 @@
     </div>
     </div>
 
-    **🇦🇹 Австрия — цитаты**
+    **Австрия — цитаты**
 
     <div class="pair" markdown>
     <div class="orig" markdown>
@@ -151,7 +151,7 @@
     </div>
     </div>
 
-    **🇪🇸 Испания — цитаты**
+    **Испания — цитаты**
 
     <div class="pair" markdown>
     <div class="orig" markdown>
@@ -166,7 +166,7 @@
     </div>
     </div>
 
-=== "🇬🇧 Англия"
+=== "Англия"
 
     <div class="pair" markdown>
     <div class="orig" markdown>
@@ -185,11 +185,11 @@
 
     - [AD B Vol 1, п. 3.32, 3.54–3.55](https://www.gov.uk/government/publications/fire-safety-approved-document-b)
 
-=== "🇦🇪 ОАЭ (Дубай)"
+=== "ОАЭ (Дубай)"
 
     ⏳ Не сверено: UAE Fire and Life Safety Code (Civil Defence) недоступен для скачивания; Dubai Building Code (DBC 2021) по этой теме только отсылает к нему. См. также [7.1 Доступная среда](../dostupnaya/index.md).
 
-=== "🇬🇪 Грузия"
+=== "Грузия"
 
     <div class="pair" markdown>
     <div class="orig" markdown>

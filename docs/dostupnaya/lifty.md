@@ -5,7 +5,7 @@
 !!! warning "Статус: черновик"
     Первый срез — жилые и общественные здания. Цитаты взяты программно из текстов документов; перевод — рабочий, неофициальный. **⏳** — не сверено. СП 59.13330.2020 прочитан по редакции из «Техэксперт» (предоставлена пользователем); Approved Document M Vol 1 (жильё, ред. 2015/2016) и Vol 2 (прочие здания, ред. 2024), Approved Document T (2024) — копии gov.uk; ОАЭ: Dubai Building Code 2021 (копия DDA) и руководство «Dubai Universal Design Audit Guide»; «Dubai Universal Design Code» не прочитан.
 
-=== "🇷🇺 Россия"
+=== "Россия"
 
     <div class="pair" markdown>
     <div class="orig" markdown>
@@ -24,7 +24,7 @@
 
     - [СП 59, п. 6.2.15, 5.1.14](https://tiflocentre.ru/documents/sp59-13330-2020.php)
 
-=== "🇷🇸 Сербия"
+=== "Сербия"
 
     <div class="pair" markdown>
     <div class="orig" markdown>
@@ -43,20 +43,20 @@
 
     - [Правилник 22/2015, чл. 9](https://www.paragraf.rs/propisi_download/pravilnik_o_tehnickim_standardima_planiranja_projektovanja_i_izgradnje_objekata_kojima_se_osigurava_nesmetano_kretanje_i_pristup_osobama_sa_invaliditetom_deci_i_starim_osobama.pdf)
 
-=== "🇪🇺 ЕС"
+=== "ЕС"
 
     **Страны ЕС: национальные нормы** (единой нормы ЕС нет; ниже — Германия, Франция, Австрия, Испания)
 
     <div class="matrix fire eu" markdown>
 
-    | | 🇩🇪 Германия | 🇫🇷 Франция | 🇦🇹 Австрия | 🇪🇸 Испания |
+    | | Германия | Франция | Австрия | Испания |
     |---|---|---|---|---|
     | **Нормативный документ** | МВО, МХР и др. (типовые акты земель) | Франция: [Arrêté 31.01.1986](https://medias.amf.asso.fr/docs/DOCUMENTS/AMF_20070607_arrete_31_01_86_incendie.pdf) (жилые дома, копия AMF; консолидированная редакция Légifrance не сверена ⏳) | Австрия: OIB-Richtlinien, ред. май 2023 ([RL 2](https://www.propellets.at/assets/upload/pelletlagerung/oib-rl-2-ausgabe-mai-2023.pdf), [RL 2.2](https://din-notlicht.com/wp-content/uploads/oib-rl-2.2-ausgabe-mai-2023.pdf), [RL 2.3](https://din-notlicht.com/wp-content/uploads/oib-rl-2.3-ausgabe-mai-2023.pdf), [RL 4](https://glas-gasperlmair.at/wp-content/uploads/2023/10/oib-rl_4_ausgabe_mai_2023.pdf), [Begriffsbestimmungen](https://din-notlicht.com/wp-content/uploads/oib-rl-begriffsbestimmungen-ausgabe-mai-2023.pdf)) | Испания: [CTE DB-SI](https://www.codigotecnico.org/pdf/Documentos/SI/DBSI.pdf) |
     | **Что установлено** | ⏳ не сверено (DIN 18040) | ⏳ не сверено: по данным поисковой выдачи — жильё: arrêté du 24.12.2015, общественные здания (ERP): arrêté du 20.04.2017; тексты получить не удалось (Légifrance недоступен) | Кабина ≥1,10 × 1,40 м, двери ≥90 см, площадка ⌀1,50 м (RL 4, п. 2.3.1) | Кабина 1,00 × 1,25 м (жильё без доступных квартир) / 1,10 × 1,40 м (прочие, >1 000 м²) (Anejo A) |
 
     </div>
 
-    **🇪🇺 ЕС и 🇩🇪 Германия — цитаты**
+    **ЕС и Германия — цитаты**
 
     <div class="pair" markdown>
     <div class="orig" markdown>
@@ -84,7 +84,7 @@
     </div>
     </div>
 
-=== "🇬🇧 Англия"
+=== "Англия"
 
     <div class="pair" markdown>
     <div class="orig" markdown>
@@ -103,7 +103,7 @@
 
     - [AD M Vol 2, п. 3.26–3.31](https://assets.publishing.service.gov.uk/media/66f6c5eec71e42688b65ee11/ADM__V2_with_2024_amendments.pdf)
 
-=== "🇦🇪 ОАЭ (Дубай)"
+=== "ОАЭ (Дубай)"
 
     <div class="pair" markdown>
     <div class="orig" markdown>
@@ -161,7 +161,7 @@
 
     - [DBC 2021, C.5.9.3, Table C.15](https://dda.gov.ae/-/media/DC97EA219133466D908BDEC8A462A2A8.pdf)
 
-=== "🇬🇪 Грузия"
+=== "Грузия"
 
     ⏳ не сверено: документы Грузии для этой темы пока не найдены.
 

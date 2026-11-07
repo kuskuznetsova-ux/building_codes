@@ -5,7 +5,7 @@
 !!! warning "Статус: черновик"
     Цитаты взяты программно из текстов документов; перевод — рабочий, неофициальный. **⏳** — не сверено. СП 118.13330.2022 прочитан по копии с tiflocentre.ru (изм. 1–5, редакция на 12.12.2024) — по официальной редакции («Техэксперт») не сверен; для остальных стран — те же источники, что в других разделах.
 
-=== "🇷🇺 Россия"
+=== "Россия"
 
     <div class="pair" markdown>
     <div class="orig" markdown>
@@ -24,7 +24,7 @@
 
     - [СП 118.13330.2022 (с изм. 1–5; копия tiflocentre.ru)](https://tiflocentre.ru/documents/sp-118-13330-2022.php)
 
-=== "🇷🇸 Сербия"
+=== "Сербия"
 
     <div class="pair" markdown>
     <div class="orig" markdown>
@@ -43,20 +43,20 @@
 
     - [Правилник 22/2015, чл. 8](https://www.paragraf.rs/propisi_download/pravilnik_o_tehnickim_standardima_planiranja_projektovanja_i_izgradnje_objekata_kojima_se_osigurava_nesmetano_kretanje_i_pristup_osobama_sa_invaliditetom_deci_i_starim_osobama.pdf)
 
-=== "🇪🇺 ЕС"
+=== "ЕС"
 
     **Страны ЕС: национальные нормы** (единой нормы ЕС нет; ниже — Германия, Франция, Австрия, Испания)
 
     <div class="matrix fire eu" markdown>
 
-    | | 🇩🇪 Германия | 🇫🇷 Франция | 🇦🇹 Австрия | 🇪🇸 Испания |
+    | | Германия | Франция | Австрия | Испания |
     |---|---|---|---|---|
     | **Нормативный документ** | [МВО](https://bvpi.de/bvpi/downloads/MBO.pdf?m=1749800306) | Франция: [Arrêté 31.01.1986](https://medias.amf.asso.fr/docs/DOCUMENTS/AMF_20070607_arrete_31_01_86_incendie.pdf) (жилые дома, копия AMF; консолидированная редакция Légifrance не сверена ⏳) | Австрия: OIB-Richtlinien, ред. май 2023 ([RL 2](https://www.propellets.at/assets/upload/pelletlagerung/oib-rl-2-ausgabe-mai-2023.pdf), [RL 2.2](https://din-notlicht.com/wp-content/uploads/oib-rl-2.2-ausgabe-mai-2023.pdf), [RL 2.3](https://din-notlicht.com/wp-content/uploads/oib-rl-2.3-ausgabe-mai-2023.pdf), [RL 4](https://glas-gasperlmair.at/wp-content/uploads/2023/10/oib-rl_4_ausgabe_mai_2023.pdf), [Begriffsbestimmungen](https://din-notlicht.com/wp-content/uploads/oib-rl-begriffsbestimmungen-ausgabe-mai-2023.pdf)) | Испания: [CTE DB-SI](https://www.codigotecnico.org/pdf/Documentos/SI/DBSI.pdf) |
     | **Что установлено** | Лестница обязательна для каждого этажа не на уровне земли; размеры ступеней — в земельных нормах ⏳ (MBO § 34) | ⏳ не сверено | Главные лестницы: высота ≤18 см, проступь ≥27 см, 2h+b = 62±3 см (RL 4, п. 3.2.1) | Проступь ≥28 см; подступёнок 13–18,5 см (в общественных зонах ≤17,5 см) (SUA 1, п. 4.2.1) |
 
     </div>
 
-    **🇪🇺 ЕС и 🇩🇪 Германия — цитаты**
+    **ЕС и Германия — цитаты**
 
     <div class="pair" markdown>
     <div class="orig" markdown>
@@ -97,11 +97,11 @@
     </div>
     </div>
 
-=== "🇬🇧 Англия"
+=== "Англия"
 
     ⏳ Лестницы — Approved Document K; не читался.
 
-=== "🇦🇪 ОАЭ (Дубай)"
+=== "ОАЭ (Дубай)"
 
     <div class="pair" markdown>
     <div class="orig" markdown>
@@ -120,7 +120,7 @@
 
     - [DBC 2021, B.6.4.1](https://dda.gov.ae/-/media/DC97EA219133466D908BDEC8A462A2A8.pdf)
 
-=== "🇬🇪 Грузия"
+=== "Грузия"
 
     ⏳ не сверено: документы Грузии для этой темы пока не найдены.
 

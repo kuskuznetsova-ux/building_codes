@@ -1,15 +1,15 @@
-# Building norms: RS · RU · EU · UK · AE · GE
+# Building norms
 
 The portal compares building regulations of six jurisdictions:
 
 | | Jurisdiction | Basis |
 |---|---|---|
-| 🇷🇸 | Serbia | Law on Planning and Construction and by-laws |
-| 🇷🇺 | Russia | Urban Planning Code, federal laws, SP (codes of practice), GOST |
-| 🇪🇺 | European Union | CPR Regulation, Eurocodes, EN standards (plus Germany, France, Austria, Spain) |
-| 🇬🇧 | England | Building Act 1984, Building Regulations, Approved Documents, RIBA Plan of Work |
-| 🇦🇪 | UAE (Dubai) | Dubai Building Code 2021, DDA Master Planning Guidelines |
-| 🇬🇪 | Georgia | Code on Spatial Planning, Architectural and Construction Activities; Resolution No. 41 (building safety rules based on the IBC); Resolution No. 255 (permits) |
+| | Serbia | Law on Planning and Construction and by-laws |
+| | Russia | Urban Planning Code, federal laws, SP (codes of practice), GOST |
+| | European Union | CPR Regulation, Eurocodes, EN standards (plus Germany, France, Austria, Spain) |
+| | England | Building Act 1984, Building Regulations, Approved Documents, RIBA Plan of Work |
+| | UAE (Dubai) | Dubai Building Code 2021, DDA Master Planning Guidelines |
+| | Georgia | Code on Spatial Planning, Architectural and Construction Activities; Resolution No. 41 (building safety rules based on the IBC); Resolution No. 255 (permits) |
 
 ## Sections
 

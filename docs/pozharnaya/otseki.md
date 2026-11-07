@@ -5,7 +5,7 @@
 !!! warning "Статус: черновик"
     Первый срез — многоквартирные жилые дома (плюс автостоянки). Цитаты взяты программно из текстов документов; перевод — рабочий, неофициальный. **⏳** — не сверено. Тексты ФЗ-123, СП 486, СП 2.13130 и СП 42.13330.2026 сверены по официальным редакциям; английский текст CPR — с legislation.gov.uk (сохранённая копия акта).
 
-=== "🇷🇺 Россия"
+=== "Россия"
 
     <div class="pair" markdown>
     <div class="orig" markdown>
@@ -25,7 +25,7 @@
     - [СП 2.13130, п. 6.5.1](https://www.consultant.ru/document/cons_doc_LAW_362483/)
     - [СП 4.13130, п. 5.2.9](https://base.garant.ru/70398302/)
 
-=== "🇷🇸 Сербия"
+=== "Сербия"
 
     <div class="pair" markdown>
     <div class="orig" markdown>
@@ -44,20 +44,20 @@
 
     - [Правилник 22/2019, чл. 20](https://www.paragraf.rs/propisi/pravilnik-tehnickim-normativima-zastitu-pozara-stambenih-poslovnih-objekata-objekata.html)
 
-=== "🇪🇺 ЕС"
+=== "ЕС"
 
     **Страны ЕС: национальные нормы** (единой нормы ЕС нет; ниже — Германия, Франция, Австрия, Испания)
 
     <div class="matrix fire eu" markdown>
 
-    | | 🇩🇪 Германия | 🇫🇷 Франция | 🇦🇹 Австрия | 🇪🇸 Испания |
+    | | Германия | Франция | Австрия | Испания |
     |---|---|---|---|---|
     | **Нормативный документ** | [МВО § 14](https://bvpi.de/bvpi/downloads/MBO.pdf?m=1749800306) | Франция: [Arrêté 31.01.1986](https://medias.amf.asso.fr/docs/DOCUMENTS/AMF_20070607_arrete_31_01_86_incendie.pdf) (жилые дома, копия AMF; консолидированная редакция Légifrance не сверена ⏳) | Австрия: OIB-Richtlinien, ред. май 2023 ([RL 2](https://www.propellets.at/assets/upload/pelletlagerung/oib-rl-2-ausgabe-mai-2023.pdf), [RL 2.2](https://din-notlicht.com/wp-content/uploads/oib-rl-2.2-ausgabe-mai-2023.pdf), [RL 2.3](https://din-notlicht.com/wp-content/uploads/oib-rl-2.3-ausgabe-mai-2023.pdf), [RL 4](https://glas-gasperlmair.at/wp-content/uploads/2023/10/oib-rl_4_ausgabe_mai_2023.pdf), [Begriffsbestimmungen](https://din-notlicht.com/wp-content/uploads/oib-rl-begriffsbestimmungen-ausgabe-mai-2023.pdf)) | Испания: [CTE DB-SI](https://www.codigotecnico.org/pdf/Documentos/SI/DBSI.pdf) |
     | **Что установлено** | На уровне ЕС нет. Пример — Германия: общие принципы (§ 14); разделение по классам зданий — в МВО § 29–31 | Ограждающие стенки квартиры (кроме фасадов): 2-я и 3-я семьи — ½ ч, 4-я — 1 ч (ст. 8) | Брандабшнитты: макс. площадь, длина и число этажей (RL 2, п. 3.1.1); подземные — ≤800 м²; значения таблицы ⏳ читаются неоднозначно | Жильё: сектор ≤2 500 м² (вдвое больше со спринклерами); стены между квартирами — не ниже EI 60 (Tabla 1.1) |
 
     </div>
 
-    **🇪🇺 ЕС и 🇩🇪 Германия — цитаты**
+    **ЕС и Германия — цитаты**
 
     Единых норм ЕС по отсекам нет. Пример национальной нормы — Германия (МВО, типовой кодекс).
 
@@ -74,7 +74,7 @@
     </div>
     </div>
 
-    **🇫🇷 Франция — цитаты**
+    **Франция — цитаты**
 
     <div class="pair" markdown>
     <div class="orig" markdown>
@@ -89,7 +89,7 @@
     </div>
     </div>
 
-    **🇦🇹 Австрия — цитаты**
+    **Австрия — цитаты**
 
     <div class="pair" markdown>
     <div class="orig" markdown>
@@ -104,7 +104,7 @@
     </div>
     </div>
 
-    **🇪🇸 Испания — цитаты**
+    **Испания — цитаты**
 
     <div class="pair" markdown>
     <div class="orig" markdown>
@@ -119,7 +119,7 @@
     </div>
     </div>
 
-=== "🇬🇧 Англия"
+=== "Англия"
 
     <div class="pair" markdown>
     <div class="orig" markdown>
@@ -151,7 +151,7 @@
 
     - [AD B Vol 1, пп. 7.1, 7.4](https://www.gov.uk/government/publications/fire-safety-approved-document-b)
 
-=== "🇦🇪 ОАЭ (Дубай)"
+=== "ОАЭ (Дубай)"
 
     ⏳ Не сверено: UAE Fire and Life Safety Code (Civil Defence) недоступен для скачивания; Dubai Building Code (DBC 2021) по этой теме только отсылает к нему. См. также [7.1 Доступная среда](../dostupnaya/index.md).
 
@@ -159,7 +159,7 @@
 
     - [DBC 2021, B.9.2](https://dda.gov.ae/-/media/DC97EA219133466D908BDEC8A462A2A8.pdf)
 
-=== "🇬🇪 Грузия"
+=== "Грузия"
 
     <div class="pair" markdown>
     <div class="orig" markdown>

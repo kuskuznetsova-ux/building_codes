@@ -7,7 +7,7 @@
 
 <div class="matrix fire" markdown>
 
-| Аспект | 🇷🇺 Россия | 🇷🇸 Сербия | 🇪🇺 ЕС (пример: Германия) | 🇬🇧 Англия |
+| Аспект | Россия | Сербия | ЕС (пример: Германия) | Англия |
 |---|---|---|---|---|
 | **Типы** | Закрытые стоянки; механизированные — отдельные требования ([СП 1, п. 8.4](avtostoyanki.md#ru)) | ⏳ не сверено: специальный правилник о гаражах не найден | Малые ≤100 м², средние до 1000 м², большие >1000 м²; открытые — проёмы ≥1/3 площади наружных стен ([§ 2](avtostoyanki.md#eu)) | Открытая (open-sided): нет подвалов, проёмы ≥1/20 площади этажа; прочие — не открытые ([п. 11.2](avtostoyanki.md#uk)) |
 | **Выходы с этажа** | ≥2 рассредоточенных; один можно на рампу или в смежный отсек ([п. 8.4.3](avtostoyanki.md#ru)) | ⏳ | ≥2 независимых пути; в надземных достаточно одного, если выход наружу ≤10 м ([§ 14](avtostoyanki.md#eu)) | ⏳ не сверено (разд. 13) |
@@ -19,7 +19,7 @@
 
 </div>
 
-=== "🇷🇺 Россия"
+=== "Россия"
 
     <div class="pair" markdown>
     <div class="orig" markdown>
@@ -151,7 +151,7 @@
     - [СП 1.13130, п. 8.4](https://www.consultant.ru/document/cons_doc_LAW_351940/)
     - [СП 486, п. 4.1](https://www.consultant.ru/document/cons_doc_LAW_507782/d6d5d68251ca269a11c65fd3b1fae9bfedfbbf07/)
 
-=== "🇷🇸 Сербия"
+=== "Сербия"
 
     <div class="pair" markdown>
     <div class="orig" markdown>
@@ -184,20 +184,20 @@
     - [Правилник 22/2019, чл. 12](https://www.paragraf.rs/propisi/pravilnik-tehnickim-normativima-zastitu-pozara-stambenih-poslovnih-objekata-objekata.html)
     - [80/2015, чл. 15](http://antiplam.rs/wp-content/uploads/2025/12/Pravilnik-o-tehnickim-normativima-za-zastitu-od-pozara-stambenih-i-poslovnih-objekata-i-objekata-javne-namene.pdf)
 
-=== "🇪🇺 ЕС"
+=== "ЕС"
 
     **Страны ЕС: национальные нормы** (единой нормы ЕС нет; ниже — Германия, Франция, Австрия, Испания)
 
     <div class="matrix fire eu" markdown>
 
-    | | 🇩🇪 Германия | 🇫🇷 Франция | 🇦🇹 Австрия | 🇪🇸 Испания |
+    | | Германия | Франция | Австрия | Испания |
     |---|---|---|---|---|
     | **Нормативный документ** | [M-GarStVO §§ 2, 12, 14, 17](https://bauministerkonferenz.de/Dokumente/42323132.pdf) | Франция: [Arrêté 31.01.1986](https://medias.amf.asso.fr/docs/DOCUMENTS/AMF_20070607_arrete_31_01_86_incendie.pdf) (жилые дома, копия AMF; консолидированная редакция Légifrance не сверена ⏳) | Австрия: OIB-Richtlinien, ред. май 2023 ([RL 2](https://www.propellets.at/assets/upload/pelletlagerung/oib-rl-2-ausgabe-mai-2023.pdf), [RL 2.2](https://din-notlicht.com/wp-content/uploads/oib-rl-2.2-ausgabe-mai-2023.pdf), [RL 2.3](https://din-notlicht.com/wp-content/uploads/oib-rl-2.3-ausgabe-mai-2023.pdf), [RL 4](https://glas-gasperlmair.at/wp-content/uploads/2023/10/oib-rl_4_ausgabe_mai_2023.pdf), [Begriffsbestimmungen](https://din-notlicht.com/wp-content/uploads/oib-rl-begriffsbestimmungen-ausgabe-mai-2023.pdf)) | Испания: [CTE DB-SI](https://www.codigotecnico.org/pdf/Documentos/SI/DBSI.pdf) |
     | **Что установлено** | Пример — Германия (M-GarStVO): малые ≤100 м², средние до 1000 м², большие >1000 м²; 2 пути спасения; до выхода 50 м (открытые) / 35 м (закрытые); отсеки 5000 / 2500 м² (§§ 1, 12, 14) | Закрытые стоянки при жилых домах площадью от 100 до 6 000 м² — в рамках arrêté (ст. 1); детали ⏳ | Гаражи — OIB-RL 2.2: путь до выхода ≤40 м; доп. независимый путь на каждом этаже (п. 5.5) | Стоянка — отдельный сектор при >100 м²; путь до выхода ≤35 м (SI 1, SI 3) |
 
     </div>
 
-    **🇪🇺 ЕС и 🇩🇪 Германия — цитаты**
+    **ЕС и Германия — цитаты**
 
     Единых норм ЕС нет. Пример — немецкая типовая Muster-Garagen- und Stellplatzverordnung (M-GarStVO, редакция 4 сентября 2020); в землях действуют свои редакции.
 
@@ -240,7 +240,7 @@
     </div>
     </div>
 
-    **🇫🇷 Франция — цитаты**
+    **Франция — цитаты**
 
     <div class="pair" markdown>
     <div class="orig" markdown>
@@ -255,7 +255,7 @@
     </div>
     </div>
 
-    **🇦🇹 Австрия — цитаты**
+    **Австрия — цитаты**
 
     <div class="pair" markdown>
     <div class="orig" markdown>
@@ -270,7 +270,7 @@
     </div>
     </div>
 
-    **🇪🇸 Испания — цитаты**
+    **Испания — цитаты**
 
     <div class="pair" markdown>
     <div class="orig" markdown>
@@ -285,7 +285,7 @@
     </div>
     </div>
 
-=== "🇬🇧 Англия"
+=== "Англия"
 
     <div class="pair" markdown>
     <div class="orig" markdown>
@@ -340,7 +340,7 @@
 
     - [AD B Vol 2, разд. 11, прил. B](https://www.gov.uk/government/publications/fire-safety-approved-document-b)
 
-=== "🇦🇪 ОАЭ (Дубай)"
+=== "ОАЭ (Дубай)"
 
     <div class="pair" markdown>
     <div class="orig" markdown>
@@ -359,7 +359,7 @@
 
     - [DBC 2021, B.7.2](https://dda.gov.ae/-/media/DC97EA219133466D908BDEC8A462A2A8.pdf)
 
-=== "🇬🇪 Грузия"
+=== "Грузия"
 
     <div class="pair" markdown>
     <div class="orig" markdown>

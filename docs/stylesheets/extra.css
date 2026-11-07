@@ -88,3 +88,8 @@
 .matrix.eu table:not([class]) th:first-child, .matrix.eu table:not([class]) td:first-child { width: 7rem; text-align: left; }
 .matrix.eu table:not([class]) td { vertical-align: top; }
 .md-typeset .matrix.eu table td { color: var(--md-default-fg-color); }
+
+.lang-switch { display: flex; gap: .15rem; align-items: center; margin: 0 .6rem; font-weight: 700; font-size: .75rem; }
+.lang-switch a { color: #fff; opacity: .65; padding: .25rem .5rem; border-radius: .3rem; text-decoration: none; }
+.lang-switch a.active { opacity: 1; background: rgba(255,255,255,.22); }
+.lang-switch a:hover { opacity: 1; }

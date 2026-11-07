@@ -12,7 +12,7 @@ from adata import ACC
 from bdata import BD
 from pkdata import PK
 OUT=os.path.join(os.path.dirname(os.path.abspath(__file__)),'..','..','docs','pozharnaya')
-FLAG={'ru':'🇷🇺 Россия','rs':'🇷🇸 Сербия','eu':'🇪🇺 ЕС','uk':'🇬🇧 Англия','ae':'🇦🇪 ОАЭ (Дубай)'}
+FLAG={'ru':'Россия','rs':'Сербия','eu':'ЕС','uk':'Англия','ae':'ОАЭ (Дубай)'}
 LB={'ru':'ru','rs':'sr','eu':'en / de','uk':'en','ae':'en'}
 def tab_lang(k,it):
     lab=it[1]
@@ -33,14 +33,14 @@ def page(topics,i,back,title_prefix,status,grp=None):
         items=list(t['tabs'][k])
         if eud:
             de=t['cells']['eu']
-            cols=[('🇩🇪 Германия',"; ".join(de[1]) or "МВО, МХР и др. (типовые акты земель)",de[0])]+[(fl,SRC[cc],eud[cc][0]) for cc,fl in (('FR','🇫🇷 Франция'),('AT','🇦🇹 Австрия'),('ES','🇪🇸 Испания'))]
+            cols=[('Германия',"; ".join(de[1]) or "МВО, МХР и др. (типовые акты земель)",de[0])]+[(fl,SRC[cc],eud[cc][0]) for cc,fl in (('FR','Франция'),('AT','Австрия'),('ES','Испания'))]
             md+=['    **Страны ЕС: национальные нормы** (единой нормы ЕС нет; ниже — Германия, Франция, Австрия, Испания)','',
                  '    <div class="matrix fire eu" markdown>','',
                  '    | | '+' | '.join(c[0] for c in cols)+' |','    |---'+'|---'*len(cols)+'|',
                  '    | **Нормативный документ** | '+' | '.join(c[1] for c in cols)+' |',
                  '    | **Что установлено** | '+' | '.join(c[2] for c in cols)+' |','','    </div>','']
-            md.append('    **🇪🇺 ЕС и 🇩🇪 Германия — цитаты**'); md.append('')
-            for cc,fl in (('FR','🇫🇷 Франция'),('AT','🇦🇹 Австрия'),('ES','🇪🇸 Испания')):
+            md.append('    **ЕС и Германия — цитаты**'); md.append('')
+            for cc,fl in (('FR','Франция'),('AT','Австрия'),('ES','Испания')):
                 if eud[cc][1]:
                     items+=[('h',fl+' — цитаты')]+list(eud[cc][1])
         for it in items:
@@ -121,7 +121,7 @@ hide:
 
 ## Аналоги российских сводов правил
 
-| Российский документ | 🇷🇸 Сербия | 🇪🇺 ЕС | 🇬🇧 Англия |
+| Российский документ | Сербия | ЕС | Англия |
 |---|---|---|---|
 | **СП 1.13130** — эвакуационные пути и выходы | Правилник 22/2019, гл. VIII; для высоких зданий — Правилник 80/2015 | CPR, прил. I, п. 2(d); пример — МВО §§ 33–36 | Approved Document B Vol 1, требование B1 |
 | **СП 4.13130** — ограничение распространения пожара | Правилник 22/2019, гл. V–VI; отдельный Правилник о наружных стенах | CPR, прил. I, п. 2(a)–(c); EN 13501 | Approved Document B Vol 1, требования B3, B4 |
@@ -144,10 +144,10 @@ open(OUT+'/index.md','w').write(idx)
 # --- высотные
 sumtab='''| Страна | Порог «высотного» | Что измеряется | Другие пороги | Источник |
 |---|---|---|---|---|
-| 🇷🇺 Россия | **>75 м** (жильё Ф1.3); СП 550 — для иных классов **>50 м** | Высота по СП 1.13130 | 28 м — граница упрощений для одного выхода (СП 1, п. 6.1.1); 100 и 150 м — ступени огнестойкости (СП 477, табл. 6.1) | [СП 267, п. 3.5](https://meganorm.ru/mega_doc/norm/metodika/0/sp_267_1325800_2016_svod_pravil_zdaniya_i_kompleksy_vysotnye.html); [СП 477, п. 1.1](https://meganorm.ru/mega_doc/norm/pravila/0/sp_477_1325800_2020_svod_pravil_zdaniya_i_kompleksy_vysotnye.html) |
-| 🇷🇸 Сербия | **≥30 м** | Пол верхнего этажа над отметкой, доступной пожарным автолестницам | 40 м — две лестницы; 40–75 м — одна пожарная; 75 м — пожарный лифт; 100 м — тамбур-шлюзы между секторами | [Правилник 80/2015, чл. 2, 33, 62](http://antiplam.rs/wp-content/uploads/2025/12/Pravilnik-o-tehnickim-normativima-za-zastitu-od-pozara-stambenih-i-poslovnih-objekata-i-objekata-javne-namene.pdf) |
-| 🇪🇺 ЕС | **Единого порога нет** | — | Пример: Германия — **>22 м** (Hochhaus, МВО § 2(4)); Франция, Бельгия и др. ⏳ не сверены | [МВО](https://bvpi.de/bvpi/downloads/MBO.pdf?m=1749800306) |
-| 🇬🇧 Англия | **≥18 м или ≥7 этажей** (и ≥2 жилых помещений) — higher-risk building | От земли до верха пола верхнего этажа (рег. 5); этажи считаются по рег. 6 | AD B: 11 м (спринклеры), 18 м (две лестницы, пожарные шахты, фасад A2), 30 м (огнестойкость 120 мин) | [BSA 2022, s. 65](https://www.legislation.gov.uk/ukpga/2022/30/section/65); [SI 2023/275](https://www.legislation.gov.uk/uksi/2023/275/contents/made); [AD B](https://www.gov.uk/government/publications/fire-safety-approved-document-b) |'''
+| Россия | **>75 м** (жильё Ф1.3); СП 550 — для иных классов **>50 м** | Высота по СП 1.13130 | 28 м — граница упрощений для одного выхода (СП 1, п. 6.1.1); 100 и 150 м — ступени огнестойкости (СП 477, табл. 6.1) | [СП 267, п. 3.5](https://meganorm.ru/mega_doc/norm/metodika/0/sp_267_1325800_2016_svod_pravil_zdaniya_i_kompleksy_vysotnye.html); [СП 477, п. 1.1](https://meganorm.ru/mega_doc/norm/pravila/0/sp_477_1325800_2020_svod_pravil_zdaniya_i_kompleksy_vysotnye.html) |
+| Сербия | **≥30 м** | Пол верхнего этажа над отметкой, доступной пожарным автолестницам | 40 м — две лестницы; 40–75 м — одна пожарная; 75 м — пожарный лифт; 100 м — тамбур-шлюзы между секторами | [Правилник 80/2015, чл. 2, 33, 62](http://antiplam.rs/wp-content/uploads/2025/12/Pravilnik-o-tehnickim-normativima-za-zastitu-od-pozara-stambenih-i-poslovnih-objekata-i-objekata-javne-namene.pdf) |
+| ЕС | **Единого порога нет** | — | Пример: Германия — **>22 м** (Hochhaus, МВО § 2(4)); Франция, Бельгия и др. ⏳ не сверены | [МВО](https://bvpi.de/bvpi/downloads/MBO.pdf?m=1749800306) |
+| Англия | **≥18 м или ≥7 этажей** (и ≥2 жилых помещений) — higher-risk building | От земли до верха пола верхнего этажа (рег. 5); этажи считаются по рег. 6 | AD B: 11 м (спринклеры), 18 м (две лестницы, пожарные шахты, фасад A2), 30 м (огнестойкость 120 мин) | [BSA 2022, s. 65](https://www.legislation.gov.uk/ukpga/2022/30/section/65); [SI 2023/275](https://www.legislation.gov.uk/uksi/2023/275/contents/made); [AD B](https://www.gov.uk/government/publications/fire-safety-approved-document-b) |'''
 hidx=f'''---
 hide:
   - toc

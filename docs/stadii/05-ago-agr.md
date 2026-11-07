@@ -5,7 +5,7 @@
 !!! warning "Статус: черновик"
     Источник каждого раздела указан в конце вкладки. Пометка **⏳** — не сверено. Сербия: по Правилнику 96/2023 (заменил 73/2019) и Закону о планировании и строительстве (ред. до 80/2026).
 
-=== "🇷🇺 Россия"
+=== "Россия"
 
     **Федеральный уровень (АГО)**
 
@@ -30,7 +30,7 @@
     - [ПП Москвы от 22.05.2026 № 1423-ПП (ред. от 13.08.2026)](https://www.mos.ru/dgp/function/arkhitekturnaya-komissiya-po-rassmotreniyu-proektnykh-materialov/deyatelnost-arkhitekturnoi-komissii-po-rassmotreniyu-proektnykh-materialov/), Положение п. 1.2, 1.4, 1.6, 1.7, 1.9, 3.5, Порядок п. 5.5
     - [mos.ru/dgp](https://www.mos.ru/dgp/function/arkhitekturnaya-komissiya-po-rassmotreniyu-proektnykh-materialov/deyatelnost-arkhitekturnoi-komissii-po-rassmotreniyu-proektnykh-materialov/)
 
-=== "🇷🇸 Сербия"
+=== "Сербия"
 
     **Термины**
 
@@ -77,7 +77,7 @@
     </div>
 
 
-=== "🇪🇺 ЕС (EN 16310)"
+=== "ЕС (EN 16310)"
 
     **Термины**
 
@@ -145,7 +145,7 @@
     </div>
 
 
-=== "🇬🇧 Англия (RIBA 2020)"
+=== "Англия (RIBA 2020)"
 
     **Термины**
 
@@ -249,7 +249,7 @@
     </div>
 
 
-=== "🇦🇪 ОАЭ (Дубай)"
+=== "ОАЭ (Дубай)"
 
     ◐ SOS и FMP — «Sign-off Sheet» и «Final Master Plan» (DDA): согласование мастер-плана и участков, не архитектурного облика здания
 
@@ -274,7 +274,7 @@
 
     - Правила согласования «архитектурного облика» здания в Дубае (Architectural Review / Design Guidelines застройщика) ⏳
 
-=== "🇬🇪 Грузия"
+=== "Грузия"
 
     <div class="pair" markdown>
     <div class="orig" markdown>

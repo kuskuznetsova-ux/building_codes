@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""Добавляет колонку «🇬🇪 Грузия» в матрицы и вкладку «🇬🇪 Грузия» на страницы тем.
+"""Добавляет колонку «Грузия» в матрицы и вкладку «Грузия» на страницы тем.
 Запускать ПОСЛЕ генераторов (build.py, build_uk.py, stages_gen/gen.py): работает поверх готовых docs/.
 Повторный запуск безопасен (уже обработанные файлы пропускаются).
   NORM_SRC=<папка с корпусами, внутри ge/> python tools/ge_gen/apply.py"""
@@ -10,7 +10,7 @@ import gedata
 from gedata import GE,NA,NORMY
 from qlib import pair
 DOCS=os.path.normpath(os.path.join(HERE,'..','..','docs'))
-HDR='🇬🇪 Грузия'
+HDR='Грузия'
 DEFAULT_NEED={
  'pozharnaya':'Пост. № 41 (IBC-регламент) по этой теме не прочитан; нужно найти и сверить разделы регламента и технический регламент «Условия пожарной безопасности» (Закон об общественной безопасности, ст. 25)',
  'pozharnaya/vysotnye':'Пост. № 41, п. 403 (высотные здания) по этой теме не вынесен',
@@ -84,10 +84,10 @@ def tab_block(d,slug):
         o+=['    '+NA+': документы Грузии для этой темы пока не найдены.','','    **Какие документы нужно найти**','','    - '+DEFAULT_NEED.get(d,'документы Грузии')+' ⏳','']
     return o
 def do_tab(path,txt):
-    if '=== "🇦🇪' not in txt or '=== "'+HDR not in txt and False: pass
-    if '=== "🇦🇪' not in txt or '=== "'+HDR in txt: return txt,False
+    if '=== "' not in txt or '=== "'+HDR not in txt and False: pass
+    if '=== "' not in txt or '=== "'+HDR in txt: return txt,False
     lines=txt.split('\n')
-    s=next(i for i,l in enumerate(lines) if l.startswith('=== "🇦🇪'))
+    s=next(i for i,l in enumerate(lines) if l.startswith('=== "'))
     e=len(lines)
     for i in range(s+1,len(lines)):
         if lines[i].strip() and not lines[i].startswith('    '): e=i; break

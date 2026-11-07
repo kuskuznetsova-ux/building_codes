@@ -5,7 +5,7 @@
 !!! warning "Статус: черновик"
     Цитаты взяты программно из текстов документов; перевод — рабочий, неофициальный. **⏳** — не сверено. СП 113.13330.2023 прочитан по копии с tiflocentre.ru (изм. 1, 2, редакция на 18.12.2024) — по официальной редакции («Техэксперт») не сверен; Германия — типовой акт M-GarStVO (земли вносят изменения).
 
-=== "🇷🇺 Россия"
+=== "Россия"
 
     <div class="pair" markdown>
     <div class="orig" markdown>
@@ -24,36 +24,36 @@
 
     - [СП 113.13330.2023 (с изм. 1, 2; копия tiflocentre.ru)](https://tiflocentre.ru/documents/sp_113.13330.2023.php)
 
-=== "🇷🇸 Сербия"
+=== "Сербия"
 
     ⏳ Не найдено.
 
-=== "🇪🇺 ЕС"
+=== "ЕС"
 
     **Страны ЕС: национальные нормы** (единой нормы ЕС нет; ниже — Германия, Франция, Австрия, Испания)
 
     <div class="matrix fire eu" markdown>
 
-    | | 🇩🇪 Германия | 🇫🇷 Франция | 🇦🇹 Австрия | 🇪🇸 Испания |
+    | | Германия | Франция | Австрия | Испания |
     |---|---|---|---|---|
     | **Нормативный документ** | [M-GarStVO](https://bauministerkonferenz.de/Dokumente/42323132.pdf) | Франция: [Arrêté 31.01.1986](https://medias.amf.asso.fr/docs/DOCUMENTS/AMF_20070607_arrete_31_01_86_incendie.pdf) (жилые дома, копия AMF; консолидированная редакция Légifrance не сверена ⏳) | Австрия: OIB-Richtlinien, ред. май 2023 ([RL 2](https://www.propellets.at/assets/upload/pelletlagerung/oib-rl-2-ausgabe-mai-2023.pdf), [RL 2.2](https://din-notlicht.com/wp-content/uploads/oib-rl-2.2-ausgabe-mai-2023.pdf), [RL 2.3](https://din-notlicht.com/wp-content/uploads/oib-rl-2.3-ausgabe-mai-2023.pdf), [RL 4](https://glas-gasperlmair.at/wp-content/uploads/2023/10/oib-rl_4_ausgabe_mai_2023.pdf), [Begriffsbestimmungen](https://din-notlicht.com/wp-content/uploads/oib-rl-begriffsbestimmungen-ausgabe-mai-2023.pdf)) | Испания: [CTE DB-SI](https://www.codigotecnico.org/pdf/Documentos/SI/DBSI.pdf) |
     | **Что установлено** | ⏳ не сверено | ⏳ не сверено | Парковки для водородных автомобилей — отдельный раздел RL 2.2 ⏳ не вынесено | ⏳ не сверено |
 
     </div>
 
-    **🇪🇺 ЕС и 🇩🇪 Германия — цитаты**
+    **ЕС и Германия — цитаты**
 
     ⏳ Австрия: OIB-RL 2.2, разд. о парковках для водородных автомобилей — не вынесено; Германия, Испания, Франция — не читалось.
 
-=== "🇬🇧 Англия"
+=== "Англия"
 
     ⏳ Не найдено.
 
-=== "🇦🇪 ОАЭ (Дубай)"
+=== "ОАЭ (Дубай)"
 
     ⏳ Не найдено (UAE FLSC недоступен).
 
-=== "🇬🇪 Грузия"
+=== "Грузия"
 
     ⏳ не сверено: документы Грузии для этой темы пока не найдены.
 

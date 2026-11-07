@@ -5,7 +5,7 @@
 !!! warning "Статус: черновик"
     Цитаты взяты программно из текстов документов; перевод — рабочий, неофициальный. **⏳** — не сверено. СП 42.13330.2026 сверен по официальной редакции (Техэксперт); текст СанПиН — с копии sudact.ru ⏳.
 
-=== "🇷🇺 Россия"
+=== "Россия"
 
     <div class="pair" markdown>
     <div class="orig" markdown>
@@ -37,7 +37,7 @@
 
     - [СП 42.13330.2026, пп. 6.4.21–6.4.23](https://meganorm.ru/mega_doc/norm_update_01092026/pravila/0/sp_42_13330_2026_svod_pravil_gradostroitelstvo_planirovka_i.html)
 
-=== "🇷🇸 Сербия"
+=== "Сербия"
 
     <div class="pair" markdown>
     <div class="orig" markdown>
@@ -82,20 +82,20 @@
 
     - [Правилник 22/2015, чл. 55–56](https://www.paragraf.rs/propisi/pravilnik_o_opstim_pravilima_za_parcelaciju_regulaciju_i_izgradnju.html)
 
-=== "🇪🇺 ЕС"
+=== "ЕС"
 
     **Страны ЕС: национальные нормы** (единой нормы ЕС нет; ниже — Германия, Франция, Австрия, Испания)
 
     <div class="matrix fire eu" markdown>
 
-    | | 🇩🇪 Германия | 🇫🇷 Франция | 🇦🇹 Австрия | 🇪🇸 Испания |
+    | | Германия | Франция | Австрия | Испания |
     |---|---|---|---|---|
     | **Нормативный документ** | [МВО § 6](https://bvpi.de/bvpi/downloads/MBO.pdf?m=1749800306) | Франция: [Arrêté 31.01.1986](https://medias.amf.asso.fr/docs/DOCUMENTS/AMF_20070607_arrete_31_01_86_incendie.pdf) (жилые дома, копия AMF; консолидированная редакция Légifrance не сверена ⏳) | Австрия: OIB-Richtlinien, ред. май 2023 ([RL 2](https://www.propellets.at/assets/upload/pelletlagerung/oib-rl-2-ausgabe-mai-2023.pdf), [RL 2.2](https://din-notlicht.com/wp-content/uploads/oib-rl-2.2-ausgabe-mai-2023.pdf), [RL 2.3](https://din-notlicht.com/wp-content/uploads/oib-rl-2.3-ausgabe-mai-2023.pdf), [RL 4](https://glas-gasperlmair.at/wp-content/uploads/2023/10/oib-rl_4_ausgabe_mai_2023.pdf), [Begriffsbestimmungen](https://din-notlicht.com/wp-content/uploads/oib-rl-begriffsbestimmungen-ausgabe-mai-2023.pdf)) | Испания: [CTE DB-SI](https://www.codigotecnico.org/pdf/Documentos/SI/DBSI.pdf) |
     | **Что установлено** | Нет единой нормы. Пример — Германия: Abstandsfläche (участок свободен от застройки) глубиной 0,4 H, не менее 3 м (МВО § 6) | ⏳ не сверено (правила «prospect» в местных PLU) | ⏳ не сверено (Abstände — в строительных законах земель) | ⏳ не сверено (муниципальные нормы) |
 
     </div>
 
-    **🇪🇺 ЕС и 🇩🇪 Германия — цитаты**
+    **ЕС и Германия — цитаты**
 
     Единых норм ЕС нет. Пример — Германия, МВО (типовой кодекс; в землях действуют свои редакции, значения глубины могут быть 0,4 H или иные).
 
@@ -138,11 +138,11 @@
     </div>
     </div>
 
-=== "🇬🇧 Англия"
+=== "Англия"
 
     Общенациональной нормы расстояния между зданиями в Англии нет: это решают местные планы и руководства по проектированию (design guides) конкретных советов; для пожарной безопасности — AD B (см. [пожарную тему](../pozharnaya/razryvy.md#uk)). Конкретные цифры местных планов в портал не вошли ⏳.
 
-=== "🇦🇪 ОАЭ (Дубай)"
+=== "ОАЭ (Дубай)"
 
     <div class="pair" markdown>
     <div class="orig" markdown>
@@ -188,7 +188,7 @@
     - [DBC 2021, B.4.2.3](https://dda.gov.ae/-/media/DC97EA219133466D908BDEC8A462A2A8.pdf)
     - [DDA MPG, гл. 6, табл. 6.3](https://dda.gov.ae/-/media/0CDFF6B21C134DD793DA846C3525C17A.pdf)
 
-=== "🇬🇪 Грузия"
+=== "Грузия"
 
     ⏳ не сверено: документы Грузии для этой темы пока не найдены.
 

@@ -10,7 +10,7 @@ hide:
 
 ## Принцип построения
 
-Название каждой стадии в матрице — ссылка на страницу с составом работ, документами и уровнем детализации по странам (вкладки 🇷🇺 🇷🇸 🇪🇺 🇬🇧).
+Название каждой стадии в матрице — ссылка на страницу с составом работ, документами и уровнем детализации по странам (вкладки ).
 
 Строки — **объединение** стадий всех стран, а не пересечение. Если у страны есть стадия без аналога, для неё добавлена отдельная строка, а у остальных стоит «—» с пометкой, где эта работа делается у них.
 
@@ -20,7 +20,7 @@ hide:
 
 <div class="matrix" markdown>
 
-| № | Сквозная стадия | 🇷🇺 Россия | 🇷🇸 Сербия | 🇪🇺 ЕС (EN 16310) | 🇬🇧 Англия (RIBA 2020) | 🇦🇪 ОАЭ (Дубай) | 🇬🇪 Грузия |
+| № | Сквозная стадия | Россия | Сербия | ЕС (EN 16310) | Англия (RIBA 2020) | ОАЭ (Дубай) | Грузия |
 |--:|---|---|---|---|---|---|---|
 | 1 | [Стратегия и обоснование](../stadii/01-strategiya.md) | ◐ практика: маркетинговое исследование, концепция девелопмента; нормативной стадии нет<br><small>[ГрК РФ ст. 48](https://www.consultant.ru/document/cons_doc_LAW_51040/b884020ea7453099ba8bc9ca021b84982cadea7d/)</small><br>[Далее](../stadii/01-strategiya.md#ru){ .more } | ◐ *GNP* (генеральный проект), предварительное ТЭО, ТЭО<br><small>[Правилник чл. 2, 14, 34](https://www.paragraf.rs/propisi/pravilnik-o-sadrzini-nacinu-i-postupku-izrade-i-nacinu-vrsenja-kontrole-tehnicke-dokumentacije-prema-klasi-i-nameni-objekata.html); [Закон чл. 112–117](https://www.paragraf.rs/propisi/zakon_o_planiranju_i_izgradnji.html)</small><br>[Далее](../stadii/01-strategiya.md#rs){ .more } | ≈ **0** Initiative<br><small>[отчёт ACE 2013](https://oar.archi/wp-content/uploads/2021/03/the_design_and_construction_phases_of_a_construction_project_pdf_1478002177.pdf); [EN 16310 (iTeh)](https://standards.iteh.ai/catalog/standards/cen/7250e686-1a17-446c-bc6a-754708162070/en-16310-2013)</small><br>[Далее](../stadii/01-strategiya.md#eu){ .more } | ≈ **0** Strategic Definition<br><small>[RIBA Plan of Work 2020](https://www.riba.org/media/syneeeto/2020ribaplanofworkoverviewpdf.pdf)</small><br>[Далее](../stadii/01-strategiya.md#uk){ .more } | ◐ PMP — Preliminary Master Plan (общее видение и стратегия освоения территории; уровень мастер-плана, не здания)<br><small>[DDA MPG](https://dda.gov.ae/-/media/0CDFF6B21C134DD793DA846C3525C17A.pdf)</small><br>[Далее](../stadii/01-strategiya.md#ae){ .more } | ◐ предпроектное исследование (წინასაპროექტო კვლევა): топография, состояние здания, застройка, документальное, влияние на соседей, инженерная геология — обязательность по классам (Пост. № 255, ст. 6); стадии «стратегии» нет<br><small>[Пост. № 255](https://matsne.gov.ge/ka/document/view/4578072)</small><br>[Далее](../stadii/01-strategiya.md#ge){ .more } |
 | 2 | [Подготовка задания](../stadii/02-zadanie.md) | ◐ ТЗ на проектирование, ГПЗУ, ТУ, изыскания<br><small>[ПП РФ № 87](https://mchs.gov.ru/dokumenty/697) п. 10; [ГрК РФ ст. 48](https://www.consultant.ru/document/cons_doc_LAW_51040/b884020ea7453099ba8bc9ca021b84982cadea7d/) ч. 11</small><br>[Далее](../stadii/02-zadanie.md#ru){ .more } | ◐ *lokacijski uslovi* — локационные условия (на основе IDR), срок 5 рабочих дней<br><small>[Закон чл. 53а, 55–56, 8д](https://www.paragraf.rs/propisi/zakon_o_planiranju_i_izgradnji.html); [Правилник чл. 15](https://www.paragraf.rs/propisi/pravilnik-o-sadrzini-nacinu-i-postupku-izrade-i-nacinu-vrsenja-kontrole-tehnicke-dokumentacije-prema-klasi-i-nameni-objekata.html)</small><br>[Далее](../stadii/02-zadanie.md#rs){ .more } | ≈ **1** Initiation<br><small>[отчёт ACE 2013](https://oar.archi/wp-content/uploads/2021/03/the_design_and_construction_phases_of_a_construction_project_pdf_1478002177.pdf); [EN 16310 (iTeh)](https://standards.iteh.ai/catalog/standards/cen/7250e686-1a17-446c-bc6a-754708162070/en-16310-2013)</small><br>[Далее](../stadii/02-zadanie.md#eu){ .more } | ≈ **1** Preparation and Briefing<br><small>[RIBA Plan of Work 2020](https://www.riba.org/media/syneeeto/2020ribaplanofworkoverviewpdf.pdf)</small><br>[Далее](../stadii/02-zadanie.md#uk){ .more } | ⏳ не сверено (план привязки участка / DCR; задание на проектирование — частная практика)<br>[Далее](../stadii/02-zadanie.md#ae){ .more } | ≈ стадия I разрешения: условия использования участка (მიწის ნაკვეთის სამშენებლოდ გამოყენების პირობები) — решение за 10 рабочих дней, действуют 3 года; содержание — вид и параметры застройки, линии, макс. высота (Кодекс, ст. 103–105; Пост. № 255, ст. 8)<br><small>[Пост. № 255](https://matsne.gov.ge/ka/document/view/4578072); [Кодекс № 3213](https://matsne.gov.ge/ru/document/view/4276845)</small><br>[Далее](../stadii/02-zadanie.md#ge){ .more } |
@@ -46,12 +46,12 @@ hide:
 
 | Стадия | Страна | Чем отличается |
 |---|---|---|
-| Девелоперская концепция и маркетинговое задание (RU), Strategic Definition (UK, RIBA 0) | 🇷🇺 🇬🇧 | В России ближайший аналог — практика девелопера и заказчика (маркетинг, функции, площади, зонирование), нормативно не закреплённая; в RIBA 0 — отдельная стадия плана работ; в EN 16310 — стадии Initiative и Initiation |
-| Экспертиза проектной документации | 🇷🇺 | Обязательная процедура вне проектных стадий, отдельный орган и заключение |
-| Стадия эксплуатации (RIBA 7) | 🇬🇧 | Входит в план работ архитектора |
-| Гейты Building Safety Regulator | 🇬🇧 | Только для зданий повышенной категории риска |
-| Локационные условия | 🇷🇸 | Предшествуют проектированию, выдаются органом |
-| АГО (федерально) и АГР (Москва) | 🇷🇺 | Согласование архитектурного облика до экспертизы и разрешения на строительство; в Москве АГР рассматривается Архитектурной комиссией и совещанием с участием Мэра (ПП Москвы № 1423-ПП) |
+| Девелоперская концепция и маркетинговое задание (RU), Strategic Definition (UK, RIBA 0) | | В России ближайший аналог — практика девелопера и заказчика (маркетинг, функции, площади, зонирование), нормативно не закреплённая; в RIBA 0 — отдельная стадия плана работ; в EN 16310 — стадии Initiative и Initiation |
+| Экспертиза проектной документации | | Обязательная процедура вне проектных стадий, отдельный орган и заключение |
+| Стадия эксплуатации (RIBA 7) | | Входит в план работ архитектора |
+| Гейты Building Safety Regulator | | Только для зданий повышенной категории риска |
+| Локационные условия | | Предшествуют проектированию, выдаются органом |
+| АГО (федерально) и АГР (Москва) | | Согласование архитектурного облика до экспертизы и разрешения на строительство; в Москве АГР рассматривается Архитектурной комиссией и совещанием с участием Мэра (ПП Москвы № 1423-ПП) |
 
 ## Схема
 

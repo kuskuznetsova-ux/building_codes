@@ -22,7 +22,7 @@ for (_slug,_c),(_secs,_srcs) in EXT.items():
         _lst.append(('Источники',list(_srcs)))
 OUT=os.path.join(os.path.dirname(os.path.abspath(__file__)),'..','..','docs')
 os.makedirs(OUT+'/stadii',exist_ok=True)
-FLAG={'ru':'🇷🇺 Россия','rs':'🇷🇸 Сербия','eu':'🇪🇺 ЕС (EN 16310)','uk':'🇬🇧 Англия (RIBA 2020)','ae':'🇦🇪 ОАЭ (Дубай)'}
+FLAG={'ru':'Россия','rs':'Сербия','eu':'ЕС (EN 16310)','uk':'Англия (RIBA 2020)','ae':'ОАЭ (Дубай)'}
 from ae_stages import AE as AE_ST
 
 # --- страницы стадий
@@ -96,7 +96,7 @@ for n,(slug,name,cells) in enumerate(STAGES,1):
         s=t+(('<br><small>'+'; '.join(src)+'</small>') if src else '')+f'<br>[Далее](../stadii/{slug}.md#{k}){{ .more }}'
         cs.append(s)
     rows.append(f'| {n} | [{name}](../stadii/{slug}.md) | '+' | '.join(cs)+' |')
-matrix='\n'.join(['| № | Сквозная стадия | 🇷🇺 Россия | 🇷🇸 Сербия | 🇪🇺 ЕС (EN 16310) | 🇬🇧 Англия (RIBA 2020) | 🇦🇪 ОАЭ (Дубай) |','|--:|---|---|---|---|---|---|']+rows)
+matrix='\n'.join(['| № | Сквозная стадия | Россия | Сербия | ЕС (EN 16310) | Англия (RIBA 2020) | ОАЭ (Дубай) |','|--:|---|---|---|---|---|---|']+rows)
 p=OUT+'/sravnenie/stadii.md'; s=open(p).read()
 i=s.index('<div class="matrix" markdown>'); j=s.index('</div>',i)
 s=s[:i]+'<div class="matrix" markdown>\n\n'+matrix+'\n\n'+s[j:]
