@@ -10,7 +10,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *ru · СП 59.13330.2020, п. 1.1–1.3:* <small class="actual">актуально на момент публикации 22.10.26</small> 1.1 Настоящий свод правил предназначается для разработки проектных решений, общественных, жилых и производственных зданий, которые должны обеспечивать для инвалидов и других групп населения с ограниченными возможностями передвижения - маломобильных групп населения (МГН) равные условия жизнедеятельности с другими категориями населения, основанные на принципе универсального проекта (дизайна). 1.2 Настоящий свод правил распространяется на проектирование общественных зданий открытого доступа населения, в том числе инвалидов и МГН. 1.3 Требования свода правил не распространяются на проектирование жилых одноквартирных домов, находящихся в частной собственности.
+    *ru · СП 59.13330.2020, п. 1.1–1.3:* <small class="actual">актуально на момент публикации 23.10.26</small> 1.1 Настоящий свод правил предназначается для разработки проектных решений, общественных, жилых и производственных зданий, которые должны обеспечивать для инвалидов и других групп населения с ограниченными возможностями передвижения - маломобильных групп населения (МГН) равные условия жизнедеятельности с другими категориями населения, основанные на принципе универсального проекта (дизайна). 1.2 Настоящий свод правил распространяется на проектирование общественных зданий открытого доступа населения, в том числе инвалидов и МГН. 1.3 Требования свода правил не распространяются на проектирование жилых одноквартирных домов, находящихся в частной собственности.
 
     </div>
     <div class="ru" markdown>
@@ -29,7 +29,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *sr · Правилник 22/2015, чл. 1:* <small class="actual">актуально на момент публикации 22.10.26</small> Pristupačnost, u smislu ovog pravilnika, odnosi se na zgrade javne i poslovne namene, objekte za javnu upotrebu (ulice, trgovi, parkovi i sl.), kao i na stambene i stambeno poslovne zgrade sa deset i više stanova.
+    *sr · Правилник 22/2015, чл. 1:* <small class="actual">актуально на момент публикации 23.10.26</small> Pristupačnost, u smislu ovog pravilnika, odnosi se na zgrade javne i poslovne namene, objekte za javnu upotrebu (ulice, trgovi, parkovi i sl.), kao i na stambene i stambeno poslovne zgrade sa deset i više stanova.
 
     </div>
     <div class="ru" markdown>
@@ -61,7 +61,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *de · MBO § 50 (Германия):* <small class="actual">актуально на момент публикации 22.10.26</small> (1) In Gebäuden mit mehr als zwei Wohnungen müssen die Wohnungen eines Geschosses barrierefrei erreichbar sein; diese Verpflichtung kann auch durch barrierefrei erreichbare Wohnungen in mehreren Geschossen erfüllt werden. In diesen Wohnungen müssen die Wohn- und Schlafräume, eine Toilette, ein Bad sowie die Küche oder die Kochnische barrierefrei sein. 3§ 39 Abs. 4 bleibt unberührt. (2) Bauliche Anlagen, die öffentlich zugänglich sind, müssen in den dem allgemeinen Besucher- und Benutzerverkehr dienenden Teilen barrierefrei sein. Dies gilt insbesondere für 1. Einrichtungen der Kultur und des Bildungswesens, 2. Sport- und Freizeitstätten, 3. Einrichtungen des Gesundheitswesens, 4. Büro-, Verwaltungs- und Gerichtsgebäude, 5. Verkaufs-, Gast- und Beherbergungsstätten, 6. Stellplätze, Garagen und Toilettenanlagen.
+    *de · MBO § 50 (Германия):* <small class="actual">актуально на момент публикации 23.10.26</small> (1) In Gebäuden mit mehr als zwei Wohnungen müssen die Wohnungen eines Geschosses barrierefrei erreichbar sein; diese Verpflichtung kann auch durch barrierefrei erreichbare Wohnungen in mehreren Geschossen erfüllt werden. In diesen Wohnungen müssen die Wohn- und Schlafräume, eine Toilette, ein Bad sowie die Küche oder die Kochnische barrierefrei sein. 3§ 39 Abs. 4 bleibt unberührt. (2) Bauliche Anlagen, die öffentlich zugänglich sind, müssen in den dem allgemeinen Besucher- und Benutzerverkehr dienenden Teilen barrierefrei sein. Dies gilt insbesondere für 1. Einrichtungen der Kultur und des Bildungswesens, 2. Sport- und Freizeitstätten, 3. Einrichtungen des Gesundheitswesens, 4. Büro-, Verwaltungs- und Gerichtsgebäude, 5. Verkaufs-, Gast- und Beherbergungsstätten, 6. Stellplätze, Garagen und Toilettenanlagen.
 
     </div>
     <div class="ru" markdown>
@@ -74,7 +74,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *de · OIB-RL 4, п. 2.1.5:* <small class="actual">актуально на момент публикации 22.10.26</small> 2.1.5 In Gebäuden oder Gebäudeteilen, die barrierefrei zu gestalten sind, müssen zur Überwindung von Niveauunterschieden Rampen oder zusätzlich zu Treppen Personenaufzüge errichtet werden. Wenn nicht mehr als zwei Geschoße überwunden werden müssen, sind anstelle von Personenaufzügen auch vertikale Hebeeinrichtungen für Personen mit allseits geschlossenen Lastträgern und Lastträgertüren zulässig.
+    *de · OIB-RL 4, п. 2.1.5:* <small class="actual">актуально на момент публикации 23.10.26</small> 2.1.5 In Gebäuden oder Gebäudeteilen, die barrierefrei zu gestalten sind, müssen zur Überwindung von Niveauunterschieden Rampen oder zusätzlich zu Treppen Personenaufzüge errichtet werden. Wenn nicht mehr als zwei Geschoße überwunden werden müssen, sind anstelle von Personenaufzügen auch vertikale Hebeeinrichtungen für Personen mit allseits geschlossenen Lastträgern und Lastträgertüren zulässig.
 
     </div>
     <div class="ru" markdown>
@@ -87,7 +87,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *es · CTE DB-SI, SUA 9, п. 1:* <small class="actual">актуально на момент публикации 22.10.26</small> 1 Con el fin de facilitar el acceso y la utilización no discriminatoria, independiente y segura de los edifi- cios a las personas con discapacidad se cumplirán las condiciones funcionales y de dotación de elementos accesibles que se establecen a continuación.
+    *es · CTE DB-SI, SUA 9, п. 1:* <small class="actual">актуально на момент публикации 23.10.26</small> 1 Con el fin de facilitar el acceso y la utilización no discriminatoria, independiente y segura de los edifi- cios a las personas con discapacidad se cumplirán las condiciones funcionales y de dotación de elementos accesibles que se establecen a continuación.
 
     </div>
     <div class="ru" markdown>
@@ -102,7 +102,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *en · AD M Vol 2, Requirement M1/M2:* <small class="actual">актуально на момент публикации 22.10.26</small> M1. Reasonable provision must be made for people to— (a) gain access to; and (b) use, the building and its facilities. Access to extensions to buildings other than dwellings M2. Suitable independent access must be provided to the extension where reasonably practicable. Sanitary conveniences in extensions to buildings other than dwellings M3. If sanitary conveniences are provided in any building that is to be extended, reasonable provision shall be made within the extension for sanitary conveniences. Access to and use of buildings other than dwellings 8 Requirement M1 does not apply to any part of a building that is used solely to enable the building or any service or fitting in the building to be inspected, repaired or maintained. Requirement M2 does not apply where suitable access to the extension is provided
+    *en · AD M Vol 2, Requirement M1/M2:* <small class="actual">актуально на момент публикации 23.10.26</small> M1. Reasonable provision must be made for people to— (a) gain access to; and (b) use, the building and its facilities. Access to extensions to buildings other than dwellings M2. Suitable independent access must be provided to the extension where reasonably practicable. Sanitary conveniences in extensions to buildings other than dwellings M3. If sanitary conveniences are provided in any building that is to be extended, reasonable provision shall be made within the extension for sanitary conveniences. Access to and use of buildings other than dwellings 8 Requirement M1 does not apply to any part of a building that is used solely to enable the building or any service or fitting in the building to be inspected, repaired or maintained. Requirement M2 does not apply where suitable access to the extension is provided
 
     </div>
     <div class="ru" markdown>
@@ -115,7 +115,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *en · AD M Vol 2, вводная часть:* <small class="actual">актуально на момент публикации 22.10.26</small> Thus there is no obligation to adopt any particular solution contained in an Approved Document if you prefer to meet the relevant requirement in some other way.
+    *en · AD M Vol 2, вводная часть:* <small class="actual">актуально на момент публикации 23.10.26</small> Thus there is no obligation to adopt any particular solution contained in an Approved Document if you prefer to meet the relevant requirement in some other way.
 
     </div>
     <div class="ru" markdown>
@@ -134,7 +134,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *en · DBC 2021, A.5.1:* <small class="actual">актуально на момент публикации 22.10.26</small> The DBC applies to new buildings and changes to existing buildings as described in Table A.1, except where an alternative solution is permitted (see A.8). The DBC applies to the occupancies and use types described in Table A.2.
+    *en · DBC 2021, A.5.1:* <small class="actual">актуально на момент публикации 23.10.26</small> The DBC applies to new buildings and changes to existing buildings as described in Table A.1, except where an alternative solution is permitted (see A.8). The DBC applies to the occupancies and use types described in Table A.2.
 
     </div>
     <div class="ru" markdown>
@@ -147,7 +147,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *en · Dubai Guide, введение:* <small class="actual">актуально на момент публикации 22.10.26</small> Dubai Universal Design Audit Guide does not prevent by any buildings safely and independently. Taking into consideration means the use of technology and products as alternative broad types of human abilities and circumstances including accessible solutions if they at least provide equivalent persons with physical, visual, hearing, and intellectual accessibility of the prescribed requirements.
+    *en · Dubai Guide, введение:* <small class="actual">актуально на момент публикации 23.10.26</small> Dubai Universal Design Audit Guide does not prevent by any buildings safely and independently. Taking into consideration means the use of technology and products as alternative broad types of human abilities and circumstances including accessible solutions if they at least provide equivalent persons with physical, visual, hearing, and intellectual accessibility of the prescribed requirements.
 
     </div>
     <div class="ru" markdown>
@@ -160,5 +160,54 @@
     **Источники**
 
     - [DBC 2021, A.5, Part C](https://dda.gov.ae/-/media/DC97EA219133466D908BDEC8A462A2A8.pdf)
+
+=== "🇬🇪 Грузия"
+
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    *ru (офиц. перевод) · Кодекс № 3213, ст. 85, ч. 1:* <small class="actual">актуально на момент публикации 07.11.26</small> 1. Здания и сооружения (за исключением индивидуального жилья) должны быть спроектированы и построены таким образом, чтобы соблюдались условия, установленные для лиц с ограниченными возможностями законодательством Грузии.
+
+    </div>
+    <div class="ru" markdown>
+
+    Здания и сооружения (кроме индивидуального жилья) должны проектироваться и строиться так, чтобы соблюдались условия, установленные для лиц с ограниченными возможностями законодательством Грузии.
+
+    </div>
+    </div>
+
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    *ka · Пост. № 41, п. 1101.2 (первичная редакция):* <small class="actual">актуально на момент публикации 07.11.26</small> 1101.2 დაგეგმარება. შეზღუდული შესაძლებლობების მქონე პირებისთვის მისაწვდომი შენობებისა და ნაგებობების დაგეგმარება და მშენებლობა უნდა შეესაბამებოდეს წესებსა და ICC A 117-ს.
+
+    </div>
+    <div class="ru" markdown>
+
+    Проектирование и строительство зданий и сооружений, доступных для лиц с ограниченными возможностями, должно соответствовать правилам и ICC A117.
+
+    </div>
+    </div>
+
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    *ka · Пост. № 41, п. 1103.1 (первичная редакция):* <small class="actual">актуально на момент публикации 07.11.26</small> 1103.1 სადაც მოთხოვნილია. დროებითი ან მუდმივი ადგილები, შენობები, ნაგებობები, საშუალებები, ელემენტები და სივრცეები, მისაწვდომი უნდა იყოს შეზღუდული შესაძლებლობების მქონე პირებისთვის.
+
+    </div>
+    <div class="ru" markdown>
+
+    Временные или постоянные места, здания, сооружения, средства, элементы и пространства должны быть доступны для лиц с ограниченными возможностями.
+
+    </div>
+    </div>
+
+    ⏳ По сторонним источникам (CSF, Coalition for Independent Living) с 01.03.2021 действует отдельный технический регламент «Национальные стандарты доступности» (на основе ICC A117.1‑2017; постановление № 732 от 04.12.2020) — по matsne не сверено; текст нужно найти.
+
+    **Источники**
+
+    - [Кодекс Грузии о пространственном планировании, архитектурной и строительной деятельности № 3213](https://matsne.gov.ge/ru/document/view/4276845)
+    - [Пост. Правительства № 41 от 28.01.2016 (Building Safety Rules, на основе IBC)](https://matsne.gov.ge/ka/document/view/3176389)
+
 
 [Входы и пандусы →](pandusy.md)

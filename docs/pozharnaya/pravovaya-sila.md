@@ -10,7 +10,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *ru · ФЗ-123, ст. 6, ч. 1:* <small class="actual">актуально на момент публикации 22.10.26</small> 1. Пожарная безопасность объекта защиты считается обеспеченной при выполнении в полном объеме требований пожарной безопасности, установленных настоящим Федеральным законом, а также одного из следующих условий: 1) выполнены требования пожарной безопасности, содержащиеся в нормативных документах по пожарной безопасности, указанных в пункте 1 части 3 статьи 4 настоящего Федерального закона; 2) пожарный риск не превышает допустимых значений, установленных настоящим Федеральным законом; 3) выполнены требования пожарной безопасности, содержащиеся в специальных технических условиях, отражающих специфику обеспечения пожарной безопасности зданий и сооружений и содержащих комплекс необходимых инженерно-технических и организационных мероприятий по обеспечению пожарной безопасности, согласованных в порядке, установленном федеральным органом исполнительной власти, уполномоченным на решение задач в области пожарной безопасности; 4) выполнены требования пожарной безопасности, содержащиеся в стандарте организации, который согласован в порядке, установленном федеральным органом исполнительной власти, уполномоченным на решение задач в области пожарной безопасности; 5) результаты исследований, расчетов и (или) испытаний подтверждают обеспечение пожарной безопасности объекта защиты в соответствии с частью 7 настоящей статьи.
+    *ru · ФЗ-123, ст. 6, ч. 1:* <small class="actual">актуально на момент публикации 23.10.26</small> 1. Пожарная безопасность объекта защиты считается обеспеченной при выполнении в полном объеме требований пожарной безопасности, установленных настоящим Федеральным законом, а также одного из следующих условий: 1) выполнены требования пожарной безопасности, содержащиеся в нормативных документах по пожарной безопасности, указанных в пункте 1 части 3 статьи 4 настоящего Федерального закона; 2) пожарный риск не превышает допустимых значений, установленных настоящим Федеральным законом; 3) выполнены требования пожарной безопасности, содержащиеся в специальных технических условиях, отражающих специфику обеспечения пожарной безопасности зданий и сооружений и содержащих комплекс необходимых инженерно-технических и организационных мероприятий по обеспечению пожарной безопасности, согласованных в порядке, установленном федеральным органом исполнительной власти, уполномоченным на решение задач в области пожарной безопасности; 4) выполнены требования пожарной безопасности, содержащиеся в стандарте организации, который согласован в порядке, установленном федеральным органом исполнительной власти, уполномоченным на решение задач в области пожарной безопасности; 5) результаты исследований, расчетов и (или) испытаний подтверждают обеспечение пожарной безопасности объекта защиты в соответствии с частью 7 настоящей статьи.
 
     </div>
     <div class="ru" markdown>
@@ -31,7 +31,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *sr · Pravilnik 22/2019, čl. 17 (ст. 3):* <small class="actual">актуально на момент публикации 22.10.26</small> Izuzetno od st. 1. i 2. ovog člana prekidno rastojanje može se odrediti i proračunom prema SRPS EN 1991-1-2.
+    *sr · Pravilnik 22/2019, čl. 17 (ст. 3):* <small class="actual">актуально на момент публикации 23.10.26</small> Izuzetno od st. 1. i 2. ovog člana prekidno rastojanje može se odrediti i proračunom prema SRPS EN 1991-1-2.
 
     </div>
     <div class="ru" markdown>
@@ -44,7 +44,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *sr · Pravilnik 22/2019, čl. 26 (ст. 2):* <small class="actual">актуально на момент публикации 22.10.26</small> 2) raspored sedenja u sportskoj hali mora ispunjavati uslove definisane članom 28. ovog pravilnika ili može biti primenjeno drugo tehničko rešenje kojim je obezbeđena efikasna evakuacija lica na način utvrđen posebnim propisima kojima je uređena izgradnja ove vrste objekata.
+    *sr · Pravilnik 22/2019, čl. 26 (ст. 2):* <small class="actual">актуально на момент публикации 23.10.26</small> 2) raspored sedenja u sportskoj hali mora ispunjavati uslove definisane članom 28. ovog pravilnika ili može biti primenjeno drugo tehničko rešenje kojim je obezbeđena efikasna evakuacija lica na način utvrđen posebnim propisima kojima je uređena izgradnja ove vrste objekata.
 
     </div>
     <div class="ru" markdown>
@@ -76,7 +76,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *de · MBO § 67 Abs. 1 Satz 1:* <small class="actual">актуально на момент публикации 22.10.26</small> Die Bauaufsichtsbehörde kann Abweichungen von Anforderungen dieses Gesetzes und aufgrund dieses Gesetzes erlassener Vorschriften zulassen, wenn sie unter Berücksichtigung des Zwecks der jeweiligen Anforderung und unter Würdigung der öffentlich-rechtlich geschützten nachbarlichen Belange mit den öffentlichen Belangen, insbesondere den Anforderungen des § 3 Satz 1 vereinbar ist.
+    *de · MBO § 67 Abs. 1 Satz 1:* <small class="actual">актуально на момент публикации 23.10.26</small> Die Bauaufsichtsbehörde kann Abweichungen von Anforderungen dieses Gesetzes und aufgrund dieses Gesetzes erlassener Vorschriften zulassen, wenn sie unter Berücksichtigung des Zwecks der jeweiligen Anforderung und unter Würdigung der öffentlich-rechtlich geschützten nachbarlichen Belange mit den öffentlichen Belangen, insbesondere den Anforderungen des § 3 Satz 1 vereinbar ist.
 
     </div>
     <div class="ru" markdown>
@@ -91,7 +91,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *de · OIB-RL 2, Vorbemerkungen:* <small class="actual">актуально на момент публикации 22.10.26</small> Von den Anforderungen dieser OIB-Richtlinie kann entsprechend den jeweiligen landesrechtlichen Bestimmungen abgewichen werden, wenn vom Bauwerber nachgewiesen wird, dass das gleiche Schutzniveau wie bei Anwendung der Richtlinie erreicht wird. Hierbei ist der OIB-Leitfaden „Abweichungen im Brandschutz und Brandschutzkonzepte“anzuwenden.
+    *de · OIB-RL 2, Vorbemerkungen:* <small class="actual">актуально на момент публикации 23.10.26</small> Von den Anforderungen dieser OIB-Richtlinie kann entsprechend den jeweiligen landesrechtlichen Bestimmungen abgewichen werden, wenn vom Bauwerber nachgewiesen wird, dass das gleiche Schutzniveau wie bei Anwendung der Richtlinie erreicht wird. Hierbei ist der OIB-Leitfaden „Abweichungen im Brandschutz und Brandschutzkonzepte“anzuwenden.
 
     </div>
     <div class="ru" markdown>
@@ -106,7 +106,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *es · CTE DB-SI, Criterios generales de aplicación:* <small class="actual">актуально на момент публикации 22.10.26</small> Pueden utilizarse otras soluciones diferentes a las contenidas en este DB, en cuyo caso deberá seguirse el procedimiento establecido en el artículo 5 del CTE y deberá documentarse en el proyecto el cumplimiento de las exigencias básicas.
+    *es · CTE DB-SI, Criterios generales de aplicación:* <small class="actual">актуально на момент публикации 23.10.26</small> Pueden utilizarse otras soluciones diferentes a las contenidas en este DB, en cuyo caso deberá seguirse el procedimiento establecido en el artículo 5 del CTE y deberá documentarse en el proyecto el cumplimiento de las exigencias básicas.
 
     </div>
     <div class="ru" markdown>
@@ -121,7 +121,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *en · Building Act 1984, s. 7(1):* <small class="actual">актуально на момент публикации 22.10.26</small> (1) A failure on the part of a person to comply with an approved document does not of itself render him liable to any civil or criminal proceedings; but if, in any proceedings whether civil or criminal, it is alleged that a person has at any time contravened a provision of building regulations— (a) a failure to comply with a relevant approved document may be relied upon as tending to establish liability, and (b) proof of compliance with such a document may be relied on as tending to negative liability.
+    *en · Building Act 1984, s. 7(1):* <small class="actual">актуально на момент публикации 23.10.26</small> (1) A failure on the part of a person to comply with an approved document does not of itself render him liable to any civil or criminal proceedings; but if, in any proceedings whether civil or criminal, it is alleged that a person has at any time contravened a provision of building regulations— (a) a failure to comply with a relevant approved document may be relied upon as tending to establish liability, and (b) proof of compliance with such a document may be relied on as tending to negative liability.
 
     </div>
     <div class="ru" markdown>
@@ -134,7 +134,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *en · Approved Document B Vol 1, п. 0.9:* <small class="actual">актуально на момент публикации 22.10.26</small> The fire safety requirements of the Building Regulations will probably be satisfied by following the relevant guidance in this approved document. However, approved documents provide guidance for some common building situations, and there may be alternative methods of complying with the Building Regulation requirements. If alternative methods are adopted, the overall level of safety should not be lower than the approved document provides. It is the responsibility of those undertaking the work to demonstrate compliance.
+    *en · Approved Document B Vol 1, п. 0.9:* <small class="actual">актуально на момент публикации 23.10.26</small> The fire safety requirements of the Building Regulations will probably be satisfied by following the relevant guidance in this approved document. However, approved documents provide guidance for some common building situations, and there may be alternative methods of complying with the Building Regulation requirements. If alternative methods are adopted, the overall level of safety should not be lower than the approved document provides. It is the responsibility of those undertaking the work to demonstrate compliance.
 
     </div>
     <div class="ru" markdown>
@@ -153,7 +153,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *en · DBC 2021, A.4.3:* <small class="actual">актуально на момент публикации 22.10.26</small> The DBC and UAE Fire and Life Safety Code of Practice (UAE FLSC) [Ref. A.1] together form the main regulations for building design in Dubai. The UAE FLSC is referenced throughout the DBC.
+    *en · DBC 2021, A.4.3:* <small class="actual">актуально на момент публикации 23.10.26</small> The DBC and UAE Fire and Life Safety Code of Practice (UAE FLSC) [Ref. A.1] together form the main regulations for building design in Dubai. The UAE FLSC is referenced throughout the DBC.
 
     </div>
     <div class="ru" markdown>
@@ -166,7 +166,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *en · DBC 2021, A.8:* <small class="actual">актуально на момент публикации 22.10.26</small> An alternative solution shall meet the intent of the performance statements and provide at least an equivalent level of performance to all of the prescriptive design requirements.
+    *en · DBC 2021, A.8:* <small class="actual">актуально на момент публикации 23.10.26</small> An alternative solution shall meet the intent of the performance statements and provide at least an equivalent level of performance to all of the prescriptive design requirements.
 
     </div>
     <div class="ru" markdown>
@@ -179,5 +179,58 @@
     **Источники**
 
     - [DBC 2021, A.4.3, A.8](https://dda.gov.ae/-/media/DC97EA219133466D908BDEC8A462A2A8.pdf)
+
+=== "🇬🇪 Грузия"
+
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    *ru (офиц. перевод) · Кодекс № 3213, ст. 82:* <small class="actual">актуально на момент публикации 07.11.26</small> Статья 82. Соблюдение пожарной безопасности Здания и сооружения должны быть спроектированы и построены в порядке, установленном законодательством Грузии, таким образом, чтобы при пожаре: а) здания и сооружения сохраняли прочность и устойчивость; б) распространение огня или (и) дыма из одной части здания и сооружения в другие части было сведено к минимуму; в) распространение огня на смежные здания и сооружения было сведено к минимуму; г) имелась возможность безопасной эвакуации людей, а также тушения пожара, спасения людей и имущества пожарно-спасательными подразделениями.
+
+    </div>
+    <div class="ru" markdown>
+
+    Здания проектируют и строят так, чтобы при пожаре сохранялись прочность и устойчивость, распространение огня и дыма внутри здания и на соседние здания было минимальным, обеспечивались безопасная эвакуация и возможность тушения и спасения.
+
+    </div>
+    </div>
+
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    *en · Закон об общественной безопасности, ст. 25, ч. 2:* <small class="actual">актуально на момент публикации 07.11.26</small> Basic fire safety requirements, including matters related to arranging and exploiting fire hydrants, shall be determined by the ordinance of the Government of Georgia on the Approval of the Technical Regulations on the Terms and Conditions of Fire Safety.
+
+    </div>
+    <div class="ru" markdown>
+
+    Основные требования пожарной безопасности, включая устройство и эксплуатацию пожарных гидрантов, определяются постановлением Правительства об утверждении технического регламента «Условия пожарной безопасности» (⏳ отдельный регламент не найден; для зданий — Пост. № 41).
+
+    </div>
+    </div>
+
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    *ka · Пост. № 255, ст. 21, п. 5 (первичная редакция):* <small class="actual">актуально на момент публикации 07.11.26</small> 5. ამ მუხლის მე-2 პუნქტის „ა“ქვეპუნქტის მიხედვით განსაზღვრული საექსპერტო შეფასება გულისხმობს „ტექნიკური რეგლამენტის – შენობა-ნაგებობის უსაფრთხოების წესების დამტკიცების თაობაზე“საქართველოს მთავრობის 2016 წლის 28 იანვრის №41 დადგენილებასთან შესაბამისობას, სულ მცირე, შემდეგი ნაწილების მითითებით: ა) დაკავებულობ(ებ)ისა და დაკავებულობის დატვირთვების შეფასებას; ბ) კონსტრუქციის ტიპების შეფასებას; გ) სიმაღლისა და ფართობის შეფასებას; დ) გასასვლელების, გასასვლელთან მისადგომების, გასავლელებისა და შენობიდან გამოსასვლელების შეფასებას; ე) გზა-კიბეებისა და სხვა გასასვლელი საშუალებების გამტარუნარიანობების შეფასებას; ვ) მისაწვდომობის შეფასებას; ზ) გარე კედლებისადმი მოთხოვნების შეფასებას; თ) სახურავის ანაწყობების შეფასებას; ი) ცეცხლმედეგობის ხარისხიანი მოთხოვნილი გამმიჯნავების შეფასებას; კ) ხანძრისაგან დაცვის სისტემების შეფასებას; ლ) წყალსადენი სისტემის ფიქსირებული მოწყობილობების შეფასებას; მ) საჭიროების შემთხვევაში, სხვა მოთხოვნების შეფასებას
+
+    </div>
+    <div class="ru" markdown>
+
+    Экспертная оценка детального архитектурного проекта (классы III–IV) включает проверку по Пост. № 41: назначение и нагрузку, типы конструкции, высоту и площадь, выходы, пропускную способность лестниц, доступность, наружные стены, кровлю, противопожарные преграды, системы противопожарной защиты, водопровод и др.
+
+    </div>
+    </div>
+
+    Отступления: в тексте регламента упомянуты альтернативные методы (п. 703.3 — расчёт огнестойкости); общий порядок отступлений в Грузии ⏳ не найден. Закон «О пожарной безопасности» 1998 г. (matsne № 93748) — утратил силу 02.04.2017.
+
+    Консолидированные (текущие) редакции Пост. № 41 и № 255 на matsne платные: здесь — первичный текст; 21 изменение к № 41 (последнее — от 04.09.2026, по данным сторонней сводки) и 27 изменений к № 255 не применены.
+
+    **Источники**
+
+    - [Пост. Правительства № 41 от 28.01.2016 (Building Safety Rules, на основе IBC)](https://matsne.gov.ge/ka/document/view/3176389)
+    - [Кодекс Грузии о пространственном планировании, архитектурной и строительной деятельности № 3213](https://matsne.gov.ge/ru/document/view/4276845)
+    - [Пост. Правительства № 255 от 31.05.2019 (разрешения и приёмка)](https://matsne.gov.ge/ka/document/view/4578072)
+    - [Закон Грузии об общественной безопасности № 2608-IIს](https://matsne.gov.ge/en/document/view/4243170)
+
 
 [← Методики измерения высоты и расстояний](metodiki.md) · [Число эвакуационных выходов и лестниц →](vyhody.md)

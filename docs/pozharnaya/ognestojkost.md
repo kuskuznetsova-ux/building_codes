@@ -10,7 +10,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *ru · ФЗ-123, ст. 87, ч. 1–2:* <small class="actual">актуально на момент публикации 22.10.26</small> 1. Степень огнестойкости зданий, сооружений и пожарных отсеков должна устанавливаться в зависимости от их этажности, класса функциональной пожарной опасности, площади пожарного отсека и пожарной опасности происходящих в них технологических процессов. 2. Пределы огнестойкости строительных конструкций должны соответствовать принятой степени огнестойкости зданий, сооружений и пожарных отсеков. Соответствие степени огнестойкости зданий, сооружений и пожарных отсеков и предела огнестойкости применяемых в них строительных конструкций приведено в таблице 21 приложения к настоящему Федеральному закону.
+    *ru · ФЗ-123, ст. 87, ч. 1–2:* <small class="actual">актуально на момент публикации 23.10.26</small> 1. Степень огнестойкости зданий, сооружений и пожарных отсеков должна устанавливаться в зависимости от их этажности, класса функциональной пожарной опасности, площади пожарного отсека и пожарной опасности происходящих в них технологических процессов. 2. Пределы огнестойкости строительных конструкций должны соответствовать принятой степени огнестойкости зданий, сооружений и пожарных отсеков. Соответствие степени огнестойкости зданий, сооружений и пожарных отсеков и предела огнестойкости применяемых в них строительных конструкций приведено в таблице 21 приложения к настоящему Федеральному закону.
 
     </div>
     <div class="ru" markdown>
@@ -23,7 +23,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *ru · ФЗ-123, прил., табл. 21:* <small class="actual">актуально на момент публикации 22.10.26</small>
+    *ru · ФЗ-123, прил., табл. 21:* <small class="actual">актуально на момент публикации 23.10.26</small>
 
     | Степень огнестойкости | Несущие стены, колонны | Наружные ненесущие стены | Перекрытия междуэтажные | Настилы бесчердачных покрытий | Фермы, балки, прогоны | Внутренние стены лестничных клеток | Марши и площадки лестниц |
     |---|---|---|---|---|---|---|---|
@@ -44,7 +44,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *ru · СП 2.13130.2020, п. 6.5.1:* <small class="actual">актуально на момент публикации 22.10.26</small> 6.5.1 Допустимую высоту многоквартирных жилых зданий и общежитий квартирного типа (класс Ф1.3), а также площадь этажа в пределах пожарного отсека следует определять в зависимости от степени огнестойкости и класса конструктивной пожарной опасности по таблице 6.8.
+    *ru · СП 2.13130.2020, п. 6.5.1:* <small class="actual">актуально на момент публикации 23.10.26</small> 6.5.1 Допустимую высоту многоквартирных жилых зданий и общежитий квартирного типа (класс Ф1.3), а также площадь этажа в пределах пожарного отсека следует определять в зависимости от степени огнестойкости и класса конструктивной пожарной опасности по таблице 6.8.
 
     </div>
     <div class="ru" markdown>
@@ -57,7 +57,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *ru · СП 2.13130.2020, табл. 6.8:* <small class="actual">актуально на момент публикации 22.10.26</small>
+    *ru · СП 2.13130.2020, табл. 6.8:* <small class="actual">актуально на момент публикации 23.10.26</small>
 
     | Степень огнестойкости | Класс конструктивной пожарной опасности | Допустимая высота здания, м | Площадь этажа в пределах пожарного отсека, м² |
     |---|---|---|---|
@@ -89,7 +89,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *sr · Pravilnik 22/2019, čl. 10:* <small class="actual">актуально на момент публикации 22.10.26</small> Stepen otpornosti objekta prema požaru određuje se za objekat u celini ili požarni segment objekta prema Tabeli 3, a u skladu sa čl. 7, 8. i 9. ovog pravilnika u zavisnosti od namene, izdvojenosti objekta, visine objekta, maksimalne površine požarnog sektora i maksimalnog broja lica koja borave u tom objektu.
+    *sr · Pravilnik 22/2019, čl. 10:* <small class="actual">актуально на момент публикации 23.10.26</small> Stepen otpornosti objekta prema požaru određuje se za objekat u celini ili požarni segment objekta prema Tabeli 3, a u skladu sa čl. 7, 8. i 9. ovog pravilnika u zavisnosti od namene, izdvojenosti objekta, visine objekta, maksimalne površine požarnog sektora i maksimalnog broja lica koja borave u tom objektu.
 
     </div>
     <div class="ru" markdown>
@@ -102,7 +102,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *sr · Pravilnik 22/2019, čl. 11, табл. 4 (выборка):* <small class="actual">актуально на момент публикации 22.10.26</small>
+    *sr · Pravilnik 22/2019, čl. 11, табл. 4 (выборка):* <small class="actual">актуально на момент публикации 23.10.26</small>
 
     | Элемент (внутри пожарных секторов) | SOP I | II | III | IV | V |
     |---|---|---|---|---|---|
@@ -150,7 +150,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *en · CPR 305/2011, прил. I, п. 2(a):* <small class="actual">актуально на момент публикации 22.10.26</small> (a) the load-bearing capacity of the construction can be assumed for a specific period of time;
+    *en · CPR 305/2011, прил. I, п. 2(a):* <small class="actual">актуально на момент публикации 23.10.26</small> (a) the load-bearing capacity of the construction can be assumed for a specific period of time;
 
     </div>
     <div class="ru" markdown>
@@ -165,7 +165,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *fr · Arrêté 1986, ст. 5:* <small class="actual">актуально на момент публикации 22.10.26</small> Art. 5. Les éléments porteurs verticaux des habitations doivent présenter les degrés de stabilité au feu ciaprès : - Habitations de la première famille: un quart d'heure; - Habitations de la deuxième famille: une demi-heure; - Habitations de la troisième famille: une heure; - Habitations de la quatrième famille: une heure et demie.
+    *fr · Arrêté 1986, ст. 5:* <small class="actual">актуально на момент публикации 23.10.26</small> Art. 5. Les éléments porteurs verticaux des habitations doivent présenter les degrés de stabilité au feu ciaprès : - Habitations de la première famille: un quart d'heure; - Habitations de la deuxième famille: une demi-heure; - Habitations de la troisième famille: une heure; - Habitations de la quatrième famille: une heure et demie.
 
     </div>
     <div class="ru" markdown>
@@ -180,7 +180,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *es · CTE DB-SI, SI 6, Tabla 3.1:* <small class="actual">актуально на момент публикации 22.10.26</small> Tabla 3.1 Resistencia al fuego suficiente de los elementos estructurales Plantas sobre rasante Uso del sector de incendio considerado(1) Plantas de sótano altura de evacuación del edificio ≤15 m ≤28 m >28 m Vivienda unifamiliar(2) R 30 R 30 - - Residencial Vivienda, Residencial Público, Docente, Administrativo R 120 R 60 R 90 R 120 Comercial, Pública concurrencia, Hospitalario R 120(3) R 90 R 120 R 180 Aparcamiento (edificio de uso exclusivo o situado sobre otro uso) R 90 Aparcamiento (situado bajo un uso distinto) R 120(4) (1) La resistencia al fuego suficiente R
+    *es · CTE DB-SI, SI 6, Tabla 3.1:* <small class="actual">актуально на момент публикации 23.10.26</small> Tabla 3.1 Resistencia al fuego suficiente de los elementos estructurales Plantas sobre rasante Uso del sector de incendio considerado(1) Plantas de sótano altura de evacuación del edificio ≤15 m ≤28 m >28 m Vivienda unifamiliar(2) R 30 R 30 - - Residencial Vivienda, Residencial Público, Docente, Administrativo R 120 R 60 R 90 R 120 Comercial, Pública concurrencia, Hospitalario R 120(3) R 90 R 120 R 180 Aparcamiento (edificio de uso exclusivo o situado sobre otro uso) R 90 Aparcamiento (situado bajo un uso distinto) R 120(4) (1) La resistencia al fuego suficiente R
 
     </div>
     <div class="ru" markdown>
@@ -195,7 +195,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *en · Approved Document B Vol 1, п. 6.1:* <small class="actual">актуально на момент публикации 22.10.26</small> Elements of structure such as structural frames, beams, columns, loadbearing walls (internal and external), floor structures and gallery structures should have, as a minimum, the fire resistance given in Appendix B, Table B1.
+    *en · Approved Document B Vol 1, п. 6.1:* <small class="actual">актуально на момент публикации 23.10.26</small> Elements of structure such as structural frames, beams, columns, loadbearing walls (internal and external), floor structures and gallery structures should have, as a minimum, the fire resistance given in Appendix B, Table B1.
 
     </div>
     <div class="ru" markdown>
@@ -208,7 +208,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *en · Approved Document B Vol 1, прил. B, табл. B2 (строка «блок квартир»):* <small class="actual">актуально на момент публикации 22.10.26</small>
+    *en · Approved Document B Vol 1, прил. B, табл. B2 (строка «блок квартир»):* <small class="actual">актуально на момент публикации 23.10.26</small>
 
     | Block of flats | Basement >10 m | Basement ≤10 m | Up to 5 m | Up to 11 m | Up to 18 m | Up to 30 m | More than 30 m |
     |---|---|---|---|---|---|---|---|
@@ -237,7 +237,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *en · DBC 2021, B.9.2:* <small class="actual">актуально на момент публикации 22.10.26</small> Fire separating construction shall be provided in accordance with Table 1.9, Ch. 1 of UAE FLSC
+    *en · DBC 2021, B.9.2:* <small class="actual">актуально на момент публикации 23.10.26</small> Fire separating construction shall be provided in accordance with Table 1.9, Ch. 1 of UAE FLSC
 
     </div>
     <div class="ru" markdown>
@@ -250,7 +250,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *en · DBC 2021, B.6.4.1.2:* <small class="actual">актуально на момент публикации 22.10.26</small> Exit stairways shall be enclosed in fire resistance rated reinforced concrete (RCC) staircase construction when required by Table 3.4, Ch. 3 of UAE FLSC [Ref. B.1], except staircases serving low-rise buildings or low-depth underground buildings where 2 h fire resistance rated blockwork construction is permitted.
+    *en · DBC 2021, B.6.4.1.2:* <small class="actual">актуально на момент публикации 23.10.26</small> Exit stairways shall be enclosed in fire resistance rated reinforced concrete (RCC) staircase construction when required by Table 3.4, Ch. 3 of UAE FLSC [Ref. B.1], except staircases serving low-rise buildings or low-depth underground buildings where 2 h fire resistance rated blockwork construction is permitted.
 
     </div>
     <div class="ru" markdown>
@@ -263,5 +263,46 @@
     **Источники**
 
     - [DBC 2021, B.9.2, B.6.4.1.2](https://dda.gov.ae/-/media/DC97EA219133466D908BDEC8A462A2A8.pdf)
+
+=== "🇬🇪 Грузия"
+
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    *ka · Пост. № 41, п. 602.1 (первичная редакция):* <small class="actual">актуально на момент публикации 07.11.26</small> 602.1 ზოგადი. აგებული ან ასაგები, გადაკეთებული ან სიმაღლე ან ფართობმომატებული შენობები და ნაგებობები 602.2 – 602.5 ქვეთავებში განსაზღვრული ხუთი კონსტრუქციული ტიპიდან ერთ-ერთს უნდა მიეკუთვნებოდეს.
+
+    </div>
+    <div class="ru" markdown>
+
+    Каждое новое, перестроенное, надстроенное или расширенное здание должно относиться к одному из пяти типов конструкции (пп. 602.2–602.5). Пределы огнестойкости элементов — не менее указанных в табл. 601, наружных стен — в табл. 602.
+
+    </div>
+    </div>
+
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    *ka · Пост. № 41, табл. 601 (выборка; воспроизведена вручную, ч):* <small class="actual">актуально на момент публикации 07.11.26</small>
+
+    | ელემენტი | IA | IB | IIA | IIB | IIIA | IIIB | V A | V B |
+    |---|---|---|---|---|---|---|---|---|
+    | ძირითადი სტრუქტურული ჩარჩო | 3 | 2 | 1 | 0 | 1 | 0 | 1 | 0 |
+    | იატაკის კონსტრუქცია | 2 | 2 | 1 | 0 | 1 | 0 | 1 | 0 |
+    | სახურავის კონსტრუქცია | 1½ | 1 | 1 | 0 | 1 | 0 | 1 | 0 |
+
+    </div>
+    <div class="ru" markdown>
+
+    Минимальные пределы огнестойкости, ч (сноски табл. 601 опущены: допускаются снижения, напр. при спринклерах). Для высотных зданий допустимы дополнительные снижения (п. 403.2.1).
+
+    </div>
+    </div>
+
+    Консолидированные (текущие) редакции Пост. № 41 и № 255 на matsne платные: здесь — первичный текст; 21 изменение к № 41 (последнее — от 04.09.2026, по данным сторонней сводки) и 27 изменений к № 255 не применены.
+
+    **Источники**
+
+    - [Пост. Правительства № 41 от 28.01.2016 (Building Safety Rules, на основе IBC)](https://matsne.gov.ge/ka/document/view/3176389)
+
 
 [← Ширина путей эвакуации, лестниц и дверей](shirina.md) · [Секции, отсеки и отделение квартир →](otseki.md)

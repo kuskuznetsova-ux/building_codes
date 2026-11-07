@@ -59,7 +59,6 @@ nav:
           - "1.12 Приёмка и ввод": stadii/12-priemka-vvod.md
           - "1.13 Передача заказчику": stadii/13-peredacha.md
           - "1.14 Эксплуатация": stadii/14-ekspluatatsiya.md
-      - Проектирование: sravnenie/proektirovanie.md
   - "2. Пожарная безопасность":
       - "2. Матрица основных правил":
           - pozharnaya/index.md
@@ -136,6 +135,34 @@ nav:
           - "7.3.9 Лифты, лестницы и выходы на кровлю в стоянках": parkovki/lifty-lestnitsy.md
           - "7.3.10 Зарядные станции для электромобилей": parkovki/zaryadka.md
           - "7.3.11 Газобаллонные автомобили и категории помещений": parkovki/gaz-kategorii.md
+      - "7.4 Высотные жилые здания выше 75 м (СП 267, 477, 550)":
+          - vysotnye-zhilye/index.md
+          - "7.4.1 Порог «высотного здания» (жилые — выше 75 м)": vysotnye-zhilye/porog.md
+          - "7.4.2 Высота помещений и ограничения по размещению": vysotnye-zhilye/vysota-pomeshchenij.md
+          - "7.4.3 Входы, тамбуры и лифтовые холлы": vysotnye-zhilye/vhody-tambury.md
+          - "7.4.4 Ограждения лестниц, крыш и остекления от пола": vysotnye-zhilye/ograzhdeniya.md
+          - "7.4.5 Окна и остекление выше 75 м": vysotnye-zhilye/okna.md
+          - "7.4.6 Эксплуатируемая кровля и вертолётная площадка": vysotnye-zhilye/krovlya.md
+          - "7.4.7 Служебные помещения (СОС, мониторинг, ЦПУ)": vysotnye-zhilye/sluzhebnye.md
+      - "7.5 Высотные общественные здания выше 50 м (СП 267, 477, 550)":
+          - vysotnye-obshchestvennye/index.md
+          - "7.5.1 Порог «высотного здания» (общественные — выше 50 м)": vysotnye-obshchestvennye/porog.md
+          - "7.5.2 Функции, высота помещений и размещение школ/детсадов": vysotnye-obshchestvennye/funkcii.md
+          - "7.5.3 Входы, тамбуры и лифтовые холлы": vysotnye-obshchestvennye/vhody-tambury.md
+          - "7.5.4 Ограждения и остекление": vysotnye-obshchestvennye/ograzhdeniya-okna.md
+          - "7.5.5 Эксплуатируемая кровля и вертолётная площадка": vysotnye-obshchestvennye/krovlya.md
+          - "7.5.6 Служебные помещения (СОС, мониторинг, ЦПУ)": vysotnye-obshchestvennye/sluzhebnye.md
+      - "7.6 Жилые здания до 75 м (СП 54)":
+          - zhile-do-75/index.md
+          - "7.6.1 Область применения: жилые здания до 75 м": zhile-do-75/oblast.md
+          - "7.6.2 Что нельзя встраивать в жилой дом": zhile-do-75/vstroennye.md
+          - "7.6.3 Площади квартир": zhile-do-75/kvartiry.md
+          - "7.6.4 Состав и площади комнат, кухонь": zhile-do-75/komnaty.md
+          - "7.6.5 Высота помещений квартиры": zhile-do-75/vysota-potolka.md
+          - "7.6.6 Площадки перед лифтами": zhile-do-75/lifty.md
+          - "7.6.7 Лестницы: число подъёмов, ограждения": zhile-do-75/lestnitsy.md
+          - "7.6.8 Окна и панорамное остекление": zhile-do-75/okna-balkony.md
+          - "7.6.9 Доступность для маломобильных групп": zhile-do-75/mgn.md
   - Как вести портал: contributing.md
 
 validation:

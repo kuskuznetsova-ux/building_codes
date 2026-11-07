@@ -10,7 +10,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *ru · СП 1.13130.2020, п. 4.3.3:* <small class="actual">актуально на момент публикации 22.10.26</small> 4.3.3. Ширина горизонтальных участков путей эвакуации и пандусов должна быть не менее: 1,2 м - для коридоров и иных путей эвакуации, по которым могут эвакуироваться более 50 человек; 0,7 м - для проходов к одиночным рабочим местам; 1,0 м - во всех остальных случаях.
+    *ru · СП 1.13130.2020, п. 4.3.3:* <small class="actual">актуально на момент публикации 23.10.26</small> 4.3.3. Ширина горизонтальных участков путей эвакуации и пандусов должна быть не менее: 1,2 м - для коридоров и иных путей эвакуации, по которым могут эвакуироваться более 50 человек; 0,7 м - для проходов к одиночным рабочим местам; 1,0 м - во всех остальных случаях.
 
     </div>
     <div class="ru" markdown>
@@ -23,7 +23,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *ru · СП 1.13130.2020, п. 6.1.9:* <small class="actual">актуально на момент публикации 22.10.26</small> 6.1.9. Ширина пути эвакуации по коридору должна быть не менее 1,4 м при его длине между лестницами или торцом коридора и лестницей до 40 м, а при большей длине - не менее 1,6 м. Ширина галереи должна быть не менее 1,2 м.
+    *ru · СП 1.13130.2020, п. 6.1.9:* <small class="actual">актуально на момент публикации 23.10.26</small> 6.1.9. Ширина пути эвакуации по коридору должна быть не менее 1,4 м при его длине между лестницами или торцом коридора и лестницей до 40 м, а при большей длине - не менее 1,6 м. Ширина галереи должна быть не менее 1,2 м.
 
     </div>
     <div class="ru" markdown>
@@ -36,7 +36,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *ru · СП 1.13130.2020, п. 4.4.1 г):* <small class="actual">актуально на момент публикации 22.10.26</small> г) 1,05 м - для зданий класса Ф1.3;
+    *ru · СП 1.13130.2020, п. 4.4.1 г):* <small class="actual">актуально на момент публикации 23.10.26</small> г) 1,05 м - для зданий класса Ф1.3;
 
     </div>
     <div class="ru" markdown>
@@ -49,7 +49,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *ru · СП 1.13130.2020, п. 4.2.19:* <small class="actual">актуально на момент публикации 22.10.26</small> 4.2.19. Ширина эвакуационных выходов должна быть, как правило, не менее 0,8 м.
+    *ru · СП 1.13130.2020, п. 4.2.19:* <small class="actual">актуально на момент публикации 23.10.26</small> 4.2.19. Ширина эвакуационных выходов должна быть, как правило, не менее 0,8 м.
 
     </div>
     <div class="ru" markdown>
@@ -68,7 +68,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *sr · Pravilnik 22/2019, čl. 29:* <small class="actual">актуально на момент публикации 22.10.26</small> Širina hodnika ne sme biti manja od 1,2 m, a širina stepenišnog kraka ne manja od 1 m. Potrebna širina hodnika i stepeništa zavisi od broja lica koja treba da se evakuišu.
+    *sr · Pravilnik 22/2019, čl. 29:* <small class="actual">актуально на момент публикации 23.10.26</small> Širina hodnika ne sme biti manja od 1,2 m, a širina stepenišnog kraka ne manja od 1 m. Potrebna širina hodnika i stepeništa zavisi od broja lica koja treba da se evakuišu.
 
     </div>
     <div class="ru" markdown>
@@ -81,7 +81,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *sr · Pravilnik 22/2019, čl. 34:* <small class="actual">актуально на момент публикации 22.10.26</small> Minimalna širina svetlog otvora vrata stanova, kancelarija i sl. u kojima boravi do deset lica iznosi 0,90 m. Visina vrata na svim evakuacionim putevima je najmanje 2 m, a u javnim objektima najmanje 2,10 m.
+    *sr · Pravilnik 22/2019, čl. 34:* <small class="actual">актуально на момент публикации 23.10.26</small> Minimalna širina svetlog otvora vrata stanova, kancelarija i sl. u kojima boravi do deset lica iznosi 0,90 m. Visina vrata na svim evakuacionim putevima je najmanje 2 m, a u javnim objektima najmanje 2,10 m.
 
     </div>
     <div class="ru" markdown>
@@ -115,7 +115,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *de · MBO § 36 Abs. 2:* <small class="actual">актуально на момент публикации 22.10.26</small> Notwendige Flure müssen so breit sein, dass sie für den größten zu erwartenden Verkehr ausreichen.
+    *de · MBO § 36 Abs. 2:* <small class="actual">актуально на момент публикации 23.10.26</small> Notwendige Flure müssen so breit sein, dass sie für den größten zu erwartenden Verkehr ausreichen.
 
     </div>
     <div class="ru" markdown>
@@ -130,7 +130,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *fr · Arrêté 1986, защищённая лестница, дверь:* <small class="actual">актуально на момент публикации 22.10.26</small> La porte, d'une largeur de 0,80 mètre au moins, doit être munie d'un ferme-porte et s'ouvrir dans le sens de la sortie en venant des logements.
+    *fr · Arrêté 1986, защищённая лестница, дверь:* <small class="actual">актуально на момент публикации 23.10.26</small> La porte, d'une largeur de 0,80 mètre au moins, doit être munie d'un ferme-porte et s'ouvrir dans le sens de la sortie en venant des logements.
 
     </div>
     <div class="ru" markdown>
@@ -145,7 +145,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *de · OIB-RL 4, п. 2.4.5:* <small class="actual">актуально на момент публикации 22.10.26</small> 2.4.5 Bei Gängen, Treppen und Rampen im Verlauf von Fluchtwegen für mehr als 120 Personen muss die lichte Breite für jeweils weitere angefangene zehn Personen um jeweils 10 cm erhöht werden.
+    *de · OIB-RL 4, п. 2.4.5:* <small class="actual">актуально на момент публикации 23.10.26</small> 2.4.5 Bei Gängen, Treppen und Rampen im Verlauf von Fluchtwegen für mehr als 120 Personen muss die lichte Breite für jeweils weitere angefangene zehn Personen um jeweils 10 cm erhöht werden.
 
     </div>
     <div class="ru" markdown>
@@ -160,7 +160,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *es · CTE DB-SI, Tabla 4.1:* <small class="actual">актуально на момент публикации 22.10.26</small> Puertas y pasos A  P / 200(1)  0,80 m(2) La anchura de toda hoja de puerta no debe ser menor que 0,60 m, ni exceder de 1,23 m.
+    *es · CTE DB-SI, Tabla 4.1:* <small class="actual">актуально на момент публикации 23.10.26</small> Puertas y pasos A  P / 200(1)  0,80 m(2) La anchura de toda hoja de puerta no debe ser menor que 0,60 m, ni exceder de 1,23 m.
 
     </div>
     <div class="ru" markdown>
@@ -175,7 +175,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *en · Approved Document B Vol 1, п. 3.63:* <small class="actual">актуально на момент публикации 22.10.26</small> A stair of acceptable width for everyday use will be sufficient for escape purposes. If it is also a firefighting stair or a common stair in a building with a storey 18m or more in height (see Diagram D6 in Appendix D), it should be at least 1100mm wide. The width is the clear width between the walls or balustrades. Any handrails and strings intruding into that width by a maximum of 100mm on each side may be ignored.
+    *en · Approved Document B Vol 1, п. 3.63:* <small class="actual">актуально на момент публикации 23.10.26</small> A stair of acceptable width for everyday use will be sufficient for escape purposes. If it is also a firefighting stair or a common stair in a building with a storey 18m or more in height (see Diagram D6 in Appendix D), it should be at least 1100mm wide. The width is the clear width between the walls or balustrades. Any handrails and strings intruding into that width by a maximum of 100mm on each side may be ignored.
 
     </div>
     <div class="ru" markdown>
@@ -194,7 +194,7 @@
     <div class="pair" markdown>
     <div class="orig" markdown>
 
-    *en · DBC 2021, B.6.4.1.3:* <small class="actual">актуально на момент публикации 22.10.26</small> All stairways shall have a clear width of not less than 1,200 mm. The minimum width of an exit stair shall be determined in accordance with Section 4, Ch. 3 of UAE FLSC [Ref. B.1] depending upon the number of occupants it serves.
+    *en · DBC 2021, B.6.4.1.3:* <small class="actual">актуально на момент публикации 23.10.26</small> All stairways shall have a clear width of not less than 1,200 mm. The minimum width of an exit stair shall be determined in accordance with Section 4, Ch. 3 of UAE FLSC [Ref. B.1] depending upon the number of occupants it serves.
 
     </div>
     <div class="ru" markdown>
@@ -207,5 +207,70 @@
     **Источники**
 
     - [DBC 2021, B.6.4.1.3](https://dda.gov.ae/-/media/DC97EA219133466D908BDEC8A462A2A8.pdf)
+
+=== "🇬🇪 Грузия"
+
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    *ka · Пост. № 41, п. 1005.3.1 (первичная редакция):* <small class="actual">актуально на момент публикации 07.11.26</small> 1005.3.1 გზა-კიბეები. გასასვლელი საშუალებების გზა-კიბეების გამტარუნარიანობის (სმ-ში) გამოსათვლელად დაკავებულობის დატვირთვა უნდა გამრავლდეს გასასვლელი საშუალებების გამტარუნარიანობის ფაქტორზე, რომელიც 7,6 მმ-ია თითო დამკავებელზე.
+
+    </div>
+    <div class="ru" markdown>
+
+    Для расчёта пропускной способности лестниц нагрузку (число людей) умножают на коэффициент 7,6 мм на одного человека.
+
+    </div>
+    </div>
+
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    *ka · Пост. № 41, п. 1005.3.2 (первичная редакция):* <small class="actual">актуально на момент публикации 07.11.26</small> 1005.3.2 გასასვლელის სხვა კომპონენტები. გასასვლელი საშუალებების კომპონენტების, გზა-კიბეების გარდა, გამტარუნარიანობის (სმ-ში) გამოსათვლელად დაკავებულობის დატვირთვა უნდა გამრავლდეს გასასვლელი საშუალებების გამტარუნარიანობის ფაქტორზე, რომელიც თითო დამკავებელზე 5,1 მმ-ია.
+
+    </div>
+    <div class="ru" markdown>
+
+    Для остальных элементов пути эвакуации — 5,1 мм на одного человека.
+
+    </div>
+    </div>
+
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    *ka · Пост. № 41, п. 1009.4 (первичная редакция):* <small class="actual">актуально на момент публикации 07.11.26</small> 1009.4 სიგანე. გზა-კიბეების სიგანე უნდა განისაზღვროს 1005.1 ქვეთავის მიხედვით, მაგრამ ასე განსაზღვრული სიგანე არ უნდა იყოს 1.1 მ-ზე ნაკლები.
+
+    </div>
+    <div class="ru" markdown>
+
+    Ширину лестниц определяют по п. 1005.1, но она должна быть не менее 1,1 м (для лестниц при нагрузке менее 50 человек — не менее 0,9 м).
+
+    </div>
+    </div>
+
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    *ka · Пост. № 41, табл. 1018.2 (выборка; воспроизведена вручную):* <small class="actual">актуально на момент публикации 07.11.26</small>
+
+    | დაკავებულობა | სიგანე (მინიმალური) |
+    |---|---|
+    | ნებისმიერი ნაგებობა, რომელიც არ შედის ჩამონათვალში | 1,2 მ |
+    | დაკავებულობის აუცილებელი ტევადობა 50-ზე ნაკლები | 90 სმ |
+    | საცხოვრებელი ერთეულის საზღვრებში | 90 სმ |
+
+    </div>
+    <div class="ru" markdown>
+
+    Минимальная ширина коридора: 1,2 м в общем случае; 0,9 м при нагрузке менее 50 человек и внутри жилой единицы.
+
+    </div>
+    </div>
+
+    **Источники**
+
+    - [Пост. Правительства № 41 от 28.01.2016 (Building Safety Rules, на основе IBC)](https://matsne.gov.ge/ka/document/view/3176389)
+
 
 [← Расстояние от двери квартиры до выхода](rasstoyanie.md) · [Огнестойкость строительных конструкций →](ognestojkost.md)
