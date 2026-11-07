@@ -1,12 +1,13 @@
 /* Скрытие столбцов стран в матрицах: выбор запоминается в браузере */
 (function () {
-  var KEYS = [['Россия', '🇷🇺 Россия'], ['Сербия', '🇷🇸 Сербия'], ['ЕС', '🇪🇺 ЕС'], ['Англия', '🇬🇧 Англия'], ['ОАЭ', '🇦🇪 ОАЭ'], ['Грузия', '🇬🇪 Грузия']];
+  var KEYS = [['Россия', '🇷🇺 Россия', 'Russia'], ['Сербия', '🇷🇸 Сербия', 'Serbia'], ['ЕС', '🇪🇺 ЕС', 'EU'], ['Англия', '🇬🇧 Англия', 'England'], ['ОАЭ', '🇦🇪 ОАЭ', 'UAE'], ['Грузия', '🇬🇪 Грузия', 'Georgia']];
+  var EN = document.documentElement.lang === 'en';
   var LS = 'hidden-country-cols';
   function load() { try { return JSON.parse(localStorage.getItem(LS) || '[]'); } catch (e) { return []; } }
   function save(v) { try { localStorage.setItem(LS, JSON.stringify(v)); } catch (e) {} }
   function colOf(th) {
     var t = th.textContent;
-    for (var i = 0; i < KEYS.length; i++) if (t.indexOf(KEYS[i][0]) >= 0) return KEYS[i][0];
+    for (var i = 0; i < KEYS.length; i++) if (t.indexOf(KEYS[i][0]) >= 0 || t.indexOf(KEYS[i][2]) >= 0) return KEYS[i][0];
     return null;
   }
   function apply(hidden) {
@@ -31,7 +32,7 @@
     var hidden = load();
     var box = document.createElement('div');
     box.className = 'col-toggle';
-    box.appendChild(document.createTextNode('Показать столбцы: '));
+    box.appendChild(document.createTextNode(EN ? 'Show columns: ' : 'Показать столбцы: '));
     names.forEach(function (k) {
       var lab = document.createElement('label');
       var cb = document.createElement('input'); cb.type = 'checkbox'; cb.checked = hidden.indexOf(k[0]) < 0;
@@ -42,7 +43,7 @@
         document.querySelectorAll('.col-toggle input').forEach(function (o) { if (o.dataset.k === k[0]) o.checked = cb.checked; });
       });
       cb.dataset.k = k[0];
-      lab.appendChild(cb); lab.appendChild(document.createTextNode(' ' + k[1]));
+      lab.appendChild(cb); lab.appendChild(document.createTextNode(' ' + (EN ? k[1].split(' ')[0] + ' ' + k[2] : k[1])));
       box.appendChild(lab);
     });
     tables.forEach(function (tb) {
