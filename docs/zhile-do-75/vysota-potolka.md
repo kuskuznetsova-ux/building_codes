@@ -59,5 +59,31 @@
 
     - нормы по жилым зданиям (площади квартир, высота помещений, лестницы) — IBC-регламент покрывает только безопасность; архитектурные нормы жилья не найдены ⏳
 
+=== "Индия"
+
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    *en · DCPR 2034, табл. 15 (выборка; воспроизведена вручную, м):* <small class="actual">актуально на момент публикации 11.11.26</small>
+
+    | Occupancy | Minimum height | Maximum height |
+    |---|---|---|
+    | Any habitable room (flat roof) | 2.75 | 4.2 |
+    | Bathrooms, WC, combined bath & WC | 2.2 | 4.2 |
+    | Air-conditioned habitable room | 2.4 | 4.2 |
+
+    </div>
+    <div class="ru" markdown>
+
+    Измеряется от поверхности пола до низшей точки потолка. Для скатной крыши — средняя высота 2,75 м при 2,4 м у низшей точки.
+
+    </div>
+    </div>
+
+    **Источники**
+
+    - [DCPR 2034 (Большой Мумбаи), MCGM](https://portal.mcgm.gov.in/irj/go/km/docs/documents/MCGM%20Department%20List/Chief%20Engineer%20(Development%20Plan)/Docs/SANCTIONED%20DP2034/DCPR/DCPR%202034.pdf)
+
+
 
 [← Состав и площади комнат, кухонь](komnaty.md) · [Площадки перед лифтами →](lifty.md)

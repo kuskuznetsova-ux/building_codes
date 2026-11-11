@@ -85,5 +85,38 @@
 
     - нормы по жилым зданиям (площади квартир, высота помещений, лестницы) — IBC-регламент покрывает только безопасность; архитектурные нормы жилья не найдены ⏳
 
+=== "Индия"
+
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    *en · DCPR 2034, п. 37(15)(vii):* <small class="actual">актуально на момент публикации 11.11.26</small> (vii) Hand rail- Handrails with a minimum height of 0.9m from the center of the treads shall be provided.
+
+    </div>
+    <div class="ru" markdown>
+
+    Поручни — минимальной высотой 0,9 м от середины проступей.
+
+    </div>
+    </div>
+
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    *en · DCPR 2034, п. 37(15)(ii)–(iv):* <small class="actual">актуально на момент публикации 11.11.26</small> (ii)Flight- No flight shall contain more than 12 risers, but in residential buildings, in narrow plots a single flight staircase may be permitted. (iii)Risers- The maximum height of a riser shall be 17.50 cm in any occupancy. However, on an internal stairway within a dwelling unit a riser may be 25 cm high. (iv)Treads- The minimum width of the tread without nosing shall be 25cm for staircases of a residential building, other than fire escapes. In other occupancies, the minimum width of the tread shall be 30cm
+
+    </div>
+    <div class="ru" markdown>
+
+    В марше не более 12 подъёмов; высота подъёма ≤17,5 см; проступь ≥25 см в жилых зданиях.
+
+    </div>
+    </div>
+
+    **Источники**
+
+    - [DCPR 2034 (Большой Мумбаи), MCGM](https://portal.mcgm.gov.in/irj/go/km/docs/documents/MCGM%20Department%20List/Chief%20Engineer%20(Development%20Plan)/Docs/SANCTIONED%20DP2034/DCPR/DCPR%202034.pdf)
+
+
 
 [← Площадки перед лифтами](lifty.md) · [Окна и панорамное остекление →](okna-balkony.md)

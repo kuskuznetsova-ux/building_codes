@@ -354,5 +354,38 @@
     - [Пост. Правительства № 255 от 31.05.2019 (разрешения и приёмка)](https://matsne.gov.ge/ka/document/view/4578072)
     - [Кодекс Грузии о пространственном планировании, архитектурной и строительной деятельности № 3213](https://matsne.gov.ge/ru/document/view/4276845)
 
+=== "Индия"
+
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    *en · DCPR 2034, п. 10(5)(iii):* <small class="actual">актуально на момент публикации 11.11.26</small> (iii) Deemed permission.-If within sixty days of the receipt of the notice under sub-Regulations (1) of Regulations 10, the Commissioner fails to intimate in writing to the person who has given the notice, his refusal or sanction, or sanction with modifications or directions, the notice with its plans and statements shall be deemed to have been sanctioned
+
+    </div>
+    <div class="ru" markdown>
+
+    Если в течение 60 дней со дня получения уведомления Commissioner не сообщил письменно об отказе, утверждении или утверждении с изменениями, уведомление с планами считается утверждённым (это не даёт права действовать вразрез с условиями аренды, генпланом, нормами или законом).
+
+    </div>
+    </div>
+
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    *en · DCPR 2034, п. 10(6):* <small class="actual">актуально на момент публикации 11.11.26</small> A development permission/commencement certificate shall remain valid for four years in the aggregate, but shall have to be renewed before the expiry of one year from the date of its issue. The application for renewal shall be made before expiry of one year, if the work has not already commenced. Such renewal can be done for three consecutive terms of one year each
+
+    </div>
+    <div class="ru" markdown>
+
+    Разрешение/свидетельство о начале работ действует четыре года суммарно, но подлежит ежегодному продлению (до истечения года со дня выдачи, если работы не начаты); продление возможно на три последовательных срока по году.
+
+    </div>
+    </div>
+
+    **Источники**
+
+    - [DCPR 2034 (Большой Мумбаи), MCGM](https://portal.mcgm.gov.in/irj/go/km/docs/documents/MCGM%20Department%20List/Chief%20Engineer%20(Development%20Plan)/Docs/SANCTIONED%20DP2034/DCPR/DCPR%202034.pdf)
+
+
 
 [← Проверка / экспертиза проекта](07-ekspertiza.md) · [Рабочая документация →](09-rabochaya.md)

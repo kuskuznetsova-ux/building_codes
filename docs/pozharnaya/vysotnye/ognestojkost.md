@@ -241,5 +241,52 @@
 
     - [Пост. Правительства № 41 от 28.01.2016 (Building Safety Rules, на основе IBC)](https://matsne.gov.ge/ka/document/view/3176389)
 
+=== "Индия"
+
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    *en · DCPR 2034, Прил. I, п. 2(2):* <small class="actual">актуально на момент публикации 11.11.26</small> (2) Structural members such as supports and load bearing walls shall have fire resistance rating of 3 hour, transoms and ceilings at least 2 hours.
+
+    </div>
+    <div class="ru" markdown>
+
+    Несущие элементы (опоры, несущие стены) — 3 ч; ригели и потолки — не менее 2 ч.
+
+    </div>
+    </div>
+
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    *en · NBC 2016 Part 4, Annex E-4:* <small class="actual">актуально на момент публикации 11.11.26</small> Refuge area shall be provided in buildings of height more than 24 m. Refuge area provided shall be planned to accommodate the occupants of two consecutive floors (this shall consider occupants of the floor where refuge is provided and occupants of floor above) by considering area of 0.3 m2 per person for the calculated number of occupants and shall include additionally to accommodate one wheelchair space of an area of 0.9 m2 for every 200 occupants, portion thereof, based on the occupant load served by the area of refuge or a minimum of 15 m2, whichever is higher, shall be provided as under: 1) The refuge area shall be provided on the periphery of the floor and open to air at least on one side protected with suitable railings. 2) Refuge area(s) shall be provided at/or immediately above 24 m and thereafter at every 15 m or so.
+
+    </div>
+    <div class="ru" markdown>
+
+    Зона убежища (refuge area) предусматривается в зданиях выше 24 м; рассчитывается на жильцов двух смежных этажей из расчёта 0,3 м² на человека (плюс место для кресла-коляски 0,9 м² на каждые 200 человек), не менее 15 м²; по периметру этажа, открыта воздуху минимум с одной стороны, с ограждением; на уровне 24 м или выше и далее примерно через каждые 15 м.
+
+    </div>
+    </div>
+
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    *en · DCPR 2034, Прил. I, п. 18(i):* <small class="actual">актуально на момент публикации 11.11.26</small> a) The refuge area shall be so located that it shall preferably face the access road/s or otherwise face the wider open space on the side of the building perpendicular to the main access road. b) The cantilevered Refuge area on cantilever will be permissible at the mid-landing of the staircase only. All other refuge areas shall be within the building line only. c) The cantilevered refuge area shall necessarily be of RCC type. d) The refuge area shall be provided with railing / parapet of 1.20 m. e) R.C.C. covering shall be provided above the topmost cantilever refuge area. f) The refuge area shall have a door which shall be painted or fixed with a sign in luminous paint mentioning “REFUGE AREA” g) The lift/s shall not be permitted to open into the refuge areas. h) The refuge area provided within building line shall be accessible from common passage/ staircase.
+
+    </div>
+    <div class="ru" markdown>
+
+    Зона убежища предпочтительно обращена к подъездной дороге; консольная — только на промежуточной площадке лестницы, железобетонная, с ограждением 1,20 м; дверь с надписью «REFUGE AREA»; лифты в зону убежища не открываются; доступ из общего прохода/лестницы.
+
+    </div>
+    </div>
+
+    **Источники**
+
+    - [DCPR 2034 (Большой Мумбаи), MCGM](https://portal.mcgm.gov.in/irj/go/km/docs/documents/MCGM%20Department%20List/Chief%20Engineer%20(Development%20Plan)/Docs/SANCTIONED%20DP2034/DCPR/DCPR%202034.pdf)
+    - [NBC 2016, Part 4 «Fire and Life Safety» (копия NMC Нагпур)](https://nmcnagpur.gov.in/assets/300/2025/03/mediafiles/NBC2016-Part-IV.pdf)
+
+
 
 [← Пожарные лифты и доступ пожарных](lifty.md) · [Фасады и наружные стены →](fasady.md)

@@ -266,5 +266,39 @@
 
     - [Пост. Правительства № 41 от 28.01.2016 (Building Safety Rules, на основе IBC)](https://matsne.gov.ge/ka/document/view/3176389)
 
+=== "Индия"
+
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    *en · DCPR 2034, Прил. I, п. 2(4):* <small class="actual">актуально на момент публикации 11.11.26</small> (4) Facades excluding windows and doors shall consist of non-combustible building materials. The minimum distance between the top of the opening on a lower floor and the sill of that on the floor above it shall be 0.9 m., so that the fire would have to travel at least 0.9 m. between storeys.
+
+    </div>
+    <div class="ru" markdown>
+
+    Фасады (кроме окон и дверей) выполняют из негорючих материалов. Минимальное расстояние между верхом проёма нижнего этажа и подоконником проёма этажом выше — 0,9 м, чтобы огню пришлось пройти не менее 0,9 м между этажами.
+
+    </div>
+    </div>
+
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    *en · NBC 2016 Part 4, п. 3.4.10.2(c):* <small class="actual">актуально на момент публикации 11.11.26</small> c) Openable panels shall be provided on each floor and shall be spaced not more than 10 m apart measured along the external wall from centre-to-centre of the access openings. Such openings shall be operable at a height between 1.2 m and 1.5 m from the floor, and shall be in the form of openable panels (fire access panels) of size not less than 1 000 mm × 1 000 mm opening outwards.
+
+    </div>
+    <div class="ru" markdown>
+
+    На каждом этаже стеклянного фасада предусматривают открываемые панели (противопожарный доступ) с шагом не более 10 м между центрами, на высоте 1,2–1,5 м от пола, размером не менее 1000 × 1000 мм, открывающиеся наружу.
+
+    </div>
+    </div>
+
+    **Источники**
+
+    - [NBC 2016, Part 4 «Fire and Life Safety» (копия NMC Нагпур)](https://nmcnagpur.gov.in/assets/300/2025/03/mediafiles/NBC2016-Part-IV.pdf)
+    - [DCPR 2034 (Большой Мумбаи), MCGM](https://portal.mcgm.gov.in/irj/go/km/docs/documents/MCGM%20Department%20List/Chief%20Engineer%20(Development%20Plan)/Docs/SANCTIONED%20DP2034/DCPR/DCPR%202034.pdf)
+
+
 
 [← Расстояния между зданиями и до границы участка](razryvy.md) · [Отделка путей эвакуации →](otdelka.md)

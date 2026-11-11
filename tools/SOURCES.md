@@ -82,4 +82,7 @@
 | ge255 | ge/4578072ka.txt | Пост. № 255 от 31.05.2019 (разрешения и приёмка), первичная редакция — https://matsne.gov.ge/ka/document/view/4578072 |
 | gecode | ge/e475ea.txt | Кодекс Грузии № 3213 (рус. перевод на matsne) — https://matsne.gov.ge/ru/document/view/4276845 |
 | gepsl | ge/ps4243170.txt | Закон об общественной безопасности № 2608-IIს (англ.) — https://matsne.gov.ge/en/document/view/4243170 |
+| indcpr | in/dcpr_c.txt | DCPR 2034 Greater Mumbai (Gazette 08.05.2018), MCGM — https://portal.mcgm.gov.in/irj/go/km/docs/documents/MCGM%20Department%20List/Chief%20Engineer%20(Development%20Plan)/Docs/SANCTIONED%20DP2034/DCPR/DCPR%202034.pdf (pdftotext -layout, очищен от колонтитулов) |
+| innbc4 | in/nbc4_r.txt | NBC 2016 Part 4 Fire and Life Safety — https://nmcnagpur.gov.in/assets/300/2025/03/mediafiles/NBC2016-Part-IV.pdf (pdftotext без -layout; \x97 → «—») |
+| insm | in/d430f3.txt | Studio Matrx, Daylighting Indian Homes (вторичный источник) — https://www.studiomatrx.org/guides/daylight-factor-india |
 

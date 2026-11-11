@@ -276,5 +276,44 @@
 
     - [Пост. Правительства № 41 от 28.01.2016 (Building Safety Rules, на основе IBC)](https://matsne.gov.ge/ka/document/view/3176389)
 
+=== "Индия"
+
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    *en · NBC 2016 Part 4, табл. 5 (выборка; воспроизведена вручную, м):* <small class="actual">актуально на момент публикации 11.11.26</small>
+
+    | Occupancy Group | Types 1 and 2 | Types 3 and 4 |
+    |---|---|---|
+    | Residential (Group A) | 30.00 | 22.50 |
+    | Educational (Group B) | 30.00 | 22.50 |
+    | Business (Group E) | 30.00 | 30.00 |
+
+    </div>
+    <div class="ru" markdown>
+
+    Максимальный путь движения до выхода. Примечание 1 к таблице: для здания, полностью оборудованного спринклерами, путь можно увеличить на 50 %.
+
+    </div>
+    </div>
+
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    *en · NBC 2016 Part 4, п. 4.4.2.2(c):* <small class="actual">актуально на момент публикации 11.11.26</small> c) The dead end corridor length in exit access shall not exceed 6 m for educational, institutional and assembly occupancies. For other occupancies, the same shall be 15 m (see Fig. 6)
+
+    </div>
+    <div class="ru" markdown>
+
+    Длина тупикового коридора на пути к выходу не должна превышать 6 м для учебных, лечебных и зрелищных групп; для остальных — 15 м.
+
+    </div>
+    </div>
+
+    **Источники**
+
+    - [NBC 2016, Part 4 «Fire and Life Safety» (копия NMC Нагпур)](https://nmcnagpur.gov.in/assets/300/2025/03/mediafiles/NBC2016-Part-IV.pdf)
+
+
 
 [← Число эвакуационных выходов и лестниц](vyhody.md) · [Ширина путей эвакуации, лестниц и дверей →](shirina.md)

@@ -272,5 +272,71 @@
 
     - [Пост. Правительства № 41 от 28.01.2016 (Building Safety Rules, на основе IBC)](https://matsne.gov.ge/ka/document/view/3176389)
 
+=== "Индия"
+
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    *en · NBC 2016 Part 4, п. 4.4.2.4.3.2(e):* <small class="actual">актуально на момент публикации 11.11.26</small> e) Notwithstanding the detailed provision for exits in accordance with 4.2 and 4.3, the following minimum width shall be provided for staircases for respective occupancies: 1) Residential (A-2) : 1.00 m 2) Residential (A-1, A-3 and : A-4) 1.25 m NOTE — For row housing with 2 storeys, the minimum width shall be 0.75 m. 3) Residential hotel (A-5 and : 1.50 m A-6) 4) Assembly : 2.00 m NOTE — The width of stairs may be accepted to be 1.50 m in case of assembly occupancy having less than 150 persons. 5) Educational : 1.50 m 6) Institutional : 2.00 m 7) All other occupancies : 1.50 m
+
+    </div>
+    <div class="ru" markdown>
+
+    Минимальная ширина лестниц: жилые A‑2 — 1,00 м; A‑1, A‑3 и A‑4 — 1,25 м (для двухэтажных рядовых домов — 0,75 м); гостиничные A‑5 и A‑6 — 1,50 м; зрелищные — 2,00 м (1,50 м при <150 человек); учебные — 1,50 м; лечебные — 2,00 м; прочие — 1,50 м.
+
+    </div>
+    </div>
+
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    *en · NBC 2016 Part 4, п. 4.4.2.4.1(b):* <small class="actual">актуально на момент публикации 11.11.26</small> b) No exit doorway shall be less than 1 000 mm in width except assembly buildings, where door width shall be not less than 2 000 mm (see Fig. 8). Doorways shall be not less than 2 000 mm in height.
+
+    </div>
+    <div class="ru" markdown>
+
+    Дверь выхода — не менее 1000 мм по ширине (в зрелищных зданиях — 2000 мм) и не менее 2000 мм по высоте.
+
+    </div>
+    </div>
+
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    *en · DCPR 2034, табл. 16 (выборка; воспроизведена вручную, м):* <small class="actual">актуально на момент публикации 11.11.26</small>
+
+    | Type of occupancy | buildings up to 70 m | buildings above 70 m |
+    |---|---|---|
+    | Residential — general | 1.50 | 2.00 |
+    | Residential — row housing (2 storeys) / duplex stair | 0.90 | — |
+    | Educational — up to 32 m / over 32 m | 1.50 / 2.0 | — |
+
+    </div>
+    <div class="ru" markdown>
+
+    Минимальная ширина общих лестниц и коридоров. Для двухэтажных рядовых домов и внутриквартирных лестниц ширина ограничена 1,20 м.
+
+    </div>
+    </div>
+
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    *en · DCPR 2034, п. 37(15)(ii)–(iv):* <small class="actual">актуально на момент публикации 11.11.26</small> (ii)Flight- No flight shall contain more than 12 risers, but in residential buildings, in narrow plots a single flight staircase may be permitted. (iii)Risers- The maximum height of a riser shall be 17.50 cm in any occupancy. However, on an internal stairway within a dwelling unit a riser may be 25 cm high. (iv)Treads- The minimum width of the tread without nosing shall be 25cm for staircases of a residential building, other than fire escapes. In other occupancies, the minimum width of the tread shall be 30cm
+
+    </div>
+    <div class="ru" markdown>
+
+    В марше не более 12 подъёмов (в жилых зданиях на узких участках допускается одномаршевая лестница); высота подъёма — не более 17,5 см (внутри квартиры — 25 см); ширина проступи без носика — не менее 25 см в жилых зданиях и 30 см в остальных.
+
+    </div>
+    </div>
+
+    **Источники**
+
+    - [NBC 2016, Part 4 «Fire and Life Safety» (копия NMC Нагпур)](https://nmcnagpur.gov.in/assets/300/2025/03/mediafiles/NBC2016-Part-IV.pdf)
+    - [DCPR 2034 (Большой Мумбаи), MCGM](https://portal.mcgm.gov.in/irj/go/km/docs/documents/MCGM%20Department%20List/Chief%20Engineer%20(Development%20Plan)/Docs/SANCTIONED%20DP2034/DCPR/DCPR%202034.pdf)
+
+
 
 [← Расстояние от двери квартиры до выхода](rasstoyanie.md) · [Огнестойкость строительных конструкций →](ognestojkost.md)

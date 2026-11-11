@@ -358,5 +358,38 @@
 
     - [Пост. Правительства № 255 от 31.05.2019 (разрешения и приёмка)](https://matsne.gov.ge/ka/document/view/4578072)
 
+=== "Индия"
+
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    *en · DCPR 2034, п. 11(2):* <small class="actual">актуально на момент публикации 11.11.26</small> (2) Notice to start of work: The owner shall give notice to the Commissioner of his intention to start work on the building site in the format given in Annexure 13 The owner may start the work after 7 days have elapsed from the date of the service of such notice to the Commissioner or earlier, if so permitted.
+
+    </div>
+    <div class="ru" markdown>
+
+    Владелец уведомляет Commissioner о намерении начать работы (форма Приложения 13) и может начать работы через 7 дней со дня вручения уведомления или раньше, если разрешено.
+
+    </div>
+    </div>
+
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    *en · DCPR 2034, п. 11(4):* <small class="actual">актуально на момент публикации 11.11.26</small> (4) Checking of plinth columns up to plinth level: The owner through his licensed surveyor, or his architect shall give notice in the form given at Annexure 14 to the Commissioner on completion of work up to plinth level to enable the Commissioner to ensure that the work conforms to the sanctioned plans. The Commissioner may inspect the work jointly with the licensed technical personal or architect within fifteen days from the receipt of such notice and either give or refuse permission for further construction as per the sanctioned plans in the form given at Annexure 15.If within this period, the permission is not refused, it shall be deemed to have been given provided the work is carried out according to the sanctioned plans.
+
+    </div>
+    <div class="ru" markdown>
+
+    По завершении работ до уровня цоколя владелец через лицензированного специалиста уведомляет Commissioner; Commissioner инспектирует работы в течение 15 дней и разрешает или не разрешает дальнейшее строительство; если отказа в этот срок нет — разрешение считается данным.
+
+    </div>
+    </div>
+
+    **Источники**
+
+    - [DCPR 2034 (Большой Мумбаи), MCGM](https://portal.mcgm.gov.in/irj/go/km/docs/documents/MCGM%20Department%20List/Chief%20Engineer%20(Development%20Plan)/Docs/SANCTIONED%20DP2034/DCPR/DCPR%202034.pdf)
+
+
 
 [← Рабочая документация](09-rabochaya.md) · [Исполнительная документация →](11-ispolnitelnaya.md)

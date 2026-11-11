@@ -436,5 +436,14 @@
 
     - [Пост. Правительства № 255 от 31.05.2019 (разрешения и приёмка)](https://matsne.gov.ge/ka/document/view/4578072)
 
+=== "Индия"
+
+    ⏳ Нужно найти: правила предпроектных обоснований (zoning/FSI — DCPR Part V, Part VII); в DCPR прочитаны разд. 10–12 (процедура).
+
+    **Источники**
+
+    - [DCPR 2034 (Большой Мумбаи), MCGM](https://portal.mcgm.gov.in/irj/go/km/docs/documents/MCGM%20Department%20List/Chief%20Engineer%20(Development%20Plan)/Docs/SANCTIONED%20DP2034/DCPR/DCPR%202034.pdf)
+
+
 
 [Подготовка задания →](02-zadanie.md)

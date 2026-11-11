@@ -1,6 +1,6 @@
 # Building norms
 
-The portal compares building regulations of six jurisdictions:
+The portal compares building regulations of seven jurisdictions:
 
 | | Jurisdiction | Basis |
 |---|---|---|
@@ -10,6 +10,7 @@ The portal compares building regulations of six jurisdictions:
 | | England | Building Act 1984, Building Regulations, Approved Documents, RIBA Plan of Work |
 | | UAE (Dubai) | Dubai Building Code 2021, DDA Master Planning Guidelines |
 | | Georgia | Code on Spatial Planning, Architectural and Construction Activities; Resolution No. 41 (building safety rules based on the IBC); Resolution No. 255 (permits) |
+|  | India | National Building Code (NBC 2016, Part 4 “Fire and Life Safety”); Greater Mumbai development control regulations (DCPR 2034) |
 
 ## Sections
 

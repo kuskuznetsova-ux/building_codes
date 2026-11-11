@@ -276,5 +276,38 @@
 
     - [Пост. Правительства № 41 от 28.01.2016 (Building Safety Rules, на основе IBC)](https://matsne.gov.ge/ka/document/view/3176389)
 
+=== "Индия"
+
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    *en · NBC 2016 Part 4, п. 4.4.2.4.3.1:* <small class="actual">актуально на момент публикации 11.11.26</small> All buildings, as mentioned in 1.2, shall have a minimum of two staircases. The actual number of staircases shall comply with the requirement of 4.4.2.1. All exit staircases shall discharge, at the level of exit discharge, to the exit discharge, either, a) directly, or b) through an exit passageway, or c) through a large lobby. At least 50 percent of the staircases shall discharge as per (a) and/or (b) above.
+
+    </div>
+    <div class="ru" markdown>
+
+    Все здания, указанные в п. 1.2, должны иметь не менее двух лестниц. Все эвакуационные лестницы на уровне выхода выводят наружу: прямо, через выходной проход или через большой вестибюль; не менее 50 % лестниц — прямо и/или через выходной проход.
+
+    </div>
+    </div>
+
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    *en · NBC 2016 Part 4, п. 4.2.10:* <small class="actual">актуально на момент публикации 11.11.26</small> 4.2.10 At least half of the required exit stairs from upper floors (rounded to the next higher number) shall discharge directly to the exterior or through exit passageways.
+
+    </div>
+    <div class="ru" markdown>
+
+    Не менее половины необходимых эвакуационных лестниц с верхних этажей (с округлением вверх) выходят прямо наружу или через выходные проходы.
+
+    </div>
+    </div>
+
+    **Источники**
+
+    - [NBC 2016, Part 4 «Fire and Life Safety» (копия NMC Нагпур)](https://nmcnagpur.gov.in/assets/300/2025/03/mediafiles/NBC2016-Part-IV.pdf)
+
+
 
 [← Юридическая сила документов и допустимые отклонения](pravovaya-sila.md) · [Расстояние от двери квартиры до выхода →](rasstoyanie.md)

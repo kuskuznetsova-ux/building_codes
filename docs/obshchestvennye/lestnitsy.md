@@ -128,5 +128,25 @@
 
     - Пост. № 41 (гл. 4–10: группы по назначению, лестницы, лифты, выходы) — разделы по общественным зданиям не вынесены ⏳
 
+=== "Индия"
+
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    *en · DCPR 2034, п. 37(15)(ii)–(iv):* <small class="actual">актуально на момент публикации 11.11.26</small> (ii)Flight- No flight shall contain more than 12 risers, but in residential buildings, in narrow plots a single flight staircase may be permitted. (iii)Risers- The maximum height of a riser shall be 17.50 cm in any occupancy. However, on an internal stairway within a dwelling unit a riser may be 25 cm high. (iv)Treads- The minimum width of the tread without nosing shall be 25cm for staircases of a residential building, other than fire escapes. In other occupancies, the minimum width of the tread shall be 30cm
+
+    </div>
+    <div class="ru" markdown>
+
+    В марше не более 12 подъёмов; высота подъёма — не более 17,5 см; проступь — не менее 25 см в жилых зданиях и 30 см в остальных.
+
+    </div>
+    </div>
+
+    **Источники**
+
+    - [DCPR 2034 (Большой Мумбаи), MCGM](https://portal.mcgm.gov.in/irj/go/km/docs/documents/MCGM%20Department%20List/Chief%20Engineer%20(Development%20Plan)/Docs/SANCTIONED%20DP2034/DCPR/DCPR%202034.pdf)
+
+
 
 [← Высота помещений](vysota.md) · [Лифты в общественных зданиях →](lifty.md)

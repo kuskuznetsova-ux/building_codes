@@ -285,5 +285,25 @@
 
     - [Пост. Правительства № 255 от 31.05.2019 (разрешения и приёмка)](https://matsne.gov.ge/ka/document/view/4578072)
 
+=== "Индия"
+
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    *en · DCPR 2034, п. 11(6):* <small class="actual">актуально на момент публикации 11.11.26</small> (6) Completion certificate: The owner, through his licensed plumber, shall furnish a drainage completion certificate to the Commissioner in the form given at Annexure 17. The owner through his licensed surveyor/engineer/structural engineer/supervisor or his architect, or any professional on record, who has supervised the construction, shall furnish a building completion certificate to the Commissioner in the form given at Annexure 18. These certificates shall be accompanied by three sets of plans of the completed development.
+
+    </div>
+    <div class="ru" markdown>
+
+    Владелец через лицензированного сантехника представляет свидетельство о завершении водоотведения (Прил. 17), а через лицензированного специалиста/архитектора — свидетельство о завершении здания (Прил. 18) с тремя комплектами планов построенного объекта.
+
+    </div>
+    </div>
+
+    **Источники**
+
+    - [DCPR 2034 (Большой Мумбаи), MCGM](https://portal.mcgm.gov.in/irj/go/km/docs/documents/MCGM%20Department%20List/Chief%20Engineer%20(Development%20Plan)/Docs/SANCTIONED%20DP2034/DCPR/DCPR%202034.pdf)
+
+
 
 [← Строительство](10-stroitelstvo.md) · [Приёмка и разрешение на ввод →](12-priemka-vvod.md)

@@ -173,5 +173,39 @@
 
     - [Пост. Правительства № 41 от 28.01.2016 (Building Safety Rules, на основе IBC)](https://matsne.gov.ge/ka/document/view/3176389)
 
+=== "Индия"
+
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    *en · DCPR 2034, Прил. I, п. 19:* <small class="actual">актуально на момент публикации 11.11.26</small> All the buildings having glass façade shall comply with fire safety requirements as per Model Building Bye Laws/NBC
+
+    </div>
+    <div class="ru" markdown>
+
+    Все здания со стеклянным фасадом должны отвечать требованиям пожарной безопасности по Model Building Bye Laws / NBC.
+
+    </div>
+    </div>
+
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    *en · NBC 2016 Part 4, п. 3.4.10.2(c):* <small class="actual">актуально на момент публикации 11.11.26</small> c) Openable panels shall be provided on each floor and shall be spaced not more than 10 m apart measured along the external wall from centre-to-centre of the access openings. Such openings shall be operable at a height between 1.2 m and 1.5 m from the floor, and shall be in the form of openable panels (fire access panels) of size not less than 1 000 mm × 1 000 mm opening outwards.
+
+    </div>
+    <div class="ru" markdown>
+
+    Открываемые противопожарные панели — на каждом этаже через не более 10 м, на высоте 1,2–1,5 м, не менее 1000×1000 мм, наружу.
+
+    </div>
+    </div>
+
+    **Источники**
+
+    - [DCPR 2034 (Большой Мумбаи), MCGM](https://portal.mcgm.gov.in/irj/go/km/docs/documents/MCGM%20Department%20List/Chief%20Engineer%20(Development%20Plan)/Docs/SANCTIONED%20DP2034/DCPR/DCPR%202034.pdf)
+    - [NBC 2016, Part 4 «Fire and Life Safety» (копия NMC Нагпур)](https://nmcnagpur.gov.in/assets/300/2025/03/mediafiles/NBC2016-Part-IV.pdf)
+
+
 
 [← Огнестойкость и пожарные отсеки](ognestojkost.md) · [Автоматическое пожаротушение и водопровод →](sprinklery.md)

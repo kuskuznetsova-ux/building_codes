@@ -282,5 +282,54 @@
 
     - [Пост. Правительства № 41 от 28.01.2016 (Building Safety Rules, на основе IBC)](https://matsne.gov.ge/ka/document/view/3176389)
 
+=== "Индия"
+
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    *en · NBC 2016 Part 4, п. 2.38; Annex E-1:* <small class="actual">актуально на момент публикации 11.11.26</small> 2.38 High Rise Building — A building 15 m or above in height (irrespective of its occupancy).
+
+    </div>
+    <div class="ru" markdown>
+
+    Высотное здание — здание высотой 15 м и более независимо от назначения. Annex E требует особого внимания к высотным зданиям: поэтапная эвакуация, эффект тяги при подпоре и дымоудалении, зонирование систем пожаротушения, доступ пожарных.
+
+    </div>
+    </div>
+
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    *en · DCPR 2034, п. 2(75):* <small class="actual">актуально на момент публикации 11.11.26</small> “High Rise Building” means a building having height more than 32m above the average surrounding ground level.
+
+    </div>
+    <div class="ru" markdown>
+
+    Высотное здание (Мумбаи) — здание высотой более 32 м над средним уровнем окружающей земли.
+
+    </div>
+    </div>
+
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    *en · DCPR 2034, п. 10(5)(ii):* <small class="actual">актуально на момент публикации 11.11.26</small> (ii) Fire brigade scrutiny. -The plans for all high rise and special buildings shall also be subject to the scrutiny of the Chief Fire Officer, and development permission shall be given by the Commissioner only after clearance by the Chief Fire Officer.
+
+    </div>
+    <div class="ru" markdown>
+
+    Планы всех высотных и особых зданий проверяет Chief Fire Officer; разрешение на застройку выдаётся только после его согласования.
+
+    </div>
+    </div>
+
+    Важно: NBC — модельный национальный кодекс (BIS), обязательным он становится через местные правила; DCPR 2034 действует только в Большом Мумбаи (редакция Gazette от 08.05.2018 — позднейшие изменения не учтены). По стороннему источнику (Studio Matrx, 10.2026) издание NBC 2016 BIS отозвано и заменено «SP 7:2026» — ⏳ не сверено. Копия NBC Part 4 — лицензионная копия BIS на сайте Nagpur Municipal Corporation, не официальная публикация BIS.
+
+    **Источники**
+
+    - [NBC 2016, Part 4 «Fire and Life Safety» (копия NMC Нагпур)](https://nmcnagpur.gov.in/assets/300/2025/03/mediafiles/NBC2016-Part-IV.pdf)
+    - [DCPR 2034 (Большой Мумбаи), MCGM](https://portal.mcgm.gov.in/irj/go/km/docs/documents/MCGM%20Department%20List/Chief%20Engineer%20(Development%20Plan)/Docs/SANCTIONED%20DP2034/DCPR/DCPR%202034.pdf)
+
+
 
 [Эвакуационные лестницы и выходы →](lestnitsy.md)

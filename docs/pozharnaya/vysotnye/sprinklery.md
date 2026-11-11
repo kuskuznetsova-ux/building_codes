@@ -192,5 +192,41 @@
 
     - [Пост. Правительства № 41 от 28.01.2016 (Building Safety Rules, на основе IBC)](https://matsne.gov.ge/ka/document/view/3176389)
 
+=== "Индия"
+
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    *en · DCPR 2034, Прил. I, п. 5:* <small class="actual">актуально на момент публикации 11.11.26</small> The area of the open able external windows on a floor shall be not less than 2 1/2 per cent of the floor area.
+
+    </div>
+    <div class="ru" markdown>
+
+    Площадь открываемых наружных окон на этаже — не менее 2,5 % площади этажа; замки окон — с «аварийным» ключом (открываются остриём пожарного топора).
+
+    </div>
+    </div>
+
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    *en · DCPR 2034, Прил. I, п. 13(1):* <small class="actual">актуально на момент публикации 11.11.26</small> (1) Buildings shall be protected by wet riser, wet riser-cum-down corner, automatic sprinkler, installation, high pressure water spray or foam generating system as prescribed in sub-Regulations (2) to (6)
+
+    </div>
+    <div class="ru" markdown>
+
+    Здания защищают мокрым стояком, стояком-спуском, автоматическими спринклерами, водяным распылением или пенной системой.
+
+    </div>
+    </div>
+
+    Таблица ёмкостей баков и насосов (DCPR, Прил. I, п. 13(2)) и табл. 7 NBC — не вынесены ⏳.
+
+    **Источники**
+
+    - [DCPR 2034 (Большой Мумбаи), MCGM](https://portal.mcgm.gov.in/irj/go/km/docs/documents/MCGM%20Department%20List/Chief%20Engineer%20(Development%20Plan)/Docs/SANCTIONED%20DP2034/DCPR/DCPR%202034.pdf)
+    - [NBC 2016, Part 4 «Fire and Life Safety» (копия NMC Нагпур)](https://nmcnagpur.gov.in/assets/300/2025/03/mediafiles/NBC2016-Part-IV.pdf)
+
+
 
 [← Фасады и наружные стены](fasady.md)

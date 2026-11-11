@@ -84,10 +84,9 @@ def tab_block(d,slug):
         o+=['    '+NA+': документы Грузии для этой темы пока не найдены.','','    **Какие документы нужно найти**','','    - '+DEFAULT_NEED.get(d,'документы Грузии')+' ⏳','']
     return o
 def do_tab(path,txt):
-    if '=== "' not in txt or '=== "'+HDR not in txt and False: pass
-    if '=== "' not in txt or '=== "'+HDR in txt: return txt,False
+    if '=== "ОАЭ' not in txt or '=== "'+HDR in txt: return txt,False
     lines=txt.split('\n')
-    s=next(i for i,l in enumerate(lines) if l.startswith('=== "'))
+    s=next(i for i,l in enumerate(lines) if l.startswith('=== "ОАЭ'))
     e=len(lines)
     for i in range(s+1,len(lines)):
         if lines[i].strip() and not lines[i].startswith('    '): e=i; break

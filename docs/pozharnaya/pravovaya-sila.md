@@ -232,5 +232,41 @@
     - [Пост. Правительства № 255 от 31.05.2019 (разрешения и приёмка)](https://matsne.gov.ge/ka/document/view/4578072)
     - [Закон Грузии об общественной безопасности № 2608-IIს](https://matsne.gov.ge/en/document/view/4243170)
 
+=== "Индия"
+
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    *en · DCPR 2034, п. 47(1):* <small class="actual">актуально на момент публикации 11.11.26</small> The planning, design and construction of any building shall be such as to ensure safety from fire. For this purpose, unless otherwise specified in these Regulations, Fire Protection Chapter, National Building Code as amended time to time shall apply. For high rise and special buildings, additional provisions relating to fire protection contained in Appendix I shall also apply,
+
+    </div>
+    <div class="ru" markdown>
+
+    Планирование, проектирование и строительство любого здания должны обеспечивать пожарную безопасность; если иное не указано, применяется глава о пожарной безопасности Национального строительного кодекса в действующей редакции. Для высотных и особых зданий действует также Приложение I.
+
+    </div>
+    </div>
+
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    *en · NBC 2016 Part 4, п. 3.4.2:* <small class="actual">актуально на момент публикации 11.11.26</small> Exceptions and deviations to the general provisions of requirements of individual occupancies are given as applicable to each type of occupancy in 6.1 to 6.9. In case of practical difficulty or to avoid unnecessary hardship, without sacrificing reasonable safety, local head, fire services may consider exemptions from the Code.
+
+    </div>
+    <div class="ru" markdown>
+
+    Исключения и отступления от общих положений даны для каждого вида назначения в пп. 6.1–6.9. В случае практической трудности или чтобы избежать необоснованных лишений, без ущерба разумной безопасности, местный начальник пожарной службы может рассмотреть освобождения от требований Кодекса.
+
+    </div>
+    </div>
+
+    Важно: NBC — модельный национальный кодекс (BIS), обязательным он становится через местные правила; DCPR 2034 действует только в Большом Мумбаи (редакция Gazette от 08.05.2018 — позднейшие изменения не учтены). По стороннему источнику (Studio Matrx, 10.2026) издание NBC 2016 BIS отозвано и заменено «SP 7:2026» — ⏳ не сверено. Копия NBC Part 4 — лицензионная копия BIS на сайте Nagpur Municipal Corporation, не официальная публикация BIS.
+
+    **Источники**
+
+    - [NBC 2016, Part 4 «Fire and Life Safety» (копия NMC Нагпур)](https://nmcnagpur.gov.in/assets/300/2025/03/mediafiles/NBC2016-Part-IV.pdf)
+    - [DCPR 2034 (Большой Мумбаи), MCGM](https://portal.mcgm.gov.in/irj/go/km/docs/documents/MCGM%20Department%20List/Chief%20Engineer%20(Development%20Plan)/Docs/SANCTIONED%20DP2034/DCPR/DCPR%202034.pdf)
+
+
 
 [← Методики измерения высоты и расстояний](metodiki.md) · [Число эвакуационных выходов и лестниц →](vyhody.md)

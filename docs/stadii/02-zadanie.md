@@ -446,5 +446,25 @@
     - [Пост. Правительства № 255 от 31.05.2019 (разрешения и приёмка)](https://matsne.gov.ge/ka/document/view/4578072)
     - [Кодекс Грузии о пространственном планировании, архитектурной и строительной деятельности № 3213](https://matsne.gov.ge/ru/document/view/4276845)
 
+=== "Индия"
+
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    *en · DCPR 2034, п. 10(1):* <small class="actual">актуально на момент публикации 11.11.26</small> (1) Notice of intention: Every person who intends to carry out development or redevelopment, erect or re- erect a building or alter any building or part of a building shall give notice in writing to the Commissioner of his said intention in the form in Appendix II and such notice shall be accompanied by plans and statements with sufficient number of copies, as required by sub-Regulations (2) and (3) hereunder.
+
+    </div>
+    <div class="ru" markdown>
+
+    Каждое лицо, намеренное выполнить застройку или реконструкцию, возвести или перестроить здание, подаёт Commissioner письменное уведомление по форме Приложения II с планами и сведениями в нужном числе экземпляров (по п. 10(2)–(3)).
+
+    </div>
+    </div>
+
+    **Источники**
+
+    - [DCPR 2034 (Большой Мумбаи), MCGM](https://portal.mcgm.gov.in/irj/go/km/docs/documents/MCGM%20Department%20List/Chief%20Engineer%20(Development%20Plan)/Docs/SANCTIONED%20DP2034/DCPR/DCPR%202034.pdf)
+
+
 
 [← Стратегия и обоснование](01-strategiya.md) · [Концепция →](03-koncepciya.md)
