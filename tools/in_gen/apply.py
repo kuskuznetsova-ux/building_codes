@@ -39,7 +39,7 @@ def cell(d,slug,rel):
         if src: s+='<br><small>'+'; '.join(esc(shortsrc(x)) for x in src)+'</small>'
     else:
         s=NA+': '+esc(DEFAULT_NEED.get(d,'документы Индии не найдены'))
-    return s+f'<br>[Далее]({rel}#ge){{ .more }}'
+    return s+f'<br>[Далее]({rel}#in){{ .more }}'
 def table_blocks(lines):
     i=0
     while i<len(lines):
