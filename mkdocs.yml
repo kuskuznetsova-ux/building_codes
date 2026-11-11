@@ -1,6 +1,6 @@
 site_name: Строительные нормы
 site_url: https://kuskuznetsova-ux.github.io/building_codes/
-site_description: Сравнение нормативов проектирования, архитектуры и пожарной безопасности Сербии, России, ЕС, Англии, ОАЭ и Грузии
+site_description: Сравнение нормативов проектирования, архитектуры и пожарной безопасности Сербии, России, ЕС, Англии, ОАЭ, Грузии и Индии
 docs_dir: docs
 theme:
   name: material

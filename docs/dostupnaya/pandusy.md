@@ -195,5 +195,25 @@
 
     - национальный технический регламент «Национальные стандарты доступности» (по сторонним данным — постановление № 732 от 04.12.2020; на основе ICC A117.1) и IBC-регламент, гл. 11 (Пост. № 41) ⏳
 
+=== "Индия"
+
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    *en · DCPR 2034, п. 37(16)(i):* <small class="actual">актуально на момент публикации 11.11.26</small> (i) Ramps for pedestrians- (a) General: The provision applicable to stairways shall generally apply to ramps. A ramp in a hospital shall not be less than 2.25 m wide. In addition, to satisfy the fire-fighting requirements, a ramp shall conform to sub-regulation (7) of Regulation 48 (b) Slope: A ramp shall have a slope of not less than 1 in 8 for vehicular traffic & 1 in 12 for pedestrian. It shall be of non-slippery material. Handrail- A handrail shall be provided on both the sides of the ramp with minimum height of 0.90 m
+
+    </div>
+    <div class="ru" markdown>
+
+    Для пандусов применяются положения о лестницах; пандус в больнице — не уже 2,25 м; уклон — не менее 1:8 для транспорта и 1:12 для пешеходов (в тексте DCPR; формулировка требует сверки ⏳), нескользкое покрытие; поручни с обеих сторон высотой не менее 0,90 м.
+
+    </div>
+    </div>
+
+    **Источники**
+
+    - [DCPR 2034 (Большой Мумбаи), MCGM](https://portal.mcgm.gov.in/irj/go/km/docs/documents/MCGM%20Department%20List/Chief%20Engineer%20(Development%20Plan)/Docs/SANCTIONED%20DP2034/DCPR/DCPR%202034.pdf)
+
+
 
 [← Область применения и юридическая сила](oblast.md) · [Ширина дверей и проходов →](dveri.md)

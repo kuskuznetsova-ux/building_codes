@@ -59,5 +59,25 @@
 
     - нормы по жилым зданиям (площади квартир, высота помещений, лестницы) — IBC-регламент покрывает только безопасность; архитектурные нормы жилья не найдены ⏳
 
+=== "Индия"
+
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    *en · DCPR 2034, п. 37(17)(i):* <small class="actual">актуально на момент публикации 11.11.26</small> (i)At least one lift shall be provided in every building more than 16m in height. In case of buildings more than 24m high at least two lifts shall be provided in order to serve each dwelling unit. One of these lifts shall be fire lift & shall be in conformity with the fire safety regulations. It shall be ensured that atleast one lift must serve access to the lowest level of basement & may also extend up to terrace floor
+
+    </div>
+    <div class="ru" markdown>
+
+    В каждом здании выше 16 м — не менее одного лифта; в зданиях выше 24 м — не менее двух, один из них пожарный.
+
+    </div>
+    </div>
+
+    **Источники**
+
+    - [DCPR 2034 (Большой Мумбаи), MCGM](https://portal.mcgm.gov.in/irj/go/km/docs/documents/MCGM%20Department%20List/Chief%20Engineer%20(Development%20Plan)/Docs/SANCTIONED%20DP2034/DCPR/DCPR%202034.pdf)
+
+
 
 [← Высота помещений квартиры](vysota-potolka.md) · [Лестницы: число подъёмов, ограждения →](lestnitsy.md)

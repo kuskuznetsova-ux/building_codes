@@ -318,5 +318,28 @@
 
     - [Пост. Правительства № 41 от 28.01.2016 (Building Safety Rules, на основе IBC)](https://matsne.gov.ge/ka/document/view/3176389)
 
+=== "Индия"
+
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    *en · DCPR 2034, п. 47(1)(A)(a)–(b):* <small class="actual">актуально на момент публикации 11.11.26</small> a) In case of rehabilitation/composite buildings having height more than 32 m up to 70 m, at least one side other than road side, shall have clear open space of 6 m at ground level, accessible from road side.
+
+    </div>
+    <div class="ru" markdown>
+
+    Для реабилитационных/составных зданий высотой более 32 м до 70 м не менее одной стороны (кроме выходящей на дорогу) должна иметь свободное открытое пространство 6 м на уровне земли, доступное с дороги; для зданий выше 70 м — 9 м.
+
+    </div>
+    </div>
+
+    Табл. 1 NBC (пределы огнестойкости элементов, в т. ч. наружных стен по расстоянию 3,7 / 9 м) прочитана не полностью ⏳.
+
+    **Источники**
+
+    - [NBC 2016, Part 4 «Fire and Life Safety» (копия NMC Нагпур)](https://nmcnagpur.gov.in/assets/300/2025/03/mediafiles/NBC2016-Part-IV.pdf)
+    - [DCPR 2034 (Большой Мумбаи), MCGM](https://portal.mcgm.gov.in/irj/go/km/docs/documents/MCGM%20Department%20List/Chief%20Engineer%20(Development%20Plan)/Docs/SANCTIONED%20DP2034/DCPR/DCPR%202034.pdf)
+
+
 
 [← Секции, отсеки и отделение квартир](otseki.md) · [Наружные стены и фасады →](fasady.md)

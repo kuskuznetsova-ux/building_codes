@@ -307,5 +307,25 @@
     - [Пост. Правительства № 255 от 31.05.2019 (разрешения и приёмка)](https://matsne.gov.ge/ka/document/view/4578072)
     - [Кодекс Грузии о пространственном планировании, архитектурной и строительной деятельности № 3213](https://matsne.gov.ge/ru/document/view/4276845)
 
+=== "Индия"
+
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    *en · DCPR 2034, п. 10(5)(ii):* <small class="actual">актуально на момент публикации 11.11.26</small> (ii) Fire brigade scrutiny. -The plans for all high rise and special buildings shall also be subject to the scrutiny of the Chief Fire Officer, and development permission shall be given by the Commissioner only after clearance by the Chief Fire Officer.
+
+    </div>
+    <div class="ru" markdown>
+
+    Планы всех высотных и особых зданий дополнительно проверяет Chief Fire Officer; разрешение выдаётся только после его согласования.
+
+    </div>
+    </div>
+
+    **Источники**
+
+    - [DCPR 2034 (Большой Мумбаи), MCGM](https://portal.mcgm.gov.in/irj/go/km/docs/documents/MCGM%20Department%20List/Chief%20Engineer%20(Development%20Plan)/Docs/SANCTIONED%20DP2034/DCPR/DCPR%202034.pdf)
+
+
 
 [← Эскиз / предварительный проект](04-eskiz.md) · [Проект для разрешения →](06-proekt-razresheniya.md)

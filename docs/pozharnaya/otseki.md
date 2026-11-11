@@ -204,5 +204,52 @@
 
     - [Пост. Правительства № 41 от 28.01.2016 (Building Safety Rules, на основе IBC)](https://matsne.gov.ge/ka/document/view/3176389)
 
+=== "Индия"
+
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    *en · NBC 2016 Part 4, п. 4.5.2:* <small class="actual">актуально на момент публикации 11.11.26</small> 4.5.2 All floors shall be compartmented/zoned with area of each compartment being not more than 750 m2. The maximum size of the compartment shall be as follows, in case of sprinklered basement/building:
+
+    </div>
+    <div class="ru" markdown>
+
+    Все этажи делятся на отсеки площадью каждый не более 750 м². Для зданий (подвалов) со спринклерами максимальный размер отсека задаётся таблицей по назначению (значения ⏳ не вынесены).
+
+    </div>
+    </div>
+
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    *en · NBC 2016 Part 4, п. 4.5.2 (граница отсека):* <small class="actual">актуально на момент публикации 11.11.26</small> Compartmentation shall be achieved by means of fire barrier having fire resistance rating of 120 min.
+
+    </div>
+    <div class="ru" markdown>
+
+    Деление на отсеки выполняют противопожарной преградой с пределом огнестойкости 120 мин.
+
+    </div>
+    </div>
+
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    *en · DCPR 2034, Прил. I, п. 2(3):* <small class="actual">актуально на момент публикации 11.11.26</small> (3) Internal walls and partitions separating corridors from areas on floors that are used for any purpose other than circulation shall have a fire resistance of not less than one hour. There shall be no openings in such walls other than for doors or delivery hatches with fire resistance not less than half an hour. Fire sections (fire walls) sub-dividing the building to prevent fire spread, shall have a fire resistance, rating not less than two hours.
+
+    </div>
+    <div class="ru" markdown>
+
+    Стены и перегородки, отделяющие коридоры от помещений этажа, — предел не менее 1 ч, без проёмов, кроме дверей/люков с пределом не менее 0,5 ч; противопожарные стены (разделение на пожарные секции) — не менее 2 ч.
+
+    </div>
+    </div>
+
+    **Источники**
+
+    - [NBC 2016, Part 4 «Fire and Life Safety» (копия NMC Нагпур)](https://nmcnagpur.gov.in/assets/300/2025/03/mediafiles/NBC2016-Part-IV.pdf)
+    - [DCPR 2034 (Большой Мумбаи), MCGM](https://portal.mcgm.gov.in/irj/go/km/docs/documents/MCGM%20Department%20List/Chief%20Engineer%20(Development%20Plan)/Docs/SANCTIONED%20DP2034/DCPR/DCPR%202034.pdf)
+
+
 
 [← Огнестойкость строительных конструкций](ognestojkost.md) · [Расстояния между зданиями и до границы участка →](razryvy.md)

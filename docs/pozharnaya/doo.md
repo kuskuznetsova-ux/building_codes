@@ -257,5 +257,43 @@
 
     - [Пост. Правительства № 41 от 28.01.2016 (Building Safety Rules, на основе IBC)](https://matsne.gov.ge/ka/document/view/3176389)
 
+=== "Индия"
+
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    *en · NBC 2016 Part 4, п. 6.2.2:* <small class="actual">актуально на момент публикации 11.11.26</small> Every room with a capacity of over 45 persons in area shall have at least two doorways. Exit doors shall be operated by panic bars
+
+    </div>
+    <div class="ru" markdown>
+
+    Каждое помещение вместимостью более 45 человек должно иметь не менее двух дверей. Двери выходов — с антипаническими ручками.
+
+    </div>
+    </div>
+
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    *en · DCPR 2034, табл. 14, строка 8 (воспроизведена вручную):* <small class="actual">актуально на момент публикации 11.11.26</small>
+
+    | Occupancy | Minimum size, sq.m | Minimum width, m |
+    |---|---|---|
+    | Class room in an Educational building | 38.0 or 0.8 sq.m per student | 5.5 |
+
+    </div>
+    <div class="ru" markdown>
+
+    Классная комната в образовательном здании: не менее 38,0 м² или 0,8 м² на ученика (или по решению правительства); ширина не менее 5,5 м.
+
+    </div>
+    </div>
+
+    **Источники**
+
+    - [NBC 2016, Part 4 «Fire and Life Safety» (копия NMC Нагпур)](https://nmcnagpur.gov.in/assets/300/2025/03/mediafiles/NBC2016-Part-IV.pdf)
+    - [DCPR 2034 (Большой Мумбаи), MCGM](https://portal.mcgm.gov.in/irj/go/km/docs/documents/MCGM%20Department%20List/Chief%20Engineer%20(Development%20Plan)/Docs/SANCTIONED%20DP2034/DCPR/DCPR%202034.pdf)
+
+
 
 [← Автоматическое пожаротушение (спринклеры) в жилых домах](sprinklery.md) · [Автостоянки и гаражи →](avtostoyanki.md)

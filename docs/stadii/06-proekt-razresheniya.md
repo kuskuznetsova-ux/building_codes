@@ -667,5 +667,25 @@
     - [Пост. Правительства № 255 от 31.05.2019 (разрешения и приёмка)](https://matsne.gov.ge/ka/document/view/4578072)
     - [Кодекс Грузии о пространственном планировании, архитектурной и строительной деятельности № 3213](https://matsne.gov.ge/ru/document/view/4276845)
 
+=== "Индия"
+
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    *en · DCPR 2034, п. 10(4)(i):* <small class="actual">актуально на момент публикации 11.11.26</small> (i) Signing of Plans - All the plans shall be signed by the owner and the licensed surveyor/engineer/structural engineer/supervisor or architect or any Professional on Record as the case may be
+
+    </div>
+    <div class="ru" markdown>
+
+    Все планы подписывают владелец и лицензированный геодезист/инженер/инженер-конструктор/технадзор или архитектор (Professional on Record), с указанием фамилий, адресов и номеров лицензий.
+
+    </div>
+    </div>
+
+    **Источники**
+
+    - [DCPR 2034 (Большой Мумбаи), MCGM](https://portal.mcgm.gov.in/irj/go/km/docs/documents/MCGM%20Department%20List/Chief%20Engineer%20(Development%20Plan)/Docs/SANCTIONED%20DP2034/DCPR/DCPR%202034.pdf)
+
+
 
 [← Согласование архитектурного облика](05-ago-agr.md) · [Проверка / экспертиза проекта →](07-ekspertiza.md)

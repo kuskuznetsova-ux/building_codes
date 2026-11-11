@@ -72,5 +72,34 @@
 
     - нормы по жилым зданиям (площади квартир, высота помещений, лестницы) — IBC-регламент покрывает только безопасность; архитектурные нормы жилья не найдены ⏳
 
+=== "Индия"
+
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    *en · DCPR 2034, табл. 14 (выборка; воспроизведена вручную):* <small class="actual">актуально на момент публикации 11.11.26</small>
+
+    | Occupancy | Minimum size, sq.m | Minimum width, m |
+    |---|---|---|
+    | Any habitable room | — | 2.4 |
+    | Kitchen (two-room and above tenement) | — | 1.8 |
+    | Kitchen (one-room tenement) | — | 2.1 |
+    | Multipurpose room (with alcove) | 12.5 | 2.4 |
+    | Bathroom | 1.50 | 1.10 |
+    | Water closet (W.C.) | 1.10 | 0.90 |
+
+    </div>
+    <div class="ru" markdown>
+
+    Минимальные размеры и ширина жилых и вспомогательных помещений (Мумбаи).
+
+    </div>
+    </div>
+
+    **Источники**
+
+    - [DCPR 2034 (Большой Мумбаи), MCGM](https://portal.mcgm.gov.in/irj/go/km/docs/documents/MCGM%20Department%20List/Chief%20Engineer%20(Development%20Plan)/Docs/SANCTIONED%20DP2034/DCPR/DCPR%202034.pdf)
+
+
 
 [← Площади квартир](kvartiry.md) · [Высота помещений квартиры →](vysota-potolka.md)

@@ -308,5 +308,52 @@
     - [Пост. Правительства № 41 от 28.01.2016 (Building Safety Rules, на основе IBC)](https://matsne.gov.ge/ka/document/view/3176389)
     - [Пост. Правительства № 255 от 31.05.2019 (разрешения и приёмка)](https://matsne.gov.ge/ka/document/view/4578072)
 
+=== "Индия"
+
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    *en · DCPR 2034, п. 2(73):* <small class="actual">актуально на момент публикации 11.11.26</small> "Height of a building" means the vertical distance measured, in the case of flat roofs, from the average level of the ground around and contiguous to the building to the topmost terrace level
+
+    </div>
+    <div class="ru" markdown>
+
+    Высота здания — вертикальное расстояние для плоских крыш от среднего уровня земли вокруг здания, примыкающей к нему, до верхнего уровня террасы (для скатных крыш — до точки пересечения наружной стены с поверхностью ската).
+
+    </div>
+    </div>
+
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    *en · NBC 2016 Part 4, п. 2.38:* <small class="actual">актуально на момент публикации 11.11.26</small> 2.38 High Rise Building — A building 15 m or above in height (irrespective of its occupancy).
+
+    </div>
+    <div class="ru" markdown>
+
+    Высотное здание — здание высотой 15 м и более (независимо от назначения).
+
+    </div>
+    </div>
+
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    *en · NBC 2016 Part 4, п. 4.4.2.2(b):* <small class="actual">актуально на момент публикации 11.11.26</small> b) Travel distance shall be measured from the most remote point within a storey or a mezzanine floor along the natural and unobstructed path of horizontal or vertical egress travel to the door to an exit.
+
+    </div>
+    <div class="ru" markdown>
+
+    Путь движения измеряют от наиболее удалённой точки в пределах этажа или антресоли вдоль естественного непрепятственного пути горизонтальной или вертикальной эвакуации до двери выхода.
+
+    </div>
+    </div>
+
+    **Источники**
+
+    - [NBC 2016, Part 4 «Fire and Life Safety» (копия NMC Нагпур)](https://nmcnagpur.gov.in/assets/300/2025/03/mediafiles/NBC2016-Part-IV.pdf)
+    - [DCPR 2034 (Большой Мумбаи), MCGM](https://portal.mcgm.gov.in/irj/go/km/docs/documents/MCGM%20Department%20List/Chief%20Engineer%20(Development%20Plan)/Docs/SANCTIONED%20DP2034/DCPR/DCPR%202034.pdf)
+
+
 
 [← Классы зданий: как делят в разных странах](klassy.md) · [Юридическая сила документов и допустимые отклонения →](pravovaya-sila.md)

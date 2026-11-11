@@ -170,5 +170,44 @@
 
     - [Пост. Правительства № 41 от 28.01.2016 (Building Safety Rules, на основе IBC)](https://matsne.gov.ge/ka/document/view/3176389)
 
+=== "Индия"
+
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    *en · NBC 2016 Part 4, табл. 5 (выборка; воспроизведена вручную, м):* <small class="actual">актуально на момент публикации 11.11.26</small>
+
+    | Occupancy Group | Types 1 and 2 | Types 3 and 4 |
+    |---|---|---|
+    | Residential (Group A) | 30.00 | 22.50 |
+    | Business (Group E) | 30.00 | 30.00 |
+
+    </div>
+    <div class="ru" markdown>
+
+    Максимальный путь до выхода; для полностью спринклерного здания — на 50 % больше.
+
+    </div>
+    </div>
+
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    *en · NBC 2016 Part 4, п. 4.4.2.2(c):* <small class="actual">актуально на момент публикации 11.11.26</small> c) The dead end corridor length in exit access shall not exceed 6 m for educational, institutional and assembly occupancies. For other occupancies, the same shall be 15 m (see Fig. 6)
+
+    </div>
+    <div class="ru" markdown>
+
+    Тупики коридоров на пути к выходу — до 15 м (до 6 м для учебных, лечебных, зрелищных).
+
+    </div>
+    </div>
+
+    **Источники**
+
+    - [NBC 2016, Part 4 «Fire and Life Safety» (копия NMC Нагпур)](https://nmcnagpur.gov.in/assets/300/2025/03/mediafiles/NBC2016-Part-IV.pdf)
+    - [DCPR 2034 (Большой Мумбаи), MCGM](https://portal.mcgm.gov.in/irj/go/km/docs/documents/MCGM%20Department%20List/Chief%20Engineer%20(Development%20Plan)/Docs/SANCTIONED%20DP2034/DCPR/DCPR%202034.pdf)
+
+
 
 [← Эвакуационные лестницы и выходы](lestnitsy.md) · [Пожарные лифты и доступ пожарных →](lifty.md)

@@ -326,5 +326,54 @@
     - [Пост. Правительства № 41 от 28.01.2016 (Building Safety Rules, на основе IBC)](https://matsne.gov.ge/ka/document/view/3176389)
     - [Кодекс Грузии о пространственном планировании, архитектурной и строительной деятельности № 3213](https://matsne.gov.ge/ru/document/view/4276845)
 
+=== "Индия"
+
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    *en · NBC 2016 Part 4, п. 3.1.2, A-4:* <small class="actual">актуально на момент публикации 11.11.26</small> d) Subdivision A-4 Apartment houses — These shall include any building or structure in which living quarters are provided for three or more families, living independently of each other and with independent cooking facilities, for example, apartment houses, mansions and Chawls.
+
+    </div>
+    <div class="ru" markdown>
+
+    Подгруппа A‑4 «Многоквартирные дома»: здания, где предусмотрены жилые помещения для трёх и более семей, живущих независимо друг от друга, с собственными кухнями (многоквартирные дома, особняки, «чхоулы»).
+
+    </div>
+    </div>
+
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    *en · NBC 2016 Part 4, п. 3.3.1:* <small class="actual">актуально на момент публикации 11.11.26</small> For the purpose of the Code, the types of construction according to fire resistance shall be classified into four categories, namely, Type 1 Construction, Type 2 Construction, Type 3 Construction and Type 4 Construction.
+
+    </div>
+    <div class="ru" markdown>
+
+    Для целей Кодекса типы конструкции по огнестойкости делятся на четыре: Type 1, Type 2, Type 3 и Type 4.
+
+    </div>
+    </div>
+
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    *en · DCPR 2034, п. 2(75):* <small class="actual">актуально на момент публикации 11.11.26</small> “High Rise Building” means a building having height more than 32m above the average surrounding ground level.
+
+    </div>
+    <div class="ru" markdown>
+
+    Высотное здание — здание высотой более 32 м над средним уровнем окружающей земли (по NBC — от 15 м).
+
+    </div>
+    </div>
+
+    Важно: NBC — модельный национальный кодекс (BIS), обязательным он становится через местные правила; DCPR 2034 действует только в Большом Мумбаи (редакция Gazette от 08.05.2018 — позднейшие изменения не учтены). По стороннему источнику (Studio Matrx, 10.2026) издание NBC 2016 BIS отозвано и заменено «SP 7:2026» — ⏳ не сверено. Копия NBC Part 4 — лицензионная копия BIS на сайте Nagpur Municipal Corporation, не официальная публикация BIS.
+
+    **Источники**
+
+    - [NBC 2016, Part 4 «Fire and Life Safety» (копия NMC Нагпур)](https://nmcnagpur.gov.in/assets/300/2025/03/mediafiles/NBC2016-Part-IV.pdf)
+    - [DCPR 2034 (Большой Мумбаи), MCGM](https://portal.mcgm.gov.in/irj/go/km/docs/documents/MCGM%20Department%20List/Chief%20Engineer%20(Development%20Plan)/Docs/SANCTIONED%20DP2034/DCPR/DCPR%202034.pdf)
+
+
 
 [Методики измерения высоты и расстояний →](metodiki.md)

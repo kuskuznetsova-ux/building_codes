@@ -276,5 +276,54 @@
 
     - [Пост. Правительства № 41 от 28.01.2016 (Building Safety Rules, на основе IBC)](https://matsne.gov.ge/ka/document/view/3176389)
 
+=== "Индия"
+
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    *en · DCPR 2034, п. 37(17)(i):* <small class="actual">актуально на момент публикации 11.11.26</small> (i)At least one lift shall be provided in every building more than 16m in height. In case of buildings more than 24m high at least two lifts shall be provided in order to serve each dwelling unit. One of these lifts shall be fire lift & shall be in conformity with the fire safety regulations. It shall be ensured that atleast one lift must serve access to the lowest level of basement & may also extend up to terrace floor
+
+    </div>
+    <div class="ru" markdown>
+
+    В каждом здании выше 16 м — не менее одного лифта; в зданиях выше 24 м — не менее двух лифтов для обслуживания каждой жилой единицы, один из которых пожарный. Не менее одного лифта должно обслуживать самый нижний уровень подвала и может доходить до террасы.
+
+    </div>
+    </div>
+
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    *en · DCPR 2034, Прил. I, п. 6(b), (g):* <small class="actual">актуально на момент публикации 11.11.26</small> (b) The lift shall have a floor area of not less than 1.4 sq. m. with a minimum dimension of 1.12 m. It shall have a loading capacity of not less than 545 kg. (8 persons lift) with automatic closing doors.
+
+    </div>
+    <div class="ru" markdown>
+
+    Пожарный лифт: площадь кабины не менее 1,4 м² при минимальном размере 1,12 м; грузоподъёмность не менее 545 кг (на 8 человек); автоматически закрывающиеся двери. Скорость такова, чтобы кабина доходила с первого этажа до верхнего за одну минуту (п. 6(g)).
+
+    </div>
+    </div>
+
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    *en · DCPR 2034, п. 37(17)(ii)(e):* <small class="actual">актуально на момент публикации 11.11.26</small> e. In high rise residential buildings having height more than 70m, one of the lifts installed shall be a freight lift. The freight lift will be designed in such a way that it shall serve as stretcher lift also.
+
+    </div>
+    <div class="ru" markdown>
+
+    В жилых высотных зданиях выше 70 м один из лифтов — грузовой; он проектируется так, чтобы служить и лифтом для носилок.
+
+    </div>
+    </div>
+
+    NBC, Annex E-3: требования к лифтам высотных зданий — Part 8, Section 5 (не прочитан ⏳).
+
+    **Источники**
+
+    - [DCPR 2034 (Большой Мумбаи), MCGM](https://portal.mcgm.gov.in/irj/go/km/docs/documents/MCGM%20Department%20List/Chief%20Engineer%20(Development%20Plan)/Docs/SANCTIONED%20DP2034/DCPR/DCPR%202034.pdf)
+    - [NBC 2016, Part 4 «Fire and Life Safety» (копия NMC Нагпур)](https://nmcnagpur.gov.in/assets/300/2025/03/mediafiles/NBC2016-Part-IV.pdf)
+
+
 
 [← Длина путей эвакуации в высотных зданиях](puti.md) · [Огнестойкость и пожарные отсеки →](ognestojkost.md)

@@ -221,5 +221,41 @@
 
     - [Пост. Правительства № 41 от 28.01.2016 (Building Safety Rules, на основе IBC)](https://matsne.gov.ge/ka/document/view/3176389)
 
+=== "Индия"
+
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    *en · DCPR 2034, Прил. I, п. 3(3):* <small class="actual">актуально на момент публикации 11.11.26</small> (3) A permanent vent at the top equal to 5 per cent of the cross-sectional area of the enclosure and open able sashes at each landing level with area not less than 0.5 sq. m. on the external wall shall be provided. The roof of the shaft shall be at least 1 m. above the surrounding roof. There shall be no glazing or glass bricks in any internal enclosing wall of a staircase. If the staircase is in the core of the building and cannot be ventilated at each landing, a positive pressure of 5 mm. water gauge by an electrically operated blower shall be maintained.
+
+    </div>
+    <div class="ru" markdown>
+
+    Вверху клетки — постоянное отверстие, равное 5 % площади её сечения, и открываемые створки на каждой площадке не менее 0,5 м² на наружной стене; крыша шахты — не менее чем на 1 м выше окружающей кровли; остекление во внутренних стенах не допускается. Если клетка в ядре здания и не может проветриваться, электровентилятором поддерживают избыточное давление 5 мм вод. ст.
+
+    </div>
+    </div>
+
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    *en · DCPR 2034, Прил. I, п. 4(4):* <small class="actual">актуально на момент публикации 11.11.26</small> (4) If the lift shaft and lift lobby are in the core of the building, a positive pressure of not less than 2.5 mm. and not more than 3 mm. water gauge by an electrically operated bower shall be maintained in the lift lobby and positive pressure of not less than 5 mm. water gauge shall be maintained in the lift shaft.
+
+    </div>
+    <div class="ru" markdown>
+
+    Если шахта и холл лифта находятся в ядре здания — в холле поддерживают избыточное давление 2,5–3 мм вод. ст., в шахте — не менее 5 мм вод. ст.; системы включаются автоматически и вручную при срабатывании извещателей.
+
+    </div>
+    </div>
+
+    NBC 2016 Part 4: п. 4.4.2.5 (smoke control of exits) и 4.6 (smoke exhaust and pressurization) — не вынесены ⏳.
+
+    **Источники**
+
+    - [DCPR 2034 (Большой Мумбаи), MCGM](https://portal.mcgm.gov.in/irj/go/km/docs/documents/MCGM%20Department%20List/Chief%20Engineer%20(Development%20Plan)/Docs/SANCTIONED%20DP2034/DCPR/DCPR%202034.pdf)
+    - [NBC 2016, Part 4 «Fire and Life Safety» (копия NMC Нагпур)](https://nmcnagpur.gov.in/assets/300/2025/03/mediafiles/NBC2016-Part-IV.pdf)
+
+
 
 [← Автостоянки и гаражи](avtostoyanki.md)

@@ -14,4 +14,4 @@ This section collects requirements for the architectural design of buildings. It
 
 Public buildings up to 75 m (below the high-rise threshold) — see [7.2](../obshchestvennye/index.md) (SP 118).
 
-The matrices compare Russia, Serbia, the EU (Germany, France, Austria, Spain), England, the UAE (Dubai) and Georgia. Fire requirements for these buildings are in section [2. Fire safety](../pozharnaya/index.md).
+The matrices compare Russia, Serbia, the EU (Germany, France, Austria, Spain), England, the UAE (Dubai) Georgia and India. Fire requirements for these buildings are in section [2. Fire safety](../pozharnaya/index.md).

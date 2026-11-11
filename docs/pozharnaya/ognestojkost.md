@@ -304,5 +304,39 @@
 
     - [Пост. Правительства № 41 от 28.01.2016 (Building Safety Rules, на основе IBC)](https://matsne.gov.ge/ka/document/view/3176389)
 
+=== "Индия"
+
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    *en · NBC 2016 Part 4, п. 3.3.1:* <small class="actual">актуально на момент публикации 11.11.26</small> The minimum fire resistance ratings of structural and nonstructural members for various types of construction shall be as given in Table 1. Non-combustible materials should be used for construction of buildings, and the internal walls of staircase enclosures should be of brick work or reinforced concrete or any other material of construction with minimum of 120 min rating.
+
+    </div>
+    <div class="ru" markdown>
+
+    Минимальные пределы огнестойкости несущих и ненесущих элементов для разных типов конструкции — по табл. 1. Для зданий следует применять негорючие материалы, а внутренние стены лестничных клеток — из кирпичной кладки, железобетона или иного материала с пределом не менее 120 мин.
+
+    </div>
+    </div>
+
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    *en · DCPR 2034, Прил. I, п. 2(2):* <small class="actual">актуально на момент публикации 11.11.26</small> (2) Structural members such as supports and load bearing walls shall have fire resistance rating of 3 hour, transoms and ceilings at least 2 hours.
+
+    </div>
+    <div class="ru" markdown>
+
+    Несущие элементы (опоры, несущие стены) — предел огнестойкости 3 ч; ригели и потолки — не менее 2 ч.
+
+    </div>
+    </div>
+
+    **Источники**
+
+    - [NBC 2016, Part 4 «Fire and Life Safety» (копия NMC Нагпур)](https://nmcnagpur.gov.in/assets/300/2025/03/mediafiles/NBC2016-Part-IV.pdf)
+    - [DCPR 2034 (Большой Мумбаи), MCGM](https://portal.mcgm.gov.in/irj/go/km/docs/documents/MCGM%20Department%20List/Chief%20Engineer%20(Development%20Plan)/Docs/SANCTIONED%20DP2034/DCPR/DCPR%202034.pdf)
+
+
 
 [← Ширина путей эвакуации, лестниц и дверей](shirina.md) · [Секции, отсеки и отделение квартир →](otseki.md)

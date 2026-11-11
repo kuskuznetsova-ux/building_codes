@@ -100,5 +100,33 @@
 
     - Пост. № 41 (гл. 4–10: группы по назначению, лестницы, лифты, выходы) — разделы по общественным зданиям не вынесены ⏳
 
+=== "Индия"
+
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    *en · DCPR 2034, табл. 15 (выборка; воспроизведена вручную, м):* <small class="actual">актуально на момент публикации 11.11.26</small>
+
+    | Occupancy | Minimum height | Maximum height |
+    |---|---|---|
+    | Any habitable room (flat roof) | 2.75 | 4.2 |
+    | Bathrooms, WC | 2.2 | 4.2 |
+    | Air-conditioned habitable room | 2.4 | 4.2 |
+    | Assembly halls, institutional, educational, industrial, storage, malls | 3.6 | 6.0 |
+    | IT buildings, office buildings | 2.75 | 4.2 |
+
+    </div>
+    <div class="ru" markdown>
+
+    Высота — от поверхности пола до низшей точки потолка. Высота сверх 4,2 м засчитывается как дополнительный FSI 50 % площади (кроме отдельных назначений).
+
+    </div>
+    </div>
+
+    **Источники**
+
+    - [DCPR 2034 (Большой Мумбаи), MCGM](https://portal.mcgm.gov.in/irj/go/km/docs/documents/MCGM%20Department%20List/Chief%20Engineer%20(Development%20Plan)/Docs/SANCTIONED%20DP2034/DCPR/DCPR%202034.pdf)
+
+
 
 [← Область применения, этажность и классификация](oblast.md) · [Лестницы в общественных зданиях →](lestnitsy.md)

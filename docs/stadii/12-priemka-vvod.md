@@ -348,5 +348,38 @@
 
     - [Пост. Правительства № 255 от 31.05.2019 (разрешения и приёмка)](https://matsne.gov.ge/ka/document/view/4578072)
 
+=== "Индия"
+
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    *en · DCPR 2034, п. 11(7):* <small class="actual">актуально на момент публикации 11.11.26</small> (7) Occupancy certificate: On receipt of the acceptance of completion certificate in the form given at Annexure 19, the owner, through his licensed surveyor or his architect shall submit to the Commissioner a development completion certificate in the form given at Annexure 16 with three copies of the completion plan, one of which shall be cloth mounted for record. The Commissioner may inspect the work and after satisfying himself that there is no deviation from the sanctioned plans, issue an occupancy certificate in the form given at Annexure 20 or refuse to sanction the occupancy certificate within 21 days from the date of receipt of the said completion certificate, falling which the work shall be deemed to have been approved for occupation
+
+    </div>
+    <div class="ru" markdown>
+
+    После принятия завершения владелец представляет свидетельство о завершении застройки (Прил. 16) с тремя копиями исполнительных планов; Commissioner выдаёт Occupancy Certificate (Прил. 20) или отказывает в течение 21 дня со дня получения, иначе работы считаются принятыми для заселения (если построено по утверждённым планам).
+
+    </div>
+    </div>
+
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    *en · DCPR 2034, п. 12(2):* <small class="actual">актуально на момент публикации 11.11.26</small> (2) Inspection by Fire Departmental: For all high-rise and special buildings, the work shall also be subject to inspection by the Chief Fire Officer, and the Commissioner shall issue the occupancy certificate/accept building completion certificate only after clearance by the said Chief Fire Officer.
+
+    </div>
+    <div class="ru" markdown>
+
+    Для всех высотных и особых зданий работы также подлежат инспекции Chief Fire Officer; Occupancy Certificate (принятие завершения) выдаётся только после его согласования.
+
+    </div>
+    </div>
+
+    **Источники**
+
+    - [DCPR 2034 (Большой Мумбаи), MCGM](https://portal.mcgm.gov.in/irj/go/km/docs/documents/MCGM%20Department%20List/Chief%20Engineer%20(Development%20Plan)/Docs/SANCTIONED%20DP2034/DCPR/DCPR%202034.pdf)
+
+
 
 [← Исполнительная документация](11-ispolnitelnaya.md) · [Передача заказчику →](13-peredacha.md)

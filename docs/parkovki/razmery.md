@@ -126,5 +126,25 @@
 
     - Пост. № 41, п. 406 и гл. 10 (стоянки) — не вынесены; нормы размеров мест и рамп не найдены ⏳
 
+=== "Индия"
+
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    *en · DCPR 2034, п. 44(1)(ii):* <small class="actual">актуально на момент публикации 11.11.26</small> Type of Vehicle Minimum size/Area of parking space (a) Motor vehicle 2.5 m x 5.5 m (b) Scooter, Motor-cycle 3 sq.m (Least dimension shall be minimum1.2 m) (c) Bicycle 1.4 sq.m (d) Transport Vehicle / School Bus 3.75 m x 7.5 m Note- In the case of parking spaces for motor vehicles, upto 50 per cent of the prescribed space may be of the size of 2.3 m x 4.5 m.
+
+    </div>
+    <div class="ru" markdown>
+
+    Минимальные размеры места: автомобиль — 2,5 × 5,5 м; скутер/мотоцикл — 3 м²; велосипед — 1,4 м²; автобус — 3,75 × 7,5 м; до 50 % мест для автомобилей могут быть 2,3 × 4,5 м.
+
+    </div>
+    </div>
+
+    **Источники**
+
+    - [DCPR 2034 (Большой Мумбаи), MCGM](https://portal.mcgm.gov.in/irj/go/km/docs/documents/MCGM%20Department%20List/Chief%20Engineer%20(Development%20Plan)/Docs/SANCTIONED%20DP2034/DCPR/DCPR%202034.pdf)
+
+
 
 [← Область применения и типы стоянок](oblast.md) · [Высота помещений, рампы и уклоны →](vysota-rampy.md)

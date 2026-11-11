@@ -487,5 +487,25 @@
 
     - [Пост. Правительства № 255 от 31.05.2019 (разрешения и приёмка)](https://matsne.gov.ge/ka/document/view/4578072)
 
+=== "Индия"
+
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    *en · DCPR 2034, п. 10(5)(i):* <small class="actual">актуально на момент публикации 11.11.26</small> (i) Grant of permission or refusal. - The Commissioner may either sanction or refuse to sanction the plans and specifications or may sanction them with such modifications or directions as he may deem necessary, and thereupon, he shall communicate his decision accordingly to the person giving the notice in the formats specified in Annexure 11 and 12
+
+    </div>
+    <div class="ru" markdown>
+
+    Commissioner может утвердить или отказать в утверждении планов и спецификаций либо утвердить с изменениями или указаниями и сообщает решение по форме Приложений 11 и 12.
+
+    </div>
+    </div>
+
+    **Источники**
+
+    - [DCPR 2034 (Большой Мумбаи), MCGM](https://portal.mcgm.gov.in/irj/go/km/docs/documents/MCGM%20Department%20List/Chief%20Engineer%20(Development%20Plan)/Docs/SANCTIONED%20DP2034/DCPR/DCPR%202034.pdf)
+
+
 
 [← Проект для разрешения](06-proekt-razresheniya.md) · [Разрешение на строительство →](08-razreshenie.md)

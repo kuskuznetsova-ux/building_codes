@@ -222,5 +222,41 @@
 
     - [Пост. Правительства № 41 от 28.01.2016 (Building Safety Rules, на основе IBC)](https://matsne.gov.ge/ka/document/view/3176389)
 
+=== "Индия"
+
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    *en · NBC 2016 Part 4, п. 5.1.3(a)–(c):* <small class="actual">актуально на момент публикации 11.11.26</small> a) Automatic sprinklers shall be installed wherever required in terms of Table 7 throughout the building in accordance with good practice [4(20)]. b) If selective sprinklering is adopted, there is a real danger of a fire starting in one of the unsprinklered area gathering momentum spreading to other areas and reaching the sprinklered areas as a fully developed fire. In such an event, the sprinklers can be rendered useless or ineffective. c) Automatic sprinklers shall be installed in false ceiling voids exceeding 800 mm in height.
+
+    </div>
+    <div class="ru" markdown>
+
+    Автоматические спринклеры устанавливают во всём здании везде, где это требует табл. 7, в соответствии с хорошей практикой; при выборочном спринклерном оборудовании возникает опасность распространения огня из неспринклерных зон; спринклеры нужны в пустотах ложных потолков высотой более 800 мм.
+
+    </div>
+    </div>
+
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    *en · DCPR 2034, Прил. I, п. 13(1):* <small class="actual">актуально на момент публикации 11.11.26</small> (1) Buildings shall be protected by wet riser, wet riser-cum-down corner, automatic sprinkler, installation, high pressure water spray or foam generating system as prescribed in sub-Regulations (2) to (6)
+
+    </div>
+    <div class="ru" markdown>
+
+    Здания защищают мокрым стояком, стояком-спуском, автоматическими спринклерами, водяным распылением или пенной системой — по подпунктам (2)–(6).
+
+    </div>
+    </div>
+
+    Табл. 7 NBC («Minimum Requirements for Fire Fighting Installations») в копии PDF плохо читается ⏳ — пороги высоты/площади для спринклеров не вынесены.
+
+    **Источники**
+
+    - [NBC 2016, Part 4 «Fire and Life Safety» (копия NMC Нагпур)](https://nmcnagpur.gov.in/assets/300/2025/03/mediafiles/NBC2016-Part-IV.pdf)
+    - [DCPR 2034 (Большой Мумбаи), MCGM](https://portal.mcgm.gov.in/irj/go/km/docs/documents/MCGM%20Department%20List/Chief%20Engineer%20(Development%20Plan)/Docs/SANCTIONED%20DP2034/DCPR/DCPR%202034.pdf)
+
+
 
 [← Отделка путей эвакуации](otdelka.md) · [Детские дошкольные учреждения и школы →](doo.md)

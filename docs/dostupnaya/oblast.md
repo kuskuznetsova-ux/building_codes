@@ -209,5 +209,14 @@
     - [Кодекс Грузии о пространственном планировании, архитектурной и строительной деятельности № 3213](https://matsne.gov.ge/ru/document/view/4276845)
     - [Пост. Правительства № 41 от 28.01.2016 (Building Safety Rules, на основе IBC)](https://matsne.gov.ge/ka/document/view/3176389)
 
+=== "Индия"
+
+    ⏳ не сверено: документы Индии для этой темы пока не найдены.
+
+    **Какие документы нужно найти**
+
+    - NBC 2016 Part 3 (Development Control, accessibility), Harmonised Guidelines (2021), DCPR 2034 — не прочитаны ⏳
+
+
 
 [Входы и пандусы →](pandusy.md)

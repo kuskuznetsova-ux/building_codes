@@ -192,5 +192,39 @@
 
     - [Пост. Правительства № 41 от 28.01.2016 (Building Safety Rules, на основе IBC)](https://matsne.gov.ge/ka/document/view/3176389)
 
+=== "Индия"
+
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    *en · NBC 2016 Part 4, п. 3.4.11.2:* <small class="actual">актуально на момент публикации 11.11.26</small> 3.4.11.2 The susceptibility of various types of wall surfaces to fire is determined in terms of the rate of spread of flame. Based on the rate of spread of flame, surfacing material shall be considered as divided into four classes as follows {see also good practice [4(11)]}: a) b) c) d) Class 1 Surfaces of very low flame spread. Class 2 Surfaces of low flame spread. Class 3 Surfaces of medium flame spread. Class 4 Surfaces of rapid flame spread.
+
+    </div>
+    <div class="ru" markdown>
+
+    Восприимчивость стен к огню определяют по скорости распространения пламени; поверхности делятся на 4 класса: Class 1 — очень малое распространение пламени, Class 2 — малое, Class 3 — среднее, Class 4 — быстрое.
+
+    </div>
+    </div>
+
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    *en · DCPR 2034, Прил. I, п. 2(1)(i):* <small class="actual">актуально на момент публикации 11.11.26</small> (i) Load bearing elements of construction and elements of construction for which the required fire resistance is one hour or more shall be of non-combustible material. Interior finish materials (wall paneling, floor coverings etc.) may be permitted of materials having their rating for flame spread and smoke developed not exceeding a very low flame spread limit in accordance with IS:1642,1960 (Class I) Ceiling linings shall be non-combustible or of plasterboard.
+
+    </div>
+    <div class="ru" markdown>
+
+    Несущие элементы и элементы с пределом огнестойкости 1 ч и более — из негорючих материалов; отделка стен и полов допускается с очень низким распространением пламени (Class I по IS 1642); потолочная отделка — негорючая или из гипсокартона.
+
+    </div>
+    </div>
+
+    **Источники**
+
+    - [NBC 2016, Part 4 «Fire and Life Safety» (копия NMC Нагпур)](https://nmcnagpur.gov.in/assets/300/2025/03/mediafiles/NBC2016-Part-IV.pdf)
+    - [DCPR 2034 (Большой Мумбаи), MCGM](https://portal.mcgm.gov.in/irj/go/km/docs/documents/MCGM%20Department%20List/Chief%20Engineer%20(Development%20Plan)/Docs/SANCTIONED%20DP2034/DCPR/DCPR%202034.pdf)
+
+
 
 [← Наружные стены и фасады](fasady.md) · [Автоматическое пожаротушение (спринклеры) в жилых домах →](sprinklery.md)
