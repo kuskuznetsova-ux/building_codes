@@ -310,18 +310,7 @@
 
 === "Индия"
 
-    <div class="pair" markdown>
-    <div class="orig" markdown>
-
-    *en · DCPR 2034, п. 2(73):* <small class="actual">актуально на момент публикации 11.11.26</small> "Height of a building" means the vertical distance measured, in the case of flat roofs, from the average level of the ground around and contiguous to the building to the topmost terrace level
-
-    </div>
-    <div class="ru" markdown>
-
-    Высота здания — вертикальное расстояние для плоских крыш от среднего уровня земли вокруг здания, примыкающей к нему, до верхнего уровня террасы (для скатных крыш — до точки пересечения наружной стены с поверхностью ската).
-
-    </div>
-    </div>
+    **Национальный уровень — NBC 2016 (Национальный строительный кодекс Индии)**
 
     <div class="pair" markdown>
     <div class="orig" markdown>
@@ -349,11 +338,25 @@
     </div>
     </div>
 
+    **Мумбаи — DCPR 2034 (местные нормы Большого Мумбаи; не действуют в других городах)**
+
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    *en · DCPR 2034, п. 2(73):* <small class="actual">актуально на момент публикации 11.11.26</small> "Height of a building" means the vertical distance measured, in the case of flat roofs, from the average level of the ground around and contiguous to the building to the topmost terrace level
+
+    </div>
+    <div class="ru" markdown>
+
+    Высота здания — вертикальное расстояние для плоских крыш от среднего уровня земли вокруг здания, примыкающей к нему, до верхнего уровня террасы (для скатных крыш — до точки пересечения наружной стены с поверхностью ската).
+
+    </div>
+    </div>
+
     **Источники**
 
     - [NBC 2016, Part 4 «Fire and Life Safety» (копия NMC Нагпур)](https://nmcnagpur.gov.in/assets/300/2025/03/mediafiles/NBC2016-Part-IV.pdf)
     - [DCPR 2034 (Большой Мумбаи), MCGM](https://portal.mcgm.gov.in/irj/go/km/docs/documents/MCGM%20Department%20List/Chief%20Engineer%20(Development%20Plan)/Docs/SANCTIONED%20DP2034/DCPR/DCPR%202034.pdf)
-
 
 
 [← Классы зданий: как делят в разных странах](klassy.md) · [Юридическая сила документов и допустимые отклонения →](pravovaya-sila.md)

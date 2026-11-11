@@ -178,5 +178,4 @@
     - NBC 2016 Part 3 (Development Control, accessibility), Harmonised Guidelines (2021), DCPR 2034 — не прочитаны ⏳
 
 
-
 [← Лифты для МГН](lifty.md) · [Уборные и санузлы для МГН →](ubornye.md)

@@ -360,6 +360,8 @@
 
 === "Индия"
 
+    **Мумбаи — DCPR 2034 (местные нормы Большого Мумбаи; не действуют в других городах)**
+
     <div class="pair" markdown>
     <div class="orig" markdown>
 
@@ -389,7 +391,6 @@
     **Источники**
 
     - [DCPR 2034 (Большой Мумбаи), MCGM](https://portal.mcgm.gov.in/irj/go/km/docs/documents/MCGM%20Department%20List/Chief%20Engineer%20(Development%20Plan)/Docs/SANCTIONED%20DP2034/DCPR/DCPR%202034.pdf)
-
 
 
 [← Рабочая документация](09-rabochaya.md) · [Исполнительная документация →](11-ispolnitelnaya.md)

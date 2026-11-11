@@ -269,5 +269,4 @@
     - [Studio Matrx: Daylighting, NBC 2016 Part 8 (вторичный источник)](https://www.studiomatrx.org/guides/daylight-factor-india)
 
 
-
 [Расстояния между зданиями (генплан и планировка) →](razryvy-genplan.md)
