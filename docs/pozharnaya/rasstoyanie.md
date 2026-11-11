@@ -278,6 +278,8 @@
 
 === "Индия"
 
+    **Национальный уровень — NBC 2016 (Национальный строительный кодекс Индии)**
+
     <div class="pair" markdown>
     <div class="orig" markdown>
 
@@ -313,7 +315,6 @@
     **Источники**
 
     - [NBC 2016, Part 4 «Fire and Life Safety» (копия NMC Нагпур)](https://nmcnagpur.gov.in/assets/300/2025/03/mediafiles/NBC2016-Part-IV.pdf)
-
 
 
 [← Число эвакуационных выходов и лестниц](vyhody.md) · [Ширина путей эвакуации, лестниц и дверей →](shirina.md)

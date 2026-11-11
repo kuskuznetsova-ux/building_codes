@@ -234,18 +234,7 @@
 
 === "Индия"
 
-    <div class="pair" markdown>
-    <div class="orig" markdown>
-
-    *en · DCPR 2034, п. 47(1):* <small class="actual">актуально на момент публикации 11.11.26</small> The planning, design and construction of any building shall be such as to ensure safety from fire. For this purpose, unless otherwise specified in these Regulations, Fire Protection Chapter, National Building Code as amended time to time shall apply. For high rise and special buildings, additional provisions relating to fire protection contained in Appendix I shall also apply,
-
-    </div>
-    <div class="ru" markdown>
-
-    Планирование, проектирование и строительство любого здания должны обеспечивать пожарную безопасность; если иное не указано, применяется глава о пожарной безопасности Национального строительного кодекса в действующей редакции. Для высотных и особых зданий действует также Приложение I.
-
-    </div>
-    </div>
+    **Национальный уровень — NBC 2016 (Национальный строительный кодекс Индии)**
 
     <div class="pair" markdown>
     <div class="orig" markdown>
@@ -260,13 +249,27 @@
     </div>
     </div>
 
+    **Мумбаи — DCPR 2034 (местные нормы Большого Мумбаи; не действуют в других городах)**
+
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    *en · DCPR 2034, п. 47(1):* <small class="actual">актуально на момент публикации 11.11.26</small> The planning, design and construction of any building shall be such as to ensure safety from fire. For this purpose, unless otherwise specified in these Regulations, Fire Protection Chapter, National Building Code as amended time to time shall apply. For high rise and special buildings, additional provisions relating to fire protection contained in Appendix I shall also apply,
+
+    </div>
+    <div class="ru" markdown>
+
+    Планирование, проектирование и строительство любого здания должны обеспечивать пожарную безопасность; если иное не указано, применяется глава о пожарной безопасности Национального строительного кодекса в действующей редакции. Для высотных и особых зданий действует также Приложение I.
+
+    </div>
+    </div>
+
     Важно: NBC — модельный национальный кодекс (BIS), обязательным он становится через местные правила; DCPR 2034 действует только в Большом Мумбаи (редакция Gazette от 08.05.2018 — позднейшие изменения не учтены). По стороннему источнику (Studio Matrx, 10.2026) издание NBC 2016 BIS отозвано и заменено «SP 7:2026» — ⏳ не сверено. Копия NBC Part 4 — лицензионная копия BIS на сайте Nagpur Municipal Corporation, не официальная публикация BIS.
 
     **Источники**
 
     - [NBC 2016, Part 4 «Fire and Life Safety» (копия NMC Нагпур)](https://nmcnagpur.gov.in/assets/300/2025/03/mediafiles/NBC2016-Part-IV.pdf)
     - [DCPR 2034 (Большой Мумбаи), MCGM](https://portal.mcgm.gov.in/irj/go/km/docs/documents/MCGM%20Department%20List/Chief%20Engineer%20(Development%20Plan)/Docs/SANCTIONED%20DP2034/DCPR/DCPR%202034.pdf)
-
 
 
 [← Методики измерения высоты и расстояний](metodiki.md) · [Число эвакуационных выходов и лестниц →](vyhody.md)

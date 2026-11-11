@@ -243,18 +243,7 @@
 
 === "Индия"
 
-    <div class="pair" markdown>
-    <div class="orig" markdown>
-
-    *en · DCPR 2034, Прил. I, п. 2(2):* <small class="actual">актуально на момент публикации 11.11.26</small> (2) Structural members such as supports and load bearing walls shall have fire resistance rating of 3 hour, transoms and ceilings at least 2 hours.
-
-    </div>
-    <div class="ru" markdown>
-
-    Несущие элементы (опоры, несущие стены) — 3 ч; ригели и потолки — не менее 2 ч.
-
-    </div>
-    </div>
+    **Национальный уровень — NBC 2016 (Национальный строительный кодекс Индии)**
 
     <div class="pair" markdown>
     <div class="orig" markdown>
@@ -265,6 +254,21 @@
     <div class="ru" markdown>
 
     Зона убежища (refuge area) предусматривается в зданиях выше 24 м; рассчитывается на жильцов двух смежных этажей из расчёта 0,3 м² на человека (плюс место для кресла-коляски 0,9 м² на каждые 200 человек), не менее 15 м²; по периметру этажа, открыта воздуху минимум с одной стороны, с ограждением; на уровне 24 м или выше и далее примерно через каждые 15 м.
+
+    </div>
+    </div>
+
+    **Мумбаи — DCPR 2034 (местные нормы Большого Мумбаи; не действуют в других городах)**
+
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    *en · DCPR 2034, Прил. I, п. 2(2):* <small class="actual">актуально на момент публикации 11.11.26</small> (2) Structural members such as supports and load bearing walls shall have fire resistance rating of 3 hour, transoms and ceilings at least 2 hours.
+
+    </div>
+    <div class="ru" markdown>
+
+    Несущие элементы (опоры, несущие стены) — 3 ч; ригели и потолки — не менее 2 ч.
 
     </div>
     </div>
@@ -286,7 +290,6 @@
 
     - [DCPR 2034 (Большой Мумбаи), MCGM](https://portal.mcgm.gov.in/irj/go/km/docs/documents/MCGM%20Department%20List/Chief%20Engineer%20(Development%20Plan)/Docs/SANCTIONED%20DP2034/DCPR/DCPR%202034.pdf)
     - [NBC 2016, Part 4 «Fire and Life Safety» (копия NMC Нагпур)](https://nmcnagpur.gov.in/assets/300/2025/03/mediafiles/NBC2016-Part-IV.pdf)
-
 
 
 [← Пожарные лифты и доступ пожарных](lifty.md) · [Фасады и наружные стены →](fasady.md)

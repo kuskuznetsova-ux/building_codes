@@ -218,5 +218,4 @@
     - NBC 2016 Part 3 (Development Control, accessibility), Harmonised Guidelines (2021), DCPR 2034 — не прочитаны ⏳
 
 
-
 [Входы и пандусы →](pandusy.md)

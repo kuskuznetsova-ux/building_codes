@@ -252,18 +252,7 @@
 
 === "Индия"
 
-    <div class="pair" markdown>
-    <div class="orig" markdown>
-
-    *en · DCPR 2034, Прил. I, п. 3(1):* <small class="actual">актуально на момент публикации 11.11.26</small> (1) The internal enclosing walls of staircase shall be of brick or R.C.C. construction with a fire resistance of not less than two hours. All enclosed staircases shall be reached via a ventilated lobby and shall have access through self-closing doors of at least half an hour fire resistance. These shall be single swing doors opening in the direction of the escape. The door shall be fitted with check section door closers. The floor landing of staircases shall not form part of common corridor.
-
-    </div>
-    <div class="ru" markdown>
-
-    Внутренние стены лестничной клетки — из кирпича или железобетона с пределом не менее 2 ч. Клетки доступны через проветриваемый холл, через самозакрывающиеся одностворчатые двери с пределом не менее 0,5 ч, открывающиеся по направлению эвакуации, с доводчиками. Площадка лестницы не должна быть частью общего коридора.
-
-    </div>
-    </div>
+    **Национальный уровень — NBC 2016 (Национальный строительный кодекс Индии)**
 
     <div class="pair" markdown>
     <div class="orig" markdown>
@@ -278,11 +267,25 @@
     </div>
     </div>
 
+    **Мумбаи — DCPR 2034 (местные нормы Большого Мумбаи; не действуют в других городах)**
+
+    <div class="pair" markdown>
+    <div class="orig" markdown>
+
+    *en · DCPR 2034, Прил. I, п. 3(1):* <small class="actual">актуально на момент публикации 11.11.26</small> (1) The internal enclosing walls of staircase shall be of brick or R.C.C. construction with a fire resistance of not less than two hours. All enclosed staircases shall be reached via a ventilated lobby and shall have access through self-closing doors of at least half an hour fire resistance. These shall be single swing doors opening in the direction of the escape. The door shall be fitted with check section door closers. The floor landing of staircases shall not form part of common corridor.
+
+    </div>
+    <div class="ru" markdown>
+
+    Внутренние стены лестничной клетки — из кирпича или железобетона с пределом не менее 2 ч. Клетки доступны через проветриваемый холл, через самозакрывающиеся одностворчатые двери с пределом не менее 0,5 ч, открывающиеся по направлению эвакуации, с доводчиками. Площадка лестницы не должна быть частью общего коридора.
+
+    </div>
+    </div>
+
     **Источники**
 
     - [NBC 2016, Part 4 «Fire and Life Safety» (копия NMC Нагпур)](https://nmcnagpur.gov.in/assets/300/2025/03/mediafiles/NBC2016-Part-IV.pdf)
     - [DCPR 2034 (Большой Мумбаи), MCGM](https://portal.mcgm.gov.in/irj/go/km/docs/documents/MCGM%20Department%20List/Chief%20Engineer%20(Development%20Plan)/Docs/SANCTIONED%20DP2034/DCPR/DCPR%202034.pdf)
-
 
 
 [← Порог «высотного здания» и способ измерения высоты](porog.md) · [Длина путей эвакуации в высотных зданиях →](puti.md)

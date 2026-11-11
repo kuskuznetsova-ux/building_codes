@@ -73,14 +73,19 @@ def tab_block(d,slug):
     k=(d,slug); o=['=== "'+HDR+'"','']
     if k in GE:
         short,src,items=GE[k]
-        for it in items:
-            if it[0]=='n': o+=['    '+it[1],'']
-            elif it[0] in ('q','t'):
-                lang=it[4] if len(it)>4 else 'ka'
-                ru=it[3]
-                o+=pair(it[1],it[2],ru,lang)
+        nb=[i for i in items if i[0] in ('q','t') and i[1].startswith('NBC')]
+        dc=[i for i in items if i[0] in ('q','t') and i[1].startswith('DCPR')]
+        nt=[i for i in items if i[0]=='n']
+        def emit(group):
+            for it in group:
+                o.extend(pair(it[1],it[2],it[3],it[4] if len(it)>4 else 'en'))
+        if nb:
+            o+=['    **Национальный уровень — NBC 2016 (Национальный строительный кодекс Индии)**','']; emit(nb)
+        if dc:
+            o+=['    **Мумбаи — DCPR 2034 (местные нормы Большого Мумбаи; не действуют в других городах)**','']; emit(dc)
+        for it in nt: o+=['    '+it[1],'']
         if src:
-            o+=['    **Источники**','']+['    - '+s for s in src]+['']
+            o+=['    **Источники**','']+['    - '+x for x in src]+['']
     else:
         o+=['    '+NA+': документы Индии для этой темы пока не найдены.','','    **Какие документы нужно найти**','','    - '+DEFAULT_NEED.get(d,'документы Индии')+' ⏳','']
     return o
