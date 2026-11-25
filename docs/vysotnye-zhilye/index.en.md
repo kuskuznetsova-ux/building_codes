@@ -6,7 +6,7 @@ hide:
 # 7.4 Residential high-rise buildings above 75 m (SP 267, SP 477, SP 550)
 
 !!! warning "Status: draft, first pass"
-Architectural and planning requirements for residential buildings above 75 m (SP 267.1325800.2016, section 6) and analogues. Fire requirements for high-rise buildings — in section [2.16](../pozharnaya/vysotnye/index.md). Each cell leads to a topic page: the original on the **left** (black), the Russian translation on the **right** (grey). **⏳** — not verified.
+    Architectural and planning requirements for residential buildings above 75 m (SP 267.1325800.2016, section 6) and analogues. Fire requirements for high-rise buildings — in section [2.16](../pozharnaya/vysotnye/index.md). Each cell leads to a topic page: the original on the **left** (black), the Russian translation on the **right** (grey). **⏳** — not verified.
 
 <div class="matrix fire" markdown>
 

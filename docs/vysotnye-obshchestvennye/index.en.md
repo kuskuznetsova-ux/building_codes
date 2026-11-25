@@ -6,7 +6,7 @@ hide:
 # 7.5 Public high-rise buildings above 50 m (SP 267, SP 477, SP 550)
 
 !!! warning "Status: draft, first pass"
-Architectural and planning requirements for public and multifunctional high-rise buildings (SP 267.1325800.2016, section 6; threshold — above 50 m) and analogues. Each cell leads to a topic page: the original on the **left** (black), the Russian translation on the **right** (grey). **⏳** — not verified.
+    Architectural and planning requirements for public and multifunctional high-rise buildings (SP 267.1325800.2016, section 6; threshold — above 50 m) and analogues. Each cell leads to a topic page: the original on the **left** (black), the Russian translation on the **right** (grey). **⏳** — not verified.
 
 <div class="matrix fire" markdown>
 

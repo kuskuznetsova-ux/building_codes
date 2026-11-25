@@ -6,7 +6,7 @@ hide:
 # 7.2 Public buildings (SP 118.13330.2022)
 
 !!! warning "Status: draft, first pass"
-General requirements of SP 118.13330.2022 for public buildings and their analogues in Serbia, the EU (example of Germany, France, Austria, Spain), England and the UAE (Dubai). Each cell leads to a topic page: the original on the **left** (black), the Russian translation on the **right** (grey). **⏳** — not verified.
+    General requirements of SP 118.13330.2022 for public buildings and their analogues in Serbia, the EU (example of Germany, France, Austria, Spain), England and the UAE (Dubai). Each cell leads to a topic page: the original on the **left** (black), the Russian translation on the **right** (grey). **⏳** — not verified.
 
 <div class="matrix fire" markdown>
 

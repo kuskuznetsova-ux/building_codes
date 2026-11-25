@@ -32,7 +32,9 @@ for page in PAGES:
             cs=l.split('|')[1:-1]
             res.append('|'+'|'.join(c if re.fullmatch(r'\s*:?-+:?\s*',c) else cell(c) for c in cs)+'|')
         elif not l.strip() or l.startswith(('---','hide:','  - toc','<div','</div>')): res.append(l)
-        else: res.append(tr(l))
+        else:
+            ind=l[:len(l)-len(l.lstrip())]
+            res.append(ind+tr(l) if l.strip() in TR else l)
     txt='\n'.join(res)
     for m in re.finditer(r'[А-Яа-я]{3,}',txt): miss.add(m.group(0))
     open(out,'w',encoding='utf-8').write(txt)

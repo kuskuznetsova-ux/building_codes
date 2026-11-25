@@ -1,7 +1,7 @@
 # 7. Architecture
 
 !!! warning "Status: draft"
-This section collects requirements for the architectural design of buildings. It currently has six subsections; the rest (layout solutions, functional groups, general requirements) is a placeholder.
+    This section collects requirements for the architectural design of buildings. It currently has six subsections; the rest (layout solutions, functional groups, general requirements) is a placeholder.
 
 ## Subsections
 
