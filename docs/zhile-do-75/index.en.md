@@ -6,7 +6,7 @@ hide:
 # 7.6 Residential buildings up to 75 m (SP 54.13330.2022)
 
 !!! warning "Status: draft, first pass"
-Requirements of SP 54.13330.2022 for multi-family residential buildings up to 75 m and their analogues. Public buildings up to 75 m — section [7.2](../obshchestvennye/index.md) (SP 118). Each cell leads to a topic page: the original on the **left** (black), the Russian translation on the **right** (grey). **⏳** — not verified.
+    Requirements of SP 54.13330.2022 for multi-family residential buildings up to 75 m and their analogues. Public buildings up to 75 m — section [7.2](../obshchestvennye/index.md) (SP 118). Each cell leads to a topic page: the original on the **left** (black), the Russian translation on the **right** (grey). **⏳** — not verified.
 
 <div class="matrix fire" markdown>
 

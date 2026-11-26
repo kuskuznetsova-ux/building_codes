@@ -2,7 +2,7 @@
 """Извлечение русских фрагментов из страниц-матриц для перевода (EN). Результат: JSON {русская строка: ''} (заполняется переводом)."""
 import re,json,sys,os
 DOCS=os.path.normpath(os.path.join(os.path.dirname(os.path.abspath(__file__)),'..','..','docs'))
-PAGES=['pozharnaya/index.md','pozharnaya/vysotnye/index.md','gradostroitelstvo/index.md','sravnenie/arhitektura.md','dostupnaya/index.md','obshchestvennye/index.md','parkovki/index.md','vysotnye-zhilye/index.md','vysotnye-obshchestvennye/index.md','zhile-do-75/index.md']
+PAGES=['sravnenie/stadii.md','pozharnaya/index.md','pozharnaya/vysotnye/index.md','gradostroitelstvo/index.md','sravnenie/arhitektura.md','dostupnaya/index.md','obshchestvennye/index.md','parkovki/index.md','vysotnye-zhilye/index.md','vysotnye-obshchestvennye/index.md','zhile-do-75/index.md']
 KEEP=re.compile(r'^(<small>.*</small>|\[Далее\]\([^)]*\)\{ \.more \})$')
 def segs(path):
     """Возвращает список (kind, text) для всех русских фрагментов страницы."""

@@ -6,7 +6,7 @@ hide:
 # 7.1 Accessible environment
 
 !!! warning "Status: draft, first pass"
-A comparison of accessibility requirements for persons with reduced mobility (SP 59.13330.2020 and analogues). Each cell leads to a topic page: the original on the **left** (black), the Russian translation on the **right** (grey). **⏳** — not verified.
+    A comparison of accessibility requirements for persons with reduced mobility (SP 59.13330.2020 and analogues). Each cell leads to a topic page: the original on the **left** (black), the Russian translation on the **right** (grey). **⏳** — not verified.
 
 <div class="matrix fire ae5" markdown>
 
