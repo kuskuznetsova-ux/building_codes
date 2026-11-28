@@ -92,6 +92,7 @@ plugins:
             '5. Глоссарий': '5. Glossary'
             '6. Источники': '6. Sources'
             '7. Архитектура': '7. Architecture'
+            '8. BIM: что требуется по странам': '8. BIM: requirements by country'
             '7.1 Доступная среда (МГН)': '7.1 Accessible environment'
             '7.1.1 Область применения и юридическая сила': '7.1.1 Scope and legal force'
             '7.1.2 Входы и пандусы': '7.1.2 Entrances and ramps'
@@ -293,6 +294,7 @@ nav:
           - "7.6.7 Лестницы: число подъёмов, ограждения": zhile-do-75/lestnitsy.md
           - "7.6.8 Окна и панорамное остекление": zhile-do-75/okna-balkony.md
           - "7.6.9 Доступность для маломобильных групп": zhile-do-75/mgn.md
+  - "8. BIM: что требуется по странам": bim/index.md
   - Как вести портал: contributing.md
 
 validation:
