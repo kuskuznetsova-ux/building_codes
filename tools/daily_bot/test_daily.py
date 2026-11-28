@@ -32,15 +32,16 @@ class T(unittest.TestCase):
         self.assertNotEqual(a["url"], b["url"])
         self.assertEqual(a, daily.pick(ITEMS, date(2026, 12, 1)))
 
-    def test_fire_first_then_highrise(self):
-        order = [daily.rank(daily.pick(ITEMS, index=i)) for i in range(len(ITEMS))]
+    def test_order_fire_highrise_parking_offices(self):
+        sent = [x for x in ITEMS if daily.rank(x) < 9]
+        order = [daily.rank(daily.pick(ITEMS, index=i)) for i in range(len(sent))]
         self.assertEqual(order, sorted(order))
-        self.assertEqual(order[0], 0)
+        self.assertEqual(set(order), {0, 1, 2, 3})
         self.assertEqual(daily.pick(ITEMS, date(2026, 11, 1)), daily.pick(ITEMS, index=0))
 
     def test_english_present_for_fire_and_highrise(self):
         for x in ITEMS:
-            if daily.rank(x) < 2:
+            if daily.rank(x) < 9:
                 self.assertIn(x["id"], EN, x["id"])
                 self.assertIn("EN:", daily.format_example(x, EN))
 

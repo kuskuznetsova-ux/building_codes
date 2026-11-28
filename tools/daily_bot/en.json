@@ -1,74 +1,138 @@
 {
-"pozharnaya/avtostoyanki": {
-"ru": "From each storey of a car-park fire compartment (except mechanised car parks) there must be at least two dispersed exits — to the outside, into stairwells or onto a Type 3 stair. One exit is allowed onto an isolated ramp (gradient not more than 1:6, footway at least 0.8 m) or into an adjacent car-park compartment.",
-"ge": "Open parking garages are built of Type I, II or IV construction; for vehicle barriers see cl. 406.4.3."},
-"pozharnaya/doo": {
-"ru": "The distance from the exit of a group cell (or other rooms with children) to the exit to the outside or to a stairwell must not exceed the values in Table 1.",
-"ge": "Group SG, kindergartens: buildings and parts of buildings occupied by more than five children older than 2.5 years, where children are taught, cared for or helped with personal hygiene, belong to group SG."},
-"pozharnaya/dymoudalenie": {
-"ru": "Smoke control ventilation is provided to prevent the harmful effect on people and property of combustion products spreading through the building interior in a fire in one room on one storey of one fire compartment.",
-"ge": "The subsection covers mechanical and passive smoke-control systems required by other sections of the rules; it sets minimum requirements for design, installation and acceptance."},
-"pozharnaya/fasady": {
-"ru": "In buildings of fire resistance degrees I–III (except low-rise houses of up to three storeys) the outer surfaces of external walls must not be finished with materials of combustibility groups G2–G4, and facade systems must not spread combustion.",
-"ge": "External walls must have the minimum fire resistance required by the various sections of the rules, and openings protected under Ch. 7."},
-"pozharnaya/klassy": {
-"ru": "Class F1 — buildings for permanent and temporary residence: F1.1 — kindergartens, boarding schools, hospitals; F1.2 — hotels, dormitories (except flat-type); F1.3 — multi-family houses and flat-type dormitories; F1.4 — detached and semi-detached houses. F2–F5 follow later in the article.",
-"ge": "The Resolution applies only to the design, construction and operation of buildings and structures classed by legislation as Class III, IV and V."},
-"pozharnaya/metodiki": {
-"ru": "Building height (fire-technical) is the height of the top storey (excluding a top technical storey), determined as the maximum difference between the level of fire-appliance access and the lower edge of an openable window in the external wall; where there are no openable windows — the mean of the floor and ceiling levels of the storey.",
-"ge": "Building height is the vertical distance from ground level to the average height of the highest roof surface."},
-"pozharnaya/ognestojkost": {
-"ru": "The degree of fire resistance depends on the number of storeys, the functional fire hazard class, the fire compartment area and the hazard of technological processes. The correspondence between the degree of fire resistance and the fire resistance limits of structures is given in Table 21 of the appendix to the law (reproduced below).",
-"ge": "Every new, rebuilt, extended or enlarged building must belong to one of five construction types (cl. 602.2–602.5). Fire resistance ratings of elements must be not less than those in Table 601, and of external walls — in Table 602."},
-"pozharnaya/otdelka": {
-"ru": "Permitted fire hazard indicators of finishes and floors on escape routes are given in Tables 28–29 of the appendix; for buildings of fire resistance degree V and class C3 the indicators are not regulated.",
-"ge": "The flame spread index of interior wall and ceiling finishes must not exceed the values in Table 803.9 for the various groups and locations. (The numerical Table 803.9 has not been included ⏳.)"},
-"pozharnaya/otseki": {
-"ru": "In residential buildings of fire resistance degrees I–III, sections are separated by Type 2 fire walls or partitions not lower than Type 1; walls and partitions separating common corridors must be at least EI 45; non-load-bearing walls and partitions between flats — at least EI 30 and class K0.",
-"ge": "Walls separating dwelling units, and dwelling or sleeping units from other groups in the same building, are built as fire partitions under cl. 708."},
-"pozharnaya/pravovaya-sila": {
-"ru": "Fire safety is considered ensured if the requirements of the law are met together with one of these conditions: (1) the fire safety normative documents (codes of practice, etc.) are complied with; (2) the fire risk does not exceed the permitted level; (3) special technical conditions (STU) agreed in the established manner are met; (4) an organisation standard agreed in the established manner is met; (5) research, calculations and/or tests confirm safety. So an SP is not the only route: deviations are possible through STU, risk assessment or calculation.",
-"ge": "Buildings are designed and built so that in a fire their strength and stability are retained, the spread of fire and smoke inside the building and to neighbouring buildings is minimised, and safe evacuation and the possibility of firefighting and rescue are ensured."},
-"pozharnaya/rasstoyanie": {
-"ru": "The greatest distance from a flat door to the stairwell (vestibule) or to the exit to the outside is taken from Table 3.",
-"ge": "The travel distance within the path to the exit must not exceed the values in Table 1016.2."},
-"pozharnaya/razryvy": {
-"ru": "Minimum fire separation distances between residential and public buildings are determined from Table 1 (reproduced below), taking into account cl. 4.4–4.13.",
-"ge": "The fire separation distance is measured from the facade to the nearest point of the plot boundary, the centreline of a street, alley or public road, or to an imaginary line between two buildings on the same plot — perpendicular to the wall surface."},
-"pozharnaya/shirina": {
-"ru": "Horizontal escape routes: not less than 1.2 m if more than 50 people are evacuated along them; 0.7 m to single workplaces; 1.0 m in all other cases.",
-"ge": "To calculate the capacity of stairs, the occupant load (number of people) is multiplied by a factor of 7.6 mm per person."},
-"pozharnaya/sprinklery": {
-"ru": "In residential buildings above 75 m, sprinkler heads are installed in common (non-flat) corridors, wetting the entrance doors of the flats.",
-"ge": "High-rise multi-family residential buildings of group SC taller than 30 m above ground level must be fully equipped with a sprinkler system designed under cl. 903.3."},
-"pozharnaya/vyhody": {
-"ru": "At least two exits are required if the flat area on a section storey exceeds 500 m². With one exit, flats above 15 m must also have an emergency exit.",
-"ge": "Each storey and occupied roof must be served by the minimum required number of exits. Each storey above the second is served by at least one interior or exterior stair (or ramp); where three or more exits are required, at least 50 % of them are interior or exterior stairs or ramps."},
-"pozharnaya/vysotnye/fasady": {
-"ru": "External walls with facade systems must have fire hazard class K0; cladding, finishes and thermal insulation must be non-combustible; wind- and moisture-barrier materials must not be of the highly flammable group (GOST R 56027). Fire stops under SP 518.1311500 are installed around the whole facade perimeter at intervals of not more than 5 storeys in height.",
-"ge": "External walls of Type I–IV buildings taller than 12 m with a combustible water-resistive barrier are tested to NFPA 285."},
-"pozharnaya/vysotnye/lestnitsy": {
-"ru": "High-rise buildings are provided with smoke-free stairwells; at least 50 % of them are Type N1 or N2 with entry on every storey through a Type 1 airlock vestibule with air pressurisation on the fire storey (the lift lobby of the fire-brigade lifts, used as a fire-safe zone).",
-"ge": "Required interior exit stairs are separated by not less than 9.0 m, or by not less than ¼ of the length of the longest diagonal of the building or storey, whichever is less. The distance is measured in a straight line between the nearest points of the stairs. With three or more stairs, at least two must meet this requirement. Intersecting and scissor stairs count as one stair."},
-"pozharnaya/vysotnye/lifty": {
-"ru": "For firefighting and the rescue of persons with reduced mobility, at least two lifts for transporting fire units are provided, and in buildings above 150 m at least three (in each zone for a zoned scheme), under GOST R 53296.",
-"ge": "In buildings where an occupied floor is more than 37 m above the lowest level of fire-appliance access, there must be at least two lifts available to the fire and rescue services (if there are fewer lifts, all must comply with cl. 1707); the capacity of at least two such lifts is not less than 1600 kg."},
-"pozharnaya/vysotnye/ognestojkost": {
-"ru": "The greatest area of an above-ground storey within a fire compartment: up to 1500 m² for F1.2 (hotels, dormitories); up to 2000 m² for F1.3; up to 2500 m² in other cases.",
-"ge": "In buildings not taller than 130 m the fire resistance of Type IA elements may be reduced to the Type IB requirements (except the fire resistance of the columns supporting floors, which may not be reduced)."},
-"pozharnaya/vysotnye/porog": {
-"ru": "A high-rise building is a residential building of class F1.3 with a height (per cl. 3.1 of SP 1.13130) above 75 m, or another public building above 50 m.",
-"ge": "A high-rise building is a building in which an occupied floor is more than 23 m above the lowest level of fire-appliance access."},
-"pozharnaya/vysotnye/puti": {
-"ru": "The distance from room doors to the door of a smoke-free stairwell (airlock vestibule) in residential and public compartments is not more than, m: 12 for flats at a height of 75 m and above; 15 in dead-end corridors; 20 for rooms occupied by 50 or more people at a height of 50 m and above, and for rooms designed for more than 300 people; 25 in other cases.",
-"ge": "Dead ends in corridors must not be longer than 6.0 m (15 m in a fully sprinklered building for a number of groups)."},
-"pozharnaya/vysotnye/sprinklery": {
-"ru": "High-rise buildings must be equipped with automatic fire extinguishing installations under SP 485.1311500, SP 486.1311500 and SP 550.",
-"ge": "Buildings and structures must be fully equipped with a sprinkler system under cl. 903.3.1.1 and — where cl. 903.3.5.2 requires — a second water supply (exception: open parking garages under cl. 406.3, etc.)."},
-"vysotnye-obshchestvennye/porog": {
-"ru": "The code of practice applies to the design of residential buildings and complexes taller than 75 m, public buildings above 50 m, and multifunctional buildings in which public premises are located above 50 m.",
-"ge": "A high-rise building is a building in which an occupied floor is more than 23 m above the lowest level of fire-appliance access."},
-"vysotnye-zhilye/porog": {
-"ru": "A high-rise building is a residential building of class F1.3 with a height (per cl. 3.1 of SP 1.13130) above 75 m, or another public building above 50 m.",
-"ge": "A high-rise building is a building in which an occupied floor is more than 23 m above the lowest level of fire-appliance access."}
+ "pozharnaya/avtostoyanki": {
+  "ru": "From each storey of a car-park fire compartment (except mechanised car parks) there must be at least two dispersed exits — to the outside, into stairwells or onto a Type 3 stair. One exit is allowed onto an isolated ramp (gradient not more than 1:6, footway at least 0.8 m) or into an adjacent car-park compartment.",
+  "ge": "Open parking garages are built of Type I, II or IV construction; for vehicle barriers see cl. 406.4.3."
+ },
+ "pozharnaya/doo": {
+  "ru": "The distance from the exit of a group cell (or other rooms with children) to the exit to the outside or to a stairwell must not exceed the values in Table 1.",
+  "ge": "Group SG, kindergartens: buildings and parts of buildings occupied by more than five children older than 2.5 years, where children are taught, cared for or helped with personal hygiene, belong to group SG."
+ },
+ "pozharnaya/dymoudalenie": {
+  "ru": "Smoke control ventilation is provided to prevent the harmful effect on people and property of combustion products spreading through the building interior in a fire in one room on one storey of one fire compartment.",
+  "ge": "The subsection covers mechanical and passive smoke-control systems required by other sections of the rules; it sets minimum requirements for design, installation and acceptance."
+ },
+ "pozharnaya/fasady": {
+  "ru": "In buildings of fire resistance degrees I–III (except low-rise houses of up to three storeys) the outer surfaces of external walls must not be finished with materials of combustibility groups G2–G4, and facade systems must not spread combustion.",
+  "ge": "External walls must have the minimum fire resistance required by the various sections of the rules, and openings protected under Ch. 7."
+ },
+ "pozharnaya/klassy": {
+  "ru": "Class F1 — buildings for permanent and temporary residence: F1.1 — kindergartens, boarding schools, hospitals; F1.2 — hotels, dormitories (except flat-type); F1.3 — multi-family houses and flat-type dormitories; F1.4 — detached and semi-detached houses. F2–F5 follow later in the article.",
+  "ge": "The Resolution applies only to the design, construction and operation of buildings and structures classed by legislation as Class III, IV and V."
+ },
+ "pozharnaya/metodiki": {
+  "ru": "Building height (fire-technical) is the height of the top storey (excluding a top technical storey), determined as the maximum difference between the level of fire-appliance access and the lower edge of an openable window in the external wall; where there are no openable windows — the mean of the floor and ceiling levels of the storey.",
+  "ge": "Building height is the vertical distance from ground level to the average height of the highest roof surface."
+ },
+ "pozharnaya/ognestojkost": {
+  "ru": "The degree of fire resistance depends on the number of storeys, the functional fire hazard class, the fire compartment area and the hazard of technological processes. The correspondence between the degree of fire resistance and the fire resistance limits of structures is given in Table 21 of the appendix to the law (reproduced below).",
+  "ge": "Every new, rebuilt, extended or enlarged building must belong to one of five construction types (cl. 602.2–602.5). Fire resistance ratings of elements must be not less than those in Table 601, and of external walls — in Table 602."
+ },
+ "pozharnaya/otdelka": {
+  "ru": "Permitted fire hazard indicators of finishes and floors on escape routes are given in Tables 28–29 of the appendix; for buildings of fire resistance degree V and class C3 the indicators are not regulated.",
+  "ge": "The flame spread index of interior wall and ceiling finishes must not exceed the values in Table 803.9 for the various groups and locations. (The numerical Table 803.9 has not been included ⏳.)"
+ },
+ "pozharnaya/otseki": {
+  "ru": "In residential buildings of fire resistance degrees I–III, sections are separated by Type 2 fire walls or partitions not lower than Type 1; walls and partitions separating common corridors must be at least EI 45; non-load-bearing walls and partitions between flats — at least EI 30 and class K0.",
+  "ge": "Walls separating dwelling units, and dwelling or sleeping units from other groups in the same building, are built as fire partitions under cl. 708."
+ },
+ "pozharnaya/pravovaya-sila": {
+  "ru": "Fire safety is considered ensured if the requirements of the law are met together with one of these conditions: (1) the fire safety normative documents (codes of practice, etc.) are complied with; (2) the fire risk does not exceed the permitted level; (3) special technical conditions (STU) agreed in the established manner are met; (4) an organisation standard agreed in the established manner is met; (5) research, calculations and/or tests confirm safety. So an SP is not the only route: deviations are possible through STU, risk assessment or calculation.",
+  "ge": "Buildings are designed and built so that in a fire their strength and stability are retained, the spread of fire and smoke inside the building and to neighbouring buildings is minimised, and safe evacuation and the possibility of firefighting and rescue are ensured."
+ },
+ "pozharnaya/rasstoyanie": {
+  "ru": "The greatest distance from a flat door to the stairwell (vestibule) or to the exit to the outside is taken from Table 3.",
+  "ge": "The travel distance within the path to the exit must not exceed the values in Table 1016.2."
+ },
+ "pozharnaya/razryvy": {
+  "ru": "Minimum fire separation distances between residential and public buildings are determined from Table 1 (reproduced below), taking into account cl. 4.4–4.13.",
+  "ge": "The fire separation distance is measured from the facade to the nearest point of the plot boundary, the centreline of a street, alley or public road, or to an imaginary line between two buildings on the same plot — perpendicular to the wall surface."
+ },
+ "pozharnaya/shirina": {
+  "ru": "Horizontal escape routes: not less than 1.2 m if more than 50 people are evacuated along them; 0.7 m to single workplaces; 1.0 m in all other cases.",
+  "ge": "To calculate the capacity of stairs, the occupant load (number of people) is multiplied by a factor of 7.6 mm per person."
+ },
+ "pozharnaya/sprinklery": {
+  "ru": "In residential buildings above 75 m, sprinkler heads are installed in common (non-flat) corridors, wetting the entrance doors of the flats.",
+  "ge": "High-rise multi-family residential buildings of group SC taller than 30 m above ground level must be fully equipped with a sprinkler system designed under cl. 903.3."
+ },
+ "pozharnaya/vyhody": {
+  "ru": "At least two exits are required if the flat area on a section storey exceeds 500 m². With one exit, flats above 15 m must also have an emergency exit.",
+  "ge": "Each storey and occupied roof must be served by the minimum required number of exits. Each storey above the second is served by at least one interior or exterior stair (or ramp); where three or more exits are required, at least 50 % of them are interior or exterior stairs or ramps."
+ },
+ "pozharnaya/vysotnye/fasady": {
+  "ru": "External walls with facade systems must have fire hazard class K0; cladding, finishes and thermal insulation must be non-combustible; wind- and moisture-barrier materials must not be of the highly flammable group (GOST R 56027). Fire stops under SP 518.1311500 are installed around the whole facade perimeter at intervals of not more than 5 storeys in height.",
+  "ge": "External walls of Type I–IV buildings taller than 12 m with a combustible water-resistive barrier are tested to NFPA 285."
+ },
+ "pozharnaya/vysotnye/lestnitsy": {
+  "ru": "High-rise buildings are provided with smoke-free stairwells; at least 50 % of them are Type N1 or N2 with entry on every storey through a Type 1 airlock vestibule with air pressurisation on the fire storey (the lift lobby of the fire-brigade lifts, used as a fire-safe zone).",
+  "ge": "Required interior exit stairs are separated by not less than 9.0 m, or by not less than ¼ of the length of the longest diagonal of the building or storey, whichever is less. The distance is measured in a straight line between the nearest points of the stairs. With three or more stairs, at least two must meet this requirement. Intersecting and scissor stairs count as one stair."
+ },
+ "pozharnaya/vysotnye/lifty": {
+  "ru": "For firefighting and the rescue of persons with reduced mobility, at least two lifts for transporting fire units are provided, and in buildings above 150 m at least three (in each zone for a zoned scheme), under GOST R 53296.",
+  "ge": "In buildings where an occupied floor is more than 37 m above the lowest level of fire-appliance access, there must be at least two lifts available to the fire and rescue services (if there are fewer lifts, all must comply with cl. 1707); the capacity of at least two such lifts is not less than 1600 kg."
+ },
+ "pozharnaya/vysotnye/ognestojkost": {
+  "ru": "The greatest area of an above-ground storey within a fire compartment: up to 1500 m² for F1.2 (hotels, dormitories); up to 2000 m² for F1.3; up to 2500 m² in other cases.",
+  "ge": "In buildings not taller than 130 m the fire resistance of Type IA elements may be reduced to the Type IB requirements (except the fire resistance of the columns supporting floors, which may not be reduced)."
+ },
+ "pozharnaya/vysotnye/porog": {
+  "ru": "A high-rise building is a residential building of class F1.3 with a height (per cl. 3.1 of SP 1.13130) above 75 m, or another public building above 50 m.",
+  "ge": "A high-rise building is a building in which an occupied floor is more than 23 m above the lowest level of fire-appliance access."
+ },
+ "pozharnaya/vysotnye/puti": {
+  "ru": "The distance from room doors to the door of a smoke-free stairwell (airlock vestibule) in residential and public compartments is not more than, m: 12 for flats at a height of 75 m and above; 15 in dead-end corridors; 20 for rooms occupied by 50 or more people at a height of 50 m and above, and for rooms designed for more than 300 people; 25 in other cases.",
+  "ge": "Dead ends in corridors must not be longer than 6.0 m (15 m in a fully sprinklered building for a number of groups)."
+ },
+ "pozharnaya/vysotnye/sprinklery": {
+  "ru": "High-rise buildings must be equipped with automatic fire extinguishing installations under SP 485.1311500, SP 486.1311500 and SP 550.",
+  "ge": "Buildings and structures must be fully equipped with a sprinkler system under cl. 903.3.1.1 and — where cl. 903.3.5.2 requires — a second water supply (exception: open parking garages under cl. 406.3, etc.)."
+ },
+ "vysotnye-obshchestvennye/porog": {
+  "ru": "The code of practice applies to the design of residential buildings and complexes taller than 75 m, public buildings above 50 m, and multifunctional buildings in which public premises are located above 50 m.",
+  "ge": "A high-rise building is a building in which an occupied floor is more than 23 m above the lowest level of fire-appliance access."
+ },
+ "vysotnye-zhilye/porog": {
+  "ru": "A high-rise building is a residential building of class F1.3 with a height (per cl. 3.1 of SP 1.13130) above 75 m, or another public building above 50 m.",
+  "ge": "A high-rise building is a building in which an occupied floor is more than 23 m above the lowest level of fire-appliance access."
+ },
+ "obshchestvennye/lestnitsy": {
+  "ru": "Stairs regularly used by visitors: tread 0.3 m (0.28–0.35 m permitted), riser 0.15 m (0.13–0.17 m permitted). Treads are level, without projections, with a rough surface; the nosing is rounded to a radius of not more than 0.05 m; treads with different dimensions within one flight are not allowed. Flight gradient: for visitors on above-ground storeys — 1:2; to basement and ground storeys, to the attic, and for stairs not used by visitors — not steeper than 1:1.5; for a second stair not in regular use, in buildings with lifts — not steeper than 1:1. Landings are not narrower than the flight; an intermediate landing in a straight flight is at least 1 m."
+ },
+ "obshchestvennye/lifty": {
+  "ru": "Passenger lifts are provided in all new public buildings where the floor level of the top storey is 9.9 m or more above the floor level of the first storey. A lift may be omitted when an attic storey is added to an existing building. Where rooms for persons with reduced mobility are above or below the main entrance storey, the choice of vertical transport is set in the design brief under SP 59. Instead of the required passenger lifts, other types (goods, hospital, fire-service lifts, etc.) adapted to carry visitors may be used. The number of lifts is determined by calculation, taking SP 1.13130.2020 and SP 59.13330 into account. In inpatient facilities, at least one lift must have a car and door width that allow a person on a stretcher to be transported."
+ },
+ "obshchestvennye/oblast": {
+  "ru": "The code of practice applies to the design of public buildings and structures in new construction, reconstruction and major repair, including change of use. The requirements also apply to public-use premises built into residential buildings and other buildings that meet the sanitary and epidemiological requirements for public buildings."
+ },
+ "obshchestvennye/vysota": {
+  "ru": "The clear height (floor to ceiling, including a suspended ceiling) of rooms with permanent and/or mass occupancy in newly designed public buildings is not less than 3 m, unless provided otherwise. (Guest rooms of hotels and dormitories — per SP 257 and SP 379; medical facilities — SP 158; pre-schools — SP 252; general schools — SP 251; atrium — not more than 28 m and within the height of the fire compartment; rooms of 4.7 m and above may have mezzanines with passages of not less than 2.2 m.)"
+ },
+ "parkovki/evakuaciya": {
+  "ru": "Multi-storey car parks taller than 10 m must have at least two exits to the roof; the exits comply with SP 4.13130. Requirements for escape routes and exits follow SP 1.13130.2020; single-storey underground car parks may have ordinary stairwells without natural light with an exit directly to the outside. Flights and landings of escape stairwells are not narrower than 1 m."
+ },
+ "parkovki/lifty-lestnitsy": {
+  "ru": "In multi-storey car parks, lifts comply with GOST 34756. The number of passenger lifts is one fixed lift per 100 cars on all storeys except the first, taking Section 6 and GOST 34758 into account. Car and shaft dimensions and the door of a goods lift — per GOST 8823. The car of one of the passenger lifts must be large enough to carry wheelchair users per GOST 33652."
+ },
+ "parkovki/oblast": {
+  "ru": "The code of practice applies to the design of buildings, structures, areas and rooms for parking (storage) of cars, minibuses and other motor and bicycle vehicles, and personal mobility devices. It does not apply to garages with routine repair and maintenance (except washing), to car parks for vehicles with a permitted maximum mass over 3.5 t, to car parks for hydrogen and liquefied natural gas vehicles, or to parking for explosive, toxic and radioactive substances.",
+  "ge": "For natural ventilation the structure must have evenly distributed openings on at least two external sides: the area of openings in external walls at each level — not less than 20 % of the perimeter wall area, and the total length of openings — not less than 40 % of the perimeter."
+ },
+ "parkovki/ognestojkost": {
+  "ru": "The required degree of fire resistance and structural fire hazard class, and the permitted number of storeys and storey area within a fire compartment for car parks, are taken from SP 2.13130, taking cl. 5.2 into account. If a compartment includes above-ground and underground storeys, the storey area is determined separately for underground and above-ground levels."
+ },
+ "parkovki/rampy": {
+  "ru": "The number of ramps and entrances/exits depends on the number of cars on all storeys except the first (for underground car parks — on all storeys), taking into account the operating regime, design traffic intensity and layout. Type and number of ramps by number of cars: (a) up to 100 — one single-lane ramp with appropriate signalling or one two-lane ramp; (b) up to 1000 — one or two two-lane or two or three single-lane ramps; (c) over 1000 — two or three two-lane ramps or an equivalent combination."
+ },
+ "parkovki/razmery": {
+  "ru": "Table A.1. Car dimensions, mm (not more than), and minimum outer turning radius: small — length 3700, width 1600, height 1700, radius 5500; medium — 4300 / 1700 / 1800 / 6000; large — 5160 / 1995 / 1970 / 6200; minibuses — 5500 / 2380 / 2300 / 6900."
+ },
+ "parkovki/vstroennye": {
+  "ru": "Car parks may be built into buildings of other functional fire hazard classes (except F1.1 and F4.1, and F5 categories A and B) of fire resistance degrees I and II, classes C0 and C1; car parks (including mechanised ones) are separated into a separate fire compartment by fire barriers with fire resistance not less than that of the building. Attached car parks are separated by Type 1 fire walls; in F1.4 buildings — by Type 2 walls or Type 1 partitions. In F1.4 buildings a built-in car park is separated by construction not lower than (R)EI 45; the door between the car park and living rooms is a fire door not lower than EI 30 (sealed and self-closing) and does not open directly into a bedroom."
+ },
+ "parkovki/vysota-rampy": {
+  "ru": "The height of car storage rooms, the distance from the floor to the underside of projecting structures, services or suspended equipment along vehicle routes, and the height above ramps and gates must be 0.2 m greater than the height of the tallest car, but not less than 2 m. The classes of cars to be accommodated are stated in the design brief. The height of passages on escape routes is not less than 2 m."
+ },
+ "parkovki/zashchita": {
+  "ru": "In enclosed car parks, ramps shared by two or more storeys are separated on each storey from the storage, maintenance and repair rooms by fire barriers, gates (doors) and airlock vestibules with air supply in a fire, per Table 6.1: underground storey — walls (partitions) REI (EI) 45, gates (doors) EI 30, airlock vestibule deep enough for the gate to open but not less than 1.5 m; above-ground storey — REI (EI) 15, EI 15, no airlock vestibule required."
+ }
 }

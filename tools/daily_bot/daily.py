@@ -30,15 +30,23 @@ def cut(s, n):
 
 
 def rank(x):
-    """0 — пожарные нормы, 1 — высотные здания, 2 — остальное."""
+    """Порядок рассылки: 0 — пожарная безопасность, 1 — высотные жилые здания,
+    2 — парковки, 3 — офисы (общественные здания); остальное пока не рассылается."""
     i = x["id"]
-    if i.startswith("vysotnye-") or i.startswith("pozharnaya/vysotnye"):
+    if i.startswith("pozharnaya/vysotnye") or i.startswith("vysotnye-zhilye"):
         return 1
-    return 0 if i.startswith("pozharnaya/") else 2
+    if i.startswith("pozharnaya/"):
+        return 0
+    if i.startswith("parkovki/"):
+        return 2
+    if i.startswith(("obshchestvennye/", "vysotnye-obshchestvennye")):
+        return 3
+    return 9
 
 
 def pick(items, today=None, index=None):
-    ordered = sorted(items, key=lambda x: (rank(x), not (x["ae"] and x["ge"]), x["id"]))
+    ordered = sorted((x for x in items if rank(x) < 9),
+                     key=lambda x: (rank(x), not (x["ae"] and x["ge"]), x["id"]))
     i = index if index is not None else max(0, ((today or date.today()) - START).days)
     return ordered[i % len(ordered)]
 
