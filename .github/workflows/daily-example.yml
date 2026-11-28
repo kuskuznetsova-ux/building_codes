@@ -1,0 +1,32 @@
+name: daily-example
+
+on:
+  schedule:
+    - cron: "3 4 * * *"   # ежедневно, 07:03 по Москве
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Только показать в логе, не слать в Telegram"
+        type: boolean
+        default: false
+
+permissions:
+  contents: read
+
+jobs:
+  send:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Собрать примеры из страниц портала
+        run: python tools/daily_bot/build_examples.py docs
+      - name: Тесты
+        run: python tools/daily_bot/test_daily.py
+      - name: Пример дня
+        env:
+          DAILY_BOT_TOKEN: ${{ secrets.DAILY_BOT_TOKEN }}
+          DAILY_CHAT_ID: ${{ secrets.DAILY_CHAT_ID }}
+        run: python tools/daily_bot/daily.py ${{ inputs.dry_run && '--dry-run' || '' }}
