@@ -65,16 +65,22 @@ def format_example(ex, en=None, scale=1.0):
     lines.append("")
     for key, name in (("ae", "ОАЭ (Дубай)"), ("ge", "Грузия")):
         p = ex[key]
+        link = f'<a href="{ex["url"]}#{key}">{name}</a>'
         if not p:
             lines += [f"<b>{name}</b> — в портале по этой теме пока нет (⏳)", ""]
-            continue
-        lines += [f"<b>{name}</b> — {esc(p['label'].split(' · ', 1)[-1])}", esc(cut(p["ru"], n(330)))]
-        english = p["orig"] if key == "ae" else en.get("ge")  # ОАЭ: оригинал DBC уже на английском
-        if english:
-            lines += ["EN: " + esc(cut(english, n(330)))]
-        lines.append("")
+        elif p.get("weak"):
+            lines += [f"<b>{link}</b> — точного аналога этой нормы в портале пока нет (⏳); вкладка страны ниже по ссылке.", ""]
+        else:
+            lines += [f"<b>{link}</b> — {esc(p['label'].split(' · ', 1)[-1])}", esc(cut(p["ru"], n(330)))]
+            if key == "ae":
+                english = p["orig"]  # ОАЭ: оригинал DBC уже на английском
+            else:  # перевод привязан к конкретной цитате; если выбрана другая — строки EN нет
+                english = en.get("ge") if p["ru"].startswith(en.get("ge_src", "\0")) else None
+            if english:
+                lines += ["EN: " + esc(cut(english, n(330)))]
+            lines.append("")
     lines += ["Сопоставление — по теме страницы; перед использованием сверяйте с первоисточником.",
-              f'<a href="{ex["url"]}">Открыть тему на портале</a>']
+              f'<a href="{ex["url"]}#ru">Открыть тему на портале</a>']
     text = "\n".join(lines)
     if len(text) > LIMIT and scale > 0.3:  # не обрезаем тегами: сжимаем цитаты и пересобираем
         return format_example(ex, {ex["id"]: en}, scale * 0.8)

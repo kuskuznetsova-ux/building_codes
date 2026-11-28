@@ -43,17 +43,40 @@ def tab_blocks(text):
     return out
 
 
-def first_pair(block):
+def pairs_of(block):
+    """Все пары «оригинал — русский» вкладки (без таблиц, они в сообщении не читаются)."""
+    out = []
     for orig, ru in PAIR.findall(block):
-        if "|" in orig or "|" in ru:  # таблицы в сообщении не читаются
+        if "|" in orig or "|" in ru:
             continue
         orig, ru = clean(orig), clean(ru)
         m = LABEL.match(orig)
         label, body = (m.group(1), orig[m.end():]) if m else ("", orig)
         if len(body) < 40 or len(ru) < 20:
             continue
-        return {"label": label.strip(), "orig": body.strip(), "ru": re.sub(r"^\*Пояснение:\*\s*", "", ru)}
-    return None
+        out.append({"label": label.strip(), "orig": body.strip(),
+                    "ru": re.sub(r"^\*Пояснение:\*\s*", "", ru)})
+    return out
+
+
+def stems(text):
+    return {w[:5] for w in re.findall(r"[а-яё]{5,}", text.lower())}
+
+
+# слова, общие почти для любой нормы: совпадение по ним ничего не говорит о теме
+COMMON = {"здани", "помещ", "должн", "требо", "допус", "предус", "соотв", "устан", "этаже", "случа",
+          "каждо", "кроме", "наруж", "этажа", "пожар", "более", "менее", "выше", "ниже", "между", "норма", "прави", "порядо", "свод", "пункт"}
+MIN_SHARED = 2
+
+
+def best_pair(candidates, ru_pair, topic):
+    """Ближайшая по смыслу цитата страны к российской. weak=True — подходящей нет."""
+    if not candidates:
+        return None
+    ref = stems(ru_pair["ru"]) - COMMON  # заголовок темы не учитываем: общий для всех цитат страницы
+    scored = [(len(ref & (stems(c["ru"]) - COMMON)), i, c) for i, c in enumerate(candidates)]
+    score, _, best = max(scored, key=lambda t: (t[0], -t[1]))
+    return {**best, "weak": score < (1 if len(ref) <= 6 else MIN_SHARED)}
 
 
 def main(docs):
@@ -67,9 +90,13 @@ def main(docs):
             continue
         title = re.search(r"^# (.+)$", text, re.M)
         blocks = tab_blocks(text)
-        pairs = {k: first_pair(blocks.get(k, "")) for k in TABS}
-        if not pairs["ru"] or not (pairs["ae"] or pairs["ge"]):
+        allp = {k: pairs_of(blocks.get(k, "")) for k in TABS}
+        if not allp["ru"] or not (allp["ae"] or allp["ge"]):
             continue
+        topic = title.group(1) if title else md.stem
+        pairs = {"ru": allp["ru"][0],
+                 "ae": best_pair(allp["ae"], allp["ru"][0], topic),
+                 "ge": best_pair(allp["ge"], allp["ru"][0], topic)}
         rel = md.relative_to(docs).with_suffix("")
         url = SITE + (str(rel.parent) + "/" if rel.name == "index" else str(rel) + "/")
         items.append({"id": str(rel.parent if rel.name == "index" else rel),
