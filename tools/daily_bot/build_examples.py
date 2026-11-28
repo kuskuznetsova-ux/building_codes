@@ -21,6 +21,8 @@ def clean(s):
     s = re.sub(r'<small class="actual">.*?</small>\s*', "", s)
     s = re.sub(r"<[^>]+>", "", s)
     s = re.sub(r"[ \t]+", " ", s).strip()
+    # служебные пометки о происхождении текста в сообщения не попадают
+    s = re.sub(r"\s*Цитата сверен.*?предоставлен пользователем\)\.?", "", s)
     return s
 
 
@@ -70,7 +72,8 @@ def main(docs):
             continue
         rel = md.relative_to(docs).with_suffix("")
         url = SITE + (str(rel.parent) + "/" if rel.name == "index" else str(rel) + "/")
-        items.append({"topic": title.group(1) if title else rel.name,
+        items.append({"id": str(rel.parent if rel.name == "index" else rel),
+                      "topic": title.group(1) if title else rel.name,
                       "url": url.replace("./", ""), **pairs})
     out = Path(__file__).resolve().parent / "examples.json"
     out.write_text(json.dumps(items, ensure_ascii=False, indent=1), encoding="utf-8")
